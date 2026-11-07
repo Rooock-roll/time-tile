@@ -1,0 +1,47 @@
+name: Build TIME tile
+
+on:
+  schedule:
+    # every 30 minutes; GitHub may delay scheduled runs under load
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-tile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Pillow
+        run: pip install --quiet pillow
+
+      - name: Build tile content
+        env:
+          # jsDelivr serves files from this repo; absolute URLs keep the tile self-contained
+          TILE_CDN_BASE: https://cdn.jsdelivr.net/gh/${{ github.repository }}@main
+        run: python build-tile.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "time-tile-bot"
+          git config user.email "time-tile-bot@users.noreply.github.com"
+          git add -A tile.xml img articles.json
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "tile update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
