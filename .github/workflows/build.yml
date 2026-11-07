@@ -2,7 +2,10 @@ name: Build TIME tile
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # GitHub may delay or skip scheduled runs; note that scheduled workflows are
+    # automatically disabled after 60 days of repository inactivity, so the build
+    # also touches .keepalive below to keep the repo active.
+    - cron: "*/15 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -12,13 +15,15 @@ permissions:
 
 concurrency:
   group: build-tile
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -26,6 +31,11 @@ jobs:
 
       - name: Install Pillow
         run: pip install --quiet pillow
+
+      - name: Configure git
+        run: |
+          git config user.name  "time-tile-bot"
+          git config user.email "time-tile-bot@users.noreply.github.com"
 
       # jsDelivr caches @branch for up to 12h, and cdn.jsdelivr.net is blocked on
       # the target network, so pictures are published under a pinned SHA on the
@@ -36,27 +46,41 @@ jobs:
         run: python build-tile.py
 
       - name: Commit generated files
+        id: commit
         run: |
-          git config user.name  "time-tile-bot"
-          git config user.email "time-tile-bot@users.noreply.github.com"
           git add -A tile.xml img articles.json
           if git diff --cached --quiet; then
-            echo "no change"
-            echo "SKIP=1" >> "$GITHUB_ENV"
+            echo "no content change"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "tile update $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
-            echo "NEWSHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           fi
 
-      # The images only exist in the commit we just pushed, so regenerate once
-      # more pointing at that SHA and amend the reference in tile.xml only.
+      # The images only exist in the commit we just pushed, so regenerate once more
+      # pointing at that SHA, then amend the reference inside tile.xml only.
       - name: Repoint tile.xml at the pushed commit
-        if: env.NEWSHA != ''
+        if: steps.commit.outputs.changed == 'true'
         env:
-          TILE_CDN_BASE: https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@${{ env.NEWSHA }}
+          TILE_CDN_BASE: https://fastly.jsdelivr.net/gh/${{ github.repository }}@${{ steps.commit.outputs.sha }}
         run: |
           python build-tile.py
           git add tile.xml
-          git commit -m "point tile at $(echo $NEWSHA | cut -c1-7)" || echo "nothing to commit"
+          git commit -m "point tile at $(echo '${{ steps.commit.outputs.sha }}' | cut -c1-7)" || echo "nothing to commit"
           git push
+
+      # Keep the repository active so GitHub does not disable this schedule after
+      # a quiet period, and give a visible heartbeat of the last successful run.
+      - name: Keepalive
+        run: |
+          mkdir -p .keepalive
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .keepalive/last-run.txt
+          git add .keepalive/last-run.txt
+          if git diff --cached --quiet; then
+            echo "keepalive unchanged"
+          else
+            git commit -m "keepalive $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
