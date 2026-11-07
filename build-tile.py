@@ -166,12 +166,14 @@ def build_single(article, index, all_titles):
     lines = ['<?xml version="1.0"?>', "<tile>", '  <visual branding="logo">']
     # titles are capped at 2 lines so the rest of the tile is available for the
     # article body; body length grows with the tile size
-    # Wide tiles are only 150px tall: a 2-line `base` (15px) title leaves no room for
-    # the body, so the title drops to `caption` size and the body grows to 4 lines.
+    # Real usable heights (canvas minus padding and the 26px logo strip):
+    #   Medium 150x150 -> 100px   Wide 310x150 -> 100px   Large 310x310 -> 260px
+    # The wide tile is the tight one: a caption-size 2-line title + 4 body lines = 92px.
+    # The large tile has room to spare, so it gets a much longer excerpt.
     for tmpl, style, tmax, slimit, smax in (
-            ("TileMedium", "base", 2, 0, 0),          # medium: title only
-            ("TileWide", "caption", 2, 165, 4),       # wide: 2-line title + 4-line body
-            ("TileLarge", "subtitle", 2, 300, 5)):    # large: 2-line title + 5-line body
+            ("TileMedium", "base", 2, 0, 0),            # medium: title only
+            ("TileWide", "caption", 2, 165, 4),         # wide: 2-line title + 4-line body
+            ("TileLarge", "subtitle", 3, 470, 8)):      # large: 3-line title + 8-line body
         lines.append('    <binding template="%s">' % tmpl)
         lines.append('      <image src="%s" placement="background" hint-crop="none"/>' % esc(img_url))
         lines.append('      <text hint-style="%s" hint-maxlines="%d" hint-wrap="true">%s</text>'
