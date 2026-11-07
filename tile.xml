@@ -2,19 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">The Silver Linings Of an Aging World</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf6d301058e0c88db84d1b9eb2b80626562e49f5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-wrap="true">How to Keep an Open Mind</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">The Silver Linings Of an Aging World</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf6d301058e0c88db84d1b9eb2b80626562e49f5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-wrap="true">How to Keep an Open Mind</text>
+      <text hint-style="captionSubtle" hint-wrap="true">We’re human, so it’s not possible or even realistic to expect that every belief we hold is acc…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-wrap="true">The Silver Linings Of an Aging World</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf6d301058e0c88db84d1b9eb2b80626562e49f5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-wrap="true">How to Keep an Open Mind</text>
+      <text hint-style="captionSubtle" hint-wrap="true">We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Silver Linings Of a…</text>
+      <text hint-style="caption">How to Keep an Open Mind</text>
     </binding>
   </visual>
 </tile>
