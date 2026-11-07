@@ -29,7 +29,12 @@ TILE_XML = os.path.join(ROOT, "tile.xml")
 ARTICLES = os.path.join(ROOT, "articles.json")
 
 FEED = os.environ.get("TIME_FEED", "http://feeds2.feedburner.com/time/topstories")
-CDN_BASE = os.environ.get("TILE_CDN_BASE", "").rstrip("/")
+
+# cdn.jsdelivr.net is NOT reachable from this user's network (connection reset),
+# while the fastly / gcore edges work fine. Prefer the reachable one so the
+# tile can actually download its pictures.
+DEFAULT_CDN = "https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@main"
+CDN_BASE = os.environ.get("TILE_CDN_BASE", DEFAULT_CDN).rstrip("/")
 MAX_SLOTS = 5
 TILE_PX = 620
 UA = "Mozilla/5.0 TimeTileBuilder"

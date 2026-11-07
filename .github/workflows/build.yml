@@ -30,8 +30,8 @@ jobs:
 
       - name: Build tile content
         env:
-          # jsDelivr serves files from this repo; absolute URLs keep the tile self-contained
-          TILE_CDN_BASE: https://cdn.jsdelivr.net/gh/${{ github.repository }}@main
+          # cdn.jsdelivr.net is blocked on the target network; fastly edge works
+          TILE_CDN_BASE: https://fastly.jsdelivr.net/gh/${{ github.repository }}@main
         run: python build-tile.py
 
       - name: Commit and push if changed
