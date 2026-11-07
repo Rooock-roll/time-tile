@@ -2,7 +2,6 @@ name: Build TIME tile
 
 on:
   schedule:
-    # every 30 minutes; GitHub may delay scheduled runs under load
     - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
@@ -28,10 +27,13 @@ jobs:
       - name: Install Pillow
         run: pip install --quiet pillow
 
+      # jsDelivr caches @branch aggressively (up to 12h) and cdn.jsdelivr.net is
+      # blocked on the target network, so we point at pinned commit URLs on a
+      # reachable edge instead. Pictures are published under a fresh SHA each run,
+      # which makes them immune to the stale-cache problem.
       - name: Build tile content
         env:
-          # cdn.jsdelivr.net is blocked on the target network; fastly edge works
-          TILE_CDN_BASE: https://fastly.jsdelivr.net/gh/${{ github.repository }}@main
+          TILE_CDN_BASE: https://fastly.jsdelivr.net/gh/${{ github.repository }}@${{ github.sha }}
         run: python build-tile.py
 
       - name: Commit and push if changed
@@ -43,5 +45,24 @@ jobs:
             echo "no change"
           else
             git commit -m "tile update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      # after pushing, rewrite tile.xml so it points at the commit that now
+      # holds the images (jsDelivr resolves @<sha> without the @branch cache)
+      - name: Repoint to final commit
+        run: |
+          SHA=$(git rev-parse HEAD)
+          sed -i "s|gh/${{ github.repository }}@[a-f0-9]*|gh/${{ github.repository }}@${SHA}|g" tile.xml
+          python - <<'PY'
+import io
+p = "tile.xml"
+s = io.open(p, encoding="utf-8").read()
+io.open(p, "w", encoding="utf-8").write(s)
+print("repointed tile.xml")
+PY
+          if ! git diff --quiet tile.xml; then
+            git add tile.xml
+            git commit -m "repoint tile to $(git rev-parse --short HEAD)"
             git push
           fi
