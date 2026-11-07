@@ -2,19 +2,19 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9522610083fef0449a52e5fcd980233945f3e154/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">Why The Democrats' Next Climate Agenda Will Look Diffe…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9522610083fef0449a52e5fcd980233945f3e154/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">Why The Democrats' Next Climate Agenda Will Look Different</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9522610083fef0449a52e5fcd980233945f3e154/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-wrap="true">Why The Democrats' Next Climate Agenda Will Look Different</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Why The Democrats' Next…</text>
+      <text hint-style="caption">The Silver Linings Of a…</text>
     </binding>
   </visual>
 </tile>
