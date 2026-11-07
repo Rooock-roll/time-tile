@@ -1,0 +1,34 @@
+{
+  "updated": "2026-11-07T17:27:20.103714+00:00",
+  "showing": 0,
+  "next": 1,
+  "titles": [
+    "The Silver Linings Of an Aging World",
+    "How to Keep an Open Mind",
+    "How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses",
+    "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas",
+    "Why The Democrats' Next Climate Agenda Will Look Different"
+  ],
+  "articles": [
+    {
+      "title": "The Silver Linings Of an Aging World",
+      "image": ""
+    },
+    {
+      "title": "How to Keep an Open Mind",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7510adc63c504bf8/6aecd915d52f49e861036f8a/open-mind.jpg?branch=production"
+    },
+    {
+      "title": "How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9d1bec5d080c2730/6aee4b785fb446fc67cfc504/GettyImages-2298267942.jpg?branch=production"
+    },
+    {
+      "title": "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas",
+      "image": "https://cdn.jwplayer.com/manifests/mz0gZyql.m3u8"
+    },
+    {
+      "title": "Why The Democrats' Next Climate Agenda Will Look Different",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3ae138509b875b6f/6aee265a28c866eb2f8f5700/US_Congress_democrats_midterm_climate.jpg?branch=production"
+    }
+  ]
+}
