@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-07T19:48:08.794482+00:00",
+  "updated": "2026-11-07T21:45:12.792137+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
     "The Silver Linings Of an Aging World",
     "How to Keep an Open Mind",
     "How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses",
-    "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas",
-    "Why The Democrats' Next Climate Agenda Will Look Different"
+    "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas"
   ],
   "articles": [
+    {
+      "title": "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
+      "summary": "Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt858b676af0e424c3/6aef6a6d28c8668e218f59cf/GettyImages-2303197576.jpg?branch=production"
+    },
     {
       "title": "The Silver Linings Of an Aging World",
       "summary": "Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.",
@@ -29,11 +34,6 @@
       "title": "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas",
       "summary": "Cruz was not up for reelection this midterm cycle, but every Republican who was on the ballot in Texas’ statewide races this year has been defeated.",
       "image": "https://cdn.jwplayer.com/manifests/mz0gZyql.m3u8"
-    },
-    {
-      "title": "Why The Democrats' Next Climate Agenda Will Look Different",
-      "summary": "Don’t expect a return to a time where the Green New Deal dominated Capitol Hill chatter.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3ae138509b875b6f/6aee265a28c866eb2f8f5700/US_Congress_democrats_midterm_climate.jpg?branch=production"
     }
   ]
 }
