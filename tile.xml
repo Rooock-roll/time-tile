@@ -2,18 +2,18 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5206215cf9d2d607a2dadc3a820d38cc669aa181/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From T…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@599d20812a55e5e587296989d3227ad542386437/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5206215cf9d2d607a2dadc3a820d38cc669aa181/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
-      <text hint-style="captionSubtle" hint-wrap="true">While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms,…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@599d20812a55e5e587296989d3227ad542386437/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
+      <text hint-style="captionSubtle" hint-maxlines="3" hint-wrap="true">While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms, some far-right figures in Europe a…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5206215cf9d2d607a2dadc3a820d38cc669aa181/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midt…</text>
-      <text hint-style="captionSubtle" hint-wrap="true">While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms, some far-right figures in Europe appear keen to succinctly separate themselves from Trump and his policies.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@599d20812a55e5e587296989d3227ad542386437/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="2" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
+      <text hint-style="captionSubtle" hint-maxlines="5" hint-wrap="true">While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms, some far-right figures in Europe appear keen to succinctly separate themselves from Trump and his policies.</text>
     </binding>
     <binding template="TileSmall">
       <text hint-style="caption">How Europe's Far-Right …</text>
