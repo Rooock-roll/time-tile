@@ -164,17 +164,19 @@ def build_single(article, index, all_titles):
     title = article.get("title", "")
     summary = article.get("summary", "")
     lines = ['<?xml version="1.0"?>', "<tile>", '  <visual branding="logo">']
-    for tmpl, style, limit, slimit in (
-            ("TileMedium", "base", 55, 0),        # medium: title only, no room for body
-            ("TileWide", "base", 80, 95),         # wide: title + one line of summary
-            ("TileLarge", "subtitle", 70, 210)):  # large: title + a longer excerpt
+    # titles are capped at 2 lines so the rest of the tile is available for the
+    # article body; body length grows with the tile size
+    for tmpl, style, tmax, slimit, smax in (
+            ("TileMedium", "base", 2, 0, 0),          # medium: title only
+            ("TileWide", "base", 2, 130, 3),          # wide: 2-line title + up to 3-line body
+            ("TileLarge", "subtitle", 2, 300, 5)):    # large: 2-line title + up to 5-line body
         lines.append('    <binding template="%s">' % tmpl)
         lines.append('      <image src="%s" placement="background" hint-crop="none"/>' % esc(img_url))
-        lines.append('      <text hint-style="%s" hint-wrap="true">%s</text>'
-                     % (style, esc(clip(title, limit))))
+        lines.append('      <text hint-style="%s" hint-maxlines="%d" hint-wrap="true">%s</text>'
+                     % (style, tmax, esc(title)))
         if slimit > 0 and summary:
-            lines.append('      <text hint-style="%s" hint-wrap="true">%s</text>'
-                         % ("captionSubtle", esc(clip(summary, slimit))))
+            lines.append('      <text hint-style="%s" hint-maxlines="%d" hint-wrap="true">%s</text>'
+                         % ("captionSubtle", smax, esc(clip(summary, slimit))))
         lines.append("    </binding>")
     # small tile gets a plain text line (no image fits comfortably)
     lines.append('    <binding template="TileSmall">')
