@@ -13,6 +13,7 @@ Outputs:
 
 import json
 import os
+import re
 import sys
 import datetime
 import urllib.request
@@ -100,8 +101,25 @@ def parse_items(xml_text):
                     if e > 0:
                         img = decode_entities(chunk[u + 5:e])
 
+        # summary text: <description> holds a plain sentence in the TIME feed
+        summary = ""
+        d1, d2 = chunk.find("<description>"), chunk.find("</description>")
+        if d1 >= 0 and d2 > d1:
+            summary = chunk[d1 + 13:d2].strip().replace("<![CDATA[", "").replace("]]>", "").strip()
+            summary = decode_entities(summary)
+            summary = re.sub(r"<[^>]+>", " ", summary)
+            summary = re.sub(r"\s+", " ", summary).strip()
+        # fall back to the first paragraph of content:encoded
+        if not summary:
+            c1, c2 = chunk.find("<content:encoded>"), chunk.find("</content:encoded>")
+            if c1 >= 0 and c2 > c1:
+                ce = chunk[c1 + 17:c2].replace("<![CDATA[", "").replace("]]>", "")
+                m = re.search(r"<p>([^<]{40,})</p>", ce)
+                if m:
+                    summary = re.sub(r"\s+", " ", decode_entities(m.group(1))).strip()
+
         if title:
-            items.append({"title": title, "image": img})
+            items.append({"title": title, "summary": summary, "image": img})
         pos = j + 7
     return items
 
@@ -143,18 +161,24 @@ def make_tile(src_bytes, out_path, size=TILE_PX, quality=86):
 
 def build_single(article, index, all_titles):
     img_url = "%s/img/art-%d.jpg" % (CDN_BASE, index) if CDN_BASE else "img/art-%d.jpg" % index
+    title = article.get("title", "")
+    summary = article.get("summary", "")
     lines = ['<?xml version="1.0"?>', "<tile>", '  <visual branding="logo">']
-    for tmpl, style, limit in (("TileMedium", "base", 55),
-                               ("TileWide", "base", 80),
-                               ("TileLarge", "subtitle", 70)):
+    for tmpl, style, limit, slimit in (
+            ("TileMedium", "base", 55, 0),        # medium: title only, no room for body
+            ("TileWide", "base", 80, 95),         # wide: title + one line of summary
+            ("TileLarge", "subtitle", 70, 210)):  # large: title + a longer excerpt
         lines.append('    <binding template="%s">' % tmpl)
         lines.append('      <image src="%s" placement="background" hint-crop="none"/>' % esc(img_url))
         lines.append('      <text hint-style="%s" hint-wrap="true">%s</text>'
-                     % (style, esc(clip(article["title"], limit))))
+                     % (style, esc(clip(title, limit))))
+        if slimit > 0 and summary:
+            lines.append('      <text hint-style="%s" hint-wrap="true">%s</text>'
+                         % ("captionSubtle", esc(clip(summary, slimit))))
         lines.append("    </binding>")
     # small tile gets a plain text line (no image fits comfortably)
     lines.append('    <binding template="TileSmall">')
-    lines.append('      <text hint-style="caption">%s</text>' % esc(clip(article["title"], 24)))
+    lines.append('      <text hint-style="caption">%s</text>' % esc(clip(title, 24)))
     lines.append("    </binding>")
     lines.append("  </visual>")
     lines.append("</tile>")
