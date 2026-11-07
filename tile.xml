@@ -2,19 +2,19 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@main/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">All at Once, Ted Cruz Is the Last Statewide Republican…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@main/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-wrap="true">All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Tex…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@main/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-wrap="true">All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Stand…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95c3dd8887adb8f7bf94c1ff4db2610a74c892fd/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">All at Once, Ted Cruz I…</text>
+      <text hint-style="caption">The Silver Linings Of a…</text>
     </binding>
   </visual>
 </tile>
