@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7215d2c24b9f0b328981e780b4b115073fa4d404/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dda397cc6625aa10fda80f46002775329ae92b5c/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7215d2c24b9f0b328981e780b4b115073fa4d404/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dda397cc6625aa10fda80f46002775329ae92b5c/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Silver Linings Of an Aging World</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7215d2c24b9f0b328981e780b4b115073fa4d404/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dda397cc6625aa10fda80f46002775329ae92b5c/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Silver Linings Of an Aging World</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.</text>
     </binding>
