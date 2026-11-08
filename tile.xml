@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a275736aeefe97c8ffed06fbf1affd5386ef049b/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Europe’s Bomb Threats Raise Fears of Hybrid Warfare</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3b7656d53d61af216625b66541b5ce5c190ba39d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Silver Linings Of an Aging World</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a275736aeefe97c8ffed06fbf1affd5386ef049b/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Europe’s Bomb Threats Raise Fears of Hybrid Warfare</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3b7656d53d61af216625b66541b5ce5c190ba39d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Silver Linings Of an Aging World</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a275736aeefe97c8ffed06fbf1affd5386ef049b/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Europe’s Bomb Threats Raise Fears of Hybrid Warfare</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3b7656d53d61af216625b66541b5ce5c190ba39d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Silver Linings Of an Aging World</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Europe’s Bomb Threats R…</text>
+      <text hint-style="caption">The Silver Linings Of a…</text>
     </binding>
   </visual>
 </tile>
