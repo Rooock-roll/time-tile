@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@314534067798bc3c6576d6625bc8a10d98c58774/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d60861dcda5dc65da27a5c7f4c0487b339d498cc/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@314534067798bc3c6576d6625bc8a10d98c58774/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d60861dcda5dc65da27a5c7f4c0487b339d498cc/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms, some far-right figures in Europe appear keen to succinctly separate t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@314534067798bc3c6576d6625bc8a10d98c58774/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d60861dcda5dc65da27a5c7f4c0487b339d498cc/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms, some far-right figures in Europe appear keen to succinctly separate themselves from Trump and his policies.</text>
     </binding>
