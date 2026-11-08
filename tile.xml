@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fcdabc50092533ce64d1a0db7b5b686d89fe6c53/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@159b0a5e096c123c5587047ac2daf672ffaaff3e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Keep an Open Mind</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fcdabc50092533ce64d1a0db7b5b686d89fe6c53/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@159b0a5e096c123c5587047ac2daf672ffaaff3e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Keep an Open Mind</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fcdabc50092533ce64d1a0db7b5b686d89fe6c53/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@159b0a5e096c123c5587047ac2daf672ffaaff3e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Keep an Open Mind</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.</text>
     </binding>
