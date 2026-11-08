@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-08T12:15:40.267271+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-08T12:31:00.580223+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?",
     "No One Should Be Shamed for Using a Mobility Aid",
     "What Happens When AI Is the President’s Advisor?",
     "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
-    "The Silver Linings Of an Aging World",
-    "How to Keep an Open Mind"
+    "The Silver Linings Of an Aging World"
   ],
   "articles": [
+    {
+      "title": "Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?",
+      "summary": "Democrats pulled out wins in a number of districts that were reshaped in the effort to bolster Republican candidates, helping to fuel the biggest blue wave in 50 years.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt02fcb49ea128f3a8/6aee2863cdd4080ee04d393e/shomari-figures-alabama-redistricting-house-midterm-elections.jpg?branch=production"
+    },
     {
       "title": "No One Should Be Shamed for Using a Mobility Aid",
       "summary": "People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.",
@@ -29,11 +34,6 @@
       "title": "The Silver Linings Of an Aging World",
       "summary": "Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.",
       "image": ""
-    },
-    {
-      "title": "How to Keep an Open Mind",
-      "summary": "We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7510adc63c504bf8/6aecd915d52f49e861036f8a/open-mind.jpg?branch=production"
     }
   ]
 }
