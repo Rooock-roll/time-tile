@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a062b55caa72cd93ca87e72f123e1530c2ab42a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e63b7a100456709feae13c8973edea4c3c2ef71f/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Happens When AI Is the President’s Advisor?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a062b55caa72cd93ca87e72f123e1530c2ab42a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e63b7a100456709feae13c8973edea4c3c2ef71f/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Happens When AI Is the President’s Advisor?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">&quot;There is a real risk that AI will amplify leaders’ own biases, handing them back their own assumptions with the authority of objective analysis,&quot; writes Keren Yarh…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a062b55caa72cd93ca87e72f123e1530c2ab42a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e63b7a100456709feae13c8973edea4c3c2ef71f/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Happens When AI Is the President’s Advisor?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">&quot;There is a real risk that AI will amplify leaders’ own biases, handing them back their own assumptions with the authority of objective analysis,&quot; writes Keren Yarhi-Milo.</text>
     </binding>
