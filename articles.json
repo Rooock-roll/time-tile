@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-08T11:30:57.889592+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-08T11:45:39.304182+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "No One Should Be Shamed for Using a Mobility Aid",
+    "What Happens When AI Is the President’s Advisor?",
     "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
     "The Silver Linings Of an Aging World",
-    "How to Keep an Open Mind",
-    "How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses",
-    "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas"
+    "How to Keep an Open Mind"
   ],
   "articles": [
+    {
+      "title": "No One Should Be Shamed for Using a Mobility Aid",
+      "summary": "People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte92954838c94c141/6aecd4ca5a7333e51e337f5a/rollator.jpg?branch=production"
+    },
+    {
+      "title": "What Happens When AI Is the President’s Advisor?",
+      "summary": "\"There is a real risk that AI will amplify leaders’ own biases, handing them back their own assumptions with the authority of objective analysis,\" writes Keren Yarhi-Milo.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt191210c9937510e0/6aee09f809298f0da6212361/White-House-AI.jpg?branch=production"
+    },
     {
       "title": "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
       "summary": "Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.",
@@ -24,16 +34,6 @@
       "title": "How to Keep an Open Mind",
       "summary": "We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7510adc63c504bf8/6aecd915d52f49e861036f8a/open-mind.jpg?branch=production"
-    },
-    {
-      "title": "How Europe's Far-Right Leaders Are Backing Away From Trump After Midterm Losses",
-      "summary": "While left-leaning European leaders have celebrated the Democrats’ gains in the U.S. midterms, some far-right figures in Europe appear keen to succinctly separate themselves from Trump and his policies.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9d1bec5d080c2730/6aee4b785fb446fc67cfc504/GettyImages-2298267942.jpg?branch=production"
-    },
-    {
-      "title": "All at Once, Ted Cruz Is the Last Statewide Republican Lawmaker Standing in Texas",
-      "summary": "Cruz was not up for reelection this midterm cycle, but every Republican who was on the ballot in Texas’ statewide races this year has been defeated.",
-      "image": "https://cdn.jwplayer.com/manifests/mz0gZyql.m3u8"
     }
   ]
 }
