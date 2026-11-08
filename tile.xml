@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b7dc7e97cb1f9d7691a17844232eeb5a78dffe5f/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">No One Should Be Shamed for Using a Mobility Aid</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d38002d5c9ecd5e0db1173d01dfd7333799fcb2e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Happens When AI Is the President’s Advisor?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b7dc7e97cb1f9d7691a17844232eeb5a78dffe5f/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">No One Should Be Shamed for Using a Mobility Aid</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d38002d5c9ecd5e0db1173d01dfd7333799fcb2e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Happens When AI Is the President’s Advisor?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">&quot;There is a real risk that AI will amplify leaders’ own biases, handing them back their own assumptions with the authority of objective analysis,&quot; writes Keren Yarh…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b7dc7e97cb1f9d7691a17844232eeb5a78dffe5f/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">No One Should Be Shamed for Using a Mobility Aid</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d38002d5c9ecd5e0db1173d01dfd7333799fcb2e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Happens When AI Is the President’s Advisor?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">&quot;There is a real risk that AI will amplify leaders’ own biases, handing them back their own assumptions with the authority of objective analysis,&quot; writes Keren Yarhi-Milo.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">No One Should Be Shamed…</text>
+      <text hint-style="caption">What Happens When AI Is…</text>
     </binding>
   </visual>
 </tile>
