@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d7459e4f4e958d9161939834d5b651679ba39ed1/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Silver Linings Of an Aging World</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc8783720df73d5ed1b95793497a535153d0ff20/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Keep an Open Mind</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d7459e4f4e958d9161939834d5b651679ba39ed1/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Silver Linings Of an Aging World</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc8783720df73d5ed1b95793497a535153d0ff20/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Keep an Open Mind</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d7459e4f4e958d9161939834d5b651679ba39ed1/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Silver Linings Of an Aging World</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc8783720df73d5ed1b95793497a535153d0ff20/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Keep an Open Mind</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">We’re human, so it’s not possible or even realistic to expect that every belief we hold is accurate, writes Joan M. Cook.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Silver Linings Of a…</text>
+      <text hint-style="caption">How to Keep an Open Mind</text>
     </binding>
   </visual>
 </tile>
