@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-09T20:31:05.827942+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-09T20:45:42.715991+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
+    "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
     "The 10 Best Gifts Under $100",
     "The 10 Best Gifts Under $50",
-    "How To Efficiently Heat Your Home As a Renter This Winter",
-    "Trump Casts Doubt on Midterm Election Results",
-    "Hegseth Issues Defiant Response as Republican-Led Impeachment Vote Looms"
+    "How To Efficiently Heat Your Home As a Renter This Winter"
   ],
   "articles": [
+    {
+      "title": "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
+      "summary": "Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf157f767ea41e7c5/6af21b5463734c46dbc91dfa/GettyImages-2275860760.jpg?branch=production"
+    },
+    {
+      "title": "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
+      "summary": "Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3ec9a818c8977be7/6af222c0b713ad9c82671193/IMG_2935.jpg?branch=production"
+    },
     {
       "title": "The 10 Best Gifts Under $100",
       "summary": "",
@@ -24,16 +34,6 @@
       "title": "How To Efficiently Heat Your Home As a Renter This Winter",
       "summary": "How to stay warm without wasting heat or money this winter season.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt09840672ec9ea9b5/6af1f23fe47c1ec20cc30952/home-heating.jpg?branch=production"
-    },
-    {
-      "title": "Trump Casts Doubt on Midterm Election Results",
-      "summary": "The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt470d3a16d08ad7b9/6af1ef08cdd408a24d4d42d7/AP26312846396772.jpg?branch=production"
-    },
-    {
-      "title": "Hegseth Issues Defiant Response as Republican-Led Impeachment Vote Looms",
-      "summary": "As calls for impeachment grow, Trump is adamant that his Defense Secretary Pete Hegseth is only \"guilty of two things: basically winning two wars.\"",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltea635c6c0d84614a/6af1bdcd4eb3c7917317b1a7/Trump_and_Hegseth.jpg?branch=production"
     }
   ]
 }
