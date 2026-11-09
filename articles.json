@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-09T19:15:44.351060+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-09T19:31:04.903467+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The 10 Best Gifts Under $100",
+    "The 10 Best Gifts Under $50",
+    "How To Efficiently Heat Your Home As a Renter This Winter",
     "Trump Casts Doubt on Midterm Election Results",
-    "Trump Defends Hegseth as Republican-Led Impeachment Vote Looms",
-    "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits",
-    "Michael Dugan Joins TIME as Chief Technology Officer",
-    "TIME Reveals the 2026 TIME100 Climate List"
+    "Hegseth Issues Defiant Response as Republican-Led Impeachment Vote Looms"
   ],
   "articles": [
+    {
+      "title": "The 10 Best Gifts Under $100",
+      "summary": "",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteb97eaa792af3361/6af1167e5fb4465987cfcabf/under-100-gifts-holidays-best-inventions_(3).jpg?branch=production"
+    },
+    {
+      "title": "The 10 Best Gifts Under $50",
+      "summary": "",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteb02ba9f150478c0/6af1138ccdd40819ca4d3f88/under-50-gifts-holidays-best-inventions.jpg?branch=production"
+    },
+    {
+      "title": "How To Efficiently Heat Your Home As a Renter This Winter",
+      "summary": "How to stay warm without wasting heat or money this winter season.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt09840672ec9ea9b5/6af1f23fe47c1ec20cc30952/home-heating.jpg?branch=production"
+    },
     {
       "title": "Trump Casts Doubt on Midterm Election Results",
       "summary": "The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt470d3a16d08ad7b9/6af1ef08cdd408a24d4d42d7/AP26312846396772.jpg?branch=production"
     },
     {
-      "title": "Trump Defends Hegseth as Republican-Led Impeachment Vote Looms",
+      "title": "Hegseth Issues Defiant Response as Republican-Led Impeachment Vote Looms",
       "summary": "As calls for impeachment grow, Trump is adamant that his Defense Secretary Pete Hegseth is only \"guilty of two things: basically winning two wars.\"",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltea635c6c0d84614a/6af1bdcd4eb3c7917317b1a7/Trump_and_Hegseth.jpg?branch=production"
-    },
-    {
-      "title": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits",
-      "summary": "The embattled AI data annotation firm Sama is winding down its operations and liquidating its assets, according to a letter to creditors reviewed by TIME.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7221b30d54c67c08/698a2312929fad81c3bf8518/sama-office-nairobi.jpg?branch=production"
-    },
-    {
-      "title": "Michael Dugan Joins TIME as Chief Technology Officer",
-      "summary": "Michael Dugan Joins TIME as Chief Technology Officer",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt845f8933cb0319f7/6aee4307e47c1e5ff4c300af/Welcome_Michael_Dugan_900x600_(1).jpg?branch=production"
-    },
-    {
-      "title": "TIME Reveals the 2026 TIME100 Climate List",
-      "summary": "TIME reveals the fourth annual TIME100 Climate list, featuring the 100 most influential leaders driving business climate action.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt10a20cd3d2da2f95/6aecda7063734ca32fc90078/Climate.Social.jpg?branch=production"
     }
   ]
 }
