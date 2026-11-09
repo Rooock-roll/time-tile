@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@201f25e19998810b8687452dc6c42bbe27713723/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Broken Promise of a Home in Spain</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf23a3be7a0e493e70d77f13b61277035c8fdc02/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">These 2026 Election-Winners Made History in Their States</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@201f25e19998810b8687452dc6c42bbe27713723/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Broken Promise of a Home in Spain</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The division in Spanish society today runs between those who can still envision a future and those who cannot. Housing is where this line is drawn most sharply.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf23a3be7a0e493e70d77f13b61277035c8fdc02/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">These 2026 Election-Winners Made History in Their States</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A number of states elected barrier-breakers—from their first transgender state lawmakers to multiple states’ first Latino or first Black governors.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@201f25e19998810b8687452dc6c42bbe27713723/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Broken Promise of a Home in Spain</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The division in Spanish society today runs between those who can still envision a future and those who cannot. Housing is where this line is drawn most sharply.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf23a3be7a0e493e70d77f13b61277035c8fdc02/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">These 2026 Election-Winners Made History in Their States</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A number of states elected barrier-breakers—from their first transgender state lawmakers to multiple states’ first Latino or first Black governors.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Broken Promise of a…</text>
+      <text hint-style="caption">These 2026 Election-Win…</text>
     </binding>
   </visual>
 </tile>
