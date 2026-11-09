@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd629762c4746d9c6145a905f04eabcd5c6c9dbc/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95d3a0c3492351bff0a127fcb067a396453427f6/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd629762c4746d9c6145a905f04eabcd5c6c9dbc/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The embattled AI data annotation firm Sama is winding down its operations and liquidating its assets, according to a letter to creditors reviewed by TIME.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95d3a0c3492351bff0a127fcb067a396453427f6/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd629762c4746d9c6145a905f04eabcd5c6c9dbc/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The embattled AI data annotation firm Sama is winding down its operations and liquidating its assets, according to a letter to creditors reviewed by TIME.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@95d3a0c3492351bff0a127fcb067a396453427f6/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Exclusive: Former Meta …</text>
+      <text hint-style="caption">Michael Dugan Joins TIM…</text>
     </binding>
   </visual>
 </tile>
