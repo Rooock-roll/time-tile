@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-09T16:31:01.570007+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-09T16:45:43.862030+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Defends Hegseth as Republican-Led Impeachment Vote Looms",
+    "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits",
     "Michael Dugan Joins TIME as Chief Technology Officer",
     "TIME Reveals the 2026 TIME100 Climate List",
-    "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action",
-    "Thomas Maltese",
-    "John Harris"
+    "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action"
   ],
   "articles": [
+    {
+      "title": "Trump Defends Hegseth as Republican-Led Impeachment Vote Looms",
+      "summary": "As calls for impeachment grow, Trump is adamant that his Defense Secretary Pete Hegseth is only \"guilty of two things: basically winning two wars.\"",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltea635c6c0d84614a/6af1bdcd4eb3c7917317b1a7/Trump_and_Hegseth.jpg?branch=production"
+    },
+    {
+      "title": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits",
+      "summary": "The embattled AI data annotation firm Sama is winding down its operations and liquidating its assets, according to a letter to creditors reviewed by TIME.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7221b30d54c67c08/698a2312929fad81c3bf8518/sama-office-nairobi.jpg?branch=production"
+    },
     {
       "title": "Michael Dugan Joins TIME as Chief Technology Officer",
       "summary": "Michael Dugan Joins TIME as Chief Technology Officer",
@@ -24,16 +34,6 @@
       "title": "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action",
       "summary": "The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0a832adc2a8fea32/6aebaa0d62c3064fa94b8770/how_we_chose_2400x1600.jpg?branch=production"
-    },
-    {
-      "title": "Thomas Maltese",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc29196f376abcf5d/6aee2c1f5c990265ff3925ce/261123_T100CLIM-web-innovators.jpg?branch=production"
-    },
-    {
-      "title": "John Harris",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltee9842fad26f3bba/6aeaad86d07e4cfa0a4ca17f/261123_T100CLIM_I_Harris.jpg?branch=production"
     }
   ]
 }
