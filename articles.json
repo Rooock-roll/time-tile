@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-09T10:31:02.220445+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-09T10:45:42.214322+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "These 2026 Election-Winners Made History in Their States",
     "Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?",
     "No One Should Be Shamed for Using a Mobility Aid",
     "What Happens When AI Is the President’s Advisor?",
-    "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
-    "The Silver Linings Of an Aging World"
+    "Europe’s Bomb Threats Raise Fears of Hybrid Warfare"
   ],
   "articles": [
+    {
+      "title": "These 2026 Election-Winners Made History in Their States",
+      "summary": "A number of states elected barrier-breakers—from their first transgender state lawmakers to multiple states’ first Latino or first Black governors.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1389f8d23d94c753/6af19a8c28c866d2d88f5e5e/state_historymakers_2026_midterms.png?branch=production"
+    },
     {
       "title": "Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?",
       "summary": "Democrats pulled out wins in a number of districts that were reshaped in the effort to bolster Republican candidates, helping to fuel the biggest blue wave in 50 years.",
@@ -29,11 +34,6 @@
       "title": "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
       "summary": "Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt858b676af0e424c3/6aef6a6d28c8668e218f59cf/GettyImages-2303197576.jpg?branch=production"
-    },
-    {
-      "title": "The Silver Linings Of an Aging World",
-      "summary": "Nobel laureate Daron Acemoglu argues that our aging world needs us to invest in technology and adapt our institutions to the demands of longer lives.",
-      "image": ""
     }
   ]
 }
