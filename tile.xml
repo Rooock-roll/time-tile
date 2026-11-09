@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb0567da6562d7d5d42d6c833f3465a7a26cf7f3/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a09d7e78fd512beb2d96bb40aec024849b238d6/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Defends Hegseth as Republican-Led Impeachment Vote Looms</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb0567da6562d7d5d42d6c833f3465a7a26cf7f3/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a09d7e78fd512beb2d96bb40aec024849b238d6/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Defends Hegseth as Republican-Led Impeachment Vote Looms</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As calls for impeachment grow, Trump is adamant that his Defense Secretary Pete Hegseth is only &quot;guilty of two things: basically winning two wars.&quot;</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb0567da6562d7d5d42d6c833f3465a7a26cf7f3/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a09d7e78fd512beb2d96bb40aec024849b238d6/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Defends Hegseth as Republican-Led Impeachment Vote Looms</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As calls for impeachment grow, Trump is adamant that his Defense Secretary Pete Hegseth is only &quot;guilty of two things: basically winning two wars.&quot;</text>
     </binding>
