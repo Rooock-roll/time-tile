@@ -2,19 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bc7986555a89c1524b0667c425a290f644450cc0/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts Under $50</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@209613aad1abf620e3bd2db48d86058d7cf66920/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How To Efficiently Heat Your Home As a Renter This Winter</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bc7986555a89c1524b0667c425a290f644450cc0/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts Under $50</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@209613aad1abf620e3bd2db48d86058d7cf66920/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How To Efficiently Heat Your Home As a Renter This Winter</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">How to stay warm without wasting heat or money this winter season.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bc7986555a89c1524b0667c425a290f644450cc0/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts Under $50</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@209613aad1abf620e3bd2db48d86058d7cf66920/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How To Efficiently Heat Your Home As a Renter This Winter</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">How to stay warm without wasting heat or money this winter season.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The 10 Best Gifts Under…</text>
+      <text hint-style="caption">How To Efficiently Heat…</text>
     </binding>
   </visual>
 </tile>
