@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1fb52e1e0028ad52ee45ce3aabc423445ef07d99/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf088a18c6294ac08708f96035322e46ae53ae6d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1fb52e1e0028ad52ee45ce3aabc423445ef07d99/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf088a18c6294ac08708f96035322e46ae53ae6d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1fb52e1e0028ad52ee45ce3aabc423445ef07d99/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf088a18c6294ac08708f96035322e46ae53ae6d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.</text>
     </binding>
