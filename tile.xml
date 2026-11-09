@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2fa456ef375b70eacaf5f5c00f4138e54859ce5c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f0c2a26e5d072b14e1434763bdce216705c6e293/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2fa456ef375b70eacaf5f5c00f4138e54859ce5c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f0c2a26e5d072b14e1434763bdce216705c6e293/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democrats pulled out wins in a number of districts that were reshaped in the effort to bolster Republican candidates, helping to fuel the biggest blue wave in 50 ye…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2fa456ef375b70eacaf5f5c00f4138e54859ce5c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f0c2a26e5d072b14e1434763bdce216705c6e293/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democrats pulled out wins in a number of districts that were reshaped in the effort to bolster Republican candidates, helping to fuel the biggest blue wave in 50 years.</text>
     </binding>
