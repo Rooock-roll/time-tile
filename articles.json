@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-09T15:15:43.256720+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-09T15:31:01.821803+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Michael Dugan Joins TIME as Chief Technology Officer",
     "TIME Reveals the 2026 TIME100 Climate List",
     "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action",
     "Thomas Maltese",
-    "John Harris",
-    "Xavier Laguarta Soler"
+    "John Harris"
   ],
   "articles": [
+    {
+      "title": "Michael Dugan Joins TIME as Chief Technology Officer",
+      "summary": "Michael Dugan Joins TIME as Chief Technology Officer",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt845f8933cb0319f7/6aee4307e47c1e5ff4c300af/Welcome_Michael_Dugan_900x600_(1).jpg?branch=production"
+    },
     {
       "title": "TIME Reveals the 2026 TIME100 Climate List",
       "summary": "TIME reveals the fourth annual TIME100 Climate list, featuring the 100 most influential leaders driving business climate action.",
@@ -29,11 +34,6 @@
       "title": "John Harris",
       "summary": "",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltee9842fad26f3bba/6aeaad86d07e4cfa0a4ca17f/261123_T100CLIM_I_Harris.jpg?branch=production"
-    },
-    {
-      "title": "Xavier Laguarta Soler",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt344fa4ca621dd10b/6aeaae15fd88e9f201bae114/261123_T100CLIM_I_Laguarta-Soler.jpg?branch=production"
     }
   ]
 }
