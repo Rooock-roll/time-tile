@@ -2,19 +2,19 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@59439a9c23c214025464351ded0c76a39409e77e/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Thomas Maltese</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@579ee4383b3df0bbaa04bf7384585c6ac77ff42c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">John Harris</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@59439a9c23c214025464351ded0c76a39409e77e/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Thomas Maltese</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@579ee4383b3df0bbaa04bf7384585c6ac77ff42c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">John Harris</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@59439a9c23c214025464351ded0c76a39409e77e/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Thomas Maltese</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@579ee4383b3df0bbaa04bf7384585c6ac77ff42c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">John Harris</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Thomas Maltese</text>
+      <text hint-style="caption">John Harris</text>
     </binding>
   </visual>
 </tile>
