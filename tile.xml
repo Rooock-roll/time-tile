@@ -2,15 +2,15 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f102176474f5dd3070a591c5c14806ba088903d/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb24ed77351dc8f949b5332bac5417da86236d79/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Xavier Laguarta Soler</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f102176474f5dd3070a591c5c14806ba088903d/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb24ed77351dc8f949b5332bac5417da86236d79/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Xavier Laguarta Soler</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f102176474f5dd3070a591c5c14806ba088903d/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb24ed77351dc8f949b5332bac5417da86236d79/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Xavier Laguarta Soler</text>
     </binding>
     <binding template="TileSmall">
