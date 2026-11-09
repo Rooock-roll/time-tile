@@ -2,21 +2,19 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1e5ed48ca9cb3cd6130be718bb11ab484cab718f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e24cb6b66e40e0c7d6a551e197c83ebc3f3699df/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Thomas Maltese</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1e5ed48ca9cb3cd6130be718bb11ab484cab718f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e24cb6b66e40e0c7d6a551e197c83ebc3f3699df/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Thomas Maltese</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1e5ed48ca9cb3cd6130be718bb11ab484cab718f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e24cb6b66e40e0c7d6a551e197c83ebc3f3699df/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Thomas Maltese</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Introducing TIME100 Cli…</text>
+      <text hint-style="caption">Thomas Maltese</text>
     </binding>
   </visual>
 </tile>
