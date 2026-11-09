@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@44eeb2b8edee204289ac46edfdcdd784ebe79882/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">These 2026 Election-Winners Made History in Their States</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d574634d9ae43208fc7ead0841b0f486bc13f6c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@44eeb2b8edee204289ac46edfdcdd784ebe79882/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">These 2026 Election-Winners Made History in Their States</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A number of states elected barrier-breakers—from their first transgender state lawmakers to multiple states’ first Latino or first Black governors.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d574634d9ae43208fc7ead0841b0f486bc13f6c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democrats pulled out wins in a number of districts that were reshaped in the effort to bolster Republican candidates, helping to fuel the biggest blue wave in 50 ye…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@44eeb2b8edee204289ac46edfdcdd784ebe79882/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">These 2026 Election-Winners Made History in Their States</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A number of states elected barrier-breakers—from their first transgender state lawmakers to multiple states’ first Latino or first Black governors.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d574634d9ae43208fc7ead0841b0f486bc13f6c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democrats pulled out wins in a number of districts that were reshaped in the effort to bolster Republican candidates, helping to fuel the biggest blue wave in 50 years.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">These 2026 Election-Win…</text>
+      <text hint-style="caption">Republicans Went All In…</text>
     </binding>
   </visual>
 </tile>
