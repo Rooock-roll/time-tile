@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-09T21:31:00.638309+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-09T21:45:40.908703+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Opens the Door to Immigration Reform. Can Democrats Trust Him?",
+    "Are Data Centers to Blame for Rising Electricity Prices?",
     "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
     "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
-    "The 10 Best Gifts Under $100",
-    "The 10 Best Gifts Under $50",
-    "How To Efficiently Heat Your Home As a Renter This Winter"
+    "The 10 Best Gifts Under $100"
   ],
   "articles": [
+    {
+      "title": "Trump Opens the Door to Immigration Reform. Can Democrats Trust Him?",
+      "summary": "Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt6a3f1e22e175183d/6af22b7909298f0b2b2130e2/GettyImages-2276924954.jpg?branch=production"
+    },
+    {
+      "title": "Are Data Centers to Blame for Rising Electricity Prices?",
+      "summary": "John Farrell argues that America's electricity monopoly model is ultimately responsible for skyrocketing energy costs.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1f60fb3caa6fbf06/6af230f263734c2405c91e31/Rising-Enegy-Costs.jpg?branch=production"
+    },
     {
       "title": "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
       "summary": "Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.",
@@ -24,16 +34,6 @@
       "title": "The 10 Best Gifts Under $100",
       "summary": "",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteb97eaa792af3361/6af1167e5fb4465987cfcabf/under-100-gifts-holidays-best-inventions_(3).jpg?branch=production"
-    },
-    {
-      "title": "The 10 Best Gifts Under $50",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteb02ba9f150478c0/6af1138ccdd40819ca4d3f88/under-50-gifts-holidays-best-inventions.jpg?branch=production"
-    },
-    {
-      "title": "How To Efficiently Heat Your Home As a Renter This Winter",
-      "summary": "How to stay warm without wasting heat or money this winter season.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt09840672ec9ea9b5/6af1f23fe47c1ec20cc30952/home-heating.jpg?branch=production"
     }
   ]
 }
