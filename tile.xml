@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@984877a1dd0ae983476a1f03294342f110b3b981/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b9656709b35c1c5e4255d843445e7a99fafb773/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@984877a1dd0ae983476a1f03294342f110b3b981/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b9656709b35c1c5e4255d843445e7a99fafb773/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@984877a1dd0ae983476a1f03294342f110b3b981/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b9656709b35c1c5e4255d843445e7a99fafb773/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.</text>
     </binding>
