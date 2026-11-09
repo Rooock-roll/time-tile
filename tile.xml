@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@344f88c906cbc614772ebed894cbdc441b04f9e0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0ff48f8ff6114099e7f5504ed1215cc3a2a9ab12/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@344f88c906cbc614772ebed894cbdc441b04f9e0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0ff48f8ff6114099e7f5504ed1215cc3a2a9ab12/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The embattled AI data annotation firm Sama is winding down its operations and liquidating its assets, according to a letter to creditors reviewed by TIME.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@344f88c906cbc614772ebed894cbdc441b04f9e0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0ff48f8ff6114099e7f5504ed1215cc3a2a9ab12/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The embattled AI data annotation firm Sama is winding down its operations and liquidating its assets, according to a letter to creditors reviewed by TIME.</text>
     </binding>
