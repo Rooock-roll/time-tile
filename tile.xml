@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0bad1ebcaf5e1b085cf847214401133dde36de7c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@419e83df4454cd8848c906f4f20fe9873b3be966/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">No One Should Be Shamed for Using a Mobility Aid</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0bad1ebcaf5e1b085cf847214401133dde36de7c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@419e83df4454cd8848c906f4f20fe9873b3be966/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">No One Should Be Shamed for Using a Mobility Aid</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0bad1ebcaf5e1b085cf847214401133dde36de7c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@419e83df4454cd8848c906f4f20fe9873b3be966/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">No One Should Be Shamed for Using a Mobility Aid</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.</text>
     </binding>
