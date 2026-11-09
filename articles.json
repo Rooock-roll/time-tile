@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-09T11:45:44.559249+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-09T12:01:15.398765+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Why Small Talk Is a Big Deal",
+    "The Broken Promise of a Home in Spain",
     "These 2026 Election-Winners Made History in Their States",
     "Republicans Went All In on Redistricting Ahead of the Midterms. Why Did It Fail?",
-    "No One Should Be Shamed for Using a Mobility Aid",
-    "What Happens When AI Is the President’s Advisor?",
-    "Europe’s Bomb Threats Raise Fears of Hybrid Warfare"
+    "No One Should Be Shamed for Using a Mobility Aid"
   ],
   "articles": [
+    {
+      "title": "Why Small Talk Is a Big Deal",
+      "summary": "In an increasingly transactional and screen-mediated world, small talk might matter more than we think, writes Meehika Barua.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2a375c94f5bcccea/6aee19384eb3c709ea17a89e/small-talk.jpg?branch=production"
+    },
+    {
+      "title": "The Broken Promise of a Home in Spain",
+      "summary": "The division in Spanish society today runs between those who can still envision a future and those who cannot. Housing is where this line is drawn most sharply.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc03f1c7622479a9e/6aede73246dffe58edd9d318/GettyImages-2298847267.jpg?branch=production"
+    },
     {
       "title": "These 2026 Election-Winners Made History in Their States",
       "summary": "A number of states elected barrier-breakers—from their first transgender state lawmakers to multiple states’ first Latino or first Black governors.",
@@ -24,16 +34,6 @@
       "title": "No One Should Be Shamed for Using a Mobility Aid",
       "summary": "People with disabilities deserve the basic dignity of using the tools that support our bodies without fear of being judged or harassed, writes Nicole Clark.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte92954838c94c141/6aecd4ca5a7333e51e337f5a/rollator.jpg?branch=production"
-    },
-    {
-      "title": "What Happens When AI Is the President’s Advisor?",
-      "summary": "\"There is a real risk that AI will amplify leaders’ own biases, handing them back their own assumptions with the authority of objective analysis,\" writes Keren Yarhi-Milo.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt191210c9937510e0/6aee09f809298f0da6212361/White-House-AI.jpg?branch=production"
-    },
-    {
-      "title": "Europe’s Bomb Threats Raise Fears of Hybrid Warfare",
-      "summary": "Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt858b676af0e424c3/6aef6a6d28c8668e218f59cf/GettyImages-2303197576.jpg?branch=production"
     }
   ]
 }
