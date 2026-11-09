@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b282bacaaf1cd9f6be94fd4a6172ecbfe8cc0286/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How To Efficiently Heat Your Home As a Renter This Winter</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1e78248eebe870a2bdb1f0e29f64a728a6dc51d5/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Casts Doubt on Midterm Election Results</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b282bacaaf1cd9f6be94fd4a6172ecbfe8cc0286/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How To Efficiently Heat Your Home As a Renter This Winter</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">How to stay warm without wasting heat or money this winter season.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1e78248eebe870a2bdb1f0e29f64a728a6dc51d5/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Casts Doubt on Midterm Election Results</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b282bacaaf1cd9f6be94fd4a6172ecbfe8cc0286/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How To Efficiently Heat Your Home As a Renter This Winter</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">How to stay warm without wasting heat or money this winter season.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1e78248eebe870a2bdb1f0e29f64a728a6dc51d5/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Casts Doubt on Midterm Election Results</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How To Efficiently Heat…</text>
+      <text hint-style="caption">Trump Casts Doubt on Mi…</text>
     </binding>
   </visual>
 </tile>
