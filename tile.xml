@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc4819a971ce07a17d07ab11358aa62de29fee0a/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bc13ed68f55394d1d839e18c7cca8900a99e00c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why Small Talk Is a Big Deal</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc4819a971ce07a17d07ab11358aa62de29fee0a/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Here's what political experts have to say.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bc13ed68f55394d1d839e18c7cca8900a99e00c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why Small Talk Is a Big Deal</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In an increasingly transactional and screen-mediated world, small talk might matter more than we think, writes Meehika Barua.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc4819a971ce07a17d07ab11358aa62de29fee0a/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Here's what political experts have to say.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bc13ed68f55394d1d839e18c7cca8900a99e00c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why Small Talk Is a Big Deal</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In an increasingly transactional and screen-mediated world, small talk might matter more than we think, writes Meehika Barua.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Are Democrats’ Stunning…</text>
+      <text hint-style="caption">Why Small Talk Is a Big…</text>
     </binding>
   </visual>
 </tile>
