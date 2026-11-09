@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ad1bf9438bb3c347d6f8280e1e60c9fa00c70fc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c933395466afa99af59b28868556f75208bfcb1/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ad1bf9438bb3c347d6f8280e1e60c9fa00c70fc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c933395466afa99af59b28868556f75208bfcb1/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ad1bf9438bb3c347d6f8280e1e60c9fa00c70fc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c933395466afa99af59b28868556f75208bfcb1/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Michael Dugan Joins TIME as Chief Technology Officer</text>
     </binding>
