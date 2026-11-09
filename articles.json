@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-09T18:01:21.071760+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-09T18:31:03.064824+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Casts Doubt on Midterm Election Results",
     "Trump Defends Hegseth as Republican-Led Impeachment Vote Looms",
     "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits",
     "Michael Dugan Joins TIME as Chief Technology Officer",
-    "TIME Reveals the 2026 TIME100 Climate List",
-    "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action"
+    "TIME Reveals the 2026 TIME100 Climate List"
   ],
   "articles": [
+    {
+      "title": "Trump Casts Doubt on Midterm Election Results",
+      "summary": "The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt470d3a16d08ad7b9/6af1ef08cdd408a24d4d42d7/AP26312846396772.jpg?branch=production"
+    },
     {
       "title": "Trump Defends Hegseth as Republican-Led Impeachment Vote Looms",
       "summary": "As calls for impeachment grow, Trump is adamant that his Defense Secretary Pete Hegseth is only \"guilty of two things: basically winning two wars.\"",
@@ -29,11 +34,6 @@
       "title": "TIME Reveals the 2026 TIME100 Climate List",
       "summary": "TIME reveals the fourth annual TIME100 Climate list, featuring the 100 most influential leaders driving business climate action.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt10a20cd3d2da2f95/6aecda7063734ca32fc90078/Climate.Social.jpg?branch=production"
-    },
-    {
-      "title": "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action",
-      "summary": "The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0a832adc2a8fea32/6aebaa0d62c3064fa94b8770/how_we_chose_2400x1600.jpg?branch=production"
     }
   ]
 }
