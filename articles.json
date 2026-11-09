@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-09T14:01:16.733815+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-09T14:15:45.500449+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "TIME Reveals the 2026 TIME100 Climate List",
     "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action",
     "Thomas Maltese",
     "John Harris",
-    "Xavier Laguarta Soler",
-    "Matt Rogers"
+    "Xavier Laguarta Soler"
   ],
   "articles": [
+    {
+      "title": "TIME Reveals the 2026 TIME100 Climate List",
+      "summary": "TIME reveals the fourth annual TIME100 Climate list, featuring the 100 most influential leaders driving business climate action.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt10a20cd3d2da2f95/6aecda7063734ca32fc90078/Climate.Social.jpg?branch=production"
+    },
     {
       "title": "Introducing TIME100 Climate: The 100 Most Influential Leaders Driving Business Climate Action",
       "summary": "The fourth annual TIME100 Climate list of 2026 identifies 100 leaders driving measurable, successful, and equitable business climate action.",
@@ -29,11 +34,6 @@
       "title": "Xavier Laguarta Soler",
       "summary": "",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt344fa4ca621dd10b/6aeaae15fd88e9f201bae114/261123_T100CLIM_I_Laguarta-Soler.jpg?branch=production"
-    },
-    {
-      "title": "Matt Rogers",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbbe691a95dabd329/6aeaacfc9c5f313f77eb4ff8/261123_T100CLIM_I_Rogers.jpg?branch=production"
     }
   ]
 }

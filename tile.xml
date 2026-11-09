@@ -2,19 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9810c5bc38f97ee2c42457d41e98ab9b4d86411b/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Xavier Laguarta Soler</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c41e99540784631ed2bc303f01f2a5ee57967764/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">TIME Reveals the 2026 TIME100 Climate List</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9810c5bc38f97ee2c42457d41e98ab9b4d86411b/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Xavier Laguarta Soler</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c41e99540784631ed2bc303f01f2a5ee57967764/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">TIME Reveals the 2026 TIME100 Climate List</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">TIME reveals the fourth annual TIME100 Climate list, featuring the 100 most influential leaders driving business climate action.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9810c5bc38f97ee2c42457d41e98ab9b4d86411b/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Xavier Laguarta Soler</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c41e99540784631ed2bc303f01f2a5ee57967764/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">TIME Reveals the 2026 TIME100 Climate List</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">TIME reveals the fourth annual TIME100 Climate list, featuring the 100 most influential leaders driving business climate action.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Xavier Laguarta Soler</text>
+      <text hint-style="caption">TIME Reveals the 2026 T…</text>
     </binding>
   </visual>
 </tile>
