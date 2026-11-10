@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e17be0e06be312a0d16fb4fea8f8c51ed1807e4f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0347db9273599ba6b2cdd506d0291ad68571726f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for the Home</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e17be0e06be312a0d16fb4fea8f8c51ed1807e4f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0347db9273599ba6b2cdd506d0291ad68571726f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for the Home</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e17be0e06be312a0d16fb4fea8f8c51ed1807e4f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best outdoors items from the list that would make a perfect gift for the explorers and adventurers in your life.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0347db9273599ba6b2cdd506d0291ad68571726f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for the Home</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best household items from the list that would make a perfect gift for those looking to add more practical pizzazz to their space.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The 10 Best Gifts for O…</text>
+      <text hint-style="caption">The 10 Best Gifts for t…</text>
     </binding>
   </visual>
 </tile>
