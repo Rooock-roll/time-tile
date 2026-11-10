@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0fd7d43112d0871f3cbc2eeb460f2593e84c19c3/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@12a63947e0c2842d603e03ecbe54aa404402923f/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0fd7d43112d0871f3cbc2eeb460f2593e84c19c3/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@12a63947e0c2842d603e03ecbe54aa404402923f/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Sciatica can send pain shooting down your leg and make it hard to find a comfortable way to sit, stand, or sleep. Finding relief starts with figuring out what’s irr…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0fd7d43112d0871f3cbc2eeb460f2593e84c19c3/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by President Donald Trump, there are still no clear answers . On Oct. 27, María Corina Machado, the country’s most prominent opposition leader, returned to Caracas after about a year in exile, thanked the Trump Administration for removing Maduro, and expressed faith that an election would be held in Venezue…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@12a63947e0c2842d603e03ecbe54aa404402923f/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Sciatica can send pain shooting down your leg and make it hard to find a comfortable way to sit, stand, or sleep. Finding relief starts with figuring out what’s irritating the nerve . A herniated disc, a spinal canal that’s become too narrow and puts pressure on the nerves, and other problems can cause the pain—and what helps one person may make another feel worse. Many people get better without surgery. Pain from a herniated disc often eases on its own within abou…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Trump and Venezuela’s E…</text>
+      <text hint-style="caption">How to Relieve Sciatica…</text>
     </binding>
   </visual>
 </tile>
