@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e70a470d72004617ae5a849eeef118cf4a481633/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a2bd23009de697d677081a30e1a277e6493826df/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e70a470d72004617ae5a849eeef118cf4a481633/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a2bd23009de697d677081a30e1a277e6493826df/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e70a470d72004617ae5a849eeef118cf4a481633/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a2bd23009de697d677081a30e1a277e6493826df/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
     </binding>
