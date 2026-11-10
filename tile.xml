@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cd90d2203b3b5dc32161ae8f22fd90683dcec30f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5661a5a663c0ff87c73309d7debe91db6a0e3478/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">World’s Best Companies in Sustainable Growth 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cd90d2203b3b5dc32161ae8f22fd90683dcec30f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The &quot; World’s Best Companies - Sustainable Growth 2027 &quot; ranking is a comprehensive analysis aimed at identifying companies that demonstrate outstanding performance…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5661a5a663c0ff87c73309d7debe91db6a0e3478/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">World’s Best Companies in Sustainable Growth 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As the world is reshaped by the AI industry while trying to stave off the worst effects of climate change, corporations have to strike a balance between growth and …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cd90d2203b3b5dc32161ae8f22fd90683dcec30f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The &quot; World’s Best Companies - Sustainable Growth 2027 &quot; ranking is a comprehensive analysis aimed at identifying companies that demonstrate outstanding performance in sustainable development while maintaining strong financial health. The ranking focuses on three key dimensions - Revenue Growth, Financial Stability, and Environmental Impact. Only companies that transparently disclose their environmental data are considered for inclusion in the ranking.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5661a5a663c0ff87c73309d7debe91db6a0e3478/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">World’s Best Companies in Sustainable Growth 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As the world is reshaped by the AI industry while trying to stave off the worst effects of climate change, corporations have to strike a balance between growth and environmental and social stewardship. TIME and Statista have published the third annual ranking of World’s Best Companies in Sustainable Growth, identifying 500 companies that demonstrate outstanding performance in sustainable development while maintaining strong financial health. The ranking accounts fo…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How TIME and Statista D…</text>
+      <text hint-style="caption">World’s Best Companies …</text>
     </binding>
   </visual>
 </tile>
