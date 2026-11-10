@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cb5e3589f4359bd84a03573fcb7b38db2a777848/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Democrats Can Win Florida in 2028</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@227f6b2b7da5437c34ffccecf0ac426ad74c5d1d/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Democratic Wins No Election Forecaster Expected</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cb5e3589f4359bd84a03573fcb7b38db2a777848/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Democrats Can Win Florida in 2028</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Showing up for Floridians outside of election season will build trust, writes Isvett Verde.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@227f6b2b7da5437c34ffccecf0ac426ad74c5d1d/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Democratic Wins No Election Forecaster Expected</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A TIME analysis of election forecasters found more than a dozen races that none anticipated would go blue—but did in the end.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cb5e3589f4359bd84a03573fcb7b38db2a777848/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Democrats Can Win Florida in 2028</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Showing up for Floridians outside of election season will build trust, writes Isvett Verde.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@227f6b2b7da5437c34ffccecf0ac426ad74c5d1d/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Democratic Wins No Election Forecaster Expected</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A TIME analysis of election forecasters found more than a dozen races that none anticipated would go blue—but did in the end.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How Democrats Can Win F…</text>
+      <text hint-style="caption">The Democratic Wins No …</text>
     </binding>
   </visual>
 </tile>
