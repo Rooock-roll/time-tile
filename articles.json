@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T12:01:16.887850+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-10T12:15:42.682328+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Inside the Troubling Rise of TeleICUs",
     "How Democrats Can Win Florida in 2028",
     "The Democratic Wins No Election Forecaster Expected",
     "What Making a Film About Iran Taught Me About Power",
-    "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
-    "Fossil Fuel Emissions Are Expected to Decrease in 2026"
+    "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn"
   ],
   "articles": [
+    {
+      "title": "Inside the Troubling Rise of TeleICUs",
+      "summary": "More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39f9d83e3edadcb1/6ae10d76187d3119388ffb05/teleICU.png?branch=production"
+    },
     {
       "title": "How Democrats Can Win Florida in 2028",
       "summary": "Showing up for Floridians outside of election season will build trust, writes Isvett Verde.",
@@ -29,11 +34,6 @@
       "title": "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
       "summary": "A bipartisan bill has come under fire from environmentalists who argue that it will facilitate gas-powered data center construction.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltac212794d01b2b98/6af22b0563734cc840c91e1d/GettyImages-2300814821.jpg?branch=production"
-    },
-    {
-      "title": "Fossil Fuel Emissions Are Expected to Decrease in 2026",
-      "summary": "The drop is largely due to the Iran war and clean energy expansion.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltafef3b885164e373/6af23b2bcaf94b00737416c7/carbon-budget.jpg?branch=production"
     }
   ]
 }

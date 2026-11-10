@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fe8dfb11e894673f046e24ab719dae4844112c28/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d01304d0fbad01d4ece8fece8523c275d311ff3/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Inside the Troubling Rise of TeleICUs</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fe8dfb11e894673f046e24ab719dae4844112c28/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d01304d0fbad01d4ece8fece8523c275d311ff3/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Inside the Troubling Rise of TeleICUs</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fe8dfb11e894673f046e24ab719dae4844112c28/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d01304d0fbad01d4ece8fece8523c275d311ff3/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Inside the Troubling Rise of TeleICUs</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Fossil Fuel Emissions A…</text>
+      <text hint-style="caption">Inside the Troubling Ri…</text>
     </binding>
   </visual>
 </tile>
