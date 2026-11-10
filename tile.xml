@@ -2,19 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@938f86b7b39d694f3d4e00e6c6b3cc70def878ad/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for the Home</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9d8264cce81fd785fb81fdd8754b1eb7a53b419f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@938f86b7b39d694f3d4e00e6c6b3cc70def878ad/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for the Home</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9d8264cce81fd785fb81fdd8754b1eb7a53b419f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The first dimension, Revenue Growth, was evaluated based on a company's revenue between 2023 and 2025. To ensure a fair comparison, revenue growth was analyzed both…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@938f86b7b39d694f3d4e00e6c6b3cc70def878ad/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for the Home</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9d8264cce81fd785fb81fdd8754b1eb7a53b419f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The first dimension, Revenue Growth, was evaluated based on a company's revenue between 2023 and 2025. To ensure a fair comparison, revenue growth was analyzed both in terms of relative growth and compared to the industry average. Companies were required to demonstrate consistent revenue growth during the evaluation period to be considered.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The 10 Best Gifts for t…</text>
+      <text hint-style="caption">How TIME and Statista D…</text>
     </binding>
   </visual>
 </tile>
