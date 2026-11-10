@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@45998bca3f8542289b7cd09cbdd0f12731e2aec9/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9aa4fc3035377664bebaec4c44fc117472535eb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@45998bca3f8542289b7cd09cbdd0f12731e2aec9/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9aa4fc3035377664bebaec4c44fc117472535eb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@45998bca3f8542289b7cd09cbdd0f12731e2aec9/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9aa4fc3035377664bebaec4c44fc117472535eb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best outdoors items from the list that would make a perfect gift for the explorers and adventurers in your life.</text>
     </binding>
