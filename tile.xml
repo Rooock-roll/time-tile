@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e93173d41646c56ceef85b7ba7ddfeb0df2ffc8c/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Israel Will Choose Its Next Prime Minister, Explained</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@157177a085370b98cfc94f1c835c75ef8f8a1c59/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e93173d41646c56ceef85b7ba7ddfeb0df2ffc8c/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Israel Will Choose Its Next Prime Minister, Explained</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@157177a085370b98cfc94f1c835c75ef8f8a1c59/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Defense Secretary Pete Hegseth could become the third Cabinet secretary to be impeached in U.S. history after a Republican lawmaker reintroduced a resolution forcin…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e93173d41646c56ceef85b7ba7ddfeb0df2ffc8c/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Israel Will Choose Its Next Prime Minister, Explained</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s next government. It’s the first of several steps necessary to determine the next Prime Minister—but a potentially months-long process could leave Benjamin Netanyahu in power for the foreseeable future. With Herzog’s nod, Eisenkot was given 28 days, through Dec. 6, with a possible 14-day extension, to ass…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@157177a085370b98cfc94f1c835c75ef8f8a1c59/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Defense Secretary Pete Hegseth could become the third Cabinet secretary to be impeached in U.S. history after a Republican lawmaker reintroduced a resolution forcing the House to take up the vote. Rep. Thomas Massie of Kentucky filed eight articles of impeachment Monday, accusing Hegseth of violating the War Powers Resolution of 1973 , citing the lack of congressional oversight on the Iran war which Massie argues was “unlawful from its inception.” Another charge ac…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How Israel Will Choose …</text>
+      <text hint-style="caption">Hegseth Could Be the Th…</text>
     </binding>
   </visual>
 </tile>
