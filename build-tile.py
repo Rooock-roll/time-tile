@@ -152,9 +152,6 @@ def parse_items(xml_text):
     return items
 
 
-BODY_INDENT = "\u3000\u3000"   # 两个全角空格：正文首行空两格
-
-
 def esc(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
@@ -211,7 +208,7 @@ def build_single(article, index, all_titles):
                      % (style, tmax, esc(title)))
         if slimit > 0 and summary:
             lines.append('      <text hint-style="%s" hint-maxlines="%d" hint-wrap="true">%s</text>'
-                         % ("captionSubtle", smax, BODY_INDENT + esc(clip(summary, slimit))))
+                         % ("captionSubtle", smax, esc(clip(summary, slimit))))
         lines.append("    </binding>")
     # small tile gets a plain text line (no image fits comfortably)
     lines.append('    <binding template="TileSmall">')
