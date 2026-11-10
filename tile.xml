@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@64a5b104504f72bc8fb7fb593fe0a4fb8bef77f8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a28823146b2e3ee6382aa9b8787c008693cb79d3/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Democratic Wins No Election Forecaster Expected</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@64a5b104504f72bc8fb7fb593fe0a4fb8bef77f8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a28823146b2e3ee6382aa9b8787c008693cb79d3/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Democratic Wins No Election Forecaster Expected</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A TIME analysis of election forecasters found more than a dozen races that none anticipated would go blue—but did in the end.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@64a5b104504f72bc8fb7fb593fe0a4fb8bef77f8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a28823146b2e3ee6382aa9b8787c008693cb79d3/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Democratic Wins No Election Forecaster Expected</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A TIME analysis of election forecasters found more than a dozen races that none anticipated would go blue—but did in the end.</text>
     </binding>
