@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f2567bd23188bba99957de7cd170a7f5485200f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@68f26f6e63a1fa5eb16549446538d75fa3f63d91/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f2567bd23188bba99957de7cd170a7f5485200f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@68f26f6e63a1fa5eb16549446538d75fa3f63d91/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f2567bd23188bba99957de7cd170a7f5485200f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@68f26f6e63a1fa5eb16549446538d75fa3f63d91/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by President Donald Trump, there are still no clear answers . On Oct. 27, María Corina Machado, the country’s most prominent opposition leader, returned to Caracas after about a year in exile, thanked the Trump Administration for removing Maduro, and expressed faith that an election would be held in Venezue…</text>
     </binding>
