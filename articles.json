@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T16:15:44.474212+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-10T16:45:43.083368+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How to Relieve Sciatica Pain—and What Makes It Worse",
     "How to Try Somatic Shaking for Stress Relief",
     "The 10 Best Gifts for Outdoorsy Types",
     "The 10 Best Gifts for the Home",
-    "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027",
-    "World’s Best Companies in Sustainable Growth 2027"
+    "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027"
   ],
   "articles": [
+    {
+      "title": "How to Relieve Sciatica Pain—and What Makes It Worse",
+      "summary": "The best exercises and treatments for your sciatica depend on what’s causing it.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltec242a2a44bb67bd/6af30e63cdd408cc0e4d47ac/GettyImages-2177146409.jpg?branch=production"
+    },
     {
       "title": "How to Try Somatic Shaking for Stress Relief",
       "summary": "Channel your inner wet dog.",
@@ -29,11 +34,6 @@
       "title": "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027",
       "summary": "The \" World’s Best Companies - Sustainable Growth 2027 \" ranking is a comprehensive analysis aimed at identifying companies that demonstrate outstanding performance in sustainable development while maintaining strong financial health. The ranking focuses on three key dimensions - Revenue Growth, Financial Stability, and Environmental Impact. Only companies that transparently disclose their environmental data are considered for inclusion in the ranking.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt61cb00f6b67de8c4/6aea08c668c81454fb6265d1/World_s-best-companies-sustainable-growth-2027.jpg?branch=production"
-    },
-    {
-      "title": "World’s Best Companies in Sustainable Growth 2027",
-      "summary": "As the world is reshaped by the AI industry while trying to stave off the worst effects of climate change, corporations have to strike a balance between growth and environmental and social stewardship. TIME and Statista have published the third annual ranking of World’s Best Companies in Sustainable Growth, identifying 500 companies that demonstrate outstanding performance in sustainable development while maintaining strong financial health. The ranking accounts for revenue growth, financial stability, and environmental impact. Only companies transparently disclosing their environmental data are considered for inclusion in the ranking.",
-      "image": ""
     }
   ]
 }
