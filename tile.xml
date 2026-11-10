@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a23a316d8a5560e0c8f7e0d611700c8b52672a6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5a11f899f000458a63d37a08c72f9cf0980fb270/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a23a316d8a5560e0c8f7e0d611700c8b52672a6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5a11f899f000458a63d37a08c72f9cf0980fb270/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Sciatica can send pain shooting down your leg and make it hard to find a comfortable way to sit, stand, or sleep. Finding relief starts with figuring out what’s irr…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a23a316d8a5560e0c8f7e0d611700c8b52672a6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5a11f899f000458a63d37a08c72f9cf0980fb270/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Sciatica can send pain shooting down your leg and make it hard to find a comfortable way to sit, stand, or sleep. Finding relief starts with figuring out what’s irritating the nerve . A herniated disc, a spinal canal that’s become too narrow and puts pressure on the nerves, and other problems can cause the pain—and what helps one person may make another feel worse. Many people get better without surgery. Pain from a herniated disc often eases on its own within abou…</text>
     </binding>
