@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8d6109804805c1bff7da93f46d98f71b3b787dd5/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f3117b63b368c12d0f8f481d7c2347b2fa0f627/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8d6109804805c1bff7da93f46d98f71b3b787dd5/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Inspired by his own experiences with autism, 9-year-old Ledger Mann created emergency comfort kits for children in crisis. His idea has now spread to six states.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f3117b63b368c12d0f8f481d7c2347b2fa0f627/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Channel your inner wet dog.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8d6109804805c1bff7da93f46d98f71b3b787dd5/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Inspired by his own experiences with autism, 9-year-old Ledger Mann created emergency comfort kits for children in crisis. His idea has now spread to six states.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f3117b63b368c12d0f8f481d7c2347b2fa0f627/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Channel your inner wet dog.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">TIME's Kid of the Year …</text>
+      <text hint-style="caption">How to Try Somatic Shak…</text>
     </binding>
   </visual>
 </tile>

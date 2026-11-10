@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-10T15:01:20.039298+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-10T15:15:47.947954+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
-    "TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis",
-    "Inside the Troubling Rise of TeleICUs",
-    "How Democrats Can Win Florida in 2028",
-    "The Democratic Wins No Election Forecaster Expected",
-    "What Making a Film About Iran Taught Me About Power"
+    "How to Try Somatic Shaking for Stress Relief",
+    "The 10 Best Gifts for Outdoorsy Types",
+    "The 10 Best Gifts for the Home",
+    "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027",
+    "World’s Best Companies in Sustainable Growth 2027"
   ],
   "articles": [
     {
-      "title": "TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis",
-      "summary": "Inspired by his own experiences with autism, 9-year-old Ledger Mann created emergency comfort kits for children in crisis. His idea has now spread to six states.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf9106055053a5e89/6af1f78263734cb7b5c91d8b/koty-2026-ledger-mann-2.jpg?branch=production"
+      "title": "How to Try Somatic Shaking for Stress Relief",
+      "summary": "Channel your inner wet dog.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt57f9bb49418aee3d/6af239177ce30ba33d1eb447/OSC_Shake.png?branch=production"
     },
     {
-      "title": "Inside the Troubling Rise of TeleICUs",
-      "summary": "More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39f9d83e3edadcb1/6ae10d76187d3119388ffb05/teleICU.png?branch=production"
+      "title": "The 10 Best Gifts for Outdoorsy Types",
+      "summary": "",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9d5f3d32ff90bea1/6af22f7d46dffeee17d9e8f0/outdoor-gifts-holidays-best-inventions.jpg?branch=production"
     },
     {
-      "title": "How Democrats Can Win Florida in 2028",
-      "summary": "Showing up for Floridians outside of election season will build trust, writes Isvett Verde.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt96d47798f416020d/6af227bbf7d590616666ff4b/florida-elections.jpg?branch=production"
+      "title": "The 10 Best Gifts for the Home",
+      "summary": "",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt701a474e21f468a8/6af22c1b7ce30b12691eb425/home-gifts-holidays-best-inventions.jpg?branch=production"
     },
     {
-      "title": "The Democratic Wins No Election Forecaster Expected",
-      "summary": "A TIME analysis of election forecasters found more than a dozen races that none anticipated would go blue—but did in the end.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt929298cf184b3781/6af2f78862c306a7454baf66/2026-democrats.png?branch=production"
+      "title": "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027",
+      "summary": "The first dimension, Revenue Growth, was evaluated based on a company's revenue between 2023 and 2025. To ensure a fair comparison, revenue growth was analyzed both in terms of relative growth and compared to the industry average. Companies were required to demonstrate consistent revenue growth during the evaluation period to be considered.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt61cb00f6b67de8c4/6aea08c668c81454fb6265d1/World_s-best-companies-sustainable-growth-2027.jpg?branch=production"
     },
     {
-      "title": "What Making a Film About Iran Taught Me About Power",
-      "summary": "Iran is a country oppressed by its laws. It is also a country full of people who have become extraordinarily adept at navigating them.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb3dff951fbaccf66/6af1fba0d52f493454038d42/GettyImages-2272159716_(1).jpg?branch=production"
+      "title": "World’s Best Companies in Sustainable Growth 2027",
+      "summary": "As the world is reshaped by the AI industry while trying to stave off the worst effects of climate change, corporations have to strike a balance between growth and environmental and social stewardship. TIME and Statista have published the third annual ranking of World’s Best Companies in Sustainable Growth, identifying 500 companies that demonstrate outstanding performance in sustainable development while maintaining strong financial health. The ranking accounts for revenue growth, financial stability, and environmental impact. Only companies transparently disclosing their environmental data are considered for inclusion in the ranking.",
+      "image": ""
     }
   ]
 }
