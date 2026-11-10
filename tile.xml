@@ -2,19 +2,19 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da71dfdcf501da3692b4827a4c99a808d1860183/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9539eb588cb6d910795597bd3f1cfeefd84fe849/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for the Home</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da71dfdcf501da3692b4827a4c99a808d1860183/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9539eb588cb6d910795597bd3f1cfeefd84fe849/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for the Home</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da71dfdcf501da3692b4827a4c99a808d1860183/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for Outdoorsy Types</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9539eb588cb6d910795597bd3f1cfeefd84fe849/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for the Home</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The 10 Best Gifts for O…</text>
+      <text hint-style="caption">The 10 Best Gifts for t…</text>
     </binding>
   </visual>
 </tile>
