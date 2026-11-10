@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a4d49665f5af3971da8591fe74f6e2228ce00c00/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@65af1653c0bb7bddc83206956087ea5d272885bd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a4d49665f5af3971da8591fe74f6e2228ce00c00/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@65af1653c0bb7bddc83206956087ea5d272885bd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a4d49665f5af3971da8591fe74f6e2228ce00c00/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@65af1653c0bb7bddc83206956087ea5d272885bd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
     </binding>
