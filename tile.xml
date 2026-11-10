@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da0b4c6e8488d9f634b529e224c83439b8378d3d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@db8b85cf0f61b9bbabe6dbda7cd2783cda6be590/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da0b4c6e8488d9f634b529e224c83439b8378d3d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@db8b85cf0f61b9bbabe6dbda7cd2783cda6be590/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da0b4c6e8488d9f634b529e224c83439b8378d3d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@db8b85cf0f61b9bbabe6dbda7cd2783cda6be590/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Weight-Loss Drugs May H…</text>
+      <text hint-style="caption">Corporate Leaders Discu…</text>
     </binding>
   </visual>
 </tile>
