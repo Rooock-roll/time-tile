@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a34498125b8fe3ad721b48870d3f6b9c0ab4e973/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c447d89e60ef62eb3dc3b2380baa7f8ffa5e6576/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a34498125b8fe3ad721b48870d3f6b9c0ab4e973/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Channel your inner wet dog.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c447d89e60ef62eb3dc3b2380baa7f8ffa5e6576/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Opposition leader María Corina Machado is back in Venezuela, but the Trump Administration will control her country’s road back to democracy.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a34498125b8fe3ad721b48870d3f6b9c0ab4e973/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Channel your inner wet dog.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c447d89e60ef62eb3dc3b2380baa7f8ffa5e6576/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Opposition leader María Corina Machado is back in Venezuela, but the Trump Administration will control her country’s road back to democracy.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Try Somatic Shak…</text>
+      <text hint-style="caption">Trump and Venezuela’s E…</text>
     </binding>
   </visual>
 </tile>

@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T18:01:18.319259+00:00",
+  "updated": "2026-11-10T18:15:43.004603+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Trump and Venezuela’s Elusive Elections",
     "How to Relieve Sciatica Pain—and What Makes It Worse",
     "How to Try Somatic Shaking for Stress Relief",
     "The 10 Best Gifts for Outdoorsy Types",
-    "The 10 Best Gifts for the Home",
-    "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027"
+    "The 10 Best Gifts for the Home"
   ],
   "articles": [
+    {
+      "title": "Trump and Venezuela’s Elusive Elections",
+      "summary": "Opposition leader María Corina Machado is back in Venezuela, but the Trump Administration will control her country’s road back to democracy.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39b56343d06c08e2/6af3480362c30633234bb200/GettyImages-2301602975.jpg?branch=production"
+    },
     {
       "title": "How to Relieve Sciatica Pain—and What Makes It Worse",
       "summary": "The best exercises and treatments for your sciatica depend on what’s causing it.",
@@ -29,11 +34,6 @@
       "title": "The 10 Best Gifts for the Home",
       "summary": "Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best household items from the list that would make a perfect gift for those looking to add more practical pizzazz to their space.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt701a474e21f468a8/6af22c1b7ce30b12691eb425/home-gifts-holidays-best-inventions.jpg?branch=production"
-    },
-    {
-      "title": "How TIME and Statista Determined the World's Best Companies in Sustainable Growth 2027",
-      "summary": "The \" World’s Best Companies - Sustainable Growth 2027 \" ranking is a comprehensive analysis aimed at identifying companies that demonstrate outstanding performance in sustainable development while maintaining strong financial health. The ranking focuses on three key dimensions - Revenue Growth, Financial Stability, and Environmental Impact. Only companies that transparently disclose their environmental data are considered for inclusion in the ranking.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt61cb00f6b67de8c4/6aea08c668c81454fb6265d1/World_s-best-companies-sustainable-growth-2027.jpg?branch=production"
     }
   ]
 }
