@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a5d657a6da180a6fb1e36b7c2e742ce7d8c59899/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fefb4d3d4794e72253c155775c75fef4751015a6/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a5d657a6da180a6fb1e36b7c2e742ce7d8c59899/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fefb4d3d4794e72253c155775c75fef4751015a6/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a5d657a6da180a6fb1e36b7c2e742ce7d8c59899/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fefb4d3d4794e72253c155775c75fef4751015a6/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Fossil Fuel Emissions A…</text>
+      <text hint-style="caption">Trump Opens the Door to…</text>
     </binding>
   </visual>
 </tile>
