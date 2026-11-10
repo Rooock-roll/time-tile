@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d729589a945d2247a51e52edbe957fa08c432e33/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e2adf2014a9eed7b104a241407f77cf63aa11fe0/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d729589a945d2247a51e52edbe957fa08c432e33/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e2adf2014a9eed7b104a241407f77cf63aa11fe0/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d729589a945d2247a51e52edbe957fa08c432e33/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e2adf2014a9eed7b104a241407f77cf63aa11fe0/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Fossil Fuel Emissions Are Expected to Decrease in 2026</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The drop is largely due to the Iran war and clean energy expansion.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Weight-Loss Drugs May H…</text>
+      <text hint-style="caption">Fossil Fuel Emissions A…</text>
     </binding>
   </visual>
 </tile>

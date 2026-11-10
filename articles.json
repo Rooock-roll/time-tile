@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T01:15:47.005886+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-10T01:31:01.520567+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Fossil Fuel Emissions Are Expected to Decrease in 2026",
     "Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious",
     "Are Data Centers to Blame for Rising Electricity Prices?",
     "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
-    "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
-    "The 10 Best Gifts Under $100"
+    "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner"
   ],
   "articles": [
+    {
+      "title": "Fossil Fuel Emissions Are Expected to Decrease in 2026",
+      "summary": "The drop is largely due to the Iran war and clean energy expansion.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltafef3b885164e373/6af23b2bcaf94b00737416c7/carbon-budget.jpg?branch=production"
+    },
     {
       "title": "Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious",
       "summary": "Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.",
@@ -29,11 +34,6 @@
       "title": "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
       "summary": "Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.",
       "image": "https://cdn.jwplayer.com/manifests/vEyVmBUa.m3u8"
-    },
-    {
-      "title": "The 10 Best Gifts Under $100",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteb97eaa792af3361/6af1167e5fb4465987cfcabf/under-100-gifts-holidays-best-inventions_(3).jpg?branch=production"
     }
   ]
 }
