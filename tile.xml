@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eaedcbf649a16526d113e560b97f7240c5114ed3/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b52bc9a8e82a02ec877750e845197b3688ccbc13/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eaedcbf649a16526d113e560b97f7240c5114ed3/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Rep. Jim Jordan of Ohio will become the next House Minority Leader after beating out the party’s current Majority Leader Rep. Steve Scalise of Louisiana for the pos…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b52bc9a8e82a02ec877750e845197b3688ccbc13/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eaedcbf649a16526d113e560b97f7240c5114ed3/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Rep. Jim Jordan of Ohio will become the next House Minority Leader after beating out the party’s current Majority Leader Rep. Steve Scalise of Louisiana for the position. Jordan, a hard-line conservative and Trump ally who’s served in Congress for nearly two decades and currently chairs the House Judiciary Committee, secured the role in a secret ballot vote of 106-73. The Ohio lawmaker announced his bid for the top Republican position in the lower chamber in the ne…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b52bc9a8e82a02ec877750e845197b3688ccbc13/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump and Venezuela’s Elusive Elections</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by President Donald Trump, there are still no clear answers . On Oct. 27, María Corina Machado, the country’s most prominent opposition leader, returned to Caracas after about a year in exile, thanked the Trump Administration for removing Maduro, and expressed faith that an election would be held in Venezue…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">House Republicans Selec…</text>
+      <text hint-style="caption">Trump and Venezuela’s E…</text>
     </binding>
   </visual>
 </tile>
