@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ca8737a7d5532544ead149e9a3d7a4af09fcd0c6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f2d4873494a6a734a70eebd4eb13e1f014eefb3/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Inside the Troubling Rise of TeleICUs</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ca8737a7d5532544ead149e9a3d7a4af09fcd0c6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f2d4873494a6a734a70eebd4eb13e1f014eefb3/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Inside the Troubling Rise of TeleICUs</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ca8737a7d5532544ead149e9a3d7a4af09fcd0c6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f2d4873494a6a734a70eebd4eb13e1f014eefb3/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Inside the Troubling Rise of TeleICUs</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.</text>
     </binding>
