@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a8d7d309401f5cf262b1a22264525883ff2369b/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Are Data Centers to Blame for Rising Electricity Prices?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24b5ef7878677ce5a88323e7f5d9d14b9fc1eb68/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a8d7d309401f5cf262b1a22264525883ff2369b/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Are Data Centers to Blame for Rising Electricity Prices?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">John Farrell argues that America's electricity monopoly model is ultimately responsible for skyrocketing energy costs.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24b5ef7878677ce5a88323e7f5d9d14b9fc1eb68/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6a8d7d309401f5cf262b1a22264525883ff2369b/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Are Data Centers to Blame for Rising Electricity Prices?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">John Farrell argues that America's electricity monopoly model is ultimately responsible for skyrocketing energy costs.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24b5ef7878677ce5a88323e7f5d9d14b9fc1eb68/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Weight-Loss Drugs May Help Sleep Apnea and Arthritis</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Are Data Centers to Bla…</text>
+      <text hint-style="caption">Weight-Loss Drugs May H…</text>
     </binding>
   </visual>
 </tile>
