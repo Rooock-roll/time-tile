@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f31bb40b24ffa857a91b5bca39467d6623bf6af5/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24e0a77415744ee3fd63372255f4dc6a2fe8e39b/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Are Data Centers to Blame for Rising Electricity Prices?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f31bb40b24ffa857a91b5bca39467d6623bf6af5/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24e0a77415744ee3fd63372255f4dc6a2fe8e39b/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Are Data Centers to Blame for Rising Electricity Prices?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">John Farrell argues that America's electricity monopoly model is ultimately responsible for skyrocketing energy costs.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f31bb40b24ffa857a91b5bca39467d6623bf6af5/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24e0a77415744ee3fd63372255f4dc6a2fe8e39b/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Are Data Centers to Blame for Rising Electricity Prices?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">John Farrell argues that America's electricity monopoly model is ultimately responsible for skyrocketing energy costs.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Trump Opens the Door to…</text>
+      <text hint-style="caption">Are Data Centers to Bla…</text>
     </binding>
   </visual>
 </tile>
