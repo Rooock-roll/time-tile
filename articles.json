@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T04:45:41.539219+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-10T05:01:16.478628+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
     "Fossil Fuel Emissions Are Expected to Decrease in 2026",
     "Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious",
     "Are Data Centers to Blame for Rising Electricity Prices?",
-    "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
-    "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner"
+    "Weight-Loss Drugs May Help Sleep Apnea and Arthritis"
   ],
   "articles": [
+    {
+      "title": "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
+      "summary": "A bipartisan bill has come under fire from environmentalists who argue that it will facilitate gas-powered data center construction.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltac212794d01b2b98/6af22b0563734cc840c91e1d/GettyImages-2300814821.jpg?branch=production"
+    },
     {
       "title": "Fossil Fuel Emissions Are Expected to Decrease in 2026",
       "summary": "The drop is largely due to the Iran war and clean energy expansion.",
@@ -29,11 +34,6 @@
       "title": "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
       "summary": "Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf157f767ea41e7c5/6af21b5463734c46dbc91dfa/GettyImages-2275860760.jpg?branch=production"
-    },
-    {
-      "title": "Corporate Leaders Discuss the Economic and Technological Future of Latin America at TIME Impact Dinner",
-      "summary": "Three industry leaders in the region talked about the topic during a panel at a TIME Impact Dinner on Friday.",
-      "image": "https://cdn.jwplayer.com/manifests/vEyVmBUa.m3u8"
     }
   ]
 }
