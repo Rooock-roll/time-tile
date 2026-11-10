@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-10T11:01:17.863592+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-10T11:15:53.259655+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How Democrats Can Win Florida in 2028",
+    "The Democratic Wins No Election Forecaster Expected",
+    "What Making a Film About Iran Taught Me About Power",
     "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
-    "Fossil Fuel Emissions Are Expected to Decrease in 2026",
-    "Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious",
-    "Are Data Centers to Blame for Rising Electricity Prices?",
-    "Weight-Loss Drugs May Help Sleep Apnea and Arthritis"
+    "Fossil Fuel Emissions Are Expected to Decrease in 2026"
   ],
   "articles": [
+    {
+      "title": "How Democrats Can Win Florida in 2028",
+      "summary": "Showing up for Floridians outside of election season will build trust, writes Isvett Verde.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt96d47798f416020d/6af227bbf7d590616666ff4b/florida-elections.jpg?branch=production"
+    },
+    {
+      "title": "The Democratic Wins No Election Forecaster Expected",
+      "summary": "A TIME analysis of election forecasters found more than a dozen races that none anticipated would go blue—but did in the end.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt929298cf184b3781/6af2f78862c306a7454baf66/2026-democrats.png?branch=production"
+    },
+    {
+      "title": "What Making a Film About Iran Taught Me About Power",
+      "summary": "Iran is a country oppressed by its laws. It is also a country full of people who have become extraordinarily adept at navigating them.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb3dff951fbaccf66/6af1fba0d52f493454038d42/GettyImages-2272159716_(1).jpg?branch=production"
+    },
     {
       "title": "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
       "summary": "A bipartisan bill has come under fire from environmentalists who argue that it will facilitate gas-powered data center construction.",
@@ -19,21 +34,6 @@
       "title": "Fossil Fuel Emissions Are Expected to Decrease in 2026",
       "summary": "The drop is largely due to the Iran war and clean energy expansion.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltafef3b885164e373/6af23b2bcaf94b00737416c7/carbon-budget.jpg?branch=production"
-    },
-    {
-      "title": "Trump Opens the Door to an Immigration Deal. Democrats Want Proof He's Serious",
-      "summary": "Following crushing midterm losses, Trump softened his tone on immigration, but promoted Stephen Miller.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt6a3f1e22e175183d/6af22b7909298f0b2b2130e2/GettyImages-2276924954.jpg?branch=production"
-    },
-    {
-      "title": "Are Data Centers to Blame for Rising Electricity Prices?",
-      "summary": "John Farrell argues that America's electricity monopoly model is ultimately responsible for skyrocketing energy costs.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1f60fb3caa6fbf06/6af230f263734c2405c91e31/Rising-Enegy-Costs.jpg?branch=production"
-    },
-    {
-      "title": "Weight-Loss Drugs May Help Sleep Apnea and Arthritis",
-      "summary": "Eli Lilly reported results from new studies exploring the effects of its GLP-1 weight-loss drugs on sleep apnea and arthritis.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf157f767ea41e7c5/6af21b5463734c46dbc91dfa/GettyImages-2275860760.jpg?branch=production"
     }
   ]
 }
