@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T22:30:59.851842+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-10T22:45:48.543028+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
     "How Israel Will Choose Its Next Prime Minister, Explained",
     "Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?",
     "Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term",
-    "House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses",
-    "Trump and Venezuela’s Elusive Elections"
+    "House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses"
   ],
   "articles": [
+    {
+      "title": "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
+      "summary": "At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challenges and gains in the clean energy transition and the importance of bringing youth into the climate fight. Five honorees spoke about what gives them hope: Global Citizen co-founder Michael Sheldrick , president and CEO of the World Resources Institute Ani Dasgupta , Telemundo journalist Vanessa Hauc , CEO of CrossBoundary Energy and managing partner of Cr",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51e72d411f0852da/6af3972bd52f4969bb03943c/_ZBY8260.jpg?branch=production"
+    },
     {
       "title": "How Israel Will Choose Its Next Prime Minister, Explained",
       "summary": "Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s next government. It’s the first of several steps necessary to determine the next Prime Minister—but a potentially months-long process could leave Benjamin Netanyahu in power for the foreseeable future. With Herzog’s nod, Eisenkot was given 28 days, through Dec. 6, with a possible 14-day extension, to assemble a government that can win the confidence of t",
@@ -29,11 +34,6 @@
       "title": "House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses",
       "summary": "Rep. Jim Jordan of Ohio will become the next House Minority Leader after beating out the party’s current Majority Leader Rep. Steve Scalise of Louisiana for the position. Jordan, a hard-line conservative and Trump ally who’s served in Congress for nearly two decades and currently chairs the House Judiciary Committee, secured the role in a secret ballot vote of 106-73. The Ohio lawmaker announced his bid for the top Republican position in the lower chamber in the next Congress after Speaker of the House Mike Johnson",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt795cb7032ff507bd/6af372f73c8cbec1b1efc7ea/jim-jordan-house-minority-leader-congress.jpg?branch=production"
-    },
-    {
-      "title": "Trump and Venezuela’s Elusive Elections",
-      "summary": "When will Venezuela hold elections? More than nine months after the capture and extraction of the country’s strongman, Nicolás Maduro in a military raid ordered by President Donald Trump, there are still no clear answers . On Oct. 27, María Corina Machado, the country’s most prominent opposition leader, returned to Caracas after about a year in exile, thanked the Trump Administration for removing Maduro, and expressed faith that an election would be held in Venezuela in 2027. In the predawn hours of Jan. 3, U.S. Sp",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39b56343d06c08e2/6af3480362c30633234bb200/GettyImages-2301602975.jpg?branch=production"
     }
   ]
 }

@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f7abb00f696a9d831a777dc9f23212fc533d65c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4061bff1fb72f24fe1197f5ae018d10b30a56cd2/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f7abb00f696a9d831a777dc9f23212fc533d65c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Rep. Jim Jordan of Ohio will become the next House Minority Leader after beating out the party’s current Majority Leader Rep. Steve Scalise of Louisiana for the pos…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4061bff1fb72f24fe1197f5ae018d10b30a56cd2/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challen…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f7abb00f696a9d831a777dc9f23212fc533d65c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Rep. Jim Jordan of Ohio will become the next House Minority Leader after beating out the party’s current Majority Leader Rep. Steve Scalise of Louisiana for the position. Jordan, a hard-line conservative and Trump ally who’s served in Congress for nearly two decades and currently chairs the House Judiciary Committee, secured the role in a secret ballot vote of 106-73. The Ohio lawmaker announced his bid for the top Republican position in the lower chamber in the ne…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4061bff1fb72f24fe1197f5ae018d10b30a56cd2/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challenges and gains in the clean energy transition and the importance of bringing youth into the climate fight. Five honorees spoke about what gives them hope: Global Citizen co-founder Michael Sheldrick , president and CEO of the World Resources Institute Ani Dasgupta , Telemundo journalist Vanessa Hauc , CEO…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">House Republicans Selec…</text>
+      <text hint-style="caption">Climate Leaders Toast t…</text>
     </binding>
   </visual>
 </tile>
