@@ -64,6 +64,9 @@ def decode_entities(s):
     return s
 
 
+BODY_TARGET = 520   # 磁贴正文的目标长度，覆盖 large 绑定的 470 字上限
+
+
 def parse_items(xml_text):
     items = []
     pos = 0
@@ -101,31 +104,47 @@ def parse_items(xml_text):
                     if e > 0:
                         img = decode_entities(chunk[u + 5:e])
 
-        # summary text: <description> holds a plain sentence in the TIME feed
-        summary = ""
+        # Body text for the tile.
+        # The TIME feed's <description> is often a single short sentence, which
+        # left the wide/large tiles half empty: an 80-char blurb renders as two
+        # lines even though the binding allows four. <content:encoded> carries the
+        # real lede, so prefer it and keep <description> as the fallback.
+        desc = ""
         d1, d2 = chunk.find("<description>"), chunk.find("</description>")
         if d1 >= 0 and d2 > d1:
-            summary = chunk[d1 + 13:d2].strip().replace("<![CDATA[", "").replace("]]>", "").strip()
-            summary = decode_entities(summary)
-            summary = re.sub(r"<[^>]+>", " ", summary)
-            summary = re.sub(r"\s+", " ", summary).strip()
-        # fall back to the first paragraph of content:encoded
-        if not summary:
-            c1, c2 = chunk.find("<content:encoded>"), chunk.find("</content:encoded>")
-            if c1 >= 0 and c2 > c1:
-                ce = chunk[c1 + 17:c2].replace("<![CDATA[", "").replace("]]>", "")
-                # Some posts (shopping round-ups) ship no <description> at all, and
-                # their first paragraph carries attributes or inline tags, so the
-                # old strict "<p>...</p>" match came back empty and the tile lost
-                # its body text. Accept attributes/inline markup, then fall back to
-                # stripping every tag from the whole body.
-                m = re.search(r"<p[^>]*>(.*?)</p>", ce, re.S)
-                if m:
-                    inner = re.sub(r"<[^>]+>", " ", m.group(1))
-                    summary = re.sub(r"\s+", " ", decode_entities(inner)).strip()
-                if not summary:
-                    flat = re.sub(r"<[^>]+>", " ", ce)
-                    summary = re.sub(r"\s+", " ", decode_entities(flat)).strip()
+            desc = chunk[d1 + 13:d2].strip().replace("<![CDATA[", "").replace("]]>", "").strip()
+            desc = decode_entities(desc)
+            desc = re.sub(r"<[^>]+>", " ", desc)
+            desc = re.sub(r"\s+", " ", desc).strip()
+
+        body = ""
+        c1, c2 = chunk.find("<content:encoded>"), chunk.find("</content:encoded>")
+        if c1 >= 0 and c2 > c1:
+            ce = chunk[c1 + 17:c2].replace("<![CDATA[", "").replace("]]>", "")
+            # Some posts (shopping round-ups) ship no <description> at all, and
+            # their first paragraph carries attributes or inline tags, so the
+            # old strict "<p>...</p>" match came back empty and the tile lost
+            # its body text. Accept attributes/inline markup, then fall back to
+            # stripping every tag from the whole body.
+            parts = []
+            for p in re.findall(r"<p[^>]*>(.*?)</p>", ce, re.S):
+                txt = re.sub(r"\s+", " ", decode_entities(re.sub(r"<[^>]+>", " ", p))).strip()
+                # photo captions and credits are short and read badly on a tile
+                if len(txt) < 40 or txt[:40].lower() in [q[:40].lower() for q in parts]:
+                    continue
+                parts.append(txt)
+                if sum(len(x) for x in parts) >= BODY_TARGET:
+                    break
+            body = re.sub(r"\s+", " ", " ".join(parts)).strip()[:BODY_TARGET]
+            if not body:
+                flat = re.sub(r"<[^>]+>", " ", ce)
+                body = re.sub(r"\s+", " ", decode_entities(flat)).strip()[:BODY_TARGET]
+
+        # the encoded body only wins when it is both usable and not shorter
+        if len(body) >= 120 and len(body) >= len(desc):
+            summary = body
+        else:
+            summary = desc or body
 
         if title:
             items.append({"title": title, "summary": summary, "image": img})
