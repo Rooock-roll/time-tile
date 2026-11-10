@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c108dcefe4a11a361e26031c9a36231bca99de6c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@088e63f5c40315e5802a82edef52aa69bd924f35/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c108dcefe4a11a361e26031c9a36231bca99de6c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@088e63f5c40315e5802a82edef52aa69bd924f35/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Imagine you’ve just washed your hands, and there’s no towel. Give them a gentle shake, and then let your arms join in. That’s the start of a stress-management exerc…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c108dcefe4a11a361e26031c9a36231bca99de6c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@088e63f5c40315e5802a82edef52aa69bd924f35/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Imagine you’ve just washed your hands, and there’s no towel. Give them a gentle shake, and then let your arms join in. That’s the start of a stress-management exercise that may help loosen your tense muscles and give you a break from anxious thoughts , says Kim Penberthy, a clinical psychologist and professor of research in psychiatric medicine at the UVA School of Medicine. It’s a small movement experiment—sometimes called somatic shaking—that takes a minute or le…</text>
     </binding>
