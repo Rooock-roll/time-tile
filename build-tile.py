@@ -114,9 +114,18 @@ def parse_items(xml_text):
             c1, c2 = chunk.find("<content:encoded>"), chunk.find("</content:encoded>")
             if c1 >= 0 and c2 > c1:
                 ce = chunk[c1 + 17:c2].replace("<![CDATA[", "").replace("]]>", "")
-                m = re.search(r"<p>([^<]{40,})</p>", ce)
+                # Some posts (shopping round-ups) ship no <description> at all, and
+                # their first paragraph carries attributes or inline tags, so the
+                # old strict "<p>...</p>" match came back empty and the tile lost
+                # its body text. Accept attributes/inline markup, then fall back to
+                # stripping every tag from the whole body.
+                m = re.search(r"<p[^>]*>(.*?)</p>", ce, re.S)
                 if m:
-                    summary = re.sub(r"\s+", " ", decode_entities(m.group(1))).strip()
+                    inner = re.sub(r"<[^>]+>", " ", m.group(1))
+                    summary = re.sub(r"\s+", " ", decode_entities(inner)).strip()
+                if not summary:
+                    flat = re.sub(r"<[^>]+>", " ", ce)
+                    summary = re.sub(r"\s+", " ", decode_entities(flat)).strip()
 
         if title:
             items.append({"title": title, "summary": summary, "image": img})
