@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@14c705b80afe7ff1569107c2ff61c0a43d6e85db/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@19b0258eda16475664c6fb06885af06ebb9dbf1a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@14c705b80afe7ff1569107c2ff61c0a43d6e85db/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The best exercises and treatments for your sciatica depend on what’s causing it.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@19b0258eda16475664c6fb06885af06ebb9dbf1a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Channel your inner wet dog.</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@14c705b80afe7ff1569107c2ff61c0a43d6e85db/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Relieve Sciatica Pain—and What Makes It Worse</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The best exercises and treatments for your sciatica depend on what’s causing it.</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@19b0258eda16475664c6fb06885af06ebb9dbf1a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Try Somatic Shaking for Stress Relief</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Channel your inner wet dog.</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Relieve Sciatica…</text>
+      <text hint-style="caption">How to Try Somatic Shak…</text>
     </binding>
   </visual>
 </tile>
