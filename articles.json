@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T13:45:44.139787+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-10T14:01:21.032082+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis",
     "Inside the Troubling Rise of TeleICUs",
     "How Democrats Can Win Florida in 2028",
     "The Democratic Wins No Election Forecaster Expected",
-    "What Making a Film About Iran Taught Me About Power",
-    "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn"
+    "What Making a Film About Iran Taught Me About Power"
   ],
   "articles": [
+    {
+      "title": "TIME's Kid of the Year Is Helping First Responders Comfort Children in Crisis",
+      "summary": "Inspired by his own experiences with autism, 9-year-old Ledger Mann created emergency comfort kits for children in crisis. His idea has now spread to six states.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf9106055053a5e89/6af1f78263734cb7b5c91d8b/koty-2026-ledger-mann-2.jpg?branch=production"
+    },
     {
       "title": "Inside the Troubling Rise of TeleICUs",
       "summary": "More hospitals are using remote critical-care doctors as they struggle with costs. Yet patient care can suffer, experts say.",
@@ -29,11 +34,6 @@
       "title": "What Making a Film About Iran Taught Me About Power",
       "summary": "Iran is a country oppressed by its laws. It is also a country full of people who have become extraordinarily adept at navigating them.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb3dff951fbaccf66/6af1fba0d52f493454038d42/GettyImages-2272159716_(1).jpg?branch=production"
-    },
-    {
-      "title": "Congress’s Permitting Bill Is a ‘Massive Giveaway’ to the AI Data Center Industry, Critics Warn",
-      "summary": "A bipartisan bill has come under fire from environmentalists who argue that it will facilitate gas-powered data center construction.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltac212794d01b2b98/6af22b0563734cc840c91e1d/GettyImages-2300814821.jpg?branch=production"
     }
   ]
 }
