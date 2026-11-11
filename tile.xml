@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@26326e55a56bbc5b2ee1135a3695cc6e7189836d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb220dfaa9f48eecd911fdba7672256f94acad05/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@26326e55a56bbc5b2ee1135a3695cc6e7189836d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Defense Secretary Pete Hegseth narrowly escaped an impeachment attempt Tuesday after the Republican-led House voted against a resolution filed by a GOP lawmaker. Wh…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb220dfaa9f48eecd911fdba7672256f94acad05/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In the two years since President Donald Trump was re-elected to the White House, his reported net worth has spiked by billions of dollars. Between 2024—during his p…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@26326e55a56bbc5b2ee1135a3695cc6e7189836d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Defense Secretary Pete Hegseth narrowly escaped an impeachment attempt Tuesday after the Republican-led House voted against a resolution filed by a GOP lawmaker. While Hegseth has been granted a reprieve, it's possible the Democrats could revive the effort in January, when they take control of both the House and Senate following sweeping victories in the midterms. The House voted 211-204 to defeat the measure reintroduced Monday by Rep. Thomas Massie of Kentucky. T…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb220dfaa9f48eecd911fdba7672256f94acad05/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In the two years since President Donald Trump was re-elected to the White House, his reported net worth has spiked by billions of dollars. Between 2024—during his presidential campaign—and 2025, Trump’s net worth rose from $4.3 billion to $7.3 billion, according to a Forbes report published in September 2025. The President’s total net worth has dipped somewhat since then, with Forbes reporting this September that it had fallen to $7 billion in 2026. As of Tuesday, …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Hegseth Could Still Be …</text>
+      <text hint-style="caption">Trump Says 'You Should'…</text>
     </binding>
   </visual>
 </tile>
