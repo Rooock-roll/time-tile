@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@11a514e2304de1df4dd202a7ddc2ed6a5dacd504/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ccfd1378fd2d762c601f9018103e813a20014f09/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@11a514e2304de1df4dd202a7ddc2ed6a5dacd504/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ccfd1378fd2d762c601f9018103e813a20014f09/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Defense Secretary Pete Hegseth could become the third Cabinet secretary to be impeached in U.S. history after a Republican lawmaker reintroduced a resolution forcin…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@11a514e2304de1df4dd202a7ddc2ed6a5dacd504/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ccfd1378fd2d762c601f9018103e813a20014f09/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Defense Secretary Pete Hegseth could become the third Cabinet secretary to be impeached in U.S. history after a Republican lawmaker reintroduced a resolution forcing the House to take up the vote. Rep. Thomas Massie of Kentucky filed eight articles of impeachment Monday, accusing Hegseth of violating the War Powers Resolution of 1973 , citing the lack of congressional oversight on the Iran war which Massie argues was “unlawful from its inception.” Another charge ac…</text>
     </binding>
