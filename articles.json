@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-11T14:01:20.550084+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-11T14:15:47.438368+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
     "How to Check in on Your Friendships",
     "Breaking Down the Wicked Finale of Netflix's The Body",
     "Kennedy Family Members Sue to Stop Construction of Trump Arch",
-    "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
-    "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31"
+    "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January"
   ],
   "articles": [
+    {
+      "title": "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
+      "summary": "Richard Avedon , whose career began in the early 1940s and ended with his death, following a cerebral hemorrhage, in 2004, was one of the greatest fashion photographers of his era. Even if you think you don’t care about fashion, you’ve probably been awed by his 1955 Dovima With Elephants, in which the supermodel Dovima, draped in a two-tone Dior gown, stands regally between two pachyderms, her arms outstretched as if to read their magnificence with her fingertips. Compositionally, it’s perfect. But it also links th",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt84cc0421a7478a69/6af34ab85a73336ab333a369/Richard_Avedon_working_on_his_In_the_American_West_series_c._1985_(Photo_by_Susan_Middleton).jpg?branch=production"
+    },
     {
       "title": "How to Check in on Your Friendships",
       "summary": "You know your best friend’s coffee order, complicated family dynamics, and feelings about her boss. But you might not know whether she wishes you called more—or how much she appreciated that text you sent last week. “We have this expectation that friendships should be easy, that we should always be affirmed, that our friends are kind of there forever,” says Nick Fager, a therapist in New York. Yet the people you want in your life for the long haul need care and attention. That’s why he encourages clients to do frie",
@@ -29,11 +34,6 @@
       "title": "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
       "summary": "The Republican-led House on Tuesday narrowly rejected a push to impeach Defense Secretary Pete Hegseth over unauthorized military hostilities in Iran, Venezuela and Yemen, shielding one of President Donald Trump's closest allies from an immediate reckoning but setting the stage for a renewed confrontation when Democrats take control of Congress in January. The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie of Kentucky, a Republican who has repeatedly clashed with Trump, preventing lawmaker",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltedadd1a353ea77b5/6af38230caf94b8024741ce2/GettyImages-2302591104.jpg?branch=production"
-    },
-    {
-      "title": "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
-      "summary": "At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challenges and gains in the clean energy transition and the importance of bringing youth into the climate fight. Five honorees spoke about what gives them hope: Global Citizen co-founder Michael Sheldrick , president and CEO of the World Resources Institute Ani Dasgupta , Telemundo journalist Vanessa Hauc , CEO of CrossBoundary Energy and managing partner of Cr",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51e72d411f0852da/6af3972bd52f4969bb03943c/_ZBY8260.jpg?branch=production"
     }
   ]
 }
