@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@57dc88ad58c57a3983c2e3c104aa0607bfb6ab88/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Good Daughter Is One Exhausting Trauma Dump After Another</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@94fb384fa18d0701fda78885b2ca076794fec9b4/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@57dc88ad58c57a3983c2e3c104aa0607bfb6ab88/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Good Daughter Is One Exhausting Trauma Dump After Another</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact reveng…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@94fb384fa18d0701fda78885b2ca076794fec9b4/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@57dc88ad58c57a3983c2e3c104aa0607bfb6ab88/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Good Daughter Is One Exhausting Trauma Dump After Another</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact revenge on a small-town Georgia defense lawyer invade his home to find only his wife and two daughters. This nightmare continues that day and reverberates through the girls’ adult lives. Front-loading this key trauma allows the Peacock series, premiering Nov. 12, to make it the basis of maybe a dozen more trau…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@94fb384fa18d0701fda78885b2ca076794fec9b4/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Good Daughter Is On…</text>
+      <text hint-style="caption">Meet Teddy Riner, the D…</text>
     </binding>
   </visual>
 </tile>

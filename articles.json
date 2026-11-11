@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-11T19:46:04.083715+00:00",
+  "updated": "2026-11-11T20:01:42.461376+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Meet Teddy Riner, the Decorated Olympian Running for French President",
     "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
     "The Good Daughter Is One Exhausting Trauma Dump After Another",
     "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
-    "How to Check in on Your Friendships",
-    "Breaking Down the Wicked Finale of Netflix's The Body"
+    "How to Check in on Your Friendships"
   ],
   "articles": [
+    {
+      "title": "Meet Teddy Riner, the Decorated Olympian Running for French President",
+      "summary": "The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad, then yes, I am completely mad.” Referencing the w",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb99ca459488b7459/6af4b7ca3c8cbe398aefce9d/GettyImages-2171178656.jpg?branch=production"
+    },
     {
       "title": "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
       "summary": "Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have stepped down. Read more: Joe and Jill Biden: We’re Changing How We Fight Cancer In an interview with PEOPLE , the former President was asked if he would have done anything differently during the 2024 election . “What I can’t say, because there’s no evidence of it—if I had known that I was feeling lousy because I had cancer, I would have resigned,” Biden",
@@ -29,11 +34,6 @@
       "title": "How to Check in on Your Friendships",
       "summary": "You know your best friend’s coffee order, complicated family dynamics, and feelings about her boss. But you might not know whether she wishes you called more—or how much she appreciated that text you sent last week. “We have this expectation that friendships should be easy, that we should always be affirmed, that our friends are kind of there forever,” says Nick Fager, a therapist in New York. Yet the people you want in your life for the long haul need care and attention. That’s why he encourages clients to do frie",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5d96e9674e8756bd/6af375a57ce30b541a1eba1a/TIME_TO_TALK_Friends_Talk.png?branch=production"
-    },
-    {
-      "title": "Breaking Down the Wicked Finale of Netflix's The Body",
-      "summary": "Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes of which are now streaming. But it's certainly not t",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc3af6800aa1ccf99/6aeccea046dffe99dad9c9a5/The-Body-Lisbeth.jpg?branch=production"
     }
   ]
 }
