@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6e897757204aca794c8a535f9de5f7ae8360cec0/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Check in on Your Friendships</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3702710d6620f6b3e2fab8e722de802b251dc073/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6e897757204aca794c8a535f9de5f7ae8360cec0/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Check in on Your Friendships</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">You know your best friend’s coffee order, complicated family dynamics, and feelings about her boss. But you might not know whether she wishes you called more—or how…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3702710d6620f6b3e2fab8e722de802b251dc073/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members o…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6e897757204aca794c8a535f9de5f7ae8360cec0/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Check in on Your Friendships</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">You know your best friend’s coffee order, complicated family dynamics, and feelings about her boss. But you might not know whether she wishes you called more—or how much she appreciated that text you sent last week. “We have this expectation that friendships should be easy, that we should always be affirmed, that our friends are kind of there forever,” says Nick Fager, a therapist in New York. Yet the people you want in your life for the long haul need care and att…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3702710d6620f6b3e2fab8e722de802b251dc073/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes o…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Check in on Your…</text>
+      <text hint-style="caption">Breaking Down the Wicke…</text>
     </binding>
   </visual>
 </tile>
