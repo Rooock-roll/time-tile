@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-11T13:15:45.162967+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-11T13:31:05.951442+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How to Check in on Your Friendships",
     "Breaking Down the Wicked Finale of Netflix's The Body",
     "Kennedy Family Members Sue to Stop Construction of Trump Arch",
     "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
-    "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
-    "How Israel Will Choose Its Next Prime Minister, Explained"
+    "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31"
   ],
   "articles": [
+    {
+      "title": "How to Check in on Your Friendships",
+      "summary": "You know your best friend’s coffee order, complicated family dynamics, and feelings about her boss. But you might not know whether she wishes you called more—or how much she appreciated that text you sent last week. “We have this expectation that friendships should be easy, that we should always be affirmed, that our friends are kind of there forever,” says Nick Fager, a therapist in New York. Yet the people you want in your life for the long haul need care and attention. That’s why he encourages clients to do frie",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5d96e9674e8756bd/6af375a57ce30b541a1eba1a/TIME_TO_TALK_Friends_Talk.png?branch=production"
+    },
     {
       "title": "Breaking Down the Wicked Finale of Netflix's The Body",
       "summary": "Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes of which are now streaming. But it's certainly not t",
@@ -29,11 +34,6 @@
       "title": "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
       "summary": "At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challenges and gains in the clean energy transition and the importance of bringing youth into the climate fight. Five honorees spoke about what gives them hope: Global Citizen co-founder Michael Sheldrick , president and CEO of the World Resources Institute Ani Dasgupta , Telemundo journalist Vanessa Hauc , CEO of CrossBoundary Energy and managing partner of Cr",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51e72d411f0852da/6af3972bd52f4969bb03943c/_ZBY8260.jpg?branch=production"
-    },
-    {
-      "title": "How Israel Will Choose Its Next Prime Minister, Explained",
-      "summary": "Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s next government. It’s the first of several steps necessary to determine the next Prime Minister—but a potentially months-long process could leave Benjamin Netanyahu in power for the foreseeable future. With Herzog’s nod, Eisenkot was given 28 days, through Dec. 6, with a possible 14-day extension, to assemble a government that can win the confidence of t",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd81c02283fcfb9cb/6af36af2cdd40876124d49d7/GettyImages-2303710471.jpg?branch=production"
     }
   ]
 }
