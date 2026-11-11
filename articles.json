@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-10T23:45:42.554453+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-11T00:01:17.044761+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
     "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
     "How Israel Will Choose Its Next Prime Minister, Explained",
     "Hegseth Could Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?",
-    "Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term",
-    "House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses"
+    "Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term"
   ],
   "articles": [
+    {
+      "title": "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
+      "summary": "The Republican-led House on Tuesday narrowly rejected a push to impeach Defense Secretary Pete Hegseth over unauthorized military hostilities in Iran, Venezuela and Yemen, shielding one of President Donald Trump's closest allies from an immediate reckoning but setting the stage for a renewed confrontation when Democrats take control of Congress in January. The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie of Kentucky, a Republican who has repeatedly clashed with Trump, preventing lawmaker",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltedadd1a353ea77b5/6af38230caf94b8024741ce2/GettyImages-2302591104.jpg?branch=production"
+    },
     {
       "title": "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
       "summary": "At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challenges and gains in the clean energy transition and the importance of bringing youth into the climate fight. Five honorees spoke about what gives them hope: Global Citizen co-founder Michael Sheldrick , president and CEO of the World Resources Institute Ani Dasgupta , Telemundo journalist Vanessa Hauc , CEO of CrossBoundary Energy and managing partner of Cr",
@@ -29,11 +34,6 @@
       "title": "Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term",
       "summary": "In the two years since President Donald Trump was re-elected to the White House, his reported net worth has spiked by billions of dollars. Between 2024—during his presidential campaign—and 2025, Trump’s net worth rose from $4.3 billion to $7.3 billion, according to a Forbes report published in September 2025. The President’s total net worth has dipped somewhat since then, with Forbes reporting this September that it had fallen to $7 billion in 2026. As of Tuesday, the outlet estimates that the figure has dropped st",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2d05c2c33870dc10/6af37f95d52f495d1c039404/Trump-Net-Worth.jpg?branch=production"
-    },
-    {
-      "title": "House Republicans Select Jim Jordan as Their New Leader After Sweeping Midterm Losses",
-      "summary": "Rep. Jim Jordan of Ohio will become the next House Minority Leader after beating out the party’s current Majority Leader Rep. Steve Scalise of Louisiana for the position. Jordan, a hard-line conservative and Trump ally who’s served in Congress for nearly two decades and currently chairs the House Judiciary Committee, secured the role in a secret ballot vote of 106-73. The Ohio lawmaker announced his bid for the top Republican position in the lower chamber in the next Congress after Speaker of the House Mike Johnson",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt795cb7032ff507bd/6af372f73c8cbec1b1efc7ea/jim-jordan-house-minority-leader-congress.jpg?branch=production"
     }
   ]
 }
