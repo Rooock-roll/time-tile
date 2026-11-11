@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4a033cef749877495a9ba95986be0a0293a557c3/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f6188d9140010c71d0ce8114cc3c19269c527f89/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Kennedy Family Members Sue to Stop Construction of Trump Arch</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4a033cef749877495a9ba95986be0a0293a557c3/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f6188d9140010c71d0ce8114cc3c19269c527f89/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Kennedy Family Members Sue to Stop Construction of Trump Arch</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Kennedys have sued to stop construction of President Donald Trump’s “triumphal” arch . On Tuesday, nine members of the dynastic political family filed a motion …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4a033cef749877495a9ba95986be0a0293a557c3/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f6188d9140010c71d0ce8114cc3c19269c527f89/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Kennedy Family Members Sue to Stop Construction of Trump Arch</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Kennedys have sued to stop construction of President Donald Trump’s “triumphal” arch . On Tuesday, nine members of the dynastic political family filed a motion in federal court in Washington, D.C., to block the arch from being built, arguing that it would obstruct views of the family’s gravesites at Arlington National Cemetery, including that of President John F. Kennedy. “This action is about protecting sacred spaces that belong to the American people,” Rory K…</text>
     </binding>
