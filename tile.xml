@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@446b0f63c968076edf27645bc0ef8e6bcd3a9d9d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Avedon Is a Gracefully Constructed Documentary About a Great American Photographer</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@989cbc64273fda09607130fd51a584bfdcd67c8e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@446b0f63c968076edf27645bc0ef8e6bcd3a9d9d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Avedon Is a Gracefully Constructed Documentary About a Great American Photographer</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Richard Avedon , whose career began in the early 1940s and ended with his death, following a cerebral hemorrhage, in 2004, was one of the greatest fashion photograp…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@989cbc64273fda09607130fd51a584bfdcd67c8e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking anothe…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@446b0f63c968076edf27645bc0ef8e6bcd3a9d9d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Avedon Is a Gracefully Constructed Documentary About a Great American Photographer</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Richard Avedon , whose career began in the early 1940s and ended with his death, following a cerebral hemorrhage, in 2004, was one of the greatest fashion photographers of his era. Even if you think you don’t care about fashion, you’ve probably been awed by his 1955 Dovima With Elephants, in which the supermodel Dovima, draped in a two-tone Dior gown, stands regally between two pachyderms, her arms outstretched as if to read their magnificence with her fingertips. …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@989cbc64273fda09607130fd51a584bfdcd67c8e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday. Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in the…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Avedon Is a Gracefully …</text>
+      <text hint-style="caption">Scott Colom Wins Nail-B…</text>
     </binding>
   </visual>
 </tile>

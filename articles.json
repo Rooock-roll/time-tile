@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-11T23:16:11.510585+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-11T23:31:31.766977+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
     "Meet Teddy Riner, the Decorated Olympian Running for French President",
     "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
     "The Good Daughter Is One Exhausting Trauma Dump After Another",
-    "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
-    "How to Check in on Your Friendships"
+    "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer"
   ],
   "articles": [
+    {
+      "title": "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
+      "summary": "Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday. Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in the 2024 presidential election by nearly 23 points. Re",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte0056fbbec4a58d0/6aed0bef4eb3c7830417957b/mississippi-senate-scott-colom-midterm-elections.jpg?branch=production"
+    },
     {
       "title": "Meet Teddy Riner, the Decorated Olympian Running for French President",
       "summary": "The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad, then yes, I am completely mad.” Referencing the w",
@@ -29,11 +34,6 @@
       "title": "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
       "summary": "Richard Avedon , whose career began in the early 1940s and ended with his death, following a cerebral hemorrhage, in 2004, was one of the greatest fashion photographers of his era. Even if you think you don’t care about fashion, you’ve probably been awed by his 1955 Dovima With Elephants, in which the supermodel Dovima, draped in a two-tone Dior gown, stands regally between two pachyderms, her arms outstretched as if to read their magnificence with her fingertips. Compositionally, it’s perfect. But it also links th",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt84cc0421a7478a69/6af34ab85a73336ab333a369/Richard_Avedon_working_on_his_In_the_American_West_series_c._1985_(Photo_by_Susan_Middleton).jpg?branch=production"
-    },
-    {
-      "title": "How to Check in on Your Friendships",
-      "summary": "You know your best friend’s coffee order, complicated family dynamics, and feelings about her boss. But you might not know whether she wishes you called more—or how much she appreciated that text you sent last week. “We have this expectation that friendships should be easy, that we should always be affirmed, that our friends are kind of there forever,” says Nick Fager, a therapist in New York. Yet the people you want in your life for the long haul need care and attention. That’s why he encourages clients to do frie",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5d96e9674e8756bd/6af375a57ce30b541a1eba1a/TIME_TO_TALK_Friends_Talk.png?branch=production"
     }
   ]
 }
