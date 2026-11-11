@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cdead9c8f18e35a59657f7efd8c20e1a3d93cfe2/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@39891e7770c234fa8d5f988f78ad927e9075dab8/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Biden Says He Would Have Stepped Down If He Knew He Had Cancer</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cdead9c8f18e35a59657f7efd8c20e1a3d93cfe2/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members o…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@39891e7770c234fa8d5f988f78ad927e9075dab8/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Biden Says He Would Have Stepped Down If He Knew He Had Cancer</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cdead9c8f18e35a59657f7efd8c20e1a3d93cfe2/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes o…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@39891e7770c234fa8d5f988f78ad927e9075dab8/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Biden Says He Would Have Stepped Down If He Knew He Had Cancer</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have stepped down. Read more: Joe and Jill Biden: We’re Changing How We Fight Cancer In an interview with PEOPLE , the former President was asked if he would have done anything differently during the 2024 election . “What I can’t say, because there’s no evidence of it—if I had known that I was feeling lousy …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Breaking Down the Wicke…</text>
+      <text hint-style="caption">Biden Says He Would Hav…</text>
     </binding>
   </visual>
 </tile>
