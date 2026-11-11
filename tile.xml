@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@153f7fcf24778aed70145c568c78b9bfc84c3bd6/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5b2ffa9b81b568042bf662667a7c6c7c4e4babc/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Israel Will Choose Its Next Prime Minister, Explained</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@153f7fcf24778aed70145c568c78b9bfc84c3bd6/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5b2ffa9b81b568042bf662667a7c6c7c4e4babc/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Israel Will Choose Its Next Prime Minister, Explained</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@153f7fcf24778aed70145c568c78b9bfc84c3bd6/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5b2ffa9b81b568042bf662667a7c6c7c4e4babc/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Israel Will Choose Its Next Prime Minister, Explained</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s next government. It’s the first of several steps necessary to determine the next Prime Minister—but a potentially months-long process could leave Benjamin Netanyahu in power for the foreseeable future. With Herzog’s nod, Eisenkot was given 28 days, through Dec. 6, with a possible 14-day extension, to ass…</text>
     </binding>
