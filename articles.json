@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-11T16:15:45.641929+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-11T16:30:43.172686+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Good Daughter Is One Exhausting Trauma Dump After Another",
     "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
     "How to Check in on Your Friendships",
     "Breaking Down the Wicked Finale of Netflix's The Body",
-    "Kennedy Family Members Sue to Stop Construction of Trump Arch",
-    "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January"
+    "Kennedy Family Members Sue to Stop Construction of Trump Arch"
   ],
   "articles": [
+    {
+      "title": "The Good Daughter Is One Exhausting Trauma Dump After Another",
+      "summary": "The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact revenge on a small-town Georgia defense lawyer invade his home to find only his wife and two daughters. This nightmare continues that day and reverberates through the girls’ adult lives. Front-loading this key trauma allows the Peacock series, premiering Nov. 12, to make it the basis of maybe a dozen more trauma dumps over the course of its six gloomy episodes",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta89488f3d77cd3f8/6af3325c5a7333257c33a277/NUP_211706_00001.JPG?branch=production"
+    },
     {
       "title": "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
       "summary": "Richard Avedon , whose career began in the early 1940s and ended with his death, following a cerebral hemorrhage, in 2004, was one of the greatest fashion photographers of his era. Even if you think you don’t care about fashion, you’ve probably been awed by his 1955 Dovima With Elephants, in which the supermodel Dovima, draped in a two-tone Dior gown, stands regally between two pachyderms, her arms outstretched as if to read their magnificence with her fingertips. Compositionally, it’s perfect. But it also links th",
@@ -29,11 +34,6 @@
       "title": "Kennedy Family Members Sue to Stop Construction of Trump Arch",
       "summary": "The Kennedys have sued to stop construction of President Donald Trump’s “triumphal” arch . On Tuesday, nine members of the dynastic political family filed a motion in federal court in Washington, D.C., to block the arch from being built, arguing that it would obstruct views of the family’s gravesites at Arlington National Cemetery, including that of President John F. Kennedy. “This action is about protecting sacred spaces that belong to the American people,” Rory Kennedy and Maxwell Kennedy, two of the plaintiffs a",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt43700cebe2d52402/6af440e662c306b85d4bb64b/arlington_cemetery.jpg?branch=production"
-    },
-    {
-      "title": "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
-      "summary": "The Republican-led House on Tuesday narrowly rejected a push to impeach Defense Secretary Pete Hegseth over unauthorized military hostilities in Iran, Venezuela and Yemen, shielding one of President Donald Trump's closest allies from an immediate reckoning but setting the stage for a renewed confrontation when Democrats take control of Congress in January. The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie of Kentucky, a Republican who has repeatedly clashed with Trump, preventing lawmaker",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltedadd1a353ea77b5/6af38230caf94b8024741ce2/GettyImages-2302591104.jpg?branch=production"
     }
   ]
 }
