@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-11T17:01:47.689257+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-11T17:16:14.179715+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
     "The Good Daughter Is One Exhausting Trauma Dump After Another",
     "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
     "How to Check in on Your Friendships",
-    "Breaking Down the Wicked Finale of Netflix's The Body",
-    "Kennedy Family Members Sue to Stop Construction of Trump Arch"
+    "Breaking Down the Wicked Finale of Netflix's The Body"
   ],
   "articles": [
+    {
+      "title": "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
+      "summary": "Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have stepped down. Read more: Joe and Jill Biden: We’re Changing How We Fight Cancer In an interview with PEOPLE , the former President was asked if he would have done anything differently during the 2024 election . “What I can’t say, because there’s no evidence of it—if I had known that I was feeling lousy because I had cancer, I would have resigned,” Biden",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcf41d65e7aee98f7/6af4920df7a51fc40f6214a6/Biden-PEOPLE-Interview.jpg?branch=production"
+    },
     {
       "title": "The Good Daughter Is One Exhausting Trauma Dump After Another",
       "summary": "The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact revenge on a small-town Georgia defense lawyer invade his home to find only his wife and two daughters. This nightmare continues that day and reverberates through the girls’ adult lives. Front-loading this key trauma allows the Peacock series, premiering Nov. 12, to make it the basis of maybe a dozen more trauma dumps over the course of its six gloomy episodes",
@@ -29,11 +34,6 @@
       "title": "Breaking Down the Wicked Finale of Netflix's The Body",
       "summary": "Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes of which are now streaming. But it's certainly not t",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc3af6800aa1ccf99/6aeccea046dffe99dad9c9a5/The-Body-Lisbeth.jpg?branch=production"
-    },
-    {
-      "title": "Kennedy Family Members Sue to Stop Construction of Trump Arch",
-      "summary": "The Kennedys have sued to stop construction of President Donald Trump’s “triumphal” arch . On Tuesday, nine members of the dynastic political family filed a motion in federal court in Washington, D.C., to block the arch from being built, arguing that it would obstruct views of the family’s gravesites at Arlington National Cemetery, including that of President John F. Kennedy. “This action is about protecting sacred spaces that belong to the American people,” Rory Kennedy and Maxwell Kennedy, two of the plaintiffs a",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt43700cebe2d52402/6af440e662c306b85d4bb64b/arlington_cemetery.jpg?branch=production"
     }
   ]
 }
