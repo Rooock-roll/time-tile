@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7581f09ebf117fe217d2fc2e1383d3a201b17263/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@945b25bb4f623cd7576fbd45536227d9fdd13aff/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7581f09ebf117fe217d2fc2e1383d3a201b17263/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@945b25bb4f623cd7576fbd45536227d9fdd13aff/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Republican-led House on Tuesday narrowly rejected a push to impeach Defense Secretary Pete Hegseth over unauthorized military hostilities in Iran, Venezuela and…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7581f09ebf117fe217d2fc2e1383d3a201b17263/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@945b25bb4f623cd7576fbd45536227d9fdd13aff/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Republican-led House on Tuesday narrowly rejected a push to impeach Defense Secretary Pete Hegseth over unauthorized military hostilities in Iran, Venezuela and Yemen, shielding one of President Donald Trump's closest allies from an immediate reckoning but setting the stage for a renewed confrontation when Democrats take control of Congress in January. The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie of Kentucky, a Republican who has…</text>
     </binding>
