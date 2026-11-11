@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@942752893780e20dd53d534b0adb8f76565de3cf/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0e974cffd8c14093c4dba370bbb05773b393ca46/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@942752893780e20dd53d534b0adb8f76565de3cf/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challen…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0e974cffd8c14093c4dba370bbb05773b393ca46/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members o…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@942752893780e20dd53d534b0adb8f76565de3cf/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At a TIME100 Impact Dinner on Nov. 10 during the annual U.N. climate conference, this year known as COP31, in Antalya, Türkiye, climate leaders spoke of the challenges and gains in the clean energy transition and the importance of bringing youth into the climate fight. Five honorees spoke about what gives them hope: Global Citizen co-founder Michael Sheldrick , president and CEO of the World Resources Institute Ani Dasgupta , Telemundo journalist Vanessa Hauc , CEO…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0e974cffd8c14093c4dba370bbb05773b393ca46/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Wicked Finale of Netflix's The Body</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes o…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Climate Leaders Toast t…</text>
+      <text hint-style="caption">Breaking Down the Wicke…</text>
     </binding>
   </visual>
 </tile>

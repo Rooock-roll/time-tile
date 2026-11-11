@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-11T12:01:16.679461+00:00",
+  "updated": "2026-11-11T12:15:41.881391+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Breaking Down the Wicked Finale of Netflix's The Body",
+    "Kennedy Family Members Sue to Stop Construction of Trump Arch",
     "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
     "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31",
-    "How Israel Will Choose Its Next Prime Minister, Explained",
-    "Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?",
-    "Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term"
+    "How Israel Will Choose Its Next Prime Minister, Explained"
   ],
   "articles": [
+    {
+      "title": "Breaking Down the Wicked Finale of Netflix's The Body",
+      "summary": "Warning: This post contains spoilers for the Season 1 finale of The Body . In the aftermath of a team initiation ritual gone wrong on Halloween night, the members of the St. Mark's Catholic school all-girls dance squad find themselves at the center of a townwide mass hysteria event. Or, perhaps the visions of the Lions' comatose new recruit Grace (Sofia Wylie) are actually a sign from God. That's the tension at the heart of Netflix's The Body , all eight episodes of which are now streaming. But it's certainly not t",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc3af6800aa1ccf99/6aeccea046dffe99dad9c9a5/The-Body-Lisbeth.jpg?branch=production"
+    },
+    {
+      "title": "Kennedy Family Members Sue to Stop Construction of Trump Arch",
+      "summary": "The Kennedys have sued to stop construction of President Donald Trump’s “triumphal” arch . On Tuesday, nine members of the dynastic political family filed a motion in federal court in Washington, D.C., to block the arch from being built, arguing that it would obstruct views of the family’s gravesites at Arlington National Cemetery, including that of President John F. Kennedy. “This action is about protecting sacred spaces that belong to the American people,” Rory Kennedy and Maxwell Kennedy, two of the plaintiffs a",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt43700cebe2d52402/6af440e662c306b85d4bb64b/arlington_cemetery.jpg?branch=production"
+    },
     {
       "title": "House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January",
       "summary": "The Republican-led House on Tuesday narrowly rejected a push to impeach Defense Secretary Pete Hegseth over unauthorized military hostilities in Iran, Venezuela and Yemen, shielding one of President Donald Trump's closest allies from an immediate reckoning but setting the stage for a renewed confrontation when Democrats take control of Congress in January. The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie of Kentucky, a Republican who has repeatedly clashed with Trump, preventing lawmaker",
@@ -24,16 +34,6 @@
       "title": "How Israel Will Choose Its Next Prime Minister, Explained",
       "summary": "Israeli President Isaac Herzog on Sunday tasked Gadi Eisenkot , a former military chief and the leader of the center-right Yashar party, with forming the country’s next government. It’s the first of several steps necessary to determine the next Prime Minister—but a potentially months-long process could leave Benjamin Netanyahu in power for the foreseeable future. With Herzog’s nod, Eisenkot was given 28 days, through Dec. 6, with a possible 14-day extension, to assemble a government that can win the confidence of t",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd81c02283fcfb9cb/6af36af2cdd40876124d49d7/GettyImages-2303710471.jpg?branch=production"
-    },
-    {
-      "title": "Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?",
-      "summary": "Defense Secretary Pete Hegseth narrowly escaped an impeachment attempt Tuesday after the Republican-led House rejected a resolution filed by a GOP lawmaker. While Hegseth has been granted a reprieve, it's possible the Democrats could revive the effort in January, when they take control of both the House and Senate following sweeping victories in the midterms. The House voted 211-204 to defeat the measure reintroduced Monday by Rep. Thomas Massie of Kentucky. The eight articles of impeachment accused Hegseth of viol",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3e3ce4a9922e033e/6af33f693c8cbecbbcefc6f5/Pete_Hegseth.jpg?branch=production"
-    },
-    {
-      "title": "Trump Says 'You Should've Had Stock' to Build Net Worth. Here's How He's Increased His by Billions in His Second Term",
-      "summary": "In the two years since President Donald Trump was re-elected to the White House, his reported net worth has spiked by billions of dollars. Between 2024—during his presidential campaign—and 2025, Trump’s net worth rose from $4.3 billion to $7.3 billion, according to a Forbes report published in September 2025. The President’s total net worth has dipped somewhat since then, with Forbes reporting this September that it had fallen to $7 billion in 2026. As of Tuesday, the outlet estimates that the figure has dropped st",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2d05c2c33870dc10/6af37f95d52f495d1c039404/Trump-Net-Worth.jpg?branch=production"
     }
   ]
 }
