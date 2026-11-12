@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@358106e89fdabc8fc699d8306075684da91d8258/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd95e9f44b4f706f49d09e5e2452d8a802768087/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Comes Next for NVIDIA</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@358106e89fdabc8fc699d8306075684da91d8258/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking anothe…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd95e9f44b4f706f49d09e5e2452d8a802768087/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Comes Next for NVIDIA</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haun…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@358106e89fdabc8fc699d8306075684da91d8258/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday, more than a week after Election Day . Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there si…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd95e9f44b4f706f49d09e5e2452d8a802768087/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Comes Next for NVIDIA</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haunting one. Many within Silicon Valley see Huang as a visionary genius , whose vision as the “ Godfather of AI ” has improved billions of lives around the world and contributed greatly to American prosperity and innovation. When attending our Yale CEO forums, he has been revered by CEOs across sectors and …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Scott Colom Wins Nail-B…</text>
+      <text hint-style="caption">What Comes Next for NVI…</text>
     </binding>
   </visual>
 </tile>
