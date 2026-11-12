@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0810e72ac844b84f1c5f913e95783f70b79c2d4a/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ba1a3c1de76ede05be722a89ff41d25d1c618d26/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Toxic Vengeance of Capital Punishment</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0810e72ac844b84f1c5f913e95783f70b79c2d4a/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ba1a3c1de76ede05be722a89ff41d25d1c618d26/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Toxic Vengeance of Capital Punishment</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Two radical ideas have been introduced into human thought, wrote the novelist and humorist Kurt Vonnegut. One was that “energy and matter are pretty much the same s…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0810e72ac844b84f1c5f913e95783f70b79c2d4a/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ba1a3c1de76ede05be722a89ff41d25d1c618d26/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Toxic Vengeance of Capital Punishment</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Two radical ideas have been introduced into human thought, wrote the novelist and humorist Kurt Vonnegut. One was that “energy and matter are pretty much the same sort of stuff.” That was Einstein. The other was that “revenge is a bad idea.” That was Jesus. We are so wired for vengeance, so trained to retaliate, mused Vonnegut, Jesus must be classed among the revolutionaries. Vonnegut was no Christian, preferring to describe himself as a “Christ-worshipping agnosti…</text>
     </binding>
