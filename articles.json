@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-12T00:16:11.558580+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-12T00:31:07.632356+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What Comes Next for NVIDIA",
     "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
     "Meet Teddy Riner, the Decorated Olympian Running for French President",
     "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
-    "The Good Daughter Is One Exhausting Trauma Dump After Another",
-    "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer"
+    "The Good Daughter Is One Exhausting Trauma Dump After Another"
   ],
   "articles": [
+    {
+      "title": "What Comes Next for NVIDIA",
+      "summary": "Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haunting one. Many within Silicon Valley see Huang as a visionary genius , whose vision as the “ Godfather of AI ” has improved billions of lives around the world and contributed greatly to American prosperity and innovation. When attending our Yale CEO forums, he has been revered by CEOs across sectors and around the world for his bold, entrepreneurial visi",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5133d960e2973384/6af4fa805a73334d1633ad18/NVIDIA-next.jpg?branch=production"
+    },
     {
       "title": "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
       "summary": "Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday. Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in the 2024 presidential election by nearly 23 points. Re",
@@ -29,11 +34,6 @@
       "title": "The Good Daughter Is One Exhausting Trauma Dump After Another",
       "summary": "The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact revenge on a small-town Georgia defense lawyer invade his home to find only his wife and two daughters. This nightmare continues that day and reverberates through the girls’ adult lives. Front-loading this key trauma allows the Peacock series, premiering Nov. 12, to make it the basis of maybe a dozen more trauma dumps over the course of its six gloomy episodes",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta89488f3d77cd3f8/6af3325c5a7333257c33a277/NUP_211706_00001.JPG?branch=production"
-    },
-    {
-      "title": "Avedon Is a Gracefully Constructed Documentary About a Great American Photographer",
-      "summary": "Richard Avedon , whose career began in the early 1940s and ended with his death, following a cerebral hemorrhage, in 2004, was one of the greatest fashion photographers of his era. Even if you think you don’t care about fashion, you’ve probably been awed by his 1955 Dovima With Elephants, in which the supermodel Dovima, draped in a two-tone Dior gown, stands regally between two pachyderms, her arms outstretched as if to read their magnificence with her fingertips. Compositionally, it’s perfect. But it also links th",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt84cc0421a7478a69/6af34ab85a73336ab333a369/Richard_Avedon_working_on_his_In_the_American_West_series_c._1985_(Photo_by_Susan_Middleton).jpg?branch=production"
     }
   ]
 }
