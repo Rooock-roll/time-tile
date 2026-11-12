@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-12T13:45:41.443298+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-12T14:01:12.659981+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How AI Can Help You Appeal Health Insurance Denials",
+    "I Worked Out Every Day for 35 Years. It Saved My Life",
     "Millions of Spanish Workers Stage First General Strike in 14 Years",
     "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982",
-    "What Comes Next for NVIDIA",
-    "Meet Teddy Riner, the Decorated Olympian Running for French President",
-    "Biden Says He Would Have Stepped Down If He Knew He Had Cancer"
+    "What Comes Next for NVIDIA"
   ],
   "articles": [
+    {
+      "title": "How AI Can Help You Appeal Health Insurance Denials",
+      "summary": "Tom Whitehead knows which medicine works to treat his Crohn’s disease. But when he switched insurers in 2025, he says was denied coverage for the expensive medication, Remicade, which he received in a monthly infusion. He was instead put on what’s called a biosimilar, which is essentially a slightly different version of the drug made from the same materials. The biosimilar did not work well for him. His symptoms worsened, he had urgent and unpredictable bowel movements, and he got kidney stones twice, ending up in ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcbb3fc775b0c2d70/6af3871be47c1e06e5c30ffd/GettyImages-1937424966.jpg?branch=production"
+    },
+    {
+      "title": "I Worked Out Every Day for 35 Years. It Saved My Life",
+      "summary": "For three decades, I’ve built a career on a “no-nonsense” approach to personal training . My clients—many of whom are celebrities—often come in with outdated or flatly wrong ideas about fitness, and it’s my job to dispel these and help them get the type of body they want. The tools people need to get and stay fit aren’t sold in a bottle or at a store. They’re in your willingness to commit to a simple plan: Stay focused. Stay disciplined. Your life might just depend on it, I recently found out. One day in October 20",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd8923da9fca86688/6af39c03caf94b8284741d26/GettyImages-83987037.jpg?branch=production"
+    },
     {
       "title": "Millions of Spanish Workers Stage First General Strike in 14 Years",
       "summary": "Millions of workers on Wednesday staged Spain’s first general strike in 14 years in protest of the country’s housing crisis . Around 4 million workers—around 17% of the country’s 23 million-strong workforce—participated in the Nov. 11 walkout, unions said. The strike was organized by Spain’s two largest unions, the General Union of Workers (UGT) and the Workers’ Commissions (CCOO), tenants’ associations, and other unions. In cities across Spain, including Barcelona, Madrid, and Valencia, hundreds of thousands of pe",
@@ -24,16 +34,6 @@
       "title": "What Comes Next for NVIDIA",
       "summary": "Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haunting one. Many within Silicon Valley see Huang as a visionary genius , whose vision as the “ Godfather of AI ” has improved billions of lives around the world and contributed greatly to American prosperity and innovation. When attending our Yale CEO forums, he has been revered by CEOs across sectors and around the world for his bold, entrepreneurial visi",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5133d960e2973384/6af4fa805a73334d1633ad18/NVIDIA-next.jpg?branch=production"
-    },
-    {
-      "title": "Meet Teddy Riner, the Decorated Olympian Running for French President",
-      "summary": "The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad, then yes, I am completely mad.” Referencing the w",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb99ca459488b7459/6af4b7ca3c8cbe398aefce9d/GettyImages-2171178656.jpg?branch=production"
-    },
-    {
-      "title": "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
-      "summary": "Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have stepped down. Read more: Joe and Jill Biden: We’re Changing How We Fight Cancer In an interview with PEOPLE , the former President was asked if he would have done anything differently during the 2024 election . “What I can’t say, because there’s no evidence of it—if I had known that I was feeling lousy because I had cancer, I would have resigned,” Biden",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcf41d65e7aee98f7/6af4920df7a51fc40f6214a6/Biden-PEOPLE-Interview.jpg?branch=production"
     }
   ]
 }
