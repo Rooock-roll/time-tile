@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ad3206d0f2b85b797a1a6fb9c353772d33f75a93/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Kids (and Kidults)</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5ba0e9870d67a41c8b543865a17aeea51e82563/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Getting Too Little Sleep Makes You Easier to Scam</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ad3206d0f2b85b797a1a6fb9c353772d33f75a93/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Kids (and Kidults)</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5ba0e9870d67a41c8b543865a17aeea51e82563/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Getting Too Little Sleep Makes You Easier to Scam</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When Daylight Saving Time (DST) begins each March and the clocks spring forward, people lose an hour of sleep . This sleep deprivation has been linked to a higher r…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ad3206d0f2b85b797a1a6fb9c353772d33f75a93/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for Kids (and Kidults)</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of 10 best game and play items from the list that would make a perfect gift for the parents, little ones, and fun-lovers in your life. The Doona changed the baby-transport game by transforming from an infant car …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5ba0e9870d67a41c8b543865a17aeea51e82563/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Getting Too Little Sleep Makes You Easier to Scam</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When Daylight Saving Time (DST) begins each March and the clocks spring forward, people lose an hour of sleep . This sleep deprivation has been linked to a higher rate of fatal car accidents the week after—but that’s not the only lingering effect of lost sleep. A new study published in Proceedings of the National Academy of Sciences , where phishing emails were sent to more than 10,000 people, found that the Monday after DST began, people were 13% more likely to cl…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The 10 Best Gifts for K…</text>
+      <text hint-style="caption">Getting Too Little Slee…</text>
     </binding>
   </visual>
 </tile>
