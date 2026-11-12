@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e3fc919459e1e09a22dbf619dafddcf99056113c/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@498e63672731536d0856c138a27be79ac88010c5/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Good Daughter Is One Exhausting Trauma Dump After Another</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e3fc919459e1e09a22dbf619dafddcf99056113c/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@498e63672731536d0856c138a27be79ac88010c5/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Good Daughter Is One Exhausting Trauma Dump After Another</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact reveng…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e3fc919459e1e09a22dbf619dafddcf99056113c/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@498e63672731536d0856c138a27be79ac88010c5/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Good Daughter Is One Exhausting Trauma Dump After Another</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact revenge on a small-town Georgia defense lawyer invade his home to find only his wife and two daughters. This nightmare continues that day and reverberates through the girls’ adult lives. Front-loading this key trauma allows the Peacock series, premiering Nov. 12, to make it the basis of maybe a dozen more trau…</text>
     </binding>
