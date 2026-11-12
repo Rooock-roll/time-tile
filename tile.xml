@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e13dc1a0d1ce4382900dde07e6e2971ee94683ea/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d31a362c0acd6ede1f309b0a4b31fc18267084dd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Health and Fitness Nuts</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e13dc1a0d1ce4382900dde07e6e2971ee94683ea/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d31a362c0acd6ede1f309b0a4b31fc18267084dd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The 10 Best Gifts for Health and Fitness Nuts</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e13dc1a0d1ce4382900dde07e6e2971ee94683ea/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d31a362c0acd6ede1f309b0a4b31fc18267084dd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The 10 Best Gifts for Health and Fitness Nuts</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best health and fitness items from the list that would make a perfect gift for the most sporty people in your life. Gym Nano is a portable digital resistance engine that can latch onto most racks, with …</text>
     </binding>
