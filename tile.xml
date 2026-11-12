@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9122847e0378c9c337db068e94aa1b79402770a2/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c4bd6d7cd37b057455f4ac0814e14a5e07273a0e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Toxic Vengeance of Capital Punishment</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9122847e0378c9c337db068e94aa1b79402770a2/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking anothe…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c4bd6d7cd37b057455f4ac0814e14a5e07273a0e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Toxic Vengeance of Capital Punishment</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Two radical ideas have been introduced into human thought, wrote the novelist and humorist Kurt Vonnegut. One was that “energy and matter are pretty much the same s…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9122847e0378c9c337db068e94aa1b79402770a2/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday, more than a week after Election Day . Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there si…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c4bd6d7cd37b057455f4ac0814e14a5e07273a0e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Toxic Vengeance of Capital Punishment</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Two radical ideas have been introduced into human thought, wrote the novelist and humorist Kurt Vonnegut. One was that “energy and matter are pretty much the same sort of stuff.” That was Einstein. The other was that “revenge is a bad idea.” That was Jesus. We are so wired for vengeance, so trained to retaliate, mused Vonnegut, Jesus must be classed among the revolutionaries. Vonnegut was no Christian, preferring to describe himself as a “Christ-worshipping agnosti…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Scott Colom Wins Nail-B…</text>
+      <text hint-style="caption">The Toxic Vengeance of …</text>
     </binding>
   </visual>
 </tile>
