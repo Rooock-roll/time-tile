@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@467c084dd47fcee2f0d1baa4f2146d8bd86874a8/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@afaff0b003eb3b3ead96d4ce3c7815e483e61dac/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Brooklyn Apartment Building Collapses, Killing 8: What To Know</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@467c084dd47fcee2f0d1baa4f2146d8bd86874a8/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@afaff0b003eb3b3ead96d4ce3c7815e483e61dac/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Brooklyn Apartment Building Collapses, Killing 8: What To Know</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At least eight people, including two children, died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbu…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@467c084dd47fcee2f0d1baa4f2146d8bd86874a8/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@afaff0b003eb3b3ead96d4ce3c7815e483e61dac/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Brooklyn Apartment Building Collapses, Killing 8: What To Know</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At least eight people, including two children, died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbush Avenue in Brooklyn’s Flatbush neighborhood, collapsed “into an adjacent construction site,” the New York City Fire Department (FDNY) said in a statement on social media. Eighteen people were wounded in the incident, including one person who is in critical condition, New York City Mayor Zohran Mamdani …</text>
     </binding>
