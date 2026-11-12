@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ffc25f61b28a3b9c4eb1ead964bf28ca2e4a28ef/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@021a3d867e52587e422ae26874a7fd75340beb7c/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Millions of Spanish Workers Stage First General Strike in 14 Years</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ffc25f61b28a3b9c4eb1ead964bf28ca2e4a28ef/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@021a3d867e52587e422ae26874a7fd75340beb7c/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Millions of Spanish Workers Stage First General Strike in 14 Years</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Millions of workers on Wednesday staged Spain’s first general strike in 14 years in protest of the country’s housing crisis . Around 4 million workers—around 17% of…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ffc25f61b28a3b9c4eb1ead964bf28ca2e4a28ef/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@021a3d867e52587e422ae26874a7fd75340beb7c/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Millions of Spanish Workers Stage First General Strike in 14 Years</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Millions of workers on Wednesday staged Spain’s first general strike in 14 years in protest of the country’s housing crisis . Around 4 million workers—around 17% of the country’s 23 million-strong workforce—participated in the Nov. 11 walkout, unions said. The strike was organized by Spain’s two largest unions, the General Union of Workers (UGT) and the Workers’ Commissions (CCOO), tenants’ associations, and other unions. In cities across Spain, including Barcelona…</text>
     </binding>
