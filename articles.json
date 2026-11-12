@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-12T16:45:44.575710+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-12T17:01:16.312859+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO",
     "The Toxic Vengeance of Capital Punishment",
     "The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing",
     "The 10 Best Gifts for Health and Fitness Nuts",
-    "The 10 Best Gifts for Kids (and Kidults)",
-    "Getting Too Little Sleep Makes You Easier to Scam"
+    "The 10 Best Gifts for Kids (and Kidults)"
   ],
   "articles": [
+    {
+      "title": "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO",
+      "summary": "President Trump suggested on Thursday that Tim Cook, former CEO of Apple, should become the leader of chip maker Nvidia following its chief executive Jensen Huang ’s resignation over his alleged affairs with two women. “NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! ” Trump posted on TruthSocial. Huang resigned as Nvidia’s CEO on Thursday morning, in the wake of reports that he had allegedly been ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3734da9da706a7ad/6af5df5418a9753ed3920253/GettyImages-2275572600.jpg?branch=production"
+    },
     {
       "title": "The Toxic Vengeance of Capital Punishment",
       "summary": "Two radical ideas have been introduced into human thought, wrote the novelist and humorist Kurt Vonnegut. One was that “energy and matter are pretty much the same sort of stuff.” That was Einstein. The other was that “revenge is a bad idea.” That was Jesus. We are so wired for vengeance, so trained to retaliate, mused Vonnegut, Jesus must be classed among the revolutionaries. Vonnegut was no Christian, preferring to describe himself as a “Christ-worshipping agnostic,” but he dreamed of a world in which the long “ch",
@@ -29,11 +34,6 @@
       "title": "The 10 Best Gifts for Kids (and Kidults)",
       "summary": "Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of 10 best game and play items from the list that would make a perfect gift for the parents, little ones, and fun-lovers in your life. The Doona changed the baby-transport game by transforming from an infant car seat into a stroller with the press of a button. Th",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta2033d2bc79359c6/6af2352928c86661f98f60d5/kids-gifts-holidays-best-inventions.jpg?branch=production"
-    },
-    {
-      "title": "Getting Too Little Sleep Makes You Easier to Scam",
-      "summary": "When Daylight Saving Time (DST) begins each March and the clocks spring forward, people lose an hour of sleep . This sleep deprivation has been linked to a higher rate of fatal car accidents the week after—but that’s not the only lingering effect of lost sleep. A new study published in Proceedings of the National Academy of Sciences , where phishing emails were sent to more than 10,000 people, found that the Monday after DST began, people were 13% more likely to click on the links within a suspicious message. The i",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3e0797409d6cfb92/6af2701463734ce405c91ed0/GettyImages-2236223183.jpg?branch=production"
     }
   ]
 }
