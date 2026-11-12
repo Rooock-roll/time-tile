@@ -1,24 +1,24 @@
 {
-  "updated": "2026-11-12T02:01:10.262209+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-12T02:15:40.796764+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
-    "What Comes Next for NVIDIA",
     "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
+    "What Comes Next for NVIDIA",
     "Meet Teddy Riner, the Decorated Olympian Running for French President",
     "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
     "The Good Daughter Is One Exhausting Trauma Dump After Another"
   ],
   "articles": [
     {
+      "title": "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
+      "summary": "Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms , marking another stunning victory for his party. The Associated Press called the race on Wednesday. Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in the 2024 presidential election by nearly 23 points. R",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte0056fbbec4a58d0/6aed0bef4eb3c7830417957b/mississippi-senate-scott-colom-midterm-elections.jpg?branch=production"
+    },
+    {
       "title": "What Comes Next for NVIDIA",
       "summary": "Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haunting one. Many within Silicon Valley see Huang as a visionary genius , whose vision as the “ Godfather of AI ” has improved billions of lives around the world and contributed greatly to American prosperity and innovation. When attending our Yale CEO forums, he has been revered by CEOs across sectors and around the world for his bold, entrepreneurial visi",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5133d960e2973384/6af4fa805a73334d1633ad18/NVIDIA-next.jpg?branch=production"
-    },
-    {
-      "title": "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982",
-      "summary": "Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday. Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in the 2024 presidential election by nearly 23 points. Re",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte0056fbbec4a58d0/6aed0bef4eb3c7830417957b/mississippi-senate-scott-colom-midterm-elections.jpg?branch=production"
     },
     {
       "title": "Meet Teddy Riner, the Decorated Olympian Running for French President",

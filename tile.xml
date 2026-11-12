@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b54f95c5d6ea84b432ab46e19c19bb49d08560cf/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb1384df77c129dbca3fbb74d7b77415057c24b2/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b54f95c5d6ea84b432ab46e19c19bb49d08560cf/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb1384df77c129dbca3fbb74d7b77415057c24b2/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms , marking anoth…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b54f95c5d6ea84b432ab46e19c19bb49d08560cf/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb1384df77c129dbca3fbb74d7b77415057c24b2/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State's First Democratic Senator-Elect Since 1982</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms , marking another stunning victory for his party. The Associated Press called the race on Wednesday. Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in th…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Meet Teddy Riner, the D…</text>
+      <text hint-style="caption">Scott Colom Wins Nail-B…</text>
     </binding>
   </visual>
 </tile>
