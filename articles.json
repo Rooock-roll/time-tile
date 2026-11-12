@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-12T18:15:44.826282+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-12T18:31:02.448493+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Next Chapter of mRNA",
+    "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner",
     "Brooklyn Apartment Building Collapses, Killing 8: What To Know",
     "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO",
-    "The Toxic Vengeance of Capital Punishment",
-    "The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing",
-    "The 10 Best Gifts for Health and Fitness Nuts"
+    "The Toxic Vengeance of Capital Punishment"
   ],
   "articles": [
+    {
+      "title": "The Next Chapter of mRNA",
+      "summary": "It’s been a very good year for Stéphane Bancel. On a crisp October day, the CEO of Moderna, of COVID-vaccine fame, is sitting in his glass-walled office in the company’s headquarters in Cambridge, Mass., weeks before encouraging results from the company’s first mRNA cancer vaccine would become public. He’s recounting the biotech’s rocky road turning an unproven, scientifically dismissed approach—using messenger RNA, or mRNA, the genetic code that instructs cells to make proteins—into a platform for producing new ca",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltddcbbe3ad84d1b15/6af39ce0b713ad953067188f/Moderna-Tony-Luong-1.jpg?branch=production"
+    },
+    {
+      "title": "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner",
+      "summary": "Corporate leaders in India spoke about the country’s economic growth and potential in the coming years at TIME’s The Partnership Imperative: Building the Next Chapter of Growth dinner in Andhra Pradesh on Thursday. Speaking on the panel were Madhur Jain, co- founder and CEO of Varaha ClimateAg, a climate tech start-up; Anupriya Acharya, CEO in South Asia of Publicis Groupe, an international marketing and public relations firm; Rajesh Mittal, president of the automotive company Isuzu Motors India; and Mio Oka, the d",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt36bf37c62bb6704c/6af5f4f54992c353efcf6de2/time-impact-dinner-001.jpg?branch=production"
+    },
     {
       "title": "Brooklyn Apartment Building Collapses, Killing 8: What To Know",
       "summary": "At least eight people died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbush Avenue in Brooklyn’s Flatbush neighborhood, collapsed “into an adjacent construction site,” the New York City Fire Department (FDNY) said in a statement on social media. More than a dozen people were wounded in the incident. Here’s what we know about the situation. The cause of the building collapse is under investigation, according to the city’s fire department. FDNY said th",
@@ -24,16 +34,6 @@
       "title": "The Toxic Vengeance of Capital Punishment",
       "summary": "Two radical ideas have been introduced into human thought, wrote the novelist and humorist Kurt Vonnegut. One was that “energy and matter are pretty much the same sort of stuff.” That was Einstein. The other was that “revenge is a bad idea.” That was Jesus. We are so wired for vengeance, so trained to retaliate, mused Vonnegut, Jesus must be classed among the revolutionaries. Vonnegut was no Christian, preferring to describe himself as a “Christ-worshipping agnostic,” but he dreamed of a world in which the long “ch",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf306a0f322679aa4/6af3f8c363734cb536c9255d/Capital-Punishment.jpg?branch=production"
-    },
-    {
-      "title": "The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing",
-      "summary": "That’s the motto of Tony Huge, a prominent figure in the looksmaxxing community. In Huge’s lingo, “natty” means “natural,” as in refraining from using a heavy regimen of supplements popular in the rapidly growing online subculture of men that promotes extreme measures to maximize the potential of one’s physical appearance. Especially popular among young adults and teenagers, looksmaxxing often includes risky behavior like the use of trenbolone, a steroid designed to promote muscle growth in livestock that’s illegal",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt601d414183ba6e2e/6af52f7acf007f75fe2aece9/184084_bk_press_still_1.514.1.jpg?branch=production"
-    },
-    {
-      "title": "The 10 Best Gifts for Health and Fitness Nuts",
-      "summary": "Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best health and fitness items from the list that would make a perfect gift for the most sporty people in your life. Gym Nano is a portable digital resistance engine that can latch onto most racks, with a 16.7 ft. cable and a weight range of 7.7- to 220-",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc7bc6309a576684f/6af2369246dffeddf8d9e908/health-gifts-holidays-best-inventions.jpg?branch=production"
     }
   ]
 }
