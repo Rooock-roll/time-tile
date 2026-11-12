@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@11b01de1e18dca8c789e4bca3f1397e622792f30/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9d21135be1be05938f43b1cc86619ee88652fd1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Brooklyn Apartment Building Collapses, Killing 8: What To Know</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@11b01de1e18dca8c789e4bca3f1397e622792f30/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">That’s the motto of Tony Huge, a prominent figure in the looksmaxxing community. In Huge’s lingo, “natty” means “natural,” as in refraining from using a heavy regim…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9d21135be1be05938f43b1cc86619ee88652fd1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Brooklyn Apartment Building Collapses, Killing 8: What To Know</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At least eight people died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbush Avenue in Brooklyn’s F…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@11b01de1e18dca8c789e4bca3f1397e622792f30/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">That’s the motto of Tony Huge, a prominent figure in the looksmaxxing community. In Huge’s lingo, “natty” means “natural,” as in refraining from using a heavy regimen of supplements popular in the rapidly growing online subculture of men that promotes extreme measures to maximize the potential of one’s physical appearance. Especially popular among young adults and teenagers, looksmaxxing often includes risky behavior like the use of trenbolone, a steroid designed t…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9d21135be1be05938f43b1cc86619ee88652fd1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Brooklyn Apartment Building Collapses, Killing 8: What To Know</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At least eight people died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbush Avenue in Brooklyn’s Flatbush neighborhood, collapsed “into an adjacent construction site,” the New York City Fire Department (FDNY) said in a statement on social media. More than a dozen people were wounded in the incident. Here’s what we know about the situation. The cause of the building collapse is under investigation, ac…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The True Story Behind G…</text>
+      <text hint-style="caption">Brooklyn Apartment Buil…</text>
     </binding>
   </visual>
 </tile>

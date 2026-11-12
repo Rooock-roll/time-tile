@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-12T17:16:00.697548+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-12T17:30:59.917561+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Brooklyn Apartment Building Collapses, Killing 8: What To Know",
     "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO",
     "The Toxic Vengeance of Capital Punishment",
     "The True Story Behind Get Huge and a Series of Unexplained Deaths Linked to Looksmaxxing",
-    "The 10 Best Gifts for Health and Fitness Nuts",
-    "The 10 Best Gifts for Kids (and Kidults)"
+    "The 10 Best Gifts for Health and Fitness Nuts"
   ],
   "articles": [
+    {
+      "title": "Brooklyn Apartment Building Collapses, Killing 8: What To Know",
+      "summary": "At least eight people died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbush Avenue in Brooklyn’s Flatbush neighborhood, collapsed “into an adjacent construction site,” the New York City Fire Department (FDNY) said in a statement on social media. More than a dozen people were wounded in the incident. Here’s what we know about the situation. The cause of the building collapse is under investigation, according to the city’s fire department. FDNY said th",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt44d6d4984fbb02f5/6af5f22326b08b97c46250a1/Brooklyn-Building-Collapse.jpg?branch=production"
+    },
     {
       "title": "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO",
       "summary": "President Trump suggested on Thursday that Tim Cook, former CEO of Apple, should become the leader of chip maker Nvidia following its chief executive Jensen Huang ’s resignation over his alleged affairs with two women. “NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! ” Trump posted on TruthSocial. Huang resigned as Nvidia’s CEO on Thursday morning, in the wake of reports that he had allegedly been ",
@@ -29,11 +34,6 @@
       "title": "The 10 Best Gifts for Health and Fitness Nuts",
       "summary": "Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of the 10 best health and fitness items from the list that would make a perfect gift for the most sporty people in your life. Gym Nano is a portable digital resistance engine that can latch onto most racks, with a 16.7 ft. cable and a weight range of 7.7- to 220-",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc7bc6309a576684f/6af2369246dffeddf8d9e908/health-gifts-holidays-best-inventions.jpg?branch=production"
-    },
-    {
-      "title": "The 10 Best Gifts for Kids (and Kidults)",
-      "summary": "Every year, TIME's editors and correspondents work together to compile a collection of the most interesting and groundbreaking new products and innovations for the Best Inventions list. As holiday season approaches, the TIME team has pulled out a selection of 10 best game and play items from the list that would make a perfect gift for the parents, little ones, and fun-lovers in your life. The Doona changed the baby-transport game by transforming from an infant car seat into a stroller with the press of a button. Th",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta2033d2bc79359c6/6af2352928c86661f98f60d5/kids-gifts-holidays-best-inventions.jpg?branch=production"
     }
   ]
 }
