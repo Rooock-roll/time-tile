@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6fdc6a6ea725022a17b429feb30cbaf1605582b8/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Comes Next for NVIDIA</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@63e8340f038d134eea2d61c24f69da141f8a6821/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6fdc6a6ea725022a17b429feb30cbaf1605582b8/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Comes Next for NVIDIA</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haun…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@63e8340f038d134eea2d61c24f69da141f8a6821/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6fdc6a6ea725022a17b429feb30cbaf1605582b8/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Comes Next for NVIDIA</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Ralph Waldo Emerson once said, “an institution is the lengthened shadow of one man.” In NVIDIA’s case, the shadow of its CEO and co-founder, Jensen Huang, is a haunting one. Many within Silicon Valley see Huang as a visionary genius , whose vision as the “ Godfather of AI ” has improved billions of lives around the world and contributed greatly to American prosperity and innovation. When attending our Yale CEO forums, he has been revered by CEOs across sectors and …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@63e8340f038d134eea2d61c24f69da141f8a6821/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What Comes Next for NVI…</text>
+      <text hint-style="caption">Meet Teddy Riner, the D…</text>
     </binding>
   </visual>
 </tile>
