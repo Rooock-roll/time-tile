@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@194a3bd25774b4fc32bd4b6835fe3493210f22a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3a46cd1c487e5eeb182d52e1c865638aa284b410/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@194a3bd25774b4fc32bd4b6835fe3493210f22a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3a46cd1c487e5eeb182d52e1c865638aa284b410/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@194a3bd25774b4fc32bd4b6835fe3493210f22a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3a46cd1c487e5eeb182d52e1c865638aa284b410/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Meet Teddy Riner, the Decorated Olympian Running for French President</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The French presidential election took an unexpected turn this week when Teddy Riner, a celebrated Olympian and judo star, announced his intention to run in the high-stakes race. “I know what people will say about me: ‘He’s mad. He isn’t part of the establishment. He doesn’t know the rules. He has never been involved in politics,’” Riner said Monday in a video confirming his bid for the April 2027 election. “If refusing to bow my head and refusing chaos makes me mad…</text>
     </binding>
