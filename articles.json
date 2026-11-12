@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-12T10:45:42.549348+00:00",
+  "updated": "2026-11-12T11:01:12.574128+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Millions of Spanish Workers Stage First General Strike in 14 Years",
     "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982",
     "What Comes Next for NVIDIA",
     "Meet Teddy Riner, the Decorated Olympian Running for French President",
-    "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
-    "The Good Daughter Is One Exhausting Trauma Dump After Another"
+    "Biden Says He Would Have Stepped Down If He Knew He Had Cancer"
   ],
   "articles": [
+    {
+      "title": "Millions of Spanish Workers Stage First General Strike in 14 Years",
+      "summary": "Millions of workers on Wednesday staged Spain’s first general strike in 14 years in protest of the country’s housing crisis . Around 4 million workers—around 17% of the country’s 23 million-strong workforce—participated in the Nov. 11 walkout, unions said. The strike was organized by Spain’s two largest unions, the General Union of Workers (UGT) and the Workers’ Commissions (CCOO), tenants’ associations, and other unions. In cities across Spain, including Barcelona, Madrid, and Valencia, hundreds of thousands of pe",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt00dd692fe1901562/6af58c0619748009bea0025a/spain_protest.jpg?branch=production"
+    },
     {
       "title": "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982",
       "summary": "Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday, more than a week after Election Day . Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there since 1982. Trump won Mississippi in the 2024 preside",
@@ -29,11 +34,6 @@
       "title": "Biden Says He Would Have Stepped Down If He Knew He Had Cancer",
       "summary": "Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have stepped down. Read more: Joe and Jill Biden: We’re Changing How We Fight Cancer In an interview with PEOPLE , the former President was asked if he would have done anything differently during the 2024 election . “What I can’t say, because there’s no evidence of it—if I had known that I was feeling lousy because I had cancer, I would have resigned,” Biden",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcf41d65e7aee98f7/6af4920df7a51fc40f6214a6/Biden-PEOPLE-Interview.jpg?branch=production"
-    },
-    {
-      "title": "The Good Daughter Is One Exhausting Trauma Dump After Another",
-      "summary": "The Good Daughter opens with the kind of formative act of violence that thrillers typically save for climactic flashbacks. Two masked gunmen looking to exact revenge on a small-town Georgia defense lawyer invade his home to find only his wife and two daughters. This nightmare continues that day and reverberates through the girls’ adult lives. Front-loading this key trauma allows the Peacock series, premiering Nov. 12, to make it the basis of maybe a dozen more trauma dumps over the course of its six gloomy episodes",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta89488f3d77cd3f8/6af3325c5a7333257c33a277/NUP_211706_00001.JPG?branch=production"
     }
   ]
 }
