@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77e81705b18508958b5241f08f9d14fa8183f9f2/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">I Worked Out Every Day for 35 Years. It Saved My Life</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@56028973cd0e92d02f82f277d43f87c3fff9dd88/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Millions of Spanish Workers Stage First General Strike in 14 Years</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77e81705b18508958b5241f08f9d14fa8183f9f2/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">I Worked Out Every Day for 35 Years. It Saved My Life</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For three decades, I’ve built a career on a “no-nonsense” approach to personal training . My clients—many of whom are celebrities—often come in with outdated or fla…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@56028973cd0e92d02f82f277d43f87c3fff9dd88/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Millions of Spanish Workers Stage First General Strike in 14 Years</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Millions of workers on Wednesday staged Spain’s first general strike in 14 years in protest of the country’s housing crisis . Around 4 million workers—around 17% of…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77e81705b18508958b5241f08f9d14fa8183f9f2/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">I Worked Out Every Day for 35 Years. It Saved My Life</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For three decades, I’ve built a career on a “no-nonsense” approach to personal training . My clients—many of whom are celebrities—often come in with outdated or flatly wrong ideas about fitness, and it’s my job to dispel these and help them get the type of body they want. The tools people need to get and stay fit aren’t sold in a bottle or at a store. They’re in your willingness to commit to a simple plan: Stay focused. Stay disciplined. Your life might just depend…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@56028973cd0e92d02f82f277d43f87c3fff9dd88/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Millions of Spanish Workers Stage First General Strike in 14 Years</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Millions of workers on Wednesday staged Spain’s first general strike in 14 years in protest of the country’s housing crisis . Around 4 million workers—around 17% of the country’s 23 million-strong workforce—participated in the Nov. 11 walkout, unions said. The strike was organized by Spain’s two largest unions, the General Union of Workers (UGT) and the Workers’ Commissions (CCOO), tenants’ associations, and other unions. In cities across Spain, including Barcelona…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">I Worked Out Every Day …</text>
+      <text hint-style="caption">Millions of Spanish Wor…</text>
     </binding>
   </visual>
 </tile>
