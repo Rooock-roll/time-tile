@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc933c4512a0c55d00baff1f690310c4e059a669/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How AI Can Help You Appeal Health Insurance Denials</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4b1555acca2f851a5bf2aacf420190e4895c927e/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">I Worked Out Every Day for 35 Years. It Saved My Life</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc933c4512a0c55d00baff1f690310c4e059a669/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How AI Can Help You Appeal Health Insurance Denials</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Tom Whitehead knows which medicine works to treat his Crohn’s disease. But when he switched insurers in 2025, he says was denied coverage for the expensive medicati…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4b1555acca2f851a5bf2aacf420190e4895c927e/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">I Worked Out Every Day for 35 Years. It Saved My Life</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For three decades, I’ve built a career on a “no-nonsense” approach to personal training . My clients—many of whom are celebrities—often come in with outdated or fla…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc933c4512a0c55d00baff1f690310c4e059a669/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How AI Can Help You Appeal Health Insurance Denials</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Tom Whitehead knows which medicine works to treat his Crohn’s disease. But when he switched insurers in 2025, he says was denied coverage for the expensive medication, Remicade, which he received in a monthly infusion. He was instead put on what’s called a biosimilar, which is essentially a slightly different version of the drug made from the same materials. The biosimilar did not work well for him. His symptoms worsened, he had urgent and unpredictable bowel movem…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4b1555acca2f851a5bf2aacf420190e4895c927e/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">I Worked Out Every Day for 35 Years. It Saved My Life</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For three decades, I’ve built a career on a “no-nonsense” approach to personal training . My clients—many of whom are celebrities—often come in with outdated or flatly wrong ideas about fitness, and it’s my job to dispel these and help them get the type of body they want. The tools people need to get and stay fit aren’t sold in a bottle or at a store. They’re in your willingness to commit to a simple plan: Stay focused. Stay disciplined. Your life might just depend…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How AI Can Help You App…</text>
+      <text hint-style="caption">I Worked Out Every Day …</text>
     </binding>
   </visual>
 </tile>
