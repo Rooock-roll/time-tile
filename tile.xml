@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e9aacf0b1f30096cfa23988dba9ee2ebbf1d66e6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f31b2ff632fadf0a30731d1baf674afd54e8503/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e9aacf0b1f30096cfa23988dba9ee2ebbf1d66e6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f31b2ff632fadf0a30731d1baf674afd54e8503/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking anothe…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e9aacf0b1f30096cfa23988dba9ee2ebbf1d66e6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f31b2ff632fadf0a30731d1baf674afd54e8503/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democratic challenger Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in what was one of the tightest races of the 2026 midterms, marking another stunning victory for his party. The Associated Press called the race on Wednesday, more than a week after Election Day . Colom, a district attorney for Mississippi’s 16th Judicial District, becomes the first Black Senator elected in the state since 1874 and the first Democratic Senator elected there si…</text>
     </binding>
