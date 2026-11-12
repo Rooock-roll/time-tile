@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-12T21:15:43.244970+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-12T21:30:58.193769+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How Movies About Tech Turned Dystopian",
+    "Breaking Down the Hard-Won Ending of The Good Daughter",
     "A New Pill Could Reduce the Risk of Having a Second Stroke",
     "The Next Chapter of mRNA",
-    "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner",
-    "Brooklyn Apartment Building Collapses, Killing 8: What To Know",
-    "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO"
+    "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner"
   ],
   "articles": [
+    {
+      "title": "How Movies About Tech Turned Dystopian",
+      "summary": "In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of a powerful technology that enabled a group of military leaders to unilaterally determine the life and death of thousands. From the vantage point of 2026, the story sounds unsettling, even dystopian. But The Imitation Game was actually a celebration of its protagonist, Alan Turing, and his pivotal role in helping the Allies decrypt German intelligence me",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b9ad1ad2444f360/6af23da0e47c1ec3afc30a4d/TechCEO.png?branch=production"
+    },
+    {
+      "title": "Breaking Down the Hard-Won Ending of The Good Daughter",
+      "summary": "Warning: This post contains spoilers for The Good Daughter finale. Charlie Quinn ( Meghann Fahy ) is out the farmhouse door before the man on the lawn can reach the porch, her hair flying behind her, her voice barely above a whisper. What is he doing here, she wants to know. Mason “Huck” Huckabee (Jake McDorman) asks whether her sister is home. Her husband is, Charlie warns him. Huck says he is sorry about her father’s death. Behind the screen door, Samantha Quinn ( Rose Byrne ) has come close enough to hear him ad",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf41880250d307fea/6af619a886945849809f9121/NUP_207240_04111.JPG?branch=production"
+    },
     {
       "title": "A New Pill Could Reduce the Risk of Having a Second Stroke",
       "summary": "On November 9, the U.S. Food and Drug Administration (FDA) approved a new type of medication to reduce the risk of strokes in certain populations. Asundexian, which will be sold under the brand name Sunharbo, is a daily pill that is the first to target a specific factor in the blood-clotting process that can contribute to stroke. In a study submitted to the FDA by Bayer, researchers found that the drug, when combined with an antiplatelet therapy such as aspirin, reduced the risk of an additional stroke by 26% in ju",
@@ -24,16 +34,6 @@
       "title": "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner",
       "summary": "Corporate leaders in India spoke about the country’s economic growth and potential in the coming years at TIME’s The Partnership Imperative: Building the Next Chapter of Growth dinner in Andhra Pradesh on Thursday. Speaking on the panel were Madhur Jain, co- founder and CEO of Varaha ClimateAg, a climate tech start-up; Anupriya Acharya, CEO in South Asia of Publicis Groupe, an international marketing and public relations firm; Rajesh Mittal, president of the automotive company Isuzu Motors India; and Mio Oka, the d",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt36bf37c62bb6704c/6af5f4f54992c353efcf6de2/time-impact-dinner-001.jpg?branch=production"
-    },
-    {
-      "title": "Brooklyn Apartment Building Collapses, Killing 8: What To Know",
-      "summary": "At least eight people, including two children, died after an apartment building in Brooklyn, New York , collapsed on Wednesday. The building, located at 1321 Flatbush Avenue in Brooklyn’s Flatbush neighborhood, collapsed “into an adjacent construction site,” the New York City Fire Department (FDNY) said in a statement on social media. Eighteen people were wounded in the incident, including one person who is in critical condition, New York City Mayor Zohran Mamdani said at a press conference on Thursday. Here’s what",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt44d6d4984fbb02f5/6af5f22326b08b97c46250a1/Brooklyn-Building-Collapse.jpg?branch=production"
-    },
-    {
-      "title": "Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO",
-      "summary": "President Trump suggested on Thursday that Tim Cook, former CEO of Apple, should become the leader of chip maker Nvidia following its chief executive Jensen Huang ’s resignation over his alleged affairs with two women. “NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! ” Trump posted on TruthSocial. Huang resigned as Nvidia’s CEO on Thursday morning, in the wake of reports that he had allegedly been ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3734da9da706a7ad/6af5df5418a9753ed3920253/GettyImages-2275572600.jpg?branch=production"
     }
   ]
 }
