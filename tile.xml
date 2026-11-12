@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@00e247e62460ff808444d8662937379e02fb0bbe/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@40bda89471e08ce01e939bbf6d84572b6b2cb244/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@00e247e62460ff808444d8662937379e02fb0bbe/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@40bda89471e08ce01e939bbf6d84572b6b2cb244/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Trump suggested on Thursday that Tim Cook, former CEO of Apple, should become the leader of chip maker Nvidia following its chief executive Jensen Huang ’…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@00e247e62460ff808444d8662937379e02fb0bbe/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@40bda89471e08ce01e939bbf6d84572b6b2cb244/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Wants Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Trump suggested on Thursday that Tim Cook, former CEO of Apple, should become the leader of chip maker Nvidia following its chief executive Jensen Huang ’s resignation over his alleged affairs with two women. “NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! ” Trump posted on TruthSocial. Huang resigned as Nvidia’s CEO on Thursday morning,…</text>
     </binding>
