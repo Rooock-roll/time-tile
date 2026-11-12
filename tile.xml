@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@89531a3044c7164abb9ac4c80d0f17ffe029d594/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24df9138c64deabad8b96ed2ada077666a710f41/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Biden Says He Would Have Stepped Down If He Knew He Had Cancer</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@89531a3044c7164abb9ac4c80d0f17ffe029d594/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24df9138c64deabad8b96ed2ada077666a710f41/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Biden Says He Would Have Stepped Down If He Knew He Had Cancer</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@89531a3044c7164abb9ac4c80d0f17ffe029d594/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@24df9138c64deabad8b96ed2ada077666a710f41/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Biden Says He Would Have Stepped Down If He Knew He Had Cancer</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Former President Joe Biden said in a recent interview that he wasn’t aware that he had cancer when he was in the White House—but that if he had known, he would have stepped down. Read more: Joe and Jill Biden: We’re Changing How We Fight Cancer In an interview with PEOPLE , the former President was asked if he would have done anything differently during the 2024 election . “What I can’t say, because there’s no evidence of it—if I had known that I was feeling lousy …</text>
     </binding>
