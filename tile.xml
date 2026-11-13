@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01bec4c53479c557a1bbc0a34de7fd73f5bf59d0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@05ed852530b5ef0a649ad4df8451505cc6bc7a78/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why AI Could Create More Places Like Youngstown, Ohio</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01bec4c53479c557a1bbc0a34de7fd73f5bf59d0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@05ed852530b5ef0a649ad4df8451505cc6bc7a78/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why AI Could Create More Places Like Youngstown, Ohio</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the a…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01bec4c53479c557a1bbc0a34de7fd73f5bf59d0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@05ed852530b5ef0a649ad4df8451505cc6bc7a78/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why AI Could Create More Places Like Youngstown, Ohio</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the artificial intelligence revolution unfolds, debates about its impact on the American economy often hinge on the belief that if the technology creates more jobs than it destroys, it will be a success. But the more important question is often the most overlooked: Who will bear the costs of the AI revolution…</text>
     </binding>
