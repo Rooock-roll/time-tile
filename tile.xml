@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@952ecd4746fdcf75a11fb7e9f2d5257cf23f9880/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@38b3645da349d35f4327158f950c032df4b81b1b/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@952ecd4746fdcf75a11fb7e9f2d5257cf23f9880/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@38b3645da349d35f4327158f950c032df4b81b1b/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Democratic Republic of the Congo (DRC) is reeling from an outbreak of Ebola that is estimated to have killed nearly 5,400 people. The World Health Organization …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@952ecd4746fdcf75a11fb7e9f2d5257cf23f9880/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@38b3645da349d35f4327158f950c032df4b81b1b/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Democratic Republic of the Congo (DRC) is reeling from an outbreak of Ebola that is estimated to have killed nearly 5,400 people. The World Health Organization (WHO) has described it as “the largest Ebola outbreak ever reported” in the country. The outbreak was first detected in Mongbwalu , a gold-mining town of around 130,000 people in Ituri province in northeastern Congo, after the WHO was alerted on May 5 about an unusual cluster of illness and deaths. The e…</text>
     </binding>
