@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9d55bed1e18a511c43e7df18af07fb08f5f32e48/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why BMI Is Not the Best Measure of Health</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a3728c1864c48940a11519336547cd47b9a19917/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why AI Could Create More Places Like Youngstown, Ohio</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9d55bed1e18a511c43e7df18af07fb08f5f32e48/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why BMI Is Not the Best Measure of Health</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a3728c1864c48940a11519336547cd47b9a19917/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why AI Could Create More Places Like Youngstown, Ohio</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the a…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9d55bed1e18a511c43e7df18af07fb08f5f32e48/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why BMI Is Not the Best Measure of Health</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect how much excess fat a person might be carrying and give doctors a sense of a patient's risk for obesity-related health conditions. For years, however, doctors have found that BMI isn’t the best measure of obesity-related health, since it can’t distinguish between fat and muscle weight. In a study publish…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a3728c1864c48940a11519336547cd47b9a19917/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why AI Could Create More Places Like Youngstown, Ohio</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the artificial intelligence revolution unfolds, debates about its impact on the American economy often hinge on the belief that if the technology creates more jobs than it destroys, it will be a success. But the more important question is often the most overlooked: Who will bear the costs of the AI revolution…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Why BMI Is Not the Best…</text>
+      <text hint-style="caption">Why AI Could Create Mor…</text>
     </binding>
   </visual>
 </tile>
