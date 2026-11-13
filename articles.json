@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-13T22:45:42.094611+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-13T23:01:13.634581+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War",
     "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland",
     "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
     "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
-    "What An Early Polar Vortex Combined With El Niño Means For Winter Weather",
-    "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know"
+    "What An Early Polar Vortex Combined With El Niño Means For Winter Weather"
   ],
   "articles": [
+    {
+      "title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War",
+      "summary": "For more than a decade, Fatih Birol has been one of the world’s most influential voices in energy markets. As the head of the International Energy Agency (IEA), he advises presidents and energy ministers; CEOs follow his view of the market with careful attention. When we caught up at the United Nations climate change conference, known as COP31 , currently underway in Antalya, Turkey, he offered a blunt analysis: the war in Iran has unleashed a structural shift. \"I don't see any credible pathway in which the world o",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt861f9cffe33930c2/6af76662ef7442661b3fbfd9/Fatih_Birol_COP31.jpg?branch=production"
+    },
     {
       "title": "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland",
       "summary": "Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an up-and-coming singer named Charlie Heart (Carter Faith), goes missing. As she investigates the disappearance, Misty uncovers a series of suspicious connections involving Charlie's manager, Roy Combs ( Garrett Hedlund ), and a local police detective. But the biggest revelation is that Charlie's disappearance was all a part of a larger plan to escape someo",
@@ -29,11 +34,6 @@
       "title": "What An Early Polar Vortex Combined With El Niño Means For Winter Weather",
       "summary": "A record-early breakdown of the polar vortex is expected to bring cold weather to the United States by the end of the month. The expected wobble in the polar vortex that sends Arctic temperatures south, however, could be in competition with the strong El Niño forecast for this winter —but experts say that how it will impact our weather remains to be seen. The polar vortex is a low-pressure band of air centered over the North Pole in the stratosphere, where it typically sits close to the pole and rotates cyclonicall",
       "image": "https://cdn.jwplayer.com/manifests/0XXRJn7J.m3u8"
-    },
-    {
-      "title": "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
-      "summary": "An outage affecting Microsoft services including Outlook, Teams, and Copilot has stretched into a second day, leaving businesses and governments around the world struggling to access email communications. As of Friday midday ET, almost 24 hours since the outage was first reported, Microsoft said it was observing \"signs of sustained recovery\" across its services, with email queues \"approaching normal levels.\" Full recovery efforts continued. The company reported \"no evidence of malicious activity associated with the",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt983c79de11b463a3/6af7160d19748055f5a0085e/GettyImages-2304369902.jpg?branch=production"
     }
   ]
 }
