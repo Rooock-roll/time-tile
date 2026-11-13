@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bc697fe8a623fb95419a3c372b4a9b16e29e5eab/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Democrats Can Start the Next Era of Immigration Reform Now</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fadf78985222695ffb05acb7c1c97ed558273625/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bc697fe8a623fb95419a3c372b4a9b16e29e5eab/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Democrats Can Start the Next Era of Immigration Reform Now</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The 2026 midterm election results rebuked President Donald Trump’s failures on the economy and, in several competitive races, his immigration agenda. Latino voters …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fadf78985222695ffb05acb7c1c97ed558273625/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Democratic Republic of the Congo (DRC) is reeling from an outbreak of Ebola that is estimated to have killed nearly 5,400 people. The World Health Organization …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bc697fe8a623fb95419a3c372b4a9b16e29e5eab/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Democrats Can Start the Next Era of Immigration Reform Now</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The 2026 midterm election results rebuked President Donald Trump’s failures on the economy and, in several competitive races, his immigration agenda. Latino voters who backed him in 2024 swung back to Democrats, helping deliver the politically unthinkable. Texas elected its first Democratic senator since 1988 and its first Latina governor , while Democrats won governorships in all four southern border states and every southern border congressional district. Over th…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fadf78985222695ffb05acb7c1c97ed558273625/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Democratic Republic of the Congo (DRC) is reeling from an outbreak of Ebola that is estimated to have killed nearly 5,400 people. The World Health Organization (WHO) has described it as “the largest Ebola outbreak ever reported” in the country. The outbreak was first detected in Mongbwalu , a gold-mining town of around 130,000 people in Ituri province in northeastern Congo, after the WHO was alerted on May 5 about an unusual cluster of illness and deaths. The e…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How Democrats Can Start…</text>
+      <text hint-style="caption">Trump Gutted USAID. Con…</text>
     </binding>
   </visual>
 </tile>
