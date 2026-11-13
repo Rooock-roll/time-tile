@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@47ecfbfe6a974facd18bb0c9235e6ee8b0746b8d/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77d03181ed7851ad6b3209d8f83643454b3b2473/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why BMI Is Not the Best Measure of Health</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@47ecfbfe6a974facd18bb0c9235e6ee8b0746b8d/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77d03181ed7851ad6b3209d8f83643454b3b2473/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why BMI Is Not the Best Measure of Health</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@47ecfbfe6a974facd18bb0c9235e6ee8b0746b8d/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77d03181ed7851ad6b3209d8f83643454b3b2473/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why BMI Is Not the Best Measure of Health</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect how much excess fat a person might be carrying and give doctors a sense of a patient's risk for obesity-related health conditions. For years, however, doctors have found that BMI isn’t the best measure of obesity-related health, since it can’t distinguish between fat and muscle weight. In a study publish…</text>
     </binding>
