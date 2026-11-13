@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@468e1711fb9430a8941cf04048374c2ee137042f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41cae82223126ff6ea539c719e225135306a9bb0/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@468e1711fb9430a8941cf04048374c2ee137042f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41cae82223126ff6ea539c719e225135306a9bb0/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would c…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@468e1711fb9430a8941cf04048374c2ee137042f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41cae82223126ff6ea539c719e225135306a9bb0/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would cry every time watching it,” he recalls over Zoom. “My editor would cry every time. Everyone who was allowed in the edit was crying. And so I knew people were gonna be moved.” What the actor, writer, and internet personality did not predict for his feature debut was just how big and immediate that impact …</text>
     </binding>
