@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@187dbc40e1e350fae9f570c5d1ccd8cce4da2ee3/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c27ca1c3806536fa31ff5f9b37d68de6ff66d729/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Movies About Tech Turned Dystopian</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@187dbc40e1e350fae9f570c5d1ccd8cce4da2ee3/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c27ca1c3806536fa31ff5f9b37d68de6ff66d729/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Movies About Tech Turned Dystopian</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@187dbc40e1e350fae9f570c5d1ccd8cce4da2ee3/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c27ca1c3806536fa31ff5f9b37d68de6ff66d729/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Movies About Tech Turned Dystopian</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of a powerful technology that enabled a group of military leaders to unilaterally determine the life and death of thousands. From the vantage point of 2026, the story sounds unsettling, even dystopian. But The Imitation Game was actually a celebration of its protagonist, Alan Turing, and his pivotal role i…</text>
     </binding>
