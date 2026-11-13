@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-13T15:01:11.703809+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-13T15:15:42.153529+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
+    "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’",
     "Why BMI Is Not the Best Measure of Health",
     "Why AI Could Create More Places Like Youngstown, Ohio",
-    "How Democrats Can Start the Next Era of Immigration Reform Now",
-    "Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic",
-    "Van Hollen Challenges Schumer for Senate Majority Leader"
+    "How Democrats Can Start the Next Era of Immigration Reform Now"
   ],
   "articles": [
+    {
+      "title": "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
+      "summary": "An outage affecting Microsoft services including Outlook, Teams, and Copilot has stretched into a second day, leaving businesses and governments around the world struggling to access email communications. Microsoft said that as of Friday morning, users may still “be unable to connect to multiple Microsoft 365 services.” While it noted an “encouraging recovery progress in Europe,” with some access in North America “also improving,” it acknowledged that users may still experience “intermittent issues” as recovery act",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt983c79de11b463a3/6af7160d19748055f5a0085e/GettyImages-2304369902.jpg?branch=production"
+    },
+    {
+      "title": "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’",
+      "summary": "For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would cry every time watching it,” he recalls over Zoom. “My editor would cry every time. Everyone who was allowed in the edit was crying. And so I knew people were gonna be moved.” What the actor, writer, and internet personality did not predict for his feature debut was just how big and immediate that impact would be. It was the toast of the Cannes Film Festi",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2c4e80b8ef853ba5/6af62c2d4992c32a23cf6f5d/GettyImages-2303255595.jpg?branch=production"
+    },
     {
       "title": "Why BMI Is Not the Best Measure of Health",
       "summary": "BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect how much excess fat a person might be carrying and give doctors a sense of a patient's risk for obesity-related health conditions. For years, however, doctors have found that BMI isn’t the best measure of obesity-related health, since it can’t distinguish between fat and muscle weight. In a study published Nov. 11 in Nature , researchers led by Francesco",
@@ -24,16 +34,6 @@
       "title": "How Democrats Can Start the Next Era of Immigration Reform Now",
       "summary": "The 2026 midterm election results rebuked President Donald Trump’s failures on the economy and, in several competitive races, his immigration agenda. Latino voters who backed him in 2024 swung back to Democrats, helping deliver the politically unthinkable. Texas elected its first Democratic senator since 1988 and its first Latina governor , while Democrats won governorships in all four southern border states and every southern border congressional district. Over the last two years, Trump quieted the border but the ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt17650c07c7cfcd32/6af65b3b4992c3762fcf6ff8/democrats-immigration.jpg?branch=production"
-    },
-    {
-      "title": "Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic",
-      "summary": "The Democratic Republic of the Congo (DRC) is reeling from an outbreak of Ebola that is estimated to have killed nearly 5,400 people. The World Health Organization (WHO) has described it as “the largest Ebola outbreak ever reported” in the country. The outbreak was first detected in Mongbwalu , a gold-mining town of around 130,000 people in Ituri province in northeastern Congo, after the WHO was alerted on May 5 about an unusual cluster of illness and deaths. The earliest known suspected case was a healthcare worke",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc3cad8aec5af16b4/6af5e4661d9ecfe9fd98260e/GettyImages-2300979983.jpg?branch=production"
-    },
-    {
-      "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
-      "summary": "Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Announcing his run on Thursday evening, the Democratic senator for Maryland said his challenge was “not about any one individual” but about “answering the call of the American people.” “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies — but even bigger than that, a change from the stat",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8609942b9897e984/6af6ddc794462ec0b7c15656/Van_Hollen_and_Schumer.jpg?branch=production"
     }
   ]
 }
