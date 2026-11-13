@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-13T19:45:41.190578+00:00",
+  "updated": "2026-11-13T20:01:07.246977+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
     "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
     "What An Early Polar Vortex Combined With El Niño Means For Winter Weather",
     "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
-    "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’",
-    "Why BMI Is Not the Best Measure of Health"
+    "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’"
   ],
   "articles": [
+    {
+      "title": "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
+      "summary": "It’s already 10:27 p.m. on a Saturday night in October when Salish Matter asks gently, “Are we going to start filming soon?” The 16-year-old stands in the aisle of her local Target in Manhattan Beach, Calif., beside her father Jordan Matter. They are dressed almost identically, in jeans and black shirts. The duo is minutes away from filming a video for Jordan’s YouTube channel , which launched in earnest in 2017 and today has more than 38 million subscribers. Over the past several years, Salish has become its star—",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7313568b9c065583/6af60e5d869458af219f90f1/261123_WMATTER_001_v1.jpg?branch=production"
+    },
     {
       "title": "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
       "summary": "Texas has long been led by Republicans, from its governor’s mansion and state legislature down to many of its locally held offices. But this year’s elections have abruptly turned the ruby-red state blue , with sweeping implications for Texas’ laws and the lives of its more than 30 million residents. Democrats scored a series of historic victories in Texas state politics earlier this month, winning every statewide race on the ballot and a number of more local contests to boot. Gina Hinojosa upset Gov. Greg Abbott to",
@@ -29,11 +34,6 @@
       "title": "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’",
       "summary": "For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would cry every time watching it,” he recalls over Zoom. “My editor would cry every time. Everyone who was allowed in the edit was crying. And so I knew people were gonna be moved.” What the actor, writer, and internet personality did not predict for his feature debut was just how big and immediate that impact would be. It was the toast of the Cannes Film Festi",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2c4e80b8ef853ba5/6af62c2d4992c32a23cf6f5d/GettyImages-2303255595.jpg?branch=production"
-    },
-    {
-      "title": "Why BMI Is Not the Best Measure of Health",
-      "summary": "BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect how much excess fat a person might be carrying and give doctors a sense of a patient's risk for obesity-related health conditions. For years, however, doctors have found that BMI isn’t the best measure of obesity-related health, since it can’t distinguish between fat and muscle weight. In a study published Nov. 11 in Nature , researchers led by Francesco",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3079f6d88b7e37a1/6af61788869458476d9f910d/GettyImages-86508185.jpg?branch=production"
     }
   ]
 }
