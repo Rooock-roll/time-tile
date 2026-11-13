@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ecd892661155510b8d86a2ff2d81d2b639093251/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dddf6090777d36df9920833a224f6d3c36704158/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ecd892661155510b8d86a2ff2d81d2b639093251/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dddf6090777d36df9920833a224f6d3c36704158/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ecd892661155510b8d86a2ff2d81d2b639093251/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dddf6090777d36df9920833a224f6d3c36704158/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an up-and-coming singer named Charlie Heart (Carter Faith), goes missing. As she investigates the disappearance, Misty uncovers a series of suspicious connections involving Charlie's manager, Roy Combs ( Garrett Hedlund ), and a local police detective. But the biggest revelation is that Charlie's disappeara…</text>
     </binding>
