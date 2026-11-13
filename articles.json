@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-13T20:45:40.873393+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-13T21:01:12.862244+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland",
     "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
     "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
     "What An Early Polar Vortex Combined With El Niño Means For Winter Weather",
-    "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
-    "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’"
+    "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know"
   ],
   "articles": [
+    {
+      "title": "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland",
+      "summary": "Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an up-and-coming singer named Charlie Heart (Carter Faith), goes missing. As she investigates the disappearance, Misty uncovers a series of suspicious connections involving Charlie's manager, Roy Combs ( Garrett Hedlund ), and a local police detective. But the biggest revelation is that Charlie's disappearance was all a part of a larger plan to escape someo",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt13ccedad49915ed1/6af768b369790b83b4906585/Heartland_n_00_39_36_16_R_DSC4031_R.jpg?branch=production"
+    },
     {
       "title": "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
       "summary": "It’s already 10:27 p.m. on a Saturday night in October when Salish Matter asks gently, “Are we going to start filming soon?” The 16-year-old stands in the aisle of her local Target in Manhattan Beach, Calif., beside her father Jordan Matter. They are dressed almost identically, in jeans and black shirts. The duo is minutes away from filming a video for Jordan’s YouTube channel , which launched in earnest in 2017 and today has more than 38 million subscribers. Over the past several years, Salish has become its star—",
@@ -29,11 +34,6 @@
       "title": "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
       "summary": "An outage affecting Microsoft services including Outlook, Teams, and Copilot has stretched into a second day, leaving businesses and governments around the world struggling to access email communications. As of Friday midday ET, almost 24 hours since the outage was first reported, Microsoft said it was observing \"signs of sustained recovery\" across its services, with email queues \"approaching normal levels.\" Full recovery efforts continued. The company reported \"no evidence of malicious activity associated with the",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt983c79de11b463a3/6af7160d19748055f5a0085e/GettyImages-2304369902.jpg?branch=production"
-    },
-    {
-      "title": "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’",
-      "summary": "For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would cry every time watching it,” he recalls over Zoom. “My editor would cry every time. Everyone who was allowed in the edit was crying. And so I knew people were gonna be moved.” What the actor, writer, and internet personality did not predict for his feature debut was just how big and immediate that impact would be. It was the toast of the Cannes Film Festi",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2c4e80b8ef853ba5/6af62c2d4992c32a23cf6f5d/GettyImages-2303255595.jpg?branch=production"
     }
   ]
 }

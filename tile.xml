@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b353baf0256a20216d61174200eb856e4b650018/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8322fb7dc0b3b07e654913d0425c960a91eb3b87/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b353baf0256a20216d61174200eb856e4b650018/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would c…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8322fb7dc0b3b07e654913d0425c960a91eb3b87/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b353baf0256a20216d61174200eb856e4b650018/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For Jordan Firstman, tears shed during the making of Club Kid would turn out to be a harbinger of success. “I remember getting to the end of the edit, and I would cry every time watching it,” he recalls over Zoom. “My editor would cry every time. Everyone who was allowed in the edit was crying. And so I knew people were gonna be moved.” What the actor, writer, and internet personality did not predict for his feature debut was just how big and immediate that impact …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8322fb7dc0b3b07e654913d0425c960a91eb3b87/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an up-and-coming singer named Charlie Heart (Carter Faith), goes missing. As she investigates the disappearance, Misty uncovers a series of suspicious connections involving Charlie's manager, Roy Combs ( Garrett Hedlund ), and a local police detective. But the biggest revelation is that Charlie's disappeara…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Jordan Firstman Made Cl…</text>
+      <text hint-style="caption">Breaking Down the Endin…</text>
     </binding>
   </visual>
 </tile>
