@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@46883306450e268ff9679729a49e1a89dff5deb7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01590dd93e725a1177e0abb32febdff8a73414fb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Van Hollen Challenges Schumer for Senate Majority Leader</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@46883306450e268ff9679729a49e1a89dff5deb7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01590dd93e725a1177e0abb32febdff8a73414fb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Van Hollen Challenges Schumer for Senate Majority Leader</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Ann…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@46883306450e268ff9679729a49e1a89dff5deb7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01590dd93e725a1177e0abb32febdff8a73414fb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Van Hollen Challenges Schumer for Senate Majority Leader</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Announcing his run on Thursday evening, the Democratic senator for Maryland said his challenge was “not about any one individual” but about “answering the call of the American people.” “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies …</text>
     </binding>
