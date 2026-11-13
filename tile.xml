@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c802c44c2059b84fcad5f75554d285bc27141269/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ecf81290f9590906ac50ee774331d4efdf86233e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Movies About Tech Turned Dystopian</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c802c44c2059b84fcad5f75554d285bc27141269/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Corporate leaders in India spoke about the country’s economic growth and potential in the coming years at TIME’s The Partnership Imperative: Building the Next Chapt…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ecf81290f9590906ac50ee774331d4efdf86233e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Movies About Tech Turned Dystopian</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c802c44c2059b84fcad5f75554d285bc27141269/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Corporate leaders in India spoke about the country’s economic growth and potential in the coming years at TIME’s The Partnership Imperative: Building the Next Chapter of Growth dinner in Andhra Pradesh on Thursday. Speaking on the panel were Madhur Jain, co- founder and CEO of Varaha ClimateAg, a climate tech start-up; Anupriya Acharya, CEO in South Asia of Publicis Groupe, an international marketing and public relations firm; Rajesh Mittal, president of the automo…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ecf81290f9590906ac50ee774331d4efdf86233e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Movies About Tech Turned Dystopian</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of a powerful technology that enabled a group of military leaders to unilaterally determine the life and death of thousands. From the vantage point of 2026, the story sounds unsettling, even dystopian. But The Imitation Game was actually a celebration of its protagonist, Alan Turing, and his pivotal role i…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Corporate Leaders Discu…</text>
+      <text hint-style="caption">How Movies About Tech T…</text>
     </binding>
   </visual>
 </tile>
