@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-13T11:45:40.203074+00:00",
+  "updated": "2026-11-13T12:01:11.460686+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
-    "Van Hollen Challenges Schumer for Senate Majority Leader",
+    "Why AI Could Create More Places Like Youngstown, Ohio",
     "How Democrats Can Start the Next Era of Immigration Reform Now",
-    "How Movies About Tech Turned Dystopian",
-    "Breaking Down the Hard-Won Ending of The Good Daughter",
-    "A New Pill Could Reduce the Risk of Having a Second Stroke"
+    "Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic",
+    "Van Hollen Challenges Schumer for Senate Majority Leader",
+    "How Movies About Tech Turned Dystopian"
   ],
   "articles": [
     {
-      "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
-      "summary": "Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Announcing his run on Thursday evening, the Democratic senator for Maryland said his challenge was “not about any one individual” but about “answering the call of the American people.” “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies — but even bigger than that, a change from the stat",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8609942b9897e984/6af6ddc794462ec0b7c15656/Van_Hollen_and_Schumer.jpg?branch=production"
+      "title": "Why AI Could Create More Places Like Youngstown, Ohio",
+      "summary": "The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the artificial intelligence revolution unfolds, debates about its impact on the American economy often hinge on the belief that if the technology creates more jobs than it destroys, it will be a success. But the more important question is often the most overlooked: Who will bear the costs of the AI revolution? Youngstown is a symbol for what can happen when A",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7c68ad188a4af5dc/6af687c58694583d3a9f9223/Vacant-Home-Youngstown-Ohio.jpg?branch=production"
     },
     {
       "title": "How Democrats Can Start the Next Era of Immigration Reform Now",
@@ -21,19 +21,19 @@
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt17650c07c7cfcd32/6af65b3b4992c3762fcf6ff8/democrats-immigration.jpg?branch=production"
     },
     {
+      "title": "Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic",
+      "summary": "The Democratic Republic of the Congo (DRC) is reeling from an outbreak of Ebola that is estimated to have killed nearly 5,400 people. The World Health Organization (WHO) has described it as “the largest Ebola outbreak ever reported” in the country. The outbreak was first detected in Mongbwalu , a gold-mining town of around 130,000 people in Ituri province in northeastern Congo, after the WHO was alerted on May 5 about an unusual cluster of illness and deaths. The earliest known suspected case was a healthcare worke",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc3cad8aec5af16b4/6af5e4661d9ecfe9fd98260e/GettyImages-2300979983.jpg?branch=production"
+    },
+    {
+      "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
+      "summary": "Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Announcing his run on Thursday evening, the Democratic senator for Maryland said his challenge was “not about any one individual” but about “answering the call of the American people.” “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies — but even bigger than that, a change from the stat",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8609942b9897e984/6af6ddc794462ec0b7c15656/Van_Hollen_and_Schumer.jpg?branch=production"
+    },
+    {
       "title": "How Movies About Tech Turned Dystopian",
       "summary": "In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of a powerful technology that enabled a group of military leaders to unilaterally determine the life and death of thousands. From the vantage point of 2026, the story sounds unsettling, even dystopian. But The Imitation Game was actually a celebration of its protagonist, Alan Turing, and his pivotal role in helping the Allies decrypt German intelligence me",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b9ad1ad2444f360/6af23da0e47c1ec3afc30a4d/TechCEO.png?branch=production"
-    },
-    {
-      "title": "Breaking Down the Hard-Won Ending of The Good Daughter",
-      "summary": "Warning: This post contains spoilers for The Good Daughter finale. Charlie Quinn ( Meghann Fahy ) is out the farmhouse door before the man on the lawn can reach the porch, her hair flying behind her, her voice barely above a whisper. What is he doing here, she wants to know. Mason “Huck” Huckabee (Jake McDorman) asks whether her sister is home. Her husband is, Charlie warns him. Huck says he is sorry about her father’s death. Behind the screen door, Samantha Quinn ( Rose Byrne ) has come close enough to hear him ad",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf41880250d307fea/6af619a886945849809f9121/NUP_207240_04111.JPG?branch=production"
-    },
-    {
-      "title": "A New Pill Could Reduce the Risk of Having a Second Stroke",
-      "summary": "On November 9, the U.S. Food and Drug Administration (FDA) approved a new type of medication to reduce the risk of strokes in certain populations. Asundexian, which will be sold under the brand name Sunharbo, is a daily pill that is the first to target a specific factor in the blood-clotting process that can contribute to stroke. In a study submitted to the FDA by Bayer, researchers found that the drug, when combined with an antiplatelet therapy such as aspirin, reduced the risk of an additional stroke by 26% in ju",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5840839d2145a895/6af4c447f7d5903b60670c89/GettyImages-2181652346.jpg?branch=production"
     }
   ]
 }
