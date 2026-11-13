@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-13T10:15:43.172426+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-13T10:31:00.476391+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Van Hollen Challenges Schumer for Senate Majority Leader",
     "How Democrats Can Start the Next Era of Immigration Reform Now",
     "How Movies About Tech Turned Dystopian",
     "Breaking Down the Hard-Won Ending of The Good Daughter",
-    "A New Pill Could Reduce the Risk of Having a Second Stroke",
-    "The Next Chapter of mRNA"
+    "A New Pill Could Reduce the Risk of Having a Second Stroke"
   ],
   "articles": [
+    {
+      "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
+      "summary": "Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Announcing his run on Thursday evening, the Democratic senator for Maryland said his challenge was “not about any one individual” but about “answering the call of the American people.” “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies — but even bigger than that, a change from the stat",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8609942b9897e984/6af6ddc794462ec0b7c15656/Van_Hollen_and_Schumer.jpg?branch=production"
+    },
     {
       "title": "How Democrats Can Start the Next Era of Immigration Reform Now",
       "summary": "The 2026 midterm election results rebuked President Donald Trump’s failures on the economy and, in several competitive races, his immigration agenda. Latino voters who backed him in 2024 swung back to Democrats, helping deliver the politically unthinkable. Texas elected its first Democratic senator since 1988 and its first Latina governor , while Democrats won governorships in all four southern border states and every southern border congressional district. Over the last two years, Trump quieted the border but the ",
@@ -29,11 +34,6 @@
       "title": "A New Pill Could Reduce the Risk of Having a Second Stroke",
       "summary": "On November 9, the U.S. Food and Drug Administration (FDA) approved a new type of medication to reduce the risk of strokes in certain populations. Asundexian, which will be sold under the brand name Sunharbo, is a daily pill that is the first to target a specific factor in the blood-clotting process that can contribute to stroke. In a study submitted to the FDA by Bayer, researchers found that the drug, when combined with an antiplatelet therapy such as aspirin, reduced the risk of an additional stroke by 26% in ju",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5840839d2145a895/6af4c447f7d5903b60670c89/GettyImages-2181652346.jpg?branch=production"
-    },
-    {
-      "title": "The Next Chapter of mRNA",
-      "summary": "It’s been a very good year for Stéphane Bancel. On a crisp October day, the CEO of Moderna, of COVID-vaccine fame, is sitting in his glass-walled office in the company’s headquarters in Cambridge, Mass., weeks before encouraging results from the company’s first mRNA cancer vaccine would become public. He’s recounting the biotech’s rocky road turning an unproven, scientifically dismissed approach—using messenger RNA, or mRNA, the genetic code that instructs cells to make proteins—into a platform for producing new ca",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltddcbbe3ad84d1b15/6af39ce0b713ad953067188f/Moderna-Tony-Luong-1.jpg?branch=production"
     }
   ]
 }
