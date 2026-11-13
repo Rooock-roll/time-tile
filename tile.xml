@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d4770a4300b8a5962944c76c28c48c3e223fc382/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Hard-Won Ending of The Good Daughter</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@acd95bdc34b7e95fe62e50e44a63e9507aa3f141/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">A New Pill Could Reduce the Risk of Having a Second Stroke</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d4770a4300b8a5962944c76c28c48c3e223fc382/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Hard-Won Ending of The Good Daughter</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for The Good Daughter finale. Charlie Quinn ( Meghann Fahy ) is out the farmhouse door before the man on the lawn can reach the…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@acd95bdc34b7e95fe62e50e44a63e9507aa3f141/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">A New Pill Could Reduce the Risk of Having a Second Stroke</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On November 9, the U.S. Food and Drug Administration (FDA) approved a new type of medication to reduce the risk of strokes in certain populations. Asundexian, which…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d4770a4300b8a5962944c76c28c48c3e223fc382/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Hard-Won Ending of The Good Daughter</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for The Good Daughter finale. Charlie Quinn ( Meghann Fahy ) is out the farmhouse door before the man on the lawn can reach the porch, her hair flying behind her, her voice barely above a whisper. What is he doing here, she wants to know. Mason “Huck” Huckabee (Jake McDorman) asks whether her sister is home. Her husband is, Charlie warns him. Huck says he is sorry about her father’s death. Behind the screen door, Samantha Quinn …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@acd95bdc34b7e95fe62e50e44a63e9507aa3f141/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">A New Pill Could Reduce the Risk of Having a Second Stroke</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On November 9, the U.S. Food and Drug Administration (FDA) approved a new type of medication to reduce the risk of strokes in certain populations. Asundexian, which will be sold under the brand name Sunharbo, is a daily pill that is the first to target a specific factor in the blood-clotting process that can contribute to stroke. In a study submitted to the FDA by Bayer, researchers found that the drug, when combined with an antiplatelet therapy such as aspirin, re…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Breaking Down the Hard-…</text>
+      <text hint-style="caption">A New Pill Could Reduce…</text>
     </binding>
   </visual>
 </tile>
