@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-13T12:45:43.269285+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-13T13:01:12.435680+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Why BMI Is Not the Best Measure of Health",
     "Why AI Could Create More Places Like Youngstown, Ohio",
     "How Democrats Can Start the Next Era of Immigration Reform Now",
     "Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic",
-    "Van Hollen Challenges Schumer for Senate Majority Leader",
-    "How Movies About Tech Turned Dystopian"
+    "Van Hollen Challenges Schumer for Senate Majority Leader"
   ],
   "articles": [
+    {
+      "title": "Why BMI Is Not the Best Measure of Health",
+      "summary": "BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect how much excess fat a person might be carrying and give doctors a sense of a patient's risk for obesity-related health conditions. For years, however, doctors have found that BMI isn’t the best measure of obesity-related health, since it can’t distinguish between fat and muscle weight. In a study published Nov. 11 in Nature , researchers led by Francesco",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3079f6d88b7e37a1/6af61788869458476d9f910d/GettyImages-86508185.jpg?branch=production"
+    },
     {
       "title": "Why AI Could Create More Places Like Youngstown, Ohio",
       "summary": "The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the artificial intelligence revolution unfolds, debates about its impact on the American economy often hinge on the belief that if the technology creates more jobs than it destroys, it will be a success. But the more important question is often the most overlooked: Who will bear the costs of the AI revolution? Youngstown is a symbol for what can happen when A",
@@ -29,11 +34,6 @@
       "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
       "summary": "Chris Van Hollen will challenge Chuck Schumer for Senate Majority Leader in the new Congress, marking the first time in decades that the race will be contested. Announcing his run on Thursday evening, the Democratic senator for Maryland said his challenge was “not about any one individual” but about “answering the call of the American people.” “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies — but even bigger than that, a change from the stat",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8609942b9897e984/6af6ddc794462ec0b7c15656/Van_Hollen_and_Schumer.jpg?branch=production"
-    },
-    {
-      "title": "How Movies About Tech Turned Dystopian",
-      "summary": "In 2014, a film about a prickly, arrogant inventor trying to build a “machine that can solve any problem” arrived in theaters. It explored the secretive creation of a powerful technology that enabled a group of military leaders to unilaterally determine the life and death of thousands. From the vantage point of 2026, the story sounds unsettling, even dystopian. But The Imitation Game was actually a celebration of its protagonist, Alan Turing, and his pivotal role in helping the Allies decrypt German intelligence me",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b9ad1ad2444f360/6af23da0e47c1ec3afc30a4d/TechCEO.png?branch=production"
     }
   ]
 }
