@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb49cd91b573fc5793e97cfd3cb2aebb97f3b57f/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@81d0ac569f3daae839610db4a1e242897a5af094/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Hard-Won Ending of The Good Daughter</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb49cd91b573fc5793e97cfd3cb2aebb97f3b57f/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@81d0ac569f3daae839610db4a1e242897a5af094/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Hard-Won Ending of The Good Daughter</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for The Good Daughter finale. Charlie Quinn ( Meghann Fahy ) is out the farmhouse door before the man on the lawn can reach the…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb49cd91b573fc5793e97cfd3cb2aebb97f3b57f/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@81d0ac569f3daae839610db4a1e242897a5af094/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Hard-Won Ending of The Good Daughter</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for The Good Daughter finale. Charlie Quinn ( Meghann Fahy ) is out the farmhouse door before the man on the lawn can reach the porch, her hair flying behind her, her voice barely above a whisper. What is he doing here, she wants to know. Mason “Huck” Huckabee (Jake McDorman) asks whether her sister is home. Her husband is, Charlie warns him. Huck says he is sorry about her father’s death. Behind the screen door, Samantha Quinn …</text>
     </binding>
