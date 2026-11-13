@@ -1,18 +1,28 @@
 {
-  "updated": "2026-11-13T17:01:25.611492+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-13T17:15:43.266448+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
+    "What An Early Polar Vortex Combined With El Niño Means For Winter Weather",
     "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
     "Jordan Firstman Made Club Kid as ‘An Act of Compassion for Myself’",
-    "Why BMI Is Not the Best Measure of Health",
-    "Why AI Could Create More Places Like Youngstown, Ohio",
-    "How Democrats Can Start the Next Era of Immigration Reform Now"
+    "Why BMI Is Not the Best Measure of Health"
   ],
   "articles": [
     {
+      "title": "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
+      "summary": "Texas has long been led by Republicans, from its governor’s mansion and state legislature down to many of its locally held offices. But this year’s elections have abruptly turned the ruby-red state blue , with sweeping implications for Texas’ laws and the lives of its more than 30 million residents. Democrats scored a series of historic victories in Texas state politics earlier this month, winning every statewide race on the ballot and a number of more local contests to boot. Gina Hinojosa upset Gov. Greg Abbott to",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4959219b305faf9e/6af73c28e3395721270b2005/GettyImages-2303490578.jpg?branch=production"
+    },
+    {
+      "title": "What An Early Polar Vortex Combined With El Niño Means For Winter Weather",
+      "summary": "A record-early breakdown of the polar vortex is expected to bring cold weather to the United States by the end of the month. The expected wobble in the polar vortex that sends Arctic temperatures south, however, could be in competition with the strong El Niño forecast for this winter —but experts say that how it will impact our weather remains to be seen. The polar vortex is a low-pressure band of air centered over the North Pole in the stratosphere, where it typically sits close to the pole and rotates cyclonicall",
+      "image": "https://cdn.jwplayer.com/manifests/0XXRJn7J.m3u8"
+    },
+    {
       "title": "Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know",
-      "summary": "An outage affecting Microsoft services including Outlook, Teams, and Copilot has stretched into a second day, leaving businesses and governments around the world struggling to access email communications. Microsoft said that as of Friday morning, users may still “be unable to connect to multiple Microsoft 365 services.” While it noted an “encouraging recovery progress in Europe,” with some access in North America “also improving,” it acknowledged that users may still experience “intermittent issues” as recovery act",
+      "summary": "An outage affecting Microsoft services including Outlook, Teams, and Copilot has stretched into a second day, leaving businesses and governments around the world struggling to access email communications. As of Friday midday ET, almost 24 hours since the outage was first reported, Microsoft said it was observing \"signs of sustained recovery\" across its services, with email queues \"approaching normal levels.\" Full recovery efforts continued. The company reported \"no evidence, of malicious activity associated with th",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt983c79de11b463a3/6af7160d19748055f5a0085e/GettyImages-2304369902.jpg?branch=production"
     },
     {
@@ -24,16 +34,6 @@
       "title": "Why BMI Is Not the Best Measure of Health",
       "summary": "BMI, or body mass index, has long been a part of health evaluations. A calculation that takes into account a person’s weight and height, BMI is supposed to reflect how much excess fat a person might be carrying and give doctors a sense of a patient's risk for obesity-related health conditions. For years, however, doctors have found that BMI isn’t the best measure of obesity-related health, since it can’t distinguish between fat and muscle weight. In a study published Nov. 11 in Nature , researchers led by Francesco",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3079f6d88b7e37a1/6af61788869458476d9f910d/GettyImages-86508185.jpg?branch=production"
-    },
-    {
-      "title": "Why AI Could Create More Places Like Youngstown, Ohio",
-      "summary": "The story of Youngstown, Ohio, is often seen as a story about the past. But it’s time to start looking at the Rust Belt city as a warning about the future. As the artificial intelligence revolution unfolds, debates about its impact on the American economy often hinge on the belief that if the technology creates more jobs than it destroys, it will be a success. But the more important question is often the most overlooked: Who will bear the costs of the AI revolution? Youngstown is a symbol for what can happen when A",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7c68ad188a4af5dc/6af687c58694583d3a9f9223/Vacant-Home-Youngstown-Ohio.jpg?branch=production"
-    },
-    {
-      "title": "How Democrats Can Start the Next Era of Immigration Reform Now",
-      "summary": "The 2026 midterm election results rebuked President Donald Trump’s failures on the economy and, in several competitive races, his immigration agenda. Latino voters who backed him in 2024 swung back to Democrats, helping deliver the politically unthinkable. Texas elected its first Democratic senator since 1988 and its first Latina governor , while Democrats won governorships in all four southern border states and every southern border congressional district. Over the last two years, Trump quieted the border but the ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt17650c07c7cfcd32/6af65b3b4992c3762fcf6ff8/democrats-immigration.jpg?branch=production"
     }
   ]
 }
