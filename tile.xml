@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@893d8cff5cebf58f36b7cc83f79e332839d52eec/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@52744ff7f06cdb9a6baa0b99c4557e8c6f9e9585/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@893d8cff5cebf58f36b7cc83f79e332839d52eec/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@52744ff7f06cdb9a6baa0b99c4557e8c6f9e9585/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Texas has long been led by Republicans, from its governor’s mansion and state legislature down to many of its locally held offices. But this year’s elections have a…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@893d8cff5cebf58f36b7cc83f79e332839d52eec/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@52744ff7f06cdb9a6baa0b99c4557e8c6f9e9585/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Texas has long been led by Republicans, from its governor’s mansion and state legislature down to many of its locally held offices. But this year’s elections have abruptly turned the ruby-red state blue , with sweeping implications for Texas’ laws and the lives of its more than 30 million residents. Democrats scored a series of historic victories in Texas state politics earlier this month, winning every statewide race on the ballot and a number of more local contes…</text>
     </binding>
