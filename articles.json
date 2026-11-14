@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-14T12:31:01.082020+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-14T12:45:43.360553+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The China Shock in the AI Era",
     "Congress Must Protect the CDC From Politics",
     "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War",
     "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland",
-    "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
-    "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives"
+    "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire"
   ],
   "articles": [
+    {
+      "title": "The China Shock in the AI Era",
+      "summary": "Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states promise to tighten restrictions on data-center construction, with overwhelming public support. Measures to limit development of data centers won more than 70% of the vote in 30 of these electoral contests. A 2026 survey by Pew Research Center found that about 52% of Americans were more concerned than excited about the growing use of AI in daily life, up fro",
+      "image": ""
+    },
     {
       "title": "Congress Must Protect the CDC From Politics",
       "summary": "Democrats and Republicans in the new Congress will disagree about plenty in health policy. However, they should agree that the Centers for Disease Control and Prevention (CDC) should be a scientific agency whose judgments hold steady no matter who occupies the White House. In January, Congress will have the chance to write that principle into law. For decades, the scientific independence of America’s public health agencies rested on a bipartisan understanding. Presidential administrations disagreed about health pol",
@@ -29,11 +34,6 @@
       "title": "Inside Salish and Jordan Matter’s Growing Father-Daughter Empire",
       "summary": "It’s already 10:27 p.m. on a Saturday night in October when Salish Matter asks gently, “Are we going to start filming soon?” The 16-year-old stands in the aisle of her local Target in Manhattan Beach, Calif., beside her father Jordan Matter. They are dressed almost identically, in jeans and black shirts. The duo is minutes away from filming a video for Jordan’s YouTube channel , which launched in earnest in 2017 and today has more than 38 million subscribers. Over the past several years, Salish has become its star—",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7313568b9c065583/6af60e5d869458af219f90f1/261123_WMATTER_001_v1.jpg?branch=production"
-    },
-    {
-      "title": "How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives",
-      "summary": "Texas has long been led by Republicans, from its governor’s mansion and state legislature down to many of its locally held offices. But this year’s elections have abruptly turned the ruby-red state blue , with sweeping implications for Texas’ laws and the lives of its more than 30 million residents. Democrats scored a series of historic victories in Texas state politics earlier this month, winning every statewide race on the ballot and a number of more local contests to boot. Gina Hinojosa upset Gov. Greg Abbott to",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4959219b305faf9e/6af73c28e3395721270b2005/GettyImages-2303490578.jpg?branch=production"
     }
   ]
 }
