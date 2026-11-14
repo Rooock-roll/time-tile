@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77b6be8407b539a4a8636c5b451e719698a3fda3/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f95edbd8143cc56b1054679b53cc70cc98c72be3/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77b6be8407b539a4a8636c5b451e719698a3fda3/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f95edbd8143cc56b1054679b53cc70cc98c72be3/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For more than a decade, Fatih Birol has been one of the world’s most influential voices in energy markets. As the head of the International Energy Agency (IEA), he …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@77b6be8407b539a4a8636c5b451e719698a3fda3/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f95edbd8143cc56b1054679b53cc70cc98c72be3/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For more than a decade, Fatih Birol has been one of the world’s most influential voices in energy markets. As the head of the International Energy Agency (IEA), he advises presidents and energy ministers; CEOs follow his view of the market with careful attention. When we caught up at the United Nations climate change conference, known as COP31 , currently underway in Antalya, Turkey, he offered a blunt analysis: the war in Iran has unleashed a structural shift. &quot;I …</text>
     </binding>
