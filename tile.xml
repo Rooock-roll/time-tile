@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6cf948b7ef639c3550a430607a902e99694dde0d/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The China Shock in the AI Era</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ce6aedcd2f0b550c514cb7d43dcdc994ae47dadc/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Congress Must Protect the CDC From Politics</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6cf948b7ef639c3550a430607a902e99694dde0d/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The China Shock in the AI Era</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states pro…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ce6aedcd2f0b550c514cb7d43dcdc994ae47dadc/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Congress Must Protect the CDC From Politics</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democrats and Republicans in the new Congress will disagree about plenty in health policy. However, they should agree that the Centers for Disease Control and Preve…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6cf948b7ef639c3550a430607a902e99694dde0d/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The China Shock in the AI Era</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states promise to tighten restrictions on data-center construction, with overwhelming public support. Measures to limit development of data centers won more than 70% of the vote in 30 of these electoral contests. A 2026 survey by Pew Research Center found that about 52% of Americans were more concerned than excite…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ce6aedcd2f0b550c514cb7d43dcdc994ae47dadc/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Congress Must Protect the CDC From Politics</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democrats and Republicans in the new Congress will disagree about plenty in health policy. However, they should agree that the Centers for Disease Control and Prevention (CDC) should be a scientific agency whose judgments hold steady no matter who occupies the White House. In January, Congress will have the chance to write that principle into law. For decades, the scientific independence of America’s public health agencies rested on a bipartisan understanding. Pres…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The China Shock in the …</text>
+      <text hint-style="caption">Congress Must Protect t…</text>
     </binding>
   </visual>
 </tile>
