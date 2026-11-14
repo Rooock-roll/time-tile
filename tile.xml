@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@56b26dbc95704cb148c93a78543f8018b154a220/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd0ea91c17c3964a771a5ac4e83d5fbe3eaeb888/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The China Shock in the AI Era</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@56b26dbc95704cb148c93a78543f8018b154a220/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd0ea91c17c3964a771a5ac4e83d5fbe3eaeb888/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The China Shock in the AI Era</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states pro…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@56b26dbc95704cb148c93a78543f8018b154a220/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd0ea91c17c3964a771a5ac4e83d5fbe3eaeb888/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The China Shock in the AI Era</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states promise to tighten restrictions on data-center construction, with overwhelming public support. Measures to limit development of data centers won more than 70% of the vote in 30 of these electoral contests. A 2026 survey by Pew Research Center found that about 52% of Americans were more concerned than excite…</text>
     </binding>
