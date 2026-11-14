@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d60424ba0389d744f253706a7e0d9406d37ddf84/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a085ba6003e9a9fe00676c61547cdfe50e318d10/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Inside Salish and Jordan Matter’s Growing Father-Daughter Empire</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d60424ba0389d744f253706a7e0d9406d37ddf84/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a085ba6003e9a9fe00676c61547cdfe50e318d10/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Inside Salish and Jordan Matter’s Growing Father-Daughter Empire</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s already 10:27 p.m. on a Saturday night in October when Salish Matter asks gently, “Are we going to start filming soon?” The 16-year-old stands in the aisle of …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d60424ba0389d744f253706a7e0d9406d37ddf84/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an up-and-coming singer named Charlie Heart (Carter Faith), goes missing. As she investigates the disappearance, Misty uncovers a series of suspicious connections involving Charlie's manager, Roy Combs ( Garrett Hedlund ), and a local police detective. But the biggest revelation is that Charlie's disappeara…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a085ba6003e9a9fe00676c61547cdfe50e318d10/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Inside Salish and Jordan Matter’s Growing Father-Daughter Empire</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s already 10:27 p.m. on a Saturday night in October when Salish Matter asks gently, “Are we going to start filming soon?” The 16-year-old stands in the aisle of her local Target in Manhattan Beach, Calif., beside her father Jordan Matter. They are dressed almost identically, in jeans and black shirts. The duo is minutes away from filming a video for Jordan’s YouTube channel , which launched in earnest in 2017 and today has more than 38 million subscribers. Over …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Breaking Down the Endin…</text>
+      <text hint-style="caption">Inside Salish and Jorda…</text>
     </binding>
   </visual>
 </tile>
