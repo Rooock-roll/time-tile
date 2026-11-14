@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ba391497b476f2a788fd1a39e6a1d952e3d52e67/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b7eeeb51b9c2da040028517bffe39bcb083fea7d/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What An Early Polar Vortex Combined With El Niño Means For Winter Weather</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ba391497b476f2a788fd1a39e6a1d952e3d52e67/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b7eeeb51b9c2da040028517bffe39bcb083fea7d/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What An Early Polar Vortex Combined With El Niño Means For Winter Weather</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A record-early breakdown of the polar vortex is expected to bring cold weather to the United States by the end of the month. The expected wobble in the polar vortex…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ba391497b476f2a788fd1a39e6a1d952e3d52e67/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b7eeeb51b9c2da040028517bffe39bcb083fea7d/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What An Early Polar Vortex Combined With El Niño Means For Winter Weather</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A record-early breakdown of the polar vortex is expected to bring cold weather to the United States by the end of the month. The expected wobble in the polar vortex that sends Arctic temperatures south, however, could be in competition with the strong El Niño forecast for this winter —but experts say that how it will impact our weather remains to be seen. The polar vortex is a low-pressure band of air centered over the North Pole in the stratosphere, where it typic…</text>
     </binding>
