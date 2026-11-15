@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-15T22:45:41.861385+00:00",
+  "updated": "2026-11-15T23:01:23.362577+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts",
     "All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance",
     "Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?",
     "The China Shock in the AI Era",
-    "Congress Must Protect the CDC From Politics",
-    "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War"
+    "Congress Must Protect the CDC From Politics"
   ],
   "articles": [
+    {
+      "title": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts",
+      "summary": "President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkland in Washington, D.C. Among the evidence undermining his Administration’s justification: his own Truth Social posts. On Oct. 18, Trump announced that the Department of Interior had developed a “plan to build a World Class Championship Golf Course on the site of the current East Potomac Golf Links.” He went on to say that the course would close on Nov. 1",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt27af55f7aff14c0f/6afa2489011fdc709be25408/GettyImages-2285664329.jpg?branch=production"
+    },
     {
       "title": "All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance",
       "summary": "In the future, when some documentary series in whatever medium succeeds television looks back at the current decade in public discourse, it might name our era the Age of Ignorance. The crank shouting nonsense from atop a soapbox is, of course, nothing new. What’s unique to our time is how vast the audiences for these bloviators have become. We’ve got Alix Earle , with about 15 million followers across TikTok and Instagram, bragging about never having read a book. (Even if it wasn’t strictly true, how telling that s",
@@ -29,11 +34,6 @@
       "title": "Congress Must Protect the CDC From Politics",
       "summary": "Democrats and Republicans in the new Congress will disagree about plenty in health policy. However, they should agree that the Centers for Disease Control and Prevention (CDC) should be a scientific agency whose judgments hold steady no matter who occupies the White House. In January, Congress will have the chance to write that principle into law. For decades, the scientific independence of America’s public health agencies rested on a bipartisan understanding. Presidential administrations disagreed about health pol",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9bd2d4545ff72402/6af73e11e33957f7440b2015/cdc-congress-rfk-jr.jpg?branch=production"
-    },
-    {
-      "title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War",
-      "summary": "For more than a decade, Fatih Birol has been one of the world’s most influential voices in energy markets. As the head of the International Energy Agency (IEA), he advises presidents and energy ministers; CEOs follow his view of the market with careful attention. When we caught up at the United Nations climate change conference, known as COP31 , currently underway in Antalya, Turkey, he offered a blunt analysis: the war in Iran has unleashed a structural shift. \"I don't see any credible pathway in which the world o",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt861f9cffe33930c2/6af76662ef7442661b3fbfd9/Fatih_Birol_COP31.jpg?branch=production"
     }
   ]
 }
