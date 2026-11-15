@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4a994b8865b50a17f0a67daa99582a00af7cad51/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@64d6be09ae29c0a51d48a4db4d532260cb74883d/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4a994b8865b50a17f0a67daa99582a00af7cad51/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@64d6be09ae29c0a51d48a4db4d532260cb74883d/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Transportation Secretary Sean Duffy on Saturday blamed the previous day’s nationwide ground stop on the replacement of copper wires at a “remote” Federal Aviation A…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4a994b8865b50a17f0a67daa99582a00af7cad51/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@64d6be09ae29c0a51d48a4db4d532260cb74883d/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Transportation Secretary Sean Duffy on Saturday blamed the previous day’s nationwide ground stop on the replacement of copper wires at a “remote” Federal Aviation Administration (FAA) facility. Installing new fiber optic lines led to critical communication breakdowns, he said. About 7,500 flights were delayed and over 9,000 were canceled on Friday, according to FlightAware . Some 1.5 million passengers were scheduled to take off from airports in the U.S. after 4 p.…</text>
     </binding>
