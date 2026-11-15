@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-15T13:01:16.503770+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-15T13:15:41.037077+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance",
     "Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?",
     "The China Shock in the AI Era",
     "Congress Must Protect the CDC From Politics",
-    "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War",
-    "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland"
+    "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War"
   ],
   "articles": [
+    {
+      "title": "All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance",
+      "summary": "In the future, when some documentary series in whatever medium succeeds television looks back at the current decade in public discourse, it might name our era the Age of Ignorance. The crank shouting nonsense from atop a soapbox is, of course, nothing new. What’s unique to our time is how vast the audiences for these bloviators have become. We’ve got Alix Earle , with about 15 million followers across TikTok and Instagram, bragging about never having read a book. (Even if it wasn’t strictly true, how telling that s",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0c49ea27c0313caa/6af73fb51d9ecfa20c982c1d/CoC_DAY26_OC_20260526_0038_Vibrant.jpg?branch=production"
+    },
     {
       "title": "Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?",
       "summary": "Transportation Secretary Sean Duffy on Saturday blamed the previous day’s nationwide ground stop on the replacement of copper wires at a “remote” Federal Aviation Administration (FAA) facility. Installing new fiber optic lines led to critical communication breakdowns, he said. About 7,500 flights were delayed and over 9,000 were canceled on Friday, according to FlightAware . Some 1.5 million passengers were scheduled to take off from airports in the U.S. after 4 p.m. Eastern, shortly after the ground stop began. Th",
@@ -29,11 +34,6 @@
       "title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War",
       "summary": "For more than a decade, Fatih Birol has been one of the world’s most influential voices in energy markets. As the head of the International Energy Agency (IEA), he advises presidents and energy ministers; CEOs follow his view of the market with careful attention. When we caught up at the United Nations climate change conference, known as COP31 , currently underway in Antalya, Turkey, he offered a blunt analysis: the war in Iran has unleashed a structural shift. \"I don't see any credible pathway in which the world o",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt861f9cffe33930c2/6af76662ef7442661b3fbfd9/Fatih_Birol_COP31.jpg?branch=production"
-    },
-    {
-      "title": "Breaking Down the Ending of Jessica Chastain's Nashville Thriller Heartland",
-      "summary": "Netflix's Heartland follows Misty Jones ( Jessica Chastain ), a former country music star living in self-imposed exile who returns to Nashville after her niece, an up-and-coming singer named Charlie Heart (Carter Faith), goes missing. As she investigates the disappearance, Misty uncovers a series of suspicious connections involving Charlie's manager, Roy Combs ( Garrett Hedlund ), and a local police detective. But the biggest revelation is that Charlie's disappearance was all a part of a larger plan to escape someo",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt13ccedad49915ed1/6af768b369790b83b4906585/Heartland_n_00_39_36_16_R_DSC4031_R.jpg?branch=production"
     }
   ]
 }
