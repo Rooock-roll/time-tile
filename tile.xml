@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b3c41fc446fc0041c081a5308b90170c558f5c45/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9be39494feddab0a0eb07d2d946bd3a77c3b13ec/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Cybersecurity Preparations That Actually Help Businesses Survive a Hack</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b3c41fc446fc0041c081a5308b90170c558f5c45/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9be39494feddab0a0eb07d2d946bd3a77c3b13ec/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Cybersecurity Preparations That Actually Help Businesses Survive a Hack</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As the boxer Mike Tyson once said, “Everybody has plans until they get hit for the first time.” Business leaders might think they know how their organizations would…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b3c41fc446fc0041c081a5308b90170c558f5c45/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9be39494feddab0a0eb07d2d946bd3a77c3b13ec/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Cybersecurity Preparations That Actually Help Businesses Survive a Hack</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As the boxer Mike Tyson once said, “Everybody has plans until they get hit for the first time.” Business leaders might think they know how their organizations would react to—and bounce back from—a cyberattack, but the reality can be quite different. Just ask Shirine Khoury-Haq, the former chief executive officer of U.K.-based grocery chain the Co-op. In April 2025, she emerged from an interview with a national newspaper to a phone call from her chief technology off…</text>
     </binding>
