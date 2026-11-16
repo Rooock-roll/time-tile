@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5926fa6301807211fe92a5f454f799915651385b/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b9fa769fc880410b7a5b17c08d1b1b003b697c4d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Premature Birth Taught Me the Dark Comedy of Trauma</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5926fa6301807211fe92a5f454f799915651385b/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most adva…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b9fa769fc880410b7a5b17c08d1b1b003b697c4d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Premature Birth Taught Me the Dark Comedy of Trauma</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">What followed that day is a blurry haze. When I try to remember specifics, it plays in my mind like quick cuts in a television show: A kind resident swabbing my cer…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5926fa6301807211fe92a5f454f799915651385b/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most advanced A.I. chips through third countries. The move comes just days ahead of President Trump’s meeting this week with Chinese President Xi Jinping, and in the wake of the Nvidia, the creator of the most advanced AI chips, becoming enmeshed in an international scandal that prompted the resignation of CEO an…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b9fa769fc880410b7a5b17c08d1b1b003b697c4d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Premature Birth Taught Me the Dark Comedy of Trauma</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">What followed that day is a blurry haze. When I try to remember specifics, it plays in my mind like quick cuts in a television show: A kind resident swabbing my cervix calmly, but then returning to the triage room with a larger group of doctors, all with somber faces. A fast transfer to a labor and delivery room. A steroid shot for my baby’s lungs and a magnesium drip for his brain; IV antibiotics and a fetal monitor. Our son, holding on. We made it to 24 hours aft…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">U.S. to Clamp Down On A…</text>
+      <text hint-style="caption">Premature Birth Taught …</text>
     </binding>
   </visual>
 </tile>
