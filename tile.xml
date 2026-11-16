@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5b0d0990f7bf1427106153853fe663d0283ab29e/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The China Shock in the AI Era</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@620d542941679e00fb2152511c77a4dc07377fea/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5b0d0990f7bf1427106153853fe663d0283ab29e/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The China Shock in the AI Era</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states pro…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@620d542941679e00fb2152511c77a4dc07377fea/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5b0d0990f7bf1427106153853fe663d0283ab29e/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The China Shock in the AI Era</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states promise to tighten restrictions on data-center construction, with overwhelming public support. Measures to limit development of data centers won more than 70% of the vote in 30 of these electoral contests. A 2026 survey by Pew Research Center found that about 52% of Americans were more concerned than excite…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@620d542941679e00fb2152511c77a4dc07377fea/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised to meet to select Rep. Hakeem Jeffries as the chamber’s first Black Speaker. It is a moment fraught with meaning and hurdles for both the New York Democrat and the larger Black community, multiple Black leaders tell TIME. They spoke of the symbolic significance of Jeffries taking on a role that puts him s…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The China Shock in the …</text>
+      <text hint-style="caption">In Hakeem Jeffries’ Ris…</text>
     </binding>
   </visual>
 </tile>
