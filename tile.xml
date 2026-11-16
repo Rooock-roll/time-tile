@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@425b3b1e3ee1f010483230584bed46b85c7622e6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7d92efff86ac9d947c7bf378de2b5ea780655763/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@425b3b1e3ee1f010483230584bed46b85c7622e6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7d92efff86ac9d947c7bf378de2b5ea780655763/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democrats’ sweeping wins in the midterm elections have dealt a devastating blow to President Donald Trump, and could spell trouble for the speculated presidential a…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@425b3b1e3ee1f010483230584bed46b85c7622e6/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7d92efff86ac9d947c7bf378de2b5ea780655763/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democrats’ sweeping wins in the midterm elections have dealt a devastating blow to President Donald Trump, and could spell trouble for the speculated presidential ambitions of his second-in-command, Vice President J.D. Vance , as the contest to succeed Trump on the Republican ticket and in the Oval Office looms. Vance is widely considered to be one of the top potential Republican contenders for the 2028 presidential election , though he has previously dismissed sug…</text>
     </binding>
