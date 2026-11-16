@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@926fdbcb4c84cc0cd512a2d452ac54b4fa331c62/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@300fb87f2818bf79a1a089dd78e9c3c9d082274f/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@926fdbcb4c84cc0cd512a2d452ac54b4fa331c62/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised t…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@300fb87f2818bf79a1a089dd78e9c3c9d082274f/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkla…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@926fdbcb4c84cc0cd512a2d452ac54b4fa331c62/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised to meet to select Rep. Hakeem Jeffries as the chamber’s first Black Speaker. It is a moment fraught with meaning and hurdles for both the New York Democrat and the larger Black community, multiple Black leaders tell TIME. They spoke of the symbolic significance of Jeffries taking on a role that puts him s…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@300fb87f2818bf79a1a089dd78e9c3c9d082274f/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkland in Washington, D.C. Among the evidence undermining his Administration’s justification: his own Truth Social posts. On Oct. 18, Trump announced that the Department of Interior had developed a “plan to build a World Class Championship Golf Course on the site of the current East Potomac Golf Links.” He w…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">In Hakeem Jeffries’ Ris…</text>
+      <text hint-style="caption">Trump’s Golf Course Pla…</text>
     </binding>
   </visual>
 </tile>
