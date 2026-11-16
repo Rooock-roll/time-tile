@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@42e47844fa55e2be53911589b2ca2e42f895ec1b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8d09b076b156fc170dcc9c2c9ef37aab72677b64/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@42e47844fa55e2be53911589b2ca2e42f895ec1b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8d09b076b156fc170dcc9c2c9ef37aab72677b64/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">An American soldier has alleged that U.S. military leaders dismissed concerns ahead of an Iranian attack that killed six servicemembers on March 1. The complaint, s…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@42e47844fa55e2be53911589b2ca2e42f895ec1b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8d09b076b156fc170dcc9c2c9ef37aab72677b64/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">An American soldier has alleged that U.S. military leaders dismissed concerns ahead of an Iranian attack that killed six servicemembers on March 1. The complaint, submitted Friday to the House and Senate Armed Services committees and first reported by CBS on Sunday, alleges that U.S. Army leaders did not heed warnings about thin fortifications at a command post at Kuwait’s Port Shuaiba. Iran launched a retaliatory drone attack on the command post a day after the U.…</text>
     </binding>
