@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ab608525c365a25d8541338b00144b14423a979/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b4d04736c7f1cd01b01c5d087beb57d04cb1ead1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ab608525c365a25d8541338b00144b14423a979/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkla…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b4d04736c7f1cd01b01c5d087beb57d04cb1ead1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most adva…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ab608525c365a25d8541338b00144b14423a979/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkland in Washington, D.C. Among the evidence undermining his Administration’s justification: his own Truth Social posts. On Oct. 18, Trump announced that the Department of Interior had developed a “plan to build a World Class Championship Golf Course on the site of the current East Potomac Golf Links.” He w…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b4d04736c7f1cd01b01c5d087beb57d04cb1ead1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most advanced A.I. chips through third countries. The move comes just days ahead of President Trump’s meeting this week with Chinese President Xi Jinping, and in the wake of the Nvidia, the creator of the most advanced AI chips, becoming enmeshed in an international scandal that prompted the resignation of CEO an…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Trump’s Golf Course Pla…</text>
+      <text hint-style="caption">U.S. to Clamp Down On A…</text>
     </binding>
   </visual>
 </tile>
