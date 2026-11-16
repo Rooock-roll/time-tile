@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f62a17dd8f9051c5c413ac8bab4ba7b3d855854/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2273e002861c16021649b3b701bd473b76e8f7fe/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f62a17dd8f9051c5c413ac8bab4ba7b3d855854/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2273e002861c16021649b3b701bd473b76e8f7fe/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f62a17dd8f9051c5c413ac8bab4ba7b3d855854/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2273e002861c16021649b3b701bd473b76e8f7fe/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised to meet to select Rep. Hakeem Jeffries as the chamber’s first Black Speaker. It is a moment fraught with meaning and hurdles for both the New York Democrat and the larger Black community, multiple Black leaders tell TIME. They spoke of the symbolic significance of Jeffries taking on a role that puts him s…</text>
     </binding>
