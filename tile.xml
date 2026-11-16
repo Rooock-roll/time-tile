@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ebad430f21d7e918f01609d367c3ebef05119658/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fa870563244c949f6480d227a1afde6d471c06c1/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ebad430f21d7e918f01609d367c3ebef05119658/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkla…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fa870563244c949f6480d227a1afde6d471c06c1/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In the future, when some documentary series in whatever medium succeeds television looks back at the current decade in public discourse, it might name our era the A…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ebad430f21d7e918f01609d367c3ebef05119658/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkland in Washington, D.C. Among the evidence undermining his Administration’s justification: his own Truth Social posts. On Oct. 18, Trump announced that the Department of Interior had developed a “plan to build a World Class Championship Golf Course on the site of the current East Potomac Golf Links.” He w…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fa870563244c949f6480d227a1afde6d471c06c1/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In the future, when some documentary series in whatever medium succeeds television looks back at the current decade in public discourse, it might name our era the Age of Ignorance. The crank shouting nonsense from atop a soapbox is, of course, nothing new. What’s unique to our time is how vast the audiences for these bloviators have become. We’ve got Alix Earle , with about 15 million followers across TikTok and Instagram, bragging about never having read a book. (…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Trump’s Golf Course Pla…</text>
+      <text hint-style="caption">All Hail Philomena Cunk…</text>
     </binding>
   </visual>
 </tile>
