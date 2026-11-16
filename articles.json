@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-16T21:31:07.259087+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-16T21:45:45.859307+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
-    "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi",
-    "Premature Birth Taught Me the Dark Comedy of Trauma",
-    "In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test",
-    "How to Build an Artificial Intelligence Revolution for All",
-    "Molly Ball Returns to TIME as Washington Bureau Chief"
+    "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana",
+    "Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?",
+    "The Cybersecurity Preparations That Actually Help Businesses Survive a Hack",
+    "DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?",
+    "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi"
   ],
   "articles": [
     {
+      "title": "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana",
+      "summary": "America’s hyperscale data centers together use as much electricity as some entire U.S. states and produce millions of metric tons of carbon dioxide over the course of a year, according to a new study published Monday in Nature Sustainability . The number of hyperscale data centers, which are larger and more powerful than traditional data centers, and are often used to train and run large-scale AI models , has exploded in recent years. Between 2019 and 2024, the number of data centers around the world doubled from a",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4b6332009b69678b/6afb310ab84d8b2807c98fbc/data-center.jpg?branch=production"
+    },
+    {
+      "title": "Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?",
+      "summary": "Democrats’ sweeping wins in the midterm elections have dealt a devastating blow to President Donald Trump, and could spell trouble for the speculated presidential ambitions of his second-in-command, Vice President J.D. Vance , as the contest to succeed Trump on the Republican ticket and in the Oval Office looms. Vance is widely considered to be one of the top potential Republican contenders for the 2028 presidential election , though he has previously dismissed suggestions that he intends to run for the White House",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8d5620b371704f49/6afb5262f70f1226e1a13e2e/Vance-2028-Chances.jpg?branch=production"
+    },
+    {
+      "title": "The Cybersecurity Preparations That Actually Help Businesses Survive a Hack",
+      "summary": "As the boxer Mike Tyson once said, “Everybody has plans until they get hit for the first time.” Business leaders might think they know how their organizations would react to—and bounce back from—a cyberattack, but the reality can be quite different. Just ask Shirine Khoury-Haq, the former chief executive officer of U.K.-based grocery chain the Co-op. In April 2025, she emerged from an interview with a national newspaper to a phone call from her chief technology officer, who explained that hackers had entered the su",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3ca158f84a98c688/6af77ae751cc99865c606e9e/How_businesses_are_preparing_for_cybersecurity_and_data_emergencies.png?branch=production"
+    },
+    {
+      "title": "DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?",
+      "summary": "The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face \"significant legal consequences\" if she fails to preserve records related to potential Congressional investigations involving allies of President Donald Trump . The warning came in a letter from Aaron Reitz, the U.S. Attorney for the Southern District of Texas, who accused Warren, the likely incoming chair of the Senate Banking Committee, of appearing \"eager to wield your future gavel like a tomahawk,",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb32e086e65d59ec7/6afb3280017e0d1cdd76f33e/Elizabeth_Warren.jpg?branch=production"
+    },
+    {
       "title": "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi",
-      "summary": "The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most advanced A.I. chips through third countries. The move comes just days ahead of President Trump’s meeting this week with Chinese President Xi Jinping, and in the wake of the Nvidia, the creator of the most advanced AI chips, becoming enmeshed in an international scandal that prompted the resignation of CEO and President Jensen Huang and a fresh round of scrut",
+      "summary": "The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most advanced A.I. chips through third countries. The move comes just days ahead of President Trump’s meeting this week with Chinese President Xi Jinping, and in the wake of Nvidia, the creator of the most advanced AI chips, becoming enmeshed in an international scandal that prompted the resignation of CEO and President Jensen Huang and a fresh round of scrutiny ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdd359b0876b51807/6afb2c067a7cf800605b4fa8/GettyImages-2304949134.jpg?branch=production"
-    },
-    {
-      "title": "Premature Birth Taught Me the Dark Comedy of Trauma",
-      "summary": "What followed that day is a blurry haze. When I try to remember specifics, it plays in my mind like quick cuts in a television show: A kind resident swabbing my cervix calmly, but then returning to the triage room with a larger group of doctors, all with somber faces. A fast transfer to a labor and delivery room. A steroid shot for my baby’s lungs and a magnesium drip for his brain; IV antibiotics and a fetal monitor. Our son, holding on. We made it to 24 hours after my water broke without delivering—a critical mil",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltec1673a2f621e341/6afa8bae51cc9992766074c0/Baby-in-incubator.jpg?branch=production"
-    },
-    {
-      "title": "In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test",
-      "summary": "In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised to meet to select Rep. Hakeem Jeffries as the chamber’s first Black Speaker. It is a moment fraught with meaning and hurdles for both the New York Democrat and the larger Black community, multiple Black leaders tell TIME. They spoke of the symbolic significance of Jeffries taking on a role that puts him second in the presidential line of succession as wel",
-      "image": "https://cdn.jwplayer.com/manifests/pCtMfX7V.m3u8"
-    },
-    {
-      "title": "How to Build an Artificial Intelligence Revolution for All",
-      "summary": "The most important flashpoint in the debate over the future of artificial intelligence for both business and political leaders is: What is the impact of the technology on working Americans? Over the long term, AI’s promise will be measured not by the scale of its investment, disruption, or productivity, but by the apportionment across America of the value it creates. It is vital that both Republicans and Democrats unite with the business and investment community to provide a solution that is acceptable to the major",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc65ddba4d5f0f4a6/6afa925f69790bab14906bf3/AI-Benefits-All-People.jpg?branch=production"
-    },
-    {
-      "title": "Molly Ball Returns to TIME as Washington Bureau Chief",
-      "summary": "TIME Editor in Chief Sam Jacobs and Executive Editor Alex Altman sent the following memo to staff on Monday: We're thrilled to announce that Molly Ball is rejoining TIME to be Washington Bureau Chief, beginning in January. Molly will anchor our journalism in the nation's capital at one of the most consequential and fascinating moments in U.S. political history. She will write ambitious features, edit and mentor Washington reporters, and shape our political report, helping to lead the continued expansion of our vide",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc125e2771d4f7b5f/6af769b4be3c8b0dd422ce31/Welcome_Molly_Ball_900x600.jpg?branch=production"
     }
   ]
 }

@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d477875b1aa0ce7b432db48b8bc4af2441380687/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Build an Artificial Intelligence Revolution for All</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7dc2b30e37bb5c722db4e2607f14e47a1517f49d/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d477875b1aa0ce7b432db48b8bc4af2441380687/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Build an Artificial Intelligence Revolution for All</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The most important flashpoint in the debate over the future of artificial intelligence for both business and political leaders is: What is the impact of the technol…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7dc2b30e37bb5c722db4e2607f14e47a1517f49d/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">America’s hyperscale data centers together use as much electricity as some entire U.S. states and produce millions of metric tons of carbon dioxide over the course …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d477875b1aa0ce7b432db48b8bc4af2441380687/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Build an Artificial Intelligence Revolution for All</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The most important flashpoint in the debate over the future of artificial intelligence for both business and political leaders is: What is the impact of the technology on working Americans? Over the long term, AI’s promise will be measured not by the scale of its investment, disruption, or productivity, but by the apportionment across America of the value it creates. It is vital that both Republicans and Democrats unite with the business and investment community to…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7dc2b30e37bb5c722db4e2607f14e47a1517f49d/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">America’s hyperscale data centers together use as much electricity as some entire U.S. states and produce millions of metric tons of carbon dioxide over the course of a year, according to a new study published Monday in Nature Sustainability . The number of hyperscale data centers, which are larger and more powerful than traditional data centers, and are often used to train and run large-scale AI models , has exploded in recent years. Between 2019 and 2024, the num…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Build an Artific…</text>
+      <text hint-style="caption">Over 400 American AI Da…</text>
     </binding>
   </visual>
 </tile>
