@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5c508c7011849510a2c60e8433a2fd21fac2d121/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41950902faf350f3caec90c5723c9769c186e6e1/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5c508c7011849510a2c60e8433a2fd21fac2d121/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41950902faf350f3caec90c5723c9769c186e6e1/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face &quot;significant legal consequences&quot; if she fails to…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5c508c7011849510a2c60e8433a2fd21fac2d121/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41950902faf350f3caec90c5723c9769c186e6e1/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face &quot;significant legal consequences&quot; if she fails to preserve records related to potential Congressional investigations involving allies of President Donald Trump . The warning came in a letter from Aaron Reitz, the U.S. Attorney for the Southern District of Texas, who accused Warren, the likely incoming chair of the Senate Banking Committee, of appearing…</text>
     </binding>
