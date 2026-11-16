@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-16T10:15:48.373201+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-16T10:31:04.033810+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack",
     "In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test",
     "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts",
     "All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance",
-    "Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?",
-    "The China Shock in the AI Era"
+    "Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?"
   ],
   "articles": [
+    {
+      "title": "Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack",
+      "summary": "An American soldier has alleged that U.S. military leaders dismissed concerns ahead of an Iranian attack that killed six servicemembers on March 1. The complaint, submitted Friday to the House and Senate Armed Services committees and first reported by CBS on Sunday, alleges that U.S. Army leaders did not heed warnings about thin fortifications at a command post at Kuwait’s Port Shuaiba. Iran launched a retaliatory drone attack on the command post a day after the U.S. and Israel launched the war on Feb. 28. It remai",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte9b569d803a3fcd5/6afac706011fdc26d0e255a8/U.S._Army_procession.jpg?branch=production"
+    },
     {
       "title": "In Hakeem Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test",
       "summary": "In 1870, Joseph Rainey of South Carolina became the first Black person to serve in the U.S. House. This week, current and newly elected House Democrats are poised to meet to select Rep. Hakeem Jeffries as the chamber’s first Black Speaker. It is a moment fraught with meaning and hurdles for both the New York Democrat and the larger Black community, multiple Black leaders tell TIME. They spoke of the symbolic significance of Jeffries taking on a role that puts him second in the presidential line of succession as wel",
@@ -29,11 +34,6 @@
       "title": "Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?",
       "summary": "Transportation Secretary Sean Duffy on Saturday blamed the previous day’s nationwide ground stop on the replacement of copper wires at a “remote” Federal Aviation Administration (FAA) facility. Installing new fiber optic lines led to critical communication breakdowns, he said. About 7,500 flights were delayed and over 9,000 were canceled on Friday, according to FlightAware . Some 1.5 million passengers were scheduled to take off from airports in the U.S. after 4 p.m. Eastern, shortly after the ground stop began. Th",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3db3fb81c254442f/6af8c2a051cc996600607157/GettyImages-2304598189.jpg?branch=production"
-    },
-    {
-      "title": "The China Shock in the AI Era",
-      "summary": "Americans are anxious about artificial intelligence . In the midterm elections , they voted to slow down its expansion. Forty local ballot measures in 10 states promise to tighten restrictions on data-center construction, with overwhelming public support. Measures to limit development of data centers won more than 70% of the vote in 30 of these electoral contests. A 2026 survey by Pew Research Center found that about 52% of Americans were more concerned than excited about the growing use of AI in daily life, up fro",
-      "image": ""
     }
   ]
 }

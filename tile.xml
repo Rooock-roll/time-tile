@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@be151a43f50f23f571c7fa242fa5ae1750425729/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c8b58d301d2f36a59f0127fe7487725f1d6d3f8f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@be151a43f50f23f571c7fa242fa5ae1750425729/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In the future, when some documentary series in whatever medium succeeds television looks back at the current decade in public discourse, it might name our era the A…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c8b58d301d2f36a59f0127fe7487725f1d6d3f8f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">An American soldier has alleged that U.S. military leaders dismissed concerns ahead of an Iranian attack that killed six servicemembers on March 1. The complaint, s…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@be151a43f50f23f571c7fa242fa5ae1750425729/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">All Hail Philomena Cunk, the Perfect Fake Newswoman for Our Age of Ignorance</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In the future, when some documentary series in whatever medium succeeds television looks back at the current decade in public discourse, it might name our era the Age of Ignorance. The crank shouting nonsense from atop a soapbox is, of course, nothing new. What’s unique to our time is how vast the audiences for these bloviators have become. We’ve got Alix Earle , with about 15 million followers across TikTok and Instagram, bragging about never having read a book. (…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c8b58d301d2f36a59f0127fe7487725f1d6d3f8f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Democrats Call for Probe Into Military Leaders as U.S. Army Whistleblower Alleges Warnings Were Dismissed Ahead of Deadly Iran Attack</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">An American soldier has alleged that U.S. military leaders dismissed concerns ahead of an Iranian attack that killed six servicemembers on March 1. The complaint, submitted Friday to the House and Senate Armed Services committees and first reported by CBS on Sunday, alleges that U.S. Army leaders did not heed warnings about thin fortifications at a command post at Kuwait’s Port Shuaiba. Iran launched a retaliatory drone attack on the command post a day after the U.…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">All Hail Philomena Cunk…</text>
+      <text hint-style="caption">Democrats Call for Prob…</text>
     </binding>
   </visual>
 </tile>
