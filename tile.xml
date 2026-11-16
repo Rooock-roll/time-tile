@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f48e08c618c58ea943059fe8ff57daad20b40dc/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Build an Artificial Intelligence Revolution for All</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4ab55173fe60cb1ea377e1dd43bfbc54adc30d25/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Molly Ball Returns to TIME as Washington Bureau Chief</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f48e08c618c58ea943059fe8ff57daad20b40dc/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Build an Artificial Intelligence Revolution for All</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The most important flashpoint in the debate over the future of artificial intelligence for both business and political leaders is: What is the impact of the technol…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4ab55173fe60cb1ea377e1dd43bfbc54adc30d25/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Molly Ball Returns to TIME as Washington Bureau Chief</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">TIME Editor in Chief Sam Jacobs and Executive Editor Alex Altman sent the following memo to staff on Monday: We're thrilled to announce that Molly Ball is rejoining…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f48e08c618c58ea943059fe8ff57daad20b40dc/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Build an Artificial Intelligence Revolution for All</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The most important flashpoint in the debate over the future of artificial intelligence for both business and political leaders is: What is the impact of the technology on working Americans? Over the long term, AI’s promise will be measured not by the scale of its investment, disruption, or productivity, but by the apportionment across America of the value it creates. It is vital that both Republicans and Democrats unite with the business and investment community to…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4ab55173fe60cb1ea377e1dd43bfbc54adc30d25/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Molly Ball Returns to TIME as Washington Bureau Chief</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">TIME Editor in Chief Sam Jacobs and Executive Editor Alex Altman sent the following memo to staff on Monday: We're thrilled to announce that Molly Ball is rejoining TIME to be Washington Bureau Chief, beginning in January. Molly will anchor our journalism in the nation's capital at one of the most consequential and fascinating moments in U.S. political history. She will write ambitious features, edit and mentor Washington reporters, and shape our political report, …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Build an Artific…</text>
+      <text hint-style="caption">Molly Ball Returns to T…</text>
     </binding>
   </visual>
 </tile>
