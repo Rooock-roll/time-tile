@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-17T22:45:41.562659+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-17T23:01:23.372213+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Democrats Now Have the Power to Nullify the Electoral College. Here’s How",
     "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
     "What to Know About the Apple Outage",
     "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
-    "Measles Has Returned",
-    "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO"
+    "Measles Has Returned"
   ],
   "articles": [
+    {
+      "title": "Democrats Now Have the Power to Nullify the Electoral College. Here’s How",
+      "summary": "After flipping several key state legislatures and gubernatorial seats in this month’s elections , Democrats now have a path to nullify an institution of U.S. elections that has cost the party at least two presidential contests so far this century: the Electoral College. Officially abolishing that longstanding system , in which presidents are selected via slates of electors representing each state rather than by a direct popular vote, would require a constitutional amendment. But it could effectively be neutralized ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt22028e014ce68ebd/6afcc7a70b864f1338999667/GettyImages-2192692734.jpg?branch=production"
+    },
     {
       "title": "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
       "summary": "For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior to the introduction of the first measles vaccine in 1963, nearly all American children contracted the disease before they were 15, for an annual case count of up to four million, including 400 to 500 deaths and 48,000 hospitalizations. But an aggressive vaccination campaign changed all of that, and measles was declared eliminated in the U.S. in 2000. No",
@@ -29,11 +34,6 @@
       "title": "Measles Has Returned",
       "summary": "In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Republican and Democratic administrations, pandemics, wars, and recessions—that achievement stood. The Pan American Health Organization (PAHO) has officially stripped the United States of its measles elimination status after a resurgence of cases infecting more than 7,000 Americans over the past two years. Measles is once again considered endemic in America.",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt66227fb3b79b9af1/6afc8094eb5ef693b92ac838/measles-symptoms.jpg?branch=production"
-    },
-    {
-      "title": "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO",
-      "summary": "Nvidia's board has reportedly and wisely closed the door on Jensen Huang’s return, barely a week after boardroom pressure pushed him to resign as chief executive. A dubious outside campaign is still trying to pry it open. Tech leaders like SpaceX’s Elon Musk and Y Combinator’s Garry Tan have signed a petition demanding his reinstatement, while financier shareholders Brad Gerstner and Gavin Baker have urged Nvidia's board via letter to “avoid a rush to replace Jensen.” That door should stay shut. Over 33 years, Huan",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt702a30ba315c4b05/6afc6ec26e3eb1bda2df9d5c/Jensen-Huang-Berlin.jpg?branch=production"
     }
   ]
 }
