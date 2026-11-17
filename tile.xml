@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bef032d140bf7cbe53f55ac62de8d3b998c09d9/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e8f54ee96a8ec05ec330ecb990d94cb794ec6b5b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Is a Manual Treadmill Worth the Extra Effort?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bef032d140bf7cbe53f55ac62de8d3b998c09d9/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a na…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e8f54ee96a8ec05ec330ecb990d94cb794ec6b5b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Is a Manual Treadmill Worth the Extra Effort?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">You’re at the gym facing a line of treadmills . Most are your standard running machine with an electric motor and a flat deck. But there are also a few odd looking …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bef032d140bf7cbe53f55ac62de8d3b998c09d9/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a nationwide ground stop that has continued to impact flights around the country. United Airlines confirmed in a statement to TIME on Monday evening that there was a “technology issue that delayed flight departures” that had since been resolved. The airline added that “some flights were delayed” but that the…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e8f54ee96a8ec05ec330ecb990d94cb794ec6b5b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Is a Manual Treadmill Worth the Extra Effort?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">You’re at the gym facing a line of treadmills . Most are your standard running machine with an electric motor and a flat deck. But there are also a few odd looking machines that arch up in the front and the back, with no buttons on the console and no plug for an outlet. Meet the manual treadmill, also called a self-powered or non-motorized treadmill. These machines are designed with a curved surface so that as you land from each stride, the force of your foot movin…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">United Airlines Experie…</text>
+      <text hint-style="caption">Is a Manual Treadmill W…</text>
     </binding>
   </visual>
 </tile>
