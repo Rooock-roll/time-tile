@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9a4f8e94af7adf2fd7bba51b80ff91c14c383e9e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cff38978fff9f18acc5d883c8cd33d6cb53335f6/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9a4f8e94af7adf2fd7bba51b80ff91c14c383e9e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cff38978fff9f18acc5d883c8cd33d6cb53335f6/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9a4f8e94af7adf2fd7bba51b80ff91c14c383e9e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cff38978fff9f18acc5d883c8cd33d6cb53335f6/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening to annex or buy Greenland , the semi-autonomous territory of the Kingdom of Denmark. On Sept. 22, Trump got much of what he wanted, short of sovereignty. He signed an agreement with Denmark and Greenland on the future of U.S. presence on the island. In a speech at the United Nations, Trump described the …</text>
     </binding>
