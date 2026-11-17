@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8bf635d2affe133821bed8deb5ddf4ae91214107/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f2ad7e3633c41744452a91b555b9e85041c6e99/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8bf635d2affe133821bed8deb5ddf4ae91214107/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f2ad7e3633c41744452a91b555b9e85041c6e99/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1945, with Nazi Germany in its death throes, the leaders of the world’s three most powerful nations gathered in the seaside resort of Yalta. There, on the Black …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8bf635d2affe133821bed8deb5ddf4ae91214107/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1f2ad7e3633c41744452a91b555b9e85041c6e99/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1945, with Nazi Germany in its death throes, the leaders of the world’s three most powerful nations gathered in the seaside resort of Yalta. There, on the Black Sea’s pebbled shore, the Soviet Union, Great Britain, and the U.S. held negotiations that would eventually split the planet into competing spheres of influence. Little wonder Kremlin propagandists are clamoring to portray the proposed meeting between Vladimir Putin, Xi Jinping, and Donald Trump on the si…</text>
     </binding>
