@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8cee354172e28662248426926c6767ace3632322/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f5822987d589c7ef978281f59f06abd7854f498c/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8cee354172e28662248426926c6767ace3632322/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f5822987d589c7ef978281f59f06abd7854f498c/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Nvidia's board has reportedly and wisely closed the door on Jensen Huang’s return, barely a week after boardroom pressure pushed him to resign as chief executive. A…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8cee354172e28662248426926c6767ace3632322/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f5822987d589c7ef978281f59f06abd7854f498c/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Nvidia's board has reportedly and wisely closed the door on Jensen Huang’s return, barely a week after boardroom pressure pushed him to resign as chief executive. A dubious outside campaign is still trying to pry it open. Tech leaders like SpaceX’s Elon Musk and Y Combinator’s Garry Tan have signed a petition demanding his reinstatement, while financier shareholders Brad Gerstner and Gavin Baker have urged Nvidia's board via letter to “avoid a rush to replace Jense…</text>
     </binding>
