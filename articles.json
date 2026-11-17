@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-17T19:15:45.390023+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-17T19:31:05.738661+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
+    "Measles Has Returned",
+    "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO",
     "Is Watching Videos at 2x Speed a Bad Idea?",
-    "Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling",
-    "Want to Feel Happier? Spend $5 on Someone Else",
-    "Whistler",
-    "Waiting on a Friend"
+    "Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling"
   ],
   "articles": [
+    {
+      "title": "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
+      "summary": "An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian President Vladimir Putin ahead of a summit in Asia where he is expected to meet President Donald Trump . The road and rail bridge was built after Russia invaded and annexed the Crimean peninsula in 2014 and connects Crimea to Russia's southern Krasnodar region. Ukrainian officials shared videos on social media that appeared to show a missile strike on the bridg",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt73106ece772bf8e9/6afc71bd6e3eb1fa14df9d71/Kerch_Bridge.jpg?branch=production"
+    },
+    {
+      "title": "Measles Has Returned",
+      "summary": "In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Republican and Democratic administrations, pandemics, wars, and recessions—that achievement stood. The Pan American Health Organization (PAHO) has officially stripped the United States of its measles elimination status after a resurgence of cases infecting more than 7,000 Americans over the past two years. Measles is once again considered endemic in America.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt66227fb3b79b9af1/6afc8094eb5ef693b92ac838/measles-symptoms.jpg?branch=production"
+    },
+    {
+      "title": "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO",
+      "summary": "Nvidia's board has reportedly and wisely closed the door on Jensen Huang’s return, barely a week after boardroom pressure pushed him to resign as chief executive. A dubious outside campaign is still trying to pry it open. Tech leaders like SpaceX’s Elon Musk and Y Combinator’s Garry Tan have signed a petition demanding his reinstatement, while financier shareholders Brad Gerstner and Gavin Baker have urged Nvidia's board via letter to “avoid a rush to replace Jensen.” That door should stay shut. Over 33 years, Huan",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt702a30ba315c4b05/6afc6ec26e3eb1bda2df9d5c/Jensen-Huang-Berlin.jpg?branch=production"
+    },
     {
       "title": "Is Watching Videos at 2x Speed a Bad Idea?",
       "summary": "In You Can See Everything , the documentary about Theranos founder Elizabeth Holmes and her husband Billy Evans, Evans is often seen busily watching videos on 2x speed . He’s not the only one; many people, especially younger ones , are playing video and audio content at faster speeds to get through the material more quickly. In 2022, a YouGov poll found that 11% of respondents reported having watched sped-up content, and in a 2024 paper, 84% of surveyed university students reported doing it with taped lectures. We ",
@@ -19,21 +34,6 @@
       "title": "Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling",
       "summary": "The nurses in the labor and delivery unit at a Boston-area hospital were in for a surprise. On the Wednesday in September when their book club was scheduled to discuss Caro Claire Burke ’s Yesteryear , the author herself showed up to deliver her first child. Which is how, in the heady aftermath of giving birth, Burke found herself propped up in her hospital bed, signing copies of her novel. It was as surreal a scene as any from a year in which she went from relative obscurity to the center of the cultural conversat",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c6ff13051710f64/6afb4361ef74422e403fcabb/TIM261207-CaroBurke-Cover-FINAL.jpg?branch=production"
-    },
-    {
-      "title": "Want to Feel Happier? Spend $5 on Someone Else",
-      "summary": "If someone handed you $5 and told you to buy whatever would make you happiest, who would you spend it on? If you said “yourself,” well, that’s a pretty tempting answer. Your favorite coffee would surely turn your morning around; a chocolate croissant wouldn’t hurt, either. And research suggests that most people tend to think they’d get the biggest happiness boost by spending money on themselves. Yet treating someone else might leave you feeling even better. Researchers who study generosity have found that spending ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7c98f1ecd2a298ab/6afbe5607a7cf860bd5b5419/OSC_5.png?branch=production"
-    },
-    {
-      "title": "Whistler",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt16d8e283fab94636/6afb3981011fdcd61ce2591e/Whistler.jpg?branch=production"
-    },
-    {
-      "title": "Waiting on a Friend",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4869c108d971a33e/6afb3950f0e51507223e9ab6/Waiting-on-a-Friend-Natalie-Adler.jpg?branch=production"
     }
   ]
 }
