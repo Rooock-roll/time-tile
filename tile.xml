@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@561c0014b55dfd41505d58531262ec178ce49acd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d4edb95b8dbec4faf90edc98e4d23a4b047bb72e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Want to Feel Happier? Spend $5 on Someone Else</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@561c0014b55dfd41505d58531262ec178ce49acd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The nurses in the labor and delivery unit at a Boston-area hospital were in for a surprise. On the Wednesday in September when their book club was scheduled to disc…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d4edb95b8dbec4faf90edc98e4d23a4b047bb72e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Want to Feel Happier? Spend $5 on Someone Else</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">If someone handed you $5 and told you to buy whatever would make you happiest, who would you spend it on? If you said “yourself,” well, that’s a pretty tempting ans…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@561c0014b55dfd41505d58531262ec178ce49acd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The nurses in the labor and delivery unit at a Boston-area hospital were in for a surprise. On the Wednesday in September when their book club was scheduled to discuss Caro Claire Burke ’s Yesteryear , the author herself showed up to deliver her first child. Which is how, in the heady aftermath of giving birth, Burke found herself propped up in her hospital bed, signing copies of her novel. It was as surreal a scene as any from a year in which she went from relativ…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d4edb95b8dbec4faf90edc98e4d23a4b047bb72e/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Want to Feel Happier? Spend $5 on Someone Else</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">If someone handed you $5 and told you to buy whatever would make you happiest, who would you spend it on? If you said “yourself,” well, that’s a pretty tempting answer. Your favorite coffee would surely turn your morning around; a chocolate croissant wouldn’t hurt, either. And research suggests that most people tend to think they’d get the biggest happiness boost by spending money on themselves. Yet treating someone else might leave you feeling even better. Researc…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Yesteryear Became a Cul…</text>
+      <text hint-style="caption">Want to Feel Happier? S…</text>
     </binding>
   </visual>
 </tile>
