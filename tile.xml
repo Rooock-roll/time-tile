@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f4d83f1a087d716aa45a57ec1d9d8c7852f92f77/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@39b35ac3cef14618d0205566831ddcd484e6c3fc/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f4d83f1a087d716aa45a57ec1d9d8c7852f92f77/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@39b35ac3cef14618d0205566831ddcd484e6c3fc/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian Preside…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f4d83f1a087d716aa45a57ec1d9d8c7852f92f77/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@39b35ac3cef14618d0205566831ddcd484e6c3fc/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian President Vladimir Putin ahead of a summit in Asia where he is expected to meet President Donald Trump . The road and rail bridge was built after Russia invaded and annexed the Crimean peninsula in 2014 and connects Crimea to Russia's southern Krasnodar region. Ukrainian officials shared videos on social media …</text>
     </binding>
