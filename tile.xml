@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@127bf0ef735d350ce0d2e38132bd49c8e585ad0a/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@664cea59971a54cbf7f7ef3800419a2cef43ae76/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@127bf0ef735d350ce0d2e38132bd49c8e585ad0a/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face &quot;significant legal consequences&quot; if she fails to…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@664cea59971a54cbf7f7ef3800419a2cef43ae76/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a na…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@127bf0ef735d350ce0d2e38132bd49c8e585ad0a/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face &quot;significant legal consequences&quot; if she fails to preserve records related to potential Congressional investigations involving allies of President Donald Trump . The warning came in a letter from Aaron Reitz, the U.S. Attorney for the Southern District of Texas, who accused Warren, the likely incoming chair of the Senate Banking Committee, of appearing…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@664cea59971a54cbf7f7ef3800419a2cef43ae76/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a nationwide ground stop that has continued to impact flights around the country. United Airlines confirmed in a statement to TIME on Monday evening that there was a “technology issue that delayed flight departures” that had since been resolved. The airline added that “some flights were delayed” but that the…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">DOJ Warns Democratic Se…</text>
+      <text hint-style="caption">United Airlines Experie…</text>
     </binding>
   </visual>
 </tile>

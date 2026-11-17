@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-17T00:31:00.402758+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-17T00:45:40.455424+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
-    "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana",
-    "Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?",
-    "The Cybersecurity Preparations That Actually Help Businesses Survive a Hack",
-    "DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?",
-    "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi"
+    "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop",
+    "What to Know About the Banking Service Outages Impacting Thousands of Customers",
+    "A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters",
+    "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
+    "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana"
   ],
   "articles": [
+    {
+      "title": "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop",
+      "summary": "United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a nationwide ground stop that has continued to impact flights around the country. United Airlines confirmed in a statement to TIME on Monday evening that there was a “technology issue that delayed flight departures” that had since been resolved. The airline added that “some flights were delayed” but that the issue didn’t affect flights in the air or its regi",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd59d081046ab62b7/6afb8f85aa77003d167ced5f/United-Tech-Issue.jpg?branch=production"
+    },
+    {
+      "title": "What to Know About the Banking Service Outages Impacting Thousands of Customers",
+      "summary": "Thousands of customers at multiple major U.S. banks are reporting difficulties accessing banking services on Monday after JPMorgan Chase announced a technical issue impacting its systems. “JPMorganChase has experienced a temporary issue related to a software bug in on-premise hardware systems – there is no evidence this is cyber-related,” the company, which has over 86 million customers across the U.S., wrote on X. “It is taking longer than usual to service some customers.” “We’re working diligently to resolve this",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4896b3f78155d013/6afb8c180b864fe961999005/GettyImages-2269134036.jpg?branch=production"
+    },
+    {
+      "title": "A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters",
+      "summary": "In 1945, with Nazi Germany in its death throes, the leaders of the world’s three most powerful nations gathered in the seaside resort of Yalta. There, on the Black Sea’s pebbled shore, the Soviet Union, Great Britain, and the U.S. held negotiations that would eventually split the planet into competing spheres of influence. Little wonder Kremlin propagandists are clamoring to portray the proposed meeting between Vladimir Putin, Xi Jinping, and Donald Trump on the sidelines of the Asia-Pacific Economic Cooperation (A",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt37d844e4e7d5f5e6/6afb86496e3eb167addf97e6/GettyImages-2229471059.jpg?branch=production"
+    },
+    {
+      "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
+      "summary": "President Donald Trump is pushing for Congress to pass a sweeping federal tax incentive for the film and television industry, arguing that foreign tax incentives have driven American productions overseas and hollowed out the domestic entertainment business. In a Truth Social post on Nov. 13, Trump said the support has been “unbelievable” for the Motion Picture, Television, and Entertainment Revitalization Act, a bipartisan bill introduced by Republican Senator Tim Scott in September to establish a base 20% federal ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltecd0867e16a47f31/6afb8b48017e0d70dc76f56c/GettyImages-2305373317.jpg?branch=production"
+    },
     {
       "title": "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana",
       "summary": "America’s hyperscale data centers together use as much electricity as some entire U.S. states and produce millions of metric tons of carbon dioxide over the course of a year, according to a new study published Monday in Nature Sustainability . The number of hyperscale data centers, which are larger and more powerful than traditional data centers, and are often used to train and run large-scale AI models , has exploded in recent years. Between 2019 and 2024, the number of data centers around the world doubled from a",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4b6332009b69678b/6afb310ab84d8b2807c98fbc/data-center.jpg?branch=production"
-    },
-    {
-      "title": "Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?",
-      "summary": "Democrats’ sweeping wins in the midterm elections have dealt a devastating blow to President Donald Trump, and could spell trouble for the speculated presidential ambitions of his second-in-command, Vice President J.D. Vance , as the contest to succeed Trump on the Republican ticket and in the Oval Office looms. Vance is widely considered to be one of the top potential Republican contenders for the 2028 presidential election , though he has previously dismissed suggestions that he intends to run for the White House",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8d5620b371704f49/6afb5262f70f1226e1a13e2e/Vance-2028-Chances.jpg?branch=production"
-    },
-    {
-      "title": "The Cybersecurity Preparations That Actually Help Businesses Survive a Hack",
-      "summary": "As the boxer Mike Tyson once said, “Everybody has plans until they get hit for the first time.” Business leaders might think they know how their organizations would react to—and bounce back from—a cyberattack, but the reality can be quite different. Just ask Shirine Khoury-Haq, the former chief executive officer of U.K.-based grocery chain the Co-op. In April 2025, she emerged from an interview with a national newspaper to a phone call from her chief technology officer, who explained that hackers had entered the su",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3ca158f84a98c688/6af77ae751cc99865c606e9e/How_businesses_are_preparing_for_cybersecurity_and_data_emergencies.png?branch=production"
-    },
-    {
-      "title": "DOJ Warns Democratic Senator of ‘Consequences’ Over Trump Investigations—What Can It Actually Do?",
-      "summary": "The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face \"significant legal consequences\" if she fails to preserve records related to potential Congressional investigations involving allies of President Donald Trump . The warning came in a letter from Aaron Reitz, the U.S. Attorney for the Southern District of Texas, who accused Warren, the likely incoming chair of the Senate Banking Committee, of appearing \"eager to wield your future gavel like a tomahawk,",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb32e086e65d59ec7/6afb3280017e0d1cdd76f33e/Elizabeth_Warren.jpg?branch=production"
-    },
-    {
-      "title": "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi",
-      "summary": "The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most advanced A.I. chips through third countries. The move comes just days ahead of President Trump’s meeting this week with Chinese President Xi Jinping, and in the wake of Nvidia, the creator of the most advanced AI chips, becoming enmeshed in an international scandal that prompted the resignation of CEO and President Jensen Huang and a fresh round of scrutiny ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdd359b0876b51807/6afb2c067a7cf800605b4fa8/GettyImages-2304949134.jpg?branch=production"
     }
   ]
 }
