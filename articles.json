@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-17T12:15:44.961438+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-17T12:31:00.400445+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Is a Manual Treadmill Worth the Extra Effort?",
     "Philippine Protests Grow as Government Welcomes Trump",
     "The Greenland Test: What Follows When America Coerces Its Allies",
     "Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’",
-    "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop",
-    "What to Know About the Banking Service Outages Impacting Thousands of Customers"
+    "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop"
   ],
   "articles": [
+    {
+      "title": "Is a Manual Treadmill Worth the Extra Effort?",
+      "summary": "You’re at the gym facing a line of treadmills . Most are your standard running machine with an electric motor and a flat deck. But there are also a few odd looking machines that arch up in the front and the back, with no buttons on the console and no plug for an outlet. Meet the manual treadmill, also called a self-powered or non-motorized treadmill. These machines are designed with a curved surface so that as you land from each stride, the force of your foot moving downward revolves the belt around the deck. Each ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta5749162d520a4b9/6afb72157a7cf8f4885b5327/GettyImages-2217944357.jpg?branch=production"
+    },
     {
       "title": "Philippine Protests Grow as Government Welcomes Trump",
       "summary": "When Donald Trump landed in Manila on Tuesday for the first stop of his trip to Asia this week , the Philippine government rolled out the red carpet for the ally leader. But elsewhere in the Southeast Asian nation, the U.S. President’s welcome wasn’t so warm. In the lead-up to Trump’s visit, activists, students, and members of the local indigenous community clashed with Philippine law enforcement in the capital, where the 2026 Association of Southeast Asian Nations (ASEAN) Summit is being hosted, and in Cebu . The ",
@@ -29,11 +34,6 @@
       "title": "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop",
       "summary": "United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a nationwide ground stop that has continued to impact flights around the country. United Airlines confirmed in a statement to TIME on Monday evening that there was a “technology issue that delayed flight departures” that had since been resolved. The airline added that “some flights were delayed” but that the issue didn’t affect flights in the air or its regi",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd59d081046ab62b7/6afb8f85aa77003d167ced5f/United-Tech-Issue.jpg?branch=production"
-    },
-    {
-      "title": "What to Know About the Banking Service Outages Impacting Thousands of Customers",
-      "summary": "Thousands of customers at multiple major U.S. banks are reporting difficulties accessing banking services on Monday after JPMorgan Chase announced a technical issue impacting its systems. “JPMorganChase has experienced a temporary issue related to a software bug in on-premise hardware systems – there is no evidence this is cyber-related,” the company, which has over 86 million customers across the U.S., wrote on X. “It is taking longer than usual to service some customers.” “We’re working diligently to resolve this",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4896b3f78155d013/6afb8c180b864fe961999005/GettyImages-2269134036.jpg?branch=production"
     }
   ]
 }
