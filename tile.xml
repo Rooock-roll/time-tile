@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@17731405cb0202c94bfcdf1ead75c27946165997/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@82052fff02ca670a08f59ca76796ad4d3240ddbb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Measles Has Returned</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@17731405cb0202c94bfcdf1ead75c27946165997/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@82052fff02ca670a08f59ca76796ad4d3240ddbb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Measles Has Returned</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Repu…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@17731405cb0202c94bfcdf1ead75c27946165997/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@82052fff02ca670a08f59ca76796ad4d3240ddbb/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Measles Has Returned</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Republican and Democratic administrations, pandemics, wars, and recessions—that achievement stood. The Pan American Health Organization (PAHO) has officially stripped the United States of its measles elimination status after a resurgence of cases infecting more than 7,000 Americans over the past two years. M…</text>
     </binding>
