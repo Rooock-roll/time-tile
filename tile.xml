@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@816089d7006def0cc7af1bfa7b8f6032213f248e/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ec819b28c88f577410f932291d8856e0d44f3ce/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@816089d7006def0cc7af1bfa7b8f6032213f248e/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ec819b28c88f577410f932291d8856e0d44f3ce/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump is pushing for Congress to pass a sweeping federal tax incentive for the film and television industry, arguing that foreign tax incentives ha…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@816089d7006def0cc7af1bfa7b8f6032213f248e/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ec819b28c88f577410f932291d8856e0d44f3ce/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump is pushing for Congress to pass a sweeping federal tax incentive for the film and television industry, arguing that foreign tax incentives have driven American productions overseas and hollowed out the domestic entertainment business. In a Truth Social post on Nov. 13, Trump said the support has been “unbelievable” for the Motion Picture, Television, and Entertainment Revitalization Act, a bipartisan bill introduced by Republican Senator Tim …</text>
     </binding>
