@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-17T22:01:21.839543+00:00",
+  "updated": "2026-11-17T22:15:43.439534+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
+    "What to Know About the Apple Outage",
     "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
     "Measles Has Returned",
-    "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO",
-    "Is Watching Videos at 2x Speed a Bad Idea?",
-    "Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling"
+    "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO"
   ],
   "articles": [
+    {
+      "title": "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
+      "summary": "For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior to the introduction of the first measles vaccine in 1963, nearly all American children contracted the disease before they were 15, for an annual case count of up to four million, including 400 to 500 deaths and 48,000 hospitalizations. But an aggressive vaccination campaign changed all of that, and measles was declared eliminated in the U.S. in 2000. No",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfaff8a91a745e51f/6afc8fa5b84d8b0082c996ee/GettyImages-1321674258.jpg?branch=production"
+    },
+    {
+      "title": "What to Know About the Apple Outage",
+      "summary": "Thousands of users have reported experiencing issues on Tuesday with several of Apple’s services, including Apple Pay, iCloud, and Apple Support. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of Tuesday afternoon. \"Many of our systems are back up and running after an internal update caused some outages this morning. We’re working to get the remaining systems online as soon as possible,” an Apple spokesperson told TIME. The outages were not a result of ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt01955dda34b05f06/6afcbb73be3c8b63a822dfc5/GettyImages-2305585682.jpg?branch=production"
+    },
     {
       "title": "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
       "summary": "An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian President Vladimir Putin ahead of a summit in Asia where he is expected to meet President Donald Trump . The road and rail bridge was built after Russia invaded and annexed the Crimean peninsula in 2014 and connects Crimea to Russia's southern Krasnodar region. Ukrainian officials shared videos on social media that appeared to show a missile strike on the bridg",
@@ -24,16 +34,6 @@
       "title": "Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO",
       "summary": "Nvidia's board has reportedly and wisely closed the door on Jensen Huang’s return, barely a week after boardroom pressure pushed him to resign as chief executive. A dubious outside campaign is still trying to pry it open. Tech leaders like SpaceX’s Elon Musk and Y Combinator’s Garry Tan have signed a petition demanding his reinstatement, while financier shareholders Brad Gerstner and Gavin Baker have urged Nvidia's board via letter to “avoid a rush to replace Jensen.” That door should stay shut. Over 33 years, Huan",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt702a30ba315c4b05/6afc6ec26e3eb1bda2df9d5c/Jensen-Huang-Berlin.jpg?branch=production"
-    },
-    {
-      "title": "Is Watching Videos at 2x Speed a Bad Idea?",
-      "summary": "In You Can See Everything , the documentary about Theranos founder Elizabeth Holmes and her husband Billy Evans, Evans is often seen busily watching videos on 2x speed . He’s not the only one; many people, especially younger ones , are playing video and audio content at faster speeds to get through the material more quickly. In 2022, a YouGov poll found that 11% of respondents reported having watched sped-up content, and in a 2024 paper, 84% of surveyed university students reported doing it with taped lectures. We ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8e4e821f9b832e20/6afc27fd6e3eb1e8f2df99b4/GettyImages-1650519599.jpg?branch=production"
-    },
-    {
-      "title": "Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling",
-      "summary": "The nurses in the labor and delivery unit at a Boston-area hospital were in for a surprise. On the Wednesday in September when their book club was scheduled to discuss Caro Claire Burke ’s Yesteryear , the author herself showed up to deliver her first child. Which is how, in the heady aftermath of giving birth, Burke found herself propped up in her hospital bed, signing copies of her novel. It was as surreal a scene as any from a year in which she went from relative obscurity to the center of the cultural conversat",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c6ff13051710f64/6afb4361ef74422e403fcabb/TIM261207-CaroBurke-Cover-FINAL.jpg?branch=production"
     }
   ]
 }
