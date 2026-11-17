@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d92ddbebad06f61d61ace6bdf25d821f447e51a6/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b16b08c6245c6e9a38eeff9d6557e625f4a9f599/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d92ddbebad06f61d61ace6bdf25d821f447e51a6/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b16b08c6245c6e9a38eeff9d6557e625f4a9f599/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Iran is reportedly developing potential plans to detonate a “dirty bomb” in Washington, D.C., a threat that one member of the House Intelligence Committee called an…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d92ddbebad06f61d61ace6bdf25d821f447e51a6/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening to annex or buy Greenland , the semi-autonomous territory of the Kingdom of Denmark. On Sept. 22, Trump got much of what he wanted, short of sovereignty. He signed an agreement with Denmark and Greenland on the future of U.S. presence on the island. In a speech at the United Nations, Trump described the …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b16b08c6245c6e9a38eeff9d6557e625f4a9f599/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Iran is reportedly developing potential plans to detonate a “dirty bomb” in Washington, D.C., a threat that one member of the House Intelligence Committee called an intimidation tactic. Citing seven U.S. officials, CNN reported on Monday that new U.S. intelligence indicates planning by Iran to target Trump Administration officials in an attack on the capital. Intelligence reportedly also intercepted Iranian chatter claiming to have stashed bomb-making materials ins…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Greenland Test: Wha…</text>
+      <text hint-style="caption">Congressman Says U.S. G…</text>
     </binding>
   </visual>
 </tile>
