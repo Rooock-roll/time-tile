@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@763e95c4ab92d1c2e3f7f67f4f620a385cef4268/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9bd6eb923f0654daf73e090e35cae7362d59a37e/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Is Watching Videos at 2x Speed a Bad Idea?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@763e95c4ab92d1c2e3f7f67f4f620a385cef4268/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9bd6eb923f0654daf73e090e35cae7362d59a37e/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Is Watching Videos at 2x Speed a Bad Idea?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In You Can See Everything , the documentary about Theranos founder Elizabeth Holmes and her husband Billy Evans, Evans is often seen busily watching videos on 2x sp…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@763e95c4ab92d1c2e3f7f67f4f620a385cef4268/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9bd6eb923f0654daf73e090e35cae7362d59a37e/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Is Watching Videos at 2x Speed a Bad Idea?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In You Can See Everything , the documentary about Theranos founder Elizabeth Holmes and her husband Billy Evans, Evans is often seen busily watching videos on 2x speed . He’s not the only one; many people, especially younger ones , are playing video and audio content at faster speeds to get through the material more quickly. In 2022, a YouGov poll found that 11% of respondents reported having watched sped-up content, and in a 2024 paper, 84% of surveyed university …</text>
     </binding>
