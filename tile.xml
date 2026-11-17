@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bf0f87482d682edf0a919d50b29352b87321e65/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Philippine Protests Grow as Government Welcomes Trump</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf90eeaef7e01b49d64b2d9282c6c6d5b58f5d6f/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bf0f87482d682edf0a919d50b29352b87321e65/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Philippine Protests Grow as Government Welcomes Trump</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When Donald Trump landed in Manila on Tuesday for the first stop of his trip to Asia this week , the Philippine government rolled out the red carpet for the ally le…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf90eeaef7e01b49d64b2d9282c6c6d5b58f5d6f/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4bf0f87482d682edf0a919d50b29352b87321e65/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Philippine Protests Grow as Government Welcomes Trump</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When Donald Trump landed in Manila on Tuesday for the first stop of his trip to Asia this week , the Philippine government rolled out the red carpet for the ally leader. But elsewhere in the Southeast Asian nation, the U.S. President’s welcome wasn’t so warm. In the lead-up to Trump’s visit, activists, students, and members of the local indigenous community clashed with Philippine law enforcement in the capital, where the 2026 Association of Southeast Asian Nations…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cf90eeaef7e01b49d64b2d9282c6c6d5b58f5d6f/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Greenland Test: What Follows When America Coerces Its Allies</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening to annex or buy Greenland , the semi-autonomous territory of the Kingdom of Denmark. On Sept. 22, Trump got much of what he wanted, short of sovereignty. He signed an agreement with Denmark and Greenland on the future of U.S. presence on the island. In a speech at the United Nations, Trump described the …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Philippine Protests Gro…</text>
+      <text hint-style="caption">The Greenland Test: Wha…</text>
     </binding>
   </visual>
 </tile>
