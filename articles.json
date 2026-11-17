@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-17T11:15:44.626702+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-17T11:31:06.079918+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Philippine Protests Grow as Government Welcomes Trump",
+    "The Greenland Test: What Follows When America Coerces Its Allies",
+    "Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’",
     "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop",
-    "What to Know About the Banking Service Outages Impacting Thousands of Customers",
-    "A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters",
-    "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
-    "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana"
+    "What to Know About the Banking Service Outages Impacting Thousands of Customers"
   ],
   "articles": [
+    {
+      "title": "Philippine Protests Grow as Government Welcomes Trump",
+      "summary": "When Donald Trump landed in Manila on Tuesday for the first stop of his trip to Asia this week , the Philippine government rolled out the red carpet for the ally leader. But elsewhere in the Southeast Asian nation, the U.S. President’s welcome wasn’t so warm. In the lead-up to Trump’s visit, activists, students, and members of the local indigenous community clashed with Philippine law enforcement in the capital, where the 2026 Association of Southeast Asian Nations (ASEAN) Summit is being hosted, and in Cebu . The ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3fcd8a987c4bbd3a/6afc2d2a0b864fb9959991da/trump-visit-manila-philippines.jpg?branch=production"
+    },
+    {
+      "title": "The Greenland Test: What Follows When America Coerces Its Allies",
+      "summary": "President Donald Trump began his second term in office by weaponizing European worries about being abandoned by the United States, attacking NATO , and threatening to annex or buy Greenland , the semi-autonomous territory of the Kingdom of Denmark. On Sept. 22, Trump got much of what he wanted, short of sovereignty. He signed an agreement with Denmark and Greenland on the future of U.S. presence on the island. In a speech at the United Nations, Trump described the deal as offering the U.S. “permanent control over s",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltddafda1a0d2dd6bf/6afb6bb47a7cf884ea5b5319/GettyImages-2206685140.jpg?branch=production"
+    },
+    {
+      "title": "Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’",
+      "summary": "Iran is reportedly developing potential plans to detonate a “dirty bomb” in Washington, D.C., a threat that one member of the House Intelligence Committee called an intimidation tactic. Citing seven U.S. officials, CNN reported on Monday that new U.S. intelligence indicates planning by Iran to target Trump Administration officials in an attack on the capital. Intelligence reportedly also intercepted Iranian chatter claiming to have stashed bomb-making materials inside the U.S., although officials disagree about the",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta6a009c337c3b9de/6afc2f8d011fdc2994e25ca4/Iranian_flag.jpg?branch=production"
+    },
     {
       "title": "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop",
       "summary": "United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a nationwide ground stop that has continued to impact flights around the country. United Airlines confirmed in a statement to TIME on Monday evening that there was a “technology issue that delayed flight departures” that had since been resolved. The airline added that “some flights were delayed” but that the issue didn’t affect flights in the air or its regi",
@@ -19,21 +34,6 @@
       "title": "What to Know About the Banking Service Outages Impacting Thousands of Customers",
       "summary": "Thousands of customers at multiple major U.S. banks are reporting difficulties accessing banking services on Monday after JPMorgan Chase announced a technical issue impacting its systems. “JPMorganChase has experienced a temporary issue related to a software bug in on-premise hardware systems – there is no evidence this is cyber-related,” the company, which has over 86 million customers across the U.S., wrote on X. “It is taking longer than usual to service some customers.” “We’re working diligently to resolve this",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4896b3f78155d013/6afb8c180b864fe961999005/GettyImages-2269134036.jpg?branch=production"
-    },
-    {
-      "title": "A Trump, Putin, and Xi Meeting Won’t Be Yalta 2.0. But It Still Matters",
-      "summary": "In 1945, with Nazi Germany in its death throes, the leaders of the world’s three most powerful nations gathered in the seaside resort of Yalta. There, on the Black Sea’s pebbled shore, the Soviet Union, Great Britain, and the U.S. held negotiations that would eventually split the planet into competing spheres of influence. Little wonder Kremlin propagandists are clamoring to portray the proposed meeting between Vladimir Putin, Xi Jinping, and Donald Trump on the sidelines of the Asia-Pacific Economic Cooperation (A",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt37d844e4e7d5f5e6/6afb86496e3eb167addf97e6/GettyImages-2229471059.jpg?branch=production"
-    },
-    {
-      "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
-      "summary": "President Donald Trump is pushing for Congress to pass a sweeping federal tax incentive for the film and television industry, arguing that foreign tax incentives have driven American productions overseas and hollowed out the domestic entertainment business. In a Truth Social post on Nov. 13, Trump said the support has been “unbelievable” for the Motion Picture, Television, and Entertainment Revitalization Act, a bipartisan bill introduced by Republican Senator Tim Scott in September to establish a base 20% federal ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltecd0867e16a47f31/6afb8b48017e0d70dc76f56c/GettyImages-2305373317.jpg?branch=production"
-    },
-    {
-      "title": "Over 400 American AI Data Centers Use As Much Electricity As Wisconsin, Michigan, or Indiana",
-      "summary": "America’s hyperscale data centers together use as much electricity as some entire U.S. states and produce millions of metric tons of carbon dioxide over the course of a year, according to a new study published Monday in Nature Sustainability . The number of hyperscale data centers, which are larger and more powerful than traditional data centers, and are often used to train and run large-scale AI models , has exploded in recent years. Between 2019 and 2024, the number of data centers around the world doubled from a",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4b6332009b69678b/6afb310ab84d8b2807c98fbc/data-center.jpg?branch=production"
     }
   ]
 }
