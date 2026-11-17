@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0cb817aacca4df0d3d0ef2cea5a71df7b531d2dc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@775230ee6f09ff702d73478bb2a2e51de770c714/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Want to Feel Happier? Spend $5 on Someone Else</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0cb817aacca4df0d3d0ef2cea5a71df7b531d2dc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@775230ee6f09ff702d73478bb2a2e51de770c714/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Want to Feel Happier? Spend $5 on Someone Else</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">If someone handed you $5 and told you to buy whatever would make you happiest, who would you spend it on? If you said “yourself,” well, that’s a pretty tempting ans…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0cb817aacca4df0d3d0ef2cea5a71df7b531d2dc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@775230ee6f09ff702d73478bb2a2e51de770c714/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Want to Feel Happier? Spend $5 on Someone Else</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">If someone handed you $5 and told you to buy whatever would make you happiest, who would you spend it on? If you said “yourself,” well, that’s a pretty tempting answer. Your favorite coffee would surely turn your morning around; a chocolate croissant wouldn’t hurt, either. And research suggests that most people tend to think they’d get the biggest happiness boost by spending money on themselves. Yet treating someone else might leave you feeling even better. Researc…</text>
     </binding>
