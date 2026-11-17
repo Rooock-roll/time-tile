@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@207c89d2759c85c92d9d5c59fc28961b548f0528/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bf24e463823f4bca0711a68c67bf4516c04805ba/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About the Banking Service Outages Impacting Thousands of Customers</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@207c89d2759c85c92d9d5c59fc28961b548f0528/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a na…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bf24e463823f4bca0711a68c67bf4516c04805ba/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About the Banking Service Outages Impacting Thousands of Customers</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Thousands of customers at multiple major U.S. banks are reporting difficulties accessing banking services on Monday after JPMorgan Chase announced a technical issue…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@207c89d2759c85c92d9d5c59fc28961b548f0528/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">United Airlines has resolved a technology issue that delayed departing flights on Monday afternoon, three days after the Federal Aviation Administration issued a nationwide ground stop that has continued to impact flights around the country. United Airlines confirmed in a statement to TIME on Monday evening that there was a “technology issue that delayed flight departures” that had since been resolved. The airline added that “some flights were delayed” but that the…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bf24e463823f4bca0711a68c67bf4516c04805ba/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About the Banking Service Outages Impacting Thousands of Customers</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Thousands of customers at multiple major U.S. banks are reporting difficulties accessing banking services on Monday after JPMorgan Chase announced a technical issue impacting its systems. “JPMorganChase has experienced a temporary issue related to a software bug in on-premise hardware systems – there is no evidence this is cyber-related,” the company, which has over 86 million customers across the U.S., wrote on X. “It is taking longer than usual to service some cu…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">United Airlines Experie…</text>
+      <text hint-style="caption">What to Know About the …</text>
     </binding>
   </visual>
 </tile>
