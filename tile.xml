@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b17309f5a45b78af2279f591a59deb93da021093/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@70858fd26eb94871cc13e85b8242f3b5fdfd9c77/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Philippine Protests Grow as Government Welcomes Trump</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b17309f5a45b78af2279f591a59deb93da021093/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@70858fd26eb94871cc13e85b8242f3b5fdfd9c77/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Philippine Protests Grow as Government Welcomes Trump</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When Donald Trump landed in Manila on Tuesday for the first stop of his trip to Asia this week , the Philippine government rolled out the red carpet for the ally le…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b17309f5a45b78af2279f591a59deb93da021093/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@70858fd26eb94871cc13e85b8242f3b5fdfd9c77/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Philippine Protests Grow as Government Welcomes Trump</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When Donald Trump landed in Manila on Tuesday for the first stop of his trip to Asia this week , the Philippine government rolled out the red carpet for the ally leader. But elsewhere in the Southeast Asian nation, the U.S. President’s welcome wasn’t so warm. In the lead-up to Trump’s visit, activists, students, and members of the local indigenous community clashed with Philippine law enforcement in the capital, where the 2026 Association of Southeast Asian Nations…</text>
     </binding>
