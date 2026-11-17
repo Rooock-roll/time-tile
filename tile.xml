@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@63ebaeb0ac8b8ea6ea11e0db42a218347a4226aa/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b48baa8d19fe725ed803bf83fe3e6905cc444730/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@63ebaeb0ac8b8ea6ea11e0db42a218347a4226aa/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b48baa8d19fe725ed803bf83fe3e6905cc444730/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The nurses in the labor and delivery unit at a Boston-area hospital were in for a surprise. On the Wednesday in September when their book club was scheduled to disc…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@63ebaeb0ac8b8ea6ea11e0db42a218347a4226aa/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b48baa8d19fe725ed803bf83fe3e6905cc444730/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Yesteryear Became a Cultural Sensation. Caro Claire Burke Is Still Reeling</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The nurses in the labor and delivery unit at a Boston-area hospital were in for a surprise. On the Wednesday in September when their book club was scheduled to discuss Caro Claire Burke ’s Yesteryear , the author herself showed up to deliver her first child. Which is how, in the heady aftermath of giving birth, Burke found herself propped up in her hospital bed, signing copies of her novel. It was as surreal a scene as any from a year in which she went from relativ…</text>
     </binding>
