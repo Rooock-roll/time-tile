@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8a6d35276ce3099195715ac0026c8d502e717024/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About the Apple Outage</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c00ec45f4b2d9af575d8dd59f6c65313e01cd40/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8a6d35276ce3099195715ac0026c8d502e717024/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About the Apple Outage</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Thousands of users have reported experiencing issues on Tuesday with several of Apple’s services, including Apple Pay, iCloud, and Apple Support. Apple attributed t…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c00ec45f4b2d9af575d8dd59f6c65313e01cd40/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian Preside…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8a6d35276ce3099195715ac0026c8d502e717024/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About the Apple Outage</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Thousands of users have reported experiencing issues on Tuesday with several of Apple’s services, including Apple Pay, iCloud, and Apple Support. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of Tuesday afternoon. &quot;Many of our systems are back up and running after an internal update caused some outages this morning. We’re working to get the remaining systems online as soon as possible,” an Apple spokes…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c00ec45f4b2d9af575d8dd59f6c65313e01cd40/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian President Vladimir Putin ahead of a summit in Asia where he is expected to meet President Donald Trump . The road and rail bridge was built after Russia invaded and annexed the Crimean peninsula in 2014 and connects Crimea to Russia's southern Krasnodar region. Ukrainian officials shared videos on social media …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What to Know About the …</text>
+      <text hint-style="caption">What Is the Kerch Bridg…</text>
     </binding>
   </visual>
 </tile>
