@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b1e52bc96072c5a5a821fa0a0f3273c8681b46f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">America's Top Manufacturers of 2027</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6822c1cfd2be954c5b643afd43a14fdb76e44103/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined America's Top Manufacturers of 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b1e52bc96072c5a5a821fa0a0f3273c8681b46f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America's Top Manufacturers of 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As major U.S. manufacturers have increasingly moved their production overseas in the last few decades to reduce costs, President Trump ’s hallmark global tariffs we…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6822c1cfd2be954c5b643afd43a14fdb76e44103/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined America's Top Manufacturers of 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For the first edition of America’s Top Manufacturers , TIME and Statista have joined forces to recognize 250 leading U.S. manufacturers. As companies navigate shift…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b1e52bc96072c5a5a821fa0a0f3273c8681b46f/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America's Top Manufacturers of 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As major U.S. manufacturers have increasingly moved their production overseas in the last few decades to reduce costs, President Trump ’s hallmark global tariffs were designed to force these companies to do their manufacturing stateside. But the tariffs proved unpopular , with the conservative think tank Cato Institute reporting in August that there is no factory building boom and that manufacturing is only expanding in industries facing the lowest tariffs , like e…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6822c1cfd2be954c5b643afd43a14fdb76e44103/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How TIME and Statista Determined America's Top Manufacturers of 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For the first edition of America’s Top Manufacturers , TIME and Statista have joined forces to recognize 250 leading U.S. manufacturers. As companies navigate shifting supply chains and evolving workforce demands, the ranking highlights performance across three equally weighted dimensions: financial performance, innovation capacity, and employment. The selection process began with U.S.-based companies classified in manufacturing under North American Industry Classi…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">America's Top Manufactu…</text>
+      <text hint-style="caption">How TIME and Statista D…</text>
     </binding>
   </visual>
 </tile>
