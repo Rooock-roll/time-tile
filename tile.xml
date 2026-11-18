@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@985f1d703a3f0ea03c4e7ff671bbc2c06aeb9522/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3ffcb0c713b2b7581aab9a174c10d81ce2e62ec4/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Mary Peltola Defeats Incumbent Republican in Alaska Senate Race</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@985f1d703a3f0ea03c4e7ff671bbc2c06aeb9522/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3ffcb0c713b2b7581aab9a174c10d81ce2e62ec4/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Mary Peltola Defeats Incumbent Republican in Alaska Senate Race</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democratic challenger Mary Peltola has defeated incumbent Republican Senator Dan S. Sullivan in Alaska , rounding out one of the tightest and most controversial rac…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@985f1d703a3f0ea03c4e7ff671bbc2c06aeb9522/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3ffcb0c713b2b7581aab9a174c10d81ce2e62ec4/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Mary Peltola Defeats Incumbent Republican in Alaska Senate Race</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democratic challenger Mary Peltola has defeated incumbent Republican Senator Dan S. Sullivan in Alaska , rounding out one of the tightest and most controversial races of the midterm elections, and marking another notable GOP loss in what is typically a reliably red state. The Associated Press called the race on Tuesday evening, two weeks after Election Day , with Peltola securing 50.1% of the votes against Sullivan’s 45.8%. Peltola is the first Democrat elected to …</text>
     </binding>
