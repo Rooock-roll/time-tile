@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-18T23:31:03.619445+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-18T23:45:43.248140+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?",
+    "School Phone Bans Show Small Learning Gains. Are They Worth It?",
     "The True Story Behind Madden and the Video Game That Turbo-Charged the NFL",
     "America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather",
-    "Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like",
-    "The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House",
-    "8 Things You Shouldn’t Say to Someone With Memory Problems"
+    "Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like"
   ],
   "articles": [
+    {
+      "title": "Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?",
+      "summary": "Just over two weeks after Election Day , the outcomes of nearly all of this year’s congressional races have been determined. But a few of the tightest lower chamber races remain uncalled—and the trailing candidates in more than one are moving to request recounts. Two of those requests have come from candidates in North Carolina: Republican Representative Virginia Foxx of the state’s 5th District and Ashley Bell, a Democrat who ran in the 10th District. Foxx filed her request on Tuesday when her opponent, Chuck Hubb",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltebfe4dbbc2d527d8/6afe1f17017e0d764e770464/GettyImages-2292616143.jpg?branch=production"
+    },
+    {
+      "title": "School Phone Bans Show Small Learning Gains. Are They Worth It?",
+      "summary": "School phone bans were associated with a small but statistically significant improvement in a combined measure of math and reading achievement growth, a new report found . But the literature on the effectiveness of bans is limited, and the question remains whether modest academic improvements are worth the cost and labor involved in enforcing them. Harvard University researchers analyzed standardized test scores and found that students in schools with phone bans made slightly greater gains—about 0.01 standard devia",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc472aeb034d4a238/6afe1d2e6e3eb1f915dfa8b4/GettyImages-2255668259.jpg?branch=production"
+    },
     {
       "title": "The True Story Behind Madden and the Video Game That Turbo-Charged the NFL",
       "summary": "In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He walked into the dining car to pitch John Madden, the CBS football commentator and omnipresent commercial spokesman who famously feared flying, on lending his name to a football video game Hawkins wanted to create. Hawkins explained to Madden that there was just one hitch. Since the 8-bit home consoles of that era did not have the technological capabilit",
@@ -24,16 +34,6 @@
       "title": "Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like",
       "summary": "If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimited access to email exchanges with their families at home—and in low-Earth orbit just 250 miles high where the ISS sits, those communications are virtually instantaneous. Not so on Mars, which, depending on its position in its orbit, is between 34 million miles and 250 million miles away. That means a one-way transmission takes up to 23 minutes to land i",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc900a67db623d316/6afdeaf4ef7442a3773fdb40/jsc2026e425221~orig.jpg?branch=production"
-    },
-    {
-      "title": "The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House",
-      "summary": "Representative Hakeem Jeffries of New York secured the vast majority of House Democrats’ support in his nomination for Speaker of the House . Eleven members of his party, however, voted against giving him the nod. The ballots were cast in secret, so the identities of some of the Democrats who cast “no” votes are not yet known. But seven progressive members-elect—Darializa Avila Chevalier of New York, Adam Hamawy of New Jersey, Frederick Haynes of Texas, Melat Kiros of Colorado, Donavan McKinney of Michigan, Chris R",
-      "image": "https://cdn.jwplayer.com/manifests/j62T2zLD.m3u8"
-    },
-    {
-      "title": "8 Things You Shouldn’t Say to Someone With Memory Problems",
-      "summary": "When someone develops memory problems , their loved ones often reach for the family photo album—and start quizzing them. Who’s that? Where were we? Come on, Mom, you know this one. Dr. Carolyn Fredericks hears about this approach from people who are new to caregiving and hoping to help. They understand that staying cognitively active is important, and figure a little coaching might keep their loved one sharp. “I think this is coming from a good place,” says Fredericks, a Yale Medicine neurologist who specializes in",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta08627718f98941f/6afddde57a7cf80fdd5b6104/T2T_Memory.png?branch=production"
     }
   ]
 }
