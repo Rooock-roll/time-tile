@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a3a51abba6c1e39ad6022d4c6497e7d3585e643b/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f78262322ba0effb65d133814185cabbdfb75ab9/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Irish Man Charged With Destroying U.S. Military Plane Becomes Protest Symbol</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a3a51abba6c1e39ad6022d4c6497e7d3585e643b/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f78262322ba0effb65d133814185cabbdfb75ab9/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Irish Man Charged With Destroying U.S. Military Plane Becomes Protest Symbol</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">An Irish man has been charged in the U.S. with wielding an axe and using chemicals to destroy an American military plane in what supporters have described as a prot…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a3a51abba6c1e39ad6022d4c6497e7d3585e643b/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f78262322ba0effb65d133814185cabbdfb75ab9/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Irish Man Charged With Destroying U.S. Military Plane Becomes Protest Symbol</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">An Irish man has been charged in the U.S. with wielding an axe and using chemicals to destroy an American military plane in what supporters have described as a protest against the U.S. military. Federal prosecutors in Manhattan accused 48-year-old Daithí O’Corrain of damaging a $60 million U.S. Air National Guard aircraft while it was parked at Ireland’s Shannon airport in April. O’Corrain allegedly cut hydraulic lines, smashed cockpit gauges, and poured ball beari…</text>
     </binding>
