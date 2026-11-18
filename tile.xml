@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c753092e24ec379a76ad7130fc6c38603721ce5f/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Billie Jean King Had Seen Other Sports Documentaries. She Wanted Hers to Be Different</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0e3d84e29b1171cbf5dbaa46030dcc20445c66e8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Voting Rights Impacted the 2026 Midterms</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c753092e24ec379a76ad7130fc6c38603721ce5f/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Billie Jean King Had Seen Other Sports Documentaries. She Wanted Hers to Be Different</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">How did Arnold Palmer order an Arnold Palmer? You know, the half-lemonade, half-iced-tea concoction named in his honor? Steve Politi, sports columnist at NJ.com, un…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0e3d84e29b1171cbf5dbaa46030dcc20445c66e8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Voting Rights Impacted the 2026 Midterms</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On January 3, Scott Colom will be sworn in as the 52 nd United States Senator from Mississippi. Perhaps more importantly, Colom will be the first Black Mississippia…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c753092e24ec379a76ad7130fc6c38603721ce5f/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Billie Jean King Had Seen Other Sports Documentaries. She Wanted Hers to Be Different</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">How did Arnold Palmer order an Arnold Palmer? You know, the half-lemonade, half-iced-tea concoction named in his honor? Steve Politi, sports columnist at NJ.com, unearthed the answer years ago , at Augusta National Golf Club, where a waitress who served Palmer his drink told him: &quot;He leaned over and said, 'I'll have a Mr. Palmer.' Then he winked.” Along the same lines, during the U.S. Open, how does Billie Jean King tell a driver that she’s going to her own complex…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0e3d84e29b1171cbf5dbaa46030dcc20445c66e8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Voting Rights Impacted the 2026 Midterms</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On January 3, Scott Colom will be sworn in as the 52 nd United States Senator from Mississippi. Perhaps more importantly, Colom will be the first Black Mississippian elected to statewide office since Reconstruction —and the first Black Mississippian ever popularly elected to the U.S. Senate by voters in the Magnolia State. Black Mississippians’ outrage at the Supreme Court’s gutting of the 1965 Voting Rights Act helped put him there. That fact should inspire quick …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Billie Jean King Had Se…</text>
+      <text hint-style="caption">How Voting Rights Impac…</text>
     </binding>
   </visual>
 </tile>
