@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9f5be2f6d2d94fb81941f693d662e20b36d6d402/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b1e52bc96072c5a5a821fa0a0f3273c8681b46f/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">America's Top Manufacturers of 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9f5be2f6d2d94fb81941f693d662e20b36d6d402/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b1e52bc96072c5a5a821fa0a0f3273c8681b46f/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America's Top Manufacturers of 2027</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As major U.S. manufacturers have increasingly moved their production overseas in the last few decades to reduce costs, President Trump ’s hallmark global tariffs we…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9f5be2f6d2d94fb81941f693d662e20b36d6d402/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1b1e52bc96072c5a5a821fa0a0f3273c8681b46f/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America's Top Manufacturers of 2027</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As major U.S. manufacturers have increasingly moved their production overseas in the last few decades to reduce costs, President Trump ’s hallmark global tariffs were designed to force these companies to do their manufacturing stateside. But the tariffs proved unpopular , with the conservative think tank Cato Institute reporting in August that there is no factory building boom and that manufacturing is only expanding in industries facing the lowest tariffs , like e…</text>
     </binding>
