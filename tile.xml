@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f6b4de4e1b1f2e25ada3ecb715771f6cd59caf0/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c96f44466053f102d67cb0249c7d3ce8963e3e1a/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f6b4de4e1b1f2e25ada3ecb715771f6cd59caf0/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimi…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c96f44466053f102d67cb0249c7d3ce8963e3e1a/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Representative Hakeem Jeffries of New York secured the vast majority of House Democrats’ support in his nomination for Speaker of the House . Eleven members of his …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8f6b4de4e1b1f2e25ada3ecb715771f6cd59caf0/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimited access to email exchanges with their families at home—and in low-Earth orbit just 250 miles high where the ISS sits, those communications are virtually instantaneous. Not so on Mars, which, depending on its position in its orbit, is between 34 million miles and 250 million miles away. That means a on…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c96f44466053f102d67cb0249c7d3ce8963e3e1a/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Representative Hakeem Jeffries of New York secured the vast majority of House Democrats’ support in his nomination for Speaker of the House . Eleven members of his party, however, voted against giving him the nod. The ballots were cast in secret, so the identities of some of the Democrats who cast “no” votes are not yet known. But seven progressive members-elect—Darializa Avila Chevalier of New York, Adam Hamawy of New Jersey, Frederick Haynes of Texas, Melat Kiros…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Astronauts Just Finishe…</text>
+      <text hint-style="caption">The Democrats Who Voted…</text>
     </binding>
   </visual>
 </tile>
