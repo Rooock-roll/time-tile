@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@51c89fb2d63d1612c2eebd68f8476986fd40b921/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc4ced13cf501e83408b9bf00c6cc8cb4ba5d30f/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About the Apple Outage</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@51c89fb2d63d1612c2eebd68f8476986fd40b921/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc4ced13cf501e83408b9bf00c6cc8cb4ba5d30f/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About the Apple Outage</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Apple has resolved outages that impacted several of the company's services on Tuesday, including Apple Pay, iCloud, and Apple Support. Thousands of users had report…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@51c89fb2d63d1612c2eebd68f8476986fd40b921/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc4ced13cf501e83408b9bf00c6cc8cb4ba5d30f/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About the Apple Outage</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Apple has resolved outages that impacted several of the company's services on Tuesday, including Apple Pay, iCloud, and Apple Support. Thousands of users had reported experiencing issues with multiple Apple platforms beginning Tuesday morning. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of the afternoon. &quot;Many of our systems are back up and running after an internal update caused some outages this mo…</text>
     </binding>
