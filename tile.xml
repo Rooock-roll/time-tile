@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4110e96427033500dd5636aef888bd7458675dfe/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9e196b3e219e9ac31020bac9b900d1d5201d851d/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4110e96427033500dd5636aef888bd7458675dfe/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9e196b3e219e9ac31020bac9b900d1d5201d851d/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4110e96427033500dd5636aef888bd7458675dfe/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9e196b3e219e9ac31020bac9b900d1d5201d851d/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior to the introduction of the first measles vaccine in 1963, nearly all American children contracted the disease before they were 15, for an annual case count of up to four million, including 400 to 500 deaths and 48,000 hospitalizations. But an aggressive vaccination campaign changed all of that, and meas…</text>
     </binding>
