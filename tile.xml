@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e55cbb75b1361716b6d9373c7050e063a20ec185/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a657d8d35301bcd0983139c38f177f0e5d831bdd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e55cbb75b1361716b6d9373c7050e063a20ec185/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a657d8d35301bcd0983139c38f177f0e5d831bdd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimi…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e55cbb75b1361716b6d9373c7050e063a20ec185/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a657d8d35301bcd0983139c38f177f0e5d831bdd/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimited access to email exchanges with their families at home—and in low-Earth orbit just 250 miles high where the ISS sits, those communications are virtually instantaneous. Not so on Mars, which, depending on its position in its orbit, is between 34 million miles and 250 million miles away. That means a on…</text>
     </binding>
