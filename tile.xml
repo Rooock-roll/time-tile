@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@660218c31bcdd41af8731256ea16b164ea956c8f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b89ac4eda6531575eabb51fc3a5b8dbc76e569c2/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About the Apple Outage</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@660218c31bcdd41af8731256ea16b164ea956c8f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b89ac4eda6531575eabb51fc3a5b8dbc76e569c2/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About the Apple Outage</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Apple has resolved outages that impacted several of the company's services on Tuesday, including Apple Pay, iCloud, and Apple Support. Thousands of users had report…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@660218c31bcdd41af8731256ea16b164ea956c8f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior to the introduction of the first measles vaccine in 1963, nearly all American children contracted the disease before they were 15, for an annual case count of up to four million, including 400 to 500 deaths and 48,000 hospitalizations. But an aggressive vaccination campaign changed all of that, and meas…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b89ac4eda6531575eabb51fc3a5b8dbc76e569c2/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About the Apple Outage</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Apple has resolved outages that impacted several of the company's services on Tuesday, including Apple Pay, iCloud, and Apple Support. Thousands of users had reported experiencing issues with multiple Apple platforms beginning Tuesday morning. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of the afternoon. &quot;Many of our systems are back up and running after an internal update caused some outages this mo…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The U.S. Has Lost Its M…</text>
+      <text hint-style="caption">What to Know About the …</text>
     </binding>
   </visual>
 </tile>
