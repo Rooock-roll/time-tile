@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@80bf937bd7b8bbb906c42b56f53581d91e0f4c5a/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">America's Top Manufacturers of 2027</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@70f5967221f1fa37269f6c55b4b48f231f2f9f42/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@80bf937bd7b8bbb906c42b56f53581d91e0f4c5a/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America's Top Manufacturers of 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As major U.S. manufacturers have increasingly moved their production overseas in the last few decades to reduce costs, President Trump ’s hallmark global tariffs we…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@70f5967221f1fa37269f6c55b4b48f231f2f9f42/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@80bf937bd7b8bbb906c42b56f53581d91e0f4c5a/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America's Top Manufacturers of 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As major U.S. manufacturers have increasingly moved their production overseas in the last few decades to reduce costs, President Trump ’s hallmark global tariffs were designed to force these companies to do their manufacturing stateside. But the tariffs proved unpopular , with the conservative think tank Cato Institute reporting in August that there is no factory building boom and that manufacturing is only expanding in industries facing the lowest tariffs , like e…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@70f5967221f1fa37269f6c55b4b48f231f2f9f42/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He walked into the dining car to pitch John Madden, the CBS football commentator and omnipresent commercial spokesman who famously feared flying, on lending his name to a football video game Hawkins wanted to create. Hawkins explained to Madden that there was just one hitch. Since the 8-bit home consoles o…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">America's Top Manufactu…</text>
+      <text hint-style="caption">The True Story Behind M…</text>
     </binding>
   </visual>
 </tile>
