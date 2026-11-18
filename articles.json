@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-18T04:31:01.841630+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-18T04:45:48.595299+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Mary Peltola Defeats Incumbent Republican in Alaska Senate Race",
     "Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?",
     "Democrats Now Have the Power to Nullify the Electoral College. Here’s How",
     "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
-    "What to Know About the Apple Outage",
-    "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?"
+    "What to Know About the Apple Outage"
   ],
   "articles": [
+    {
+      "title": "Mary Peltola Defeats Incumbent Republican in Alaska Senate Race",
+      "summary": "Democratic challenger Mary Peltola has defeated incumbent Republican Senator Dan S. Sullivan in Alaska , rounding out one of the tightest and most controversial races of the midterm elections, and marking another notable GOP loss in what is typically a reliably red state. The Associated Press called the race on Tuesday evening, two weeks after Election Day , with Peltola securing 50.1% of the votes against Sullivan’s 45.8%. Peltola is the first Democrat elected to the Senate in Alaska since 2008. Trump won the stat",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4700fef708faaf92/6afd271369790b515190794f/GettyImages-2302985547.jpg?branch=production"
+    },
     {
       "title": "Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?",
       "summary": "Nearly 6 million people are expected to fly within the U.S. over the Thanksgiving holiday, just a little more than a week after a telecommunications issue prompted the Federal Aviation Administration (FAA) to order a nationwide ground stop that continued to disrupt flights around the country even days after it ended. Transportation Secretary Sean Duffy said that the FAA issued the nationwide ground stop after router upgrade work led to a series of communication breakdowns. The incident led to thousands of flight ca",
@@ -29,11 +34,6 @@
       "title": "What to Know About the Apple Outage",
       "summary": "Apple has resolved outages that impacted several of the company's services on Tuesday, including Apple Pay, iCloud, and Apple Support. Thousands of users had reported experiencing issues with multiple Apple platforms beginning Tuesday morning. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of the afternoon. \"Many of our systems are back up and running after an internal update caused some outages this morning. We’re working to get the remaining systems o",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt01955dda34b05f06/6afcbb73be3c8b63a822dfc5/GettyImages-2305585682.jpg?branch=production"
-    },
-    {
-      "title": "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
-      "summary": "An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian President Vladimir Putin ahead of a summit in Asia where he is expected to meet President Donald Trump . The road and rail bridge was built after Russia invaded and annexed the Crimean peninsula in 2014 and connects Crimea to Russia's southern Krasnodar region. Ukrainian officials shared videos on social media that appeared to show a missile strike on the bridg",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt73106ece772bf8e9/6afc71bd6e3eb1fa14df9d71/Kerch_Bridge.jpg?branch=production"
     }
   ]
 }
