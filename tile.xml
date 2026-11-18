@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@580ef3649134d4018c428d9c38463a3cd660172e/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Measles Has Returned</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f8fb6a9f63f30a39479a95be248c21fed0bfd8f6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Democrats Now Have the Power to Nullify the Electoral College. Here’s How</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@580ef3649134d4018c428d9c38463a3cd660172e/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Measles Has Returned</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Repu…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f8fb6a9f63f30a39479a95be248c21fed0bfd8f6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Democrats Now Have the Power to Nullify the Electoral College. Here’s How</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">After flipping several key state legislatures and gubernatorial seats in this month’s elections , Democrats now have a path to nullify an institution of U.S. electi…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@580ef3649134d4018c428d9c38463a3cd660172e/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Measles Has Returned</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Republican and Democratic administrations, pandemics, wars, and recessions—that achievement stood. The Pan American Health Organization (PAHO) has officially stripped the United States of its measles elimination status after a resurgence of cases infecting more than 7,000 Americans over the past two years. M…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f8fb6a9f63f30a39479a95be248c21fed0bfd8f6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Democrats Now Have the Power to Nullify the Electoral College. Here’s How</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">After flipping several key state legislatures and gubernatorial seats in this month’s elections , Democrats now have a path to nullify an institution of U.S. elections that has cost the party at least two presidential contests so far this century: the Electoral College. Officially abolishing that longstanding system , in which presidents are selected via slates of electors representing each state rather than by a direct popular vote, would require a constitutional …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Measles Has Returned</text>
+      <text hint-style="caption">Democrats Now Have the …</text>
     </binding>
   </visual>
 </tile>
