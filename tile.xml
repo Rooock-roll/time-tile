@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8df2abe6fad4f5f98c2787e98d4f30c574cace58/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@786a14783c44156db6f9bfbd290f3ff480e32070/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">8 Things You Shouldn’t Say to Someone With Memory Problems</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8df2abe6fad4f5f98c2787e98d4f30c574cace58/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Representative Hakeem Jeffries of New York secured the vast majority of House Democrats’ support in his nomination for Speaker of the House . Eleven members of his …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@786a14783c44156db6f9bfbd290f3ff480e32070/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">8 Things You Shouldn’t Say to Someone With Memory Problems</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When someone develops memory problems , their loved ones often reach for the family photo album—and start quizzing them. Who’s that? Where were we? Come on, Mom, yo…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8df2abe6fad4f5f98c2787e98d4f30c574cace58/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Representative Hakeem Jeffries of New York secured the vast majority of House Democrats’ support in his nomination for Speaker of the House . Eleven members of his party, however, voted against giving him the nod. The ballots were cast in secret, so the identities of some of the Democrats who cast “no” votes are not yet known. But seven progressive members-elect—Darializa Avila Chevalier of New York, Adam Hamawy of New Jersey, Frederick Haynes of Texas, Melat Kiros…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@786a14783c44156db6f9bfbd290f3ff480e32070/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">8 Things You Shouldn’t Say to Someone With Memory Problems</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When someone develops memory problems , their loved ones often reach for the family photo album—and start quizzing them. Who’s that? Where were we? Come on, Mom, you know this one. Dr. Carolyn Fredericks hears about this approach from people who are new to caregiving and hoping to help. They understand that staying cognitively active is important, and figure a little coaching might keep their loved one sharp. “I think this is coming from a good place,” says Frederi…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Democrats Who Voted…</text>
+      <text hint-style="caption">8 Things You Shouldn’t …</text>
     </binding>
   </visual>
 </tile>
