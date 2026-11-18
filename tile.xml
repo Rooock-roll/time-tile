@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@83d5bac6b6986677a94900d3d60e42f25ece65e0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a771f48ed06aa9d01a8a7cd7c93c4bf2b31f19cb/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Voting Rights Impacted the 2026 Midterms</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@83d5bac6b6986677a94900d3d60e42f25ece65e0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a771f48ed06aa9d01a8a7cd7c93c4bf2b31f19cb/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Voting Rights Impacted the 2026 Midterms</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On January 3, Scott Colom will be sworn in as the 52 nd United States Senator from Mississippi. Perhaps more importantly, Colom will be the first Black Mississippia…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@83d5bac6b6986677a94900d3d60e42f25ece65e0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a771f48ed06aa9d01a8a7cd7c93c4bf2b31f19cb/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Voting Rights Impacted the 2026 Midterms</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On January 3, Scott Colom will be sworn in as the 52 nd United States Senator from Mississippi. Perhaps more importantly, Colom will be the first Black Mississippian elected to statewide office since Reconstruction —and the first Black Mississippian ever popularly elected to the U.S. Senate by voters in the Magnolia State. Black Mississippians’ outrage at the Supreme Court’s gutting of the 1965 Voting Rights Act helped put him there. That fact should inspire quick …</text>
     </binding>
