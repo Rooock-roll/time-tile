@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@257aabf2c665730774ce81a5a8b87dc7bddf05a8/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e55cbb75b1361716b6d9373c7050e063a20ec185/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@257aabf2c665730774ce81a5a8b87dc7bddf05a8/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The U.S. is still reeling from a nationwide ground stop last Friday—the longest such flight stoppage in 25 years—which lasted more than four hours and resulted in m…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e55cbb75b1361716b6d9373c7050e063a20ec185/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimi…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@257aabf2c665730774ce81a5a8b87dc7bddf05a8/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The U.S. is still reeling from a nationwide ground stop last Friday—the longest such flight stoppage in 25 years—which lasted more than four hours and resulted in more than 15,000 delayed or cancelled flights. And with Thanksgiving only a week away, the year’s busiest travel season is about to begin—bringing with it anxieties of further disruption . While nationwide ground stops like the one seen last week are rare, severe weather conditions are the most common tri…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e55cbb75b1361716b6d9373c7050e063a20ec185/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Astronauts Just Finished a Year-Long Mars Habitat Simulation. Here's What It Was Like</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">If you’re planning to travel to Mars , remember to leave your emojis behind. Martian astronauts, like International Space Station (ISS) astronauts, will have unlimited access to email exchanges with their families at home—and in low-Earth orbit just 250 miles high where the ISS sits, those communications are virtually instantaneous. Not so on Mars, which, depending on its position in its orbit, is between 34 million miles and 250 million miles away. That means a on…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">America's Aging Air Tra…</text>
+      <text hint-style="caption">Astronauts Just Finishe…</text>
     </binding>
   </visual>
 </tile>
