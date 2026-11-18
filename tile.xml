@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@460771210d8d69505f40149274f2d1d65a8c2d49/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fdc640830846abf1879a082f7fb50c3147bf87ac/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@460771210d8d69505f40149274f2d1d65a8c2d49/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fdc640830846abf1879a082f7fb50c3147bf87ac/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Nearly 6 million people are expected to fly within the U.S. over the Thanksgiving holiday, just a little more than a week after a telecommunications issue prompted …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@460771210d8d69505f40149274f2d1d65a8c2d49/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fdc640830846abf1879a082f7fb50c3147bf87ac/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Nearly 6 million people are expected to fly within the U.S. over the Thanksgiving holiday, just a little more than a week after a telecommunications issue prompted the Federal Aviation Administration (FAA) to order a nationwide ground stop that continued to disrupt flights around the country even days after it ended. Transportation Secretary Sean Duffy said that the FAA issued the nationwide ground stop after router upgrade work led to a series of communication bre…</text>
     </binding>
