@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d83a78e523c271f236144c465861d01ee6d0615e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ce00afaa96abd978208c15f1ec7d0704b7f035df/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Hakeem Jeffries on Track For Speaker Nomination in Wednesday Vote</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d83a78e523c271f236144c465861d01ee6d0615e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ce00afaa96abd978208c15f1ec7d0704b7f035df/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Hakeem Jeffries on Track For Speaker Nomination in Wednesday Vote</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When House Democrats gather Wednesday to choose their nominee for speaker, there will be little doubt about the outcome. Despite lingering divisions, Representative…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d83a78e523c271f236144c465861d01ee6d0615e/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ce00afaa96abd978208c15f1ec7d0704b7f035df/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Hakeem Jeffries on Track For Speaker Nomination in Wednesday Vote</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When House Democrats gather Wednesday to choose their nominee for speaker, there will be little doubt about the outcome. Despite lingering divisions, Representative Hakeem Jeffries of New York is on course to become the first Black American to lead the chamber after steering his party to victory in this month's midterm elections. The vote will mark a milestone in Jeffries’ political career, four years after he succeeded Nancy Pelosi as the top House Democrat and mo…</text>
     </binding>
