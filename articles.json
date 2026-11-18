@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-18T00:15:53.046478+00:00",
+  "updated": "2026-11-18T00:31:06.705944+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?",
     "Democrats Now Have the Power to Nullify the Electoral College. Here’s How",
     "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
     "What to Know About the Apple Outage",
-    "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
-    "Measles Has Returned"
+    "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?"
   ],
   "articles": [
+    {
+      "title": "Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?",
+      "summary": "Nearly 6 million people are expected to fly within the U.S. over the Thanksgiving holiday, just a little more than a week after a telecommunications issue prompted the Federal Aviation Administration (FAA) to order a nationwide ground stop that continued to disrupt flights around the country even days after it ended. Transportation Secretary Sean Duffy said that the FAA issued the nationwide ground stop after router upgrade work led to a series of communication breakdowns. The incident led to thousands of flight ca",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt30d434c3b4bc3695/6afce188be3c8b5edb22e00c/Ground-Stop-Thanksgiving.jpg?branch=production"
+    },
     {
       "title": "Democrats Now Have the Power to Nullify the Electoral College. Here’s How",
       "summary": "After flipping several key state legislatures and gubernatorial seats in this month’s elections , Democrats now have a path to nullify an institution of U.S. elections that has cost the party at least two presidential contests so far this century: the Electoral College. Officially abolishing that longstanding system , in which presidents are selected via slates of electors representing each state rather than by a direct popular vote, would require a constitutional amendment. But it could effectively be neutralized ",
@@ -18,22 +23,17 @@
     {
       "title": "The U.S. Has Lost Its Measles-Elimination Status. Here’s What That Means",
       "summary": "For more than a quarter of a century, the U.S. has held measles-elimination status, meaning the virus was no longer spreading continuously within the country. Prior to the introduction of the first measles vaccine in 1963, nearly all American children contracted the disease before they were 15, for an annual case count of up to four million, including 400 to 500 deaths and 48,000 hospitalizations. But an aggressive vaccination campaign changed all of that, and measles was declared eliminated in the U.S. in 2000. No",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfaff8a91a745e51f/6afc8fa5b84d8b0082c996ee/GettyImages-1321674258.jpg?branch=production"
+      "image": "https://cdn.jwplayer.com/manifests/6U3l7gzA.m3u8"
     },
     {
       "title": "What to Know About the Apple Outage",
-      "summary": "Thousands of users have reported experiencing issues on Tuesday with several of Apple’s services, including Apple Pay, iCloud, and Apple Support. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of Tuesday afternoon. \"Many of our systems are back up and running after an internal update caused some outages this morning. We’re working to get the remaining systems online as soon as possible,” an Apple spokesperson told TIME. The outages were not a result of ",
+      "summary": "Apple has resolved outages that impacted several of the company's services on Tuesday, including Apple Pay, iCloud, and Apple Support. Thousands of users had reported experiencing issues with multiple Apple platforms beginning Tuesday morning. Apple attributed the problems to an internal update and said that it was in the process of addressing them as of the afternoon. \"Many of our systems are back up and running after an internal update caused some outages this morning. We’re working to get the remaining systems o",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt01955dda34b05f06/6afcbb73be3c8b63a822dfc5/GettyImages-2305585682.jpg?branch=production"
     },
     {
       "title": "What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?",
       "summary": "An overnight Ukrainian missile attack has severely damaged the vital Kerch bridge linking occupied Crimea with Russia, delivering a symbolic blow to Russian President Vladimir Putin ahead of a summit in Asia where he is expected to meet President Donald Trump . The road and rail bridge was built after Russia invaded and annexed the Crimean peninsula in 2014 and connects Crimea to Russia's southern Krasnodar region. Ukrainian officials shared videos on social media that appeared to show a missile strike on the bridg",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt73106ece772bf8e9/6afc71bd6e3eb1fa14df9d71/Kerch_Bridge.jpg?branch=production"
-    },
-    {
-      "title": "Measles Has Returned",
-      "summary": "In 2000, the United States achieved a remarkable public health milestone: eliminating the continuous spread of measles within our borders. For 26 years—through Republican and Democratic administrations, pandemics, wars, and recessions—that achievement stood. The Pan American Health Organization (PAHO) has officially stripped the United States of its measles elimination status after a resurgence of cases infecting more than 7,000 Americans over the past two years. Measles is once again considered endemic in America.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt66227fb3b79b9af1/6afc8094eb5ef693b92ac838/measles-symptoms.jpg?branch=production"
     }
   ]
 }
