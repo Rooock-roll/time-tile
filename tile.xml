@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@08fd36a1fe063ae823359d19e63eecfa6c76edd3/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Xi, Trump, and Putin Summit Makes History but Not Much Else</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@55c84df7d54ec165debd5edb74cbe6c780abcbce/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Best Colleges for Future Leaders 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@08fd36a1fe063ae823359d19e63eecfa6c76edd3/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Xi, Trump, and Putin Summit Makes History but Not Much Else</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It was the first-ever meeting of the leaders of the world’s three biggest nuclear powers—one that host Xi Jinping opened by hailing its “pioneering significance.” E…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@55c84df7d54ec165debd5edb74cbe6c780abcbce/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Best Colleges for Future Leaders 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Women make up a majority of the college-educated labor force in the U.S., according to Pew Research Survey . This factor could partly explain why they are also a ri…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@08fd36a1fe063ae823359d19e63eecfa6c76edd3/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Xi, Trump, and Putin Summit Makes History but Not Much Else</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It was the first-ever meeting of the leaders of the world’s three biggest nuclear powers—one that host Xi Jinping opened by hailing its “pioneering significance.” Exactly what was achieved when Xi met with Vladimir Putin and Donald Trump at Kylin Villa in northwestern Shenzhen on Thursday, however, has onlookers scratching their heads. Xi started by invoking the responsibility of Great Powers toward world peace; Putin delved into historic “shared interests;” while …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@55c84df7d54ec165debd5edb74cbe6c780abcbce/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Best Colleges for Future Leaders 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Women make up a majority of the college-educated labor force in the U.S., according to Pew Research Survey . This factor could partly explain why they are also a rising share of managers and professionals , although there is still room to grow in their representation in top executive roles—a working paper from a World Bank economist found that only 16% of CFOs and 7% of CEOs in large U.S. and European companies were women in 2023. For the fourth time, TIME and Stat…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Xi, Trump, and Putin Su…</text>
+      <text hint-style="caption">The Best Colleges for F…</text>
     </binding>
   </visual>
 </tile>
