@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-19T23:01:15.853466+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-19T23:15:42.072547+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Van Hollen Puts AI at Center of His Challenge to Schumer",
     "Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates",
     "The True Story Behind The Altruists and the FTX Scandal",
     "The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe",
-    "What the Midterms Taught Us About the State of America’s Democracy",
-    "Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip"
+    "What the Midterms Taught Us About the State of America’s Democracy"
   ],
   "articles": [
+    {
+      "title": "Van Hollen Puts AI at Center of His Challenge to Schumer",
+      "summary": "Senator Chris Van Hollen of Maryland is making the regulation of artificial intelligence a central part of his campaign to lead Senate Democrats , arguing that Congress must move more aggressively to confront the technology's growing risks and that the party needs a leader willing to challenge the powerful companies seeking to shape the rules. At a news conference Thursday, Van Hollen laid out a vision for a more assertive Senate that would impose mandatory safeguards on AI companies, hold them liable for harm caus",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt60733b67782dd337/6aff76fc7a7cf87dee5b7374/chris-van-hollen-ai-schumer.jpg?branch=production"
+    },
     {
       "title": "Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates",
       "summary": "The Senate voted on Nov. 18 to move forward with the Bipartisan Affordability and American Jobs Act (BAAJA) of 2026, a controversial permitting reform bill that aims to speed up the nation’s ability to build infrastructure and energy —which can often take years under the current process. The bill—which has divided environmentalists and clean energy advocates—will now face a final Senate vote before moving to the House of Representatives. The purpose of BAAJA, in the eyes of some clean energy advocates and other sup",
@@ -29,11 +34,6 @@
       "title": "What the Midterms Taught Us About the State of America’s Democracy",
       "summary": "The recent “Blue Wave” was Democrats’ best election night in years. But Memphis, a majority-Black city whose own congressional seat Democrats had held for more than four decades, will be represented in Congress entirely by Republicans . The day after the midterms, Justin Pearson, the Democratic candidate for Tennessee’s newly drawn Ninth District House seat, may have conceded his race, but he refused to concede to the redistricting. These “ rigged maps ”—as he called them— broke apart his voter base and were enable",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteec43999c41d5d0f/6aff2e14f0e51534de3ebaf6/Capitol-building-democracy.jpg?branch=production"
-    },
-    {
-      "title": "Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip",
-      "summary": "Dig is sure to catch the eye of anyone scanning for signs of a post-midterms vibe shift. (Never mind that it was announced last spring, just a few months into a second Trump term some interpreted as a long-term rightward swerve.) The Peacock comedy, whose 10-episode first season arrives on Nov. 23, reunites Amy Poehler and Michael Schur , the duo behind the ultimate Obama-era sitcom: Parks and Recreation . But instead of embracing any zeitgeist, it seems to be in flight from the burden of relevance. Escapism is bak",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt426f3207de61b999/6afb6fdab84d8b6d1ac9915d/NUP_209611_00284.jpg?branch=production"
     }
   ]
 }
