@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5f189d377cf245b0c4446dcf7c8199bb851c266/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1c7a62632883bbd9d9659f045659ecdb24b1af73/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5f189d377cf245b0c4446dcf7c8199bb851c266/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Just over two weeks after Election Day , the outcomes of nearly all of this year’s congressional races have been determined. But a few of the tightest lower chamber…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1c7a62632883bbd9d9659f045659ecdb24b1af73/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">India makes more films than any country on earth. Led by the Hindi-language juggernaut, Bollywood, Indian cinema knows how to put on a show. In last year’s Hindi bl…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c5f189d377cf245b0c4446dcf7c8199bb851c266/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Just over two weeks after Election Day , the outcomes of nearly all of this year’s congressional races have been determined. But a few of the tightest lower chamber races remain uncalled—and the trailing candidates in more than one are moving to request recounts. Two of those requests have come from candidates in North Carolina: Republican Representative Virginia Foxx of the state’s 5th District and Ashley Bell, a Democrat who ran in the 10th District. Foxx filed h…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1c7a62632883bbd9d9659f045659ecdb24b1af73/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">India makes more films than any country on earth. Led by the Hindi-language juggernaut, Bollywood, Indian cinema knows how to put on a show. In last year’s Hindi blockbuster Dhurandhar , the protagonist survives a hail of bullets at a gangster's wedding; in the Telugu-language drama RRR , which won an Oscar for the pulsating song Naatu Naatu , the hero unleashes a truckload of wild animals on a British governor's party; and in Tamil film Retro , an entire wedding s…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Recounts Are Set to Tak…</text>
+      <text hint-style="caption">Indian Cinema Is Bigger…</text>
     </binding>
   </visual>
 </tile>
