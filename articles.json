@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-19T10:15:43.494483+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-19T10:31:04.255100+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "2026’s Words of the Year, So Far",
     "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
     "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar",
     "Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights",
-    "Alia Bhatt Is Defining Stardom on Her Own Terms",
-    "Anant Goenka"
+    "Alia Bhatt Is Defining Stardom on Her Own Terms"
   ],
   "articles": [
+    {
+      "title": "2026’s Words of the Year, So Far",
+      "summary": "It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and even the slang 67 (pronounced six-seven), in attempts to capture the cultural zeitgeist. For 2026, some dictionaries have already begun to announce their “word of the year.” Read More: Words of the Year: How the Pithy Tradition Began Each dictionary approaches the selection differently—some track language use or online search trends—and some even offer shor",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd753b8e0dba54e19/6afec169eb5ef62c8f2ad542/word-of-the-year.jpg?branch=production"
+    },
     {
       "title": "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
       "summary": "In the four years since FTX collapsed —and the three since the cryptocurrency exchange’s founder, Sam Bankman-Fried , was convicted on multiple fraud charges —its downfall has been squeezed to fit many narrative frames. It’s the Emperor’s New Clothes or Icarus flying too close to the sun. Or maybe it’s a cautionary tale about Bankman-Fried’s guiding philosophy, effective altruism , which encourages adherents to maximize charitable giving by earning a lot of money. Its protagonist has been characterized as everythin",
@@ -29,11 +34,6 @@
       "title": "Alia Bhatt Is Defining Stardom on Her Own Terms",
       "summary": "At first, Alia Bhatt ’s arrival was met with a degree of cynicism. Here was another daughter of Bollywood privilege—her parents are the filmmaker Mahesh Bhatt and the actor Soni Razdan—this time, asserting her magnetic presence in the 2012 film Student of the Year . A turning point arrived just two years later. In Imtiaz Ali’s 2014 film Highway , she played Veera Tripathi, a woman who goes on an unexpected voyage of self-discovery after being abducted. It was, by all measures, an unorthodox choice. “I wanted to sha",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0f54d7673d1f9157/6af4c7a4b713ad6e28671f13/time100next-india-profiles-alia-bhatt.jpg?branch=production"
-    },
-    {
-      "title": "Anant Goenka",
-      "summary": "—Courtesy The Indian Express",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd04708f59fa9316d/6af3c5507ce30b27861ebab9/time100next-india-innovators-Anant-Goenka.jpg?branch=production"
     }
   ]
 }
