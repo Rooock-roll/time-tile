@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@82f83720965508e58b0a68ad171c963d9ffcbb2c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3e363ff914aee6e5a765735bf6b3f7f56f4dc07e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The True Story Behind The Altruists and the FTX Scandal</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@82f83720965508e58b0a68ad171c963d9ffcbb2c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3e363ff914aee6e5a765735bf6b3f7f56f4dc07e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The True Story Behind The Altruists and the FTX Scandal</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Like other entries in the growing genre of media about tech scandals and leadership crises, Netflix’s The Altruists asks how honest a visionary billionaire can be. …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@82f83720965508e58b0a68ad171c963d9ffcbb2c/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3e363ff914aee6e5a765735bf6b3f7f56f4dc07e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The True Story Behind The Altruists and the FTX Scandal</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Like other entries in the growing genre of media about tech scandals and leadership crises, Netflix’s The Altruists asks how honest a visionary billionaire can be. Shows like The Dropout (in which Amanda Seyfried plays Elizabeth Holmes ) and films like Artificial (starring Andrew Garfield as Sam Altman) imagine a more unrehearsed side of figures audiences have spent much time watching in the public eye, with viewers’ curiosity piqued by controversy and internal pol…</text>
     </binding>
