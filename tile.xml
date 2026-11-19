@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a5a17a41c5bcf882fec51c77a784938fc09b5665/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0fc0f3434934abbd464922009a535949f7f1133d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What the Midterms Taught Us About the State of America’s Democracy</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a5a17a41c5bcf882fec51c77a784938fc09b5665/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0fc0f3434934abbd464922009a535949f7f1133d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What the Midterms Taught Us About the State of America’s Democracy</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The recent “Blue Wave” was Democrats’ best election night in years. But Memphis, a majority-Black city whose own congressional seat Democrats had held for more than…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a5a17a41c5bcf882fec51c77a784938fc09b5665/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0fc0f3434934abbd464922009a535949f7f1133d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What the Midterms Taught Us About the State of America’s Democracy</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The recent “Blue Wave” was Democrats’ best election night in years. But Memphis, a majority-Black city whose own congressional seat Democrats had held for more than four decades, will be represented in Congress entirely by Republicans . The day after the midterms, Justin Pearson, the Democratic candidate for Tennessee’s newly drawn Ninth District House seat, may have conceded his race, but he refused to concede to the redistricting. These “ rigged maps ”—as he call…</text>
     </binding>
