@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b85f7a6a25a483365baffb29fdad4536e8d52b6c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Much Can the New Congress Reshape Health?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d82cab82c8e048f6efb0a85e532ae46023775fd/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b85f7a6a25a483365baffb29fdad4536e8d52b6c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Much Can the New Congress Reshape Health?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Though Democrats swept both the House and the Senate in the midterms, scientists and health professionals are divided over how much change the new Congressional lea…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d82cab82c8e048f6efb0a85e532ae46023775fd/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump ’s warm greeting for Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China Thursd…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b85f7a6a25a483365baffb29fdad4536e8d52b6c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Much Can the New Congress Reshape Health?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Though Democrats swept both the House and the Senate in the midterms, scientists and health professionals are divided over how much change the new Congressional leadership will have on health issues—owing to what Congress can and can't do to legislate change, and what elected leaders are most likely to do within those powers. Exactly how much traction health-related legislative proposals will get remains to be seen. Even if they pass Congress, they face a possible …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d82cab82c8e048f6efb0a85e532ae46023775fd/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump ’s warm greeting for Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China Thursday has sparked concern and ire from some European lawmakers. Polish Prime Minister Donald Tusk appeared to mock Trump’s labeling of Putin as “ my friend ” with a pointed social media message that read : “God, protect us from such friends.” The post was shared just hours before Tusk headed to a meeting in…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How Much Can the New Co…</text>
+      <text hint-style="caption">Trump Draws Ire Over Ca…</text>
     </binding>
   </visual>
 </tile>
