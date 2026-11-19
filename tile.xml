@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f2668ee60fca3b64509271dd65572a77ad6dc83/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6d10b09217474bae88a5e2ef38a697fc478aad86/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f2668ee60fca3b64509271dd65572a77ad6dc83/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6d10b09217474bae88a5e2ef38a697fc478aad86/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f2668ee60fca3b64509271dd65572a77ad6dc83/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6d10b09217474bae88a5e2ef38a697fc478aad86/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He walked into the dining car to pitch John Madden, the CBS football commentator and omnipresent commercial spokesman who famously feared flying, on lending his name to a football video game Hawkins wanted to create. Hawkins explained to Madden that there was just one hitch. Since the 8-bit home consoles o…</text>
     </binding>
