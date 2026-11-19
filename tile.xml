@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@754587a47747058f60ca03d9b3afa5931a3adeda/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9a0231ec0cb076ec9ea3c423243f5c9c9a986da7/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@754587a47747058f60ca03d9b3afa5931a3adeda/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Dig is sure to catch the eye of anyone scanning for signs of a post-midterms vibe shift. (Never mind that it was announced last spring, just a few months into a sec…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9a0231ec0cb076ec9ea3c423243f5c9c9a986da7/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Senate voted on Nov. 18 to move forward with the Bipartisan Affordability and American Jobs Act (BAAJA) of 2026, a controversial permitting reform bill that aim…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@754587a47747058f60ca03d9b3afa5931a3adeda/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Dig is sure to catch the eye of anyone scanning for signs of a post-midterms vibe shift. (Never mind that it was announced last spring, just a few months into a second Trump term some interpreted as a long-term rightward swerve.) The Peacock comedy, whose 10-episode first season arrives on Nov. 23, reunites Amy Poehler and Michael Schur , the duo behind the ultimate Obama-era sitcom: Parks and Recreation . But instead of embracing any zeitgeist, it seems to be in f…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9a0231ec0cb076ec9ea3c423243f5c9c9a986da7/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Senate voted on Nov. 18 to move forward with the Bipartisan Affordability and American Jobs Act (BAAJA) of 2026, a controversial permitting reform bill that aims to speed up the nation’s ability to build infrastructure and energy —which can often take years under the current process. The bill—which has divided environmentalists and clean energy advocates—will now face a final Senate vote before moving to the House of Representatives. The purpose of BAAJA, in th…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Amy Poehler and Michael…</text>
+      <text hint-style="caption">Why the BAAJA Permittin…</text>
     </binding>
   </visual>
 </tile>
