@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-19T12:45:47.544363+00:00",
+  "updated": "2026-11-19T13:01:18.208373+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "When People Keep What Surgeons Remove",
+    "Xi, Trump, and Putin Summit Makes History but Not Much Else",
     "The Amputations America Can Prevent",
     "The Future of Libraries Is About More Than Books",
-    "2026’s Words of the Year, So Far",
-    "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
-    "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar"
+    "2026’s Words of the Year, So Far"
   ],
   "articles": [
+    {
+      "title": "When People Keep What Surgeons Remove",
+      "summary": "Emily likes her uterus much better in a jar than in her body. The 20-year-old, who asked to be identified by her first name to protect her privacy, keeps it in her bedroom, on what she calls her “dead things table,” among animal skulls and other specimens. After years of difficult symptoms, she had a hysterectomy at 19—and made arrangements to bring the organ home. Her mother supplied a sticker that borrows a lyric from a popular Taylor Swift song: “It’s me, hi, I’m the problem, it’s me.” Keeping it is a kind of re",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8f9e577905a7b9f4/6aea04ef12e9c079a09f1c8c/Medical_Souvenier_(1).png?branch=production"
+    },
+    {
+      "title": "Xi, Trump, and Putin Summit Makes History but Not Much Else",
+      "summary": "It was the first-ever meeting of the leaders of the world’s three biggest nuclear powers—one that host Xi Jinping opened by hailing its “pioneering significance.” Exactly what was achieved when Xi met with Vladimir Putin and Donald Trump at Kylin Villa in northwestern Shenzhen on Thursday, however, has onlookers scratching their heads. Xi started by invoking the responsibility of Great Powers toward world peace; Putin delved into historic “shared interests;” while Trump immediately lashed out at “rogue globalist or",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8783cd40c968580a/6afedda7e950c1be62f5e9bc/GettyImages-2305284602.jpg?branch=production"
+    },
     {
       "title": "The Amputations America Can Prevent",
       "summary": "I was born in Nigeria, and raised and educated in New Jersey and New York City. But more than a decade ago, my journey led me to the heart of the Mississippi Delta, a region whose rich history, resilience, hope, and deeply-rooted bloodlines tell a powerful American story. I arrived because I recognized an unmet healthcare need that could no longer be ignored—a disturbing pattern of preventable limb loss that I came to describe as the Black American amputation epidemic . About every three minutes in the U.S., someon",
@@ -24,16 +34,6 @@
       "title": "2026’s Words of the Year, So Far",
       "summary": "It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and even the slang 67 (pronounced six-seven), in attempts to capture the cultural zeitgeist. For 2026, some dictionaries have already begun to announce their “word of the year.” Read More: Words of the Year: How the Pithy Tradition Began Each dictionary approaches the selection differently—some track language use or online search trends—and some even offer shor",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd753b8e0dba54e19/6afec169eb5ef62c8f2ad542/word-of-the-year.jpg?branch=production"
-    },
-    {
-      "title": "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
-      "summary": "In the four years since FTX collapsed —and the three since the cryptocurrency exchange’s founder, Sam Bankman-Fried , was convicted on multiple fraud charges —its downfall has been squeezed to fit many narrative frames. It’s the Emperor’s New Clothes or Icarus flying too close to the sun. Or maybe it’s a cautionary tale about Bankman-Fried’s guiding philosophy, effective altruism , which encourages adherents to maximize charitable giving by earning a lot of money. Its protagonist has been characterized as everythin",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt415f61da77e4df57/6afb64c97a7cf86a6b5b52fd/ALTRUISTS_102_250826_RH_00099_R.jpg?branch=production"
-    },
-    {
-      "title": "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar",
-      "summary": "India makes more films than any country on earth. Led by the Hindi-language juggernaut, Bollywood, Indian cinema knows how to put on a show. In last year’s Hindi blockbuster Dhurandhar , the protagonist survives a hail of bullets at a gangster's wedding; in the Telugu-language drama RRR , which won an Oscar for the pulsating song Naatu Naatu , the hero unleashes a truckload of wild animals on a British governor's party; and in Tamil film Retro , an entire wedding song, dance and action sequence was filmed in one lo",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt863c405235a22b04/6af4cff2bd3727629d7b7728/time100next-india-profiles-directors.jpg?branch=production"
     }
   ]
 }
