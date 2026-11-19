@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@249f4992a9802a52745a5a2b03cf2ed8f2869e00/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Best Companies for Future Leaders 2027</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@421cab4d446f8f858166689d3267ebd2d095eebb/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined the Best Companies and Colleges for Future Leaders 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@249f4992a9802a52745a5a2b03cf2ed8f2869e00/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Best Companies for Future Leaders 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The career paths of future leaders may look markedly different than they did a decade ago, as AI becomes increasingly commonplace and new startups disrupt legacy co…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@421cab4d446f8f858166689d3267ebd2d095eebb/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How TIME and Statista Determined the Best Companies and Colleges for Future Leaders 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In the fourth edition of The Best Colleges and Companies for Future Leaders, TIME and Statista have ranked the 175 companies and 125 colleges that stand out in the …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@249f4992a9802a52745a5a2b03cf2ed8f2869e00/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Best Companies for Future Leaders 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The career paths of future leaders may look markedly different than they did a decade ago, as AI becomes increasingly commonplace and new startups disrupt legacy corporations as early career hotspots. TIME and Statista partnered on the fourth edition of the Best Companies for Future Leaders to highlight the career stepping stones that shaped over 5,900 influential U.S.-based leaders from business, government, academia and society, with emerging younger leaders adde…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@421cab4d446f8f858166689d3267ebd2d095eebb/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How TIME and Statista Determined the Best Companies and Colleges for Future Leaders 2027</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In the fourth edition of The Best Colleges and Companies for Future Leaders, TIME and Statista have ranked the 175 companies and 125 colleges that stand out in the career and education histories of U.S. leaders. The list draw on approximately 5,900 influential U.S.-based leaders from business, government, academia, and society. They do not measure reputation or survey opinion. Instead, they examine where today’s leaders studied and worked up to and including their …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Best Companies for …</text>
+      <text hint-style="caption">How TIME and Statista D…</text>
     </binding>
   </visual>
 </tile>
