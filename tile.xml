@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f632c11511dedd710682246b44b2098f7cb9607d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7e7cd16144453c1a999c1020e70ec7eeb85df5a4/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">2026’s Words of the Year, So Far</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f632c11511dedd710682246b44b2098f7cb9607d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7e7cd16144453c1a999c1020e70ec7eeb85df5a4/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">2026’s Words of the Year, So Far</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and eve…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f632c11511dedd710682246b44b2098f7cb9607d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is not a shrine for the worship of books,” he wrote in 1954. “It is not a temple where literary incense is burned or one’s devotion to the bound book is expressed in ritual. A library, to modify the famous metaphor of Socrates, should be the delivery room for the birth of ideas—a place where history comes …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7e7cd16144453c1a999c1020e70ec7eeb85df5a4/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">2026’s Words of the Year, So Far</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and even the slang 67 (pronounced six-seven), in attempts to capture the cultural zeitgeist. For 2026, some dictionaries have already begun to announce their “word of the year.” Read More: Words of the Year: How the Pithy Tradition Began Each dictionary approaches the selection differently—some track language u…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Future of Libraries…</text>
+      <text hint-style="caption">2026’s Words of the Yea…</text>
     </binding>
   </visual>
 </tile>
