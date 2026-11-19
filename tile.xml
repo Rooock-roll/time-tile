@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1adf87dba5c69c39456635639dc17421b20beb16/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7616379d41d7e40426cdb9c8f50cb1fc9651a209/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1adf87dba5c69c39456635639dc17421b20beb16/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7616379d41d7e40426cdb9c8f50cb1fc9651a209/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s easy to feel nostalgia for the Hollywood filmmaking of the 1970s, when wily young directors succeeded in shaking the big-studio money tree to fund their outlan…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1adf87dba5c69c39456635639dc17421b20beb16/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7616379d41d7e40426cdb9c8f50cb1fc9651a209/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s easy to feel nostalgia for the Hollywood filmmaking of the 1970s, when wily young directors succeeded in shaking the big-studio money tree to fund their outlandish, and often brilliant, projects. But we’ve also reached the era where the movies of the 1990s look pretty damn good. Which means David Fincher’s The Further Mis-Adventures of Cliff Booth is probably hitting at the right time. The script is by ’90s maverick Quentin Tarantino . The star is Brad Pitt , …</text>
     </binding>
