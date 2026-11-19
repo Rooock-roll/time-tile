@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ccb572e6d162e592a809ae7b99b39161e7bb4769/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Anant Goenka</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@950354be5343490375c7441e1ad547538977ef2d/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ccb572e6d162e592a809ae7b99b39161e7bb4769/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Anant Goenka</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">—Courtesy The Indian Express</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@950354be5343490375c7441e1ad547538977ef2d/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In the four years since FTX collapsed —and the three since the cryptocurrency exchange’s founder, Sam Bankman-Fried , was convicted on multiple fraud charges —its d…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ccb572e6d162e592a809ae7b99b39161e7bb4769/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Anant Goenka</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">—Courtesy The Indian Express</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@950354be5343490375c7441e1ad547538977ef2d/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In the four years since FTX collapsed —and the three since the cryptocurrency exchange’s founder, Sam Bankman-Fried , was convicted on multiple fraud charges —its downfall has been squeezed to fit many narrative frames. It’s the Emperor’s New Clothes or Icarus flying too close to the sun. Or maybe it’s a cautionary tale about Bankman-Fried’s guiding philosophy, effective altruism , which encourages adherents to maximize charitable giving by earning a lot of money. …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Anant Goenka</text>
+      <text hint-style="caption">The Altruists Rewrites …</text>
     </binding>
   </visual>
 </tile>
