@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-19T19:45:45.819936+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-19T20:01:16.453870+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The True Story Behind The Altruists and the FTX Scandal",
+    "The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe",
     "What the Midterms Taught Us About the State of America’s Democracy",
     "Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip",
-    "Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody",
-    "How Much Can the New Congress Reshape Health?",
-    "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens"
+    "Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody"
   ],
   "articles": [
+    {
+      "title": "The True Story Behind The Altruists and the FTX Scandal",
+      "summary": "Like other entries in the growing genre of media about tech scandals and leadership crises, Netflix’s The Altruists asks how honest a visionary billionaire can be. Shows like The Dropout (in which Amanda Seyfried plays Elizabeth Holmes ) and films like Artificial (starring Andrew Garfield as Sam Altman) imagine a more unrehearsed side of figures audiences have spent much time watching in the public eye, with viewers’ curiosity piqued by controversy and internal politics at their respective companies. The Altruists ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd7c28aaca483dfcf/6af6248ae3422eea3db5cc96/The_Altruists_n_S1_E4_00_27_21_14_R.jpg?branch=production"
+    },
+    {
+      "title": "The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe",
+      "summary": "It’s easy to feel nostalgia for the Hollywood filmmaking of the 1970s, when wily young directors succeeded in shaking the big-studio money tree to fund their outlandish, and often brilliant, projects. But we’ve also reached the era where the movies of the 1990s look pretty damn good. Which means David Fincher’s The Further Mis-Adventures of Cliff Booth is probably hitting at the right time. The script is by ’90s maverick Quentin Tarantino . The star is Brad Pitt , whose career has been off-and-on entwined with Finc",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt831fd6997e6fb810/6aff2a9bbe3c8b834e22f8a3/UFP25_R7_Rec709_2p4gamma_6188x3240_20260831.0616962_R6.jpg?branch=production"
+    },
     {
       "title": "What the Midterms Taught Us About the State of America’s Democracy",
       "summary": "The recent “Blue Wave” was Democrats’ best election night in years. But Memphis, a majority-Black city whose own congressional seat Democrats had held for more than four decades, will be represented in Congress entirely by Republicans . The day after the midterms, Justin Pearson, the Democratic candidate for Tennessee’s newly drawn Ninth District House seat, may have conceded his race, but he refused to concede to the redistricting. These “ rigged maps ”—as he called them— broke apart his voter base and were enable",
@@ -24,16 +34,6 @@
       "title": "Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody",
       "summary": "As Democrats prepare to take control of Congress next year, Sen. Andy Kim of New Jersey on Thursday unveiled new legislation aimed at addressing the surge in deaths of people in immigration detention centers . The Death in Detention Transparency Act put forward by Kim would beef up what Immigration and Customs Enforcement (ICE) is required to tell Congress when a detainee dies in a detention center, hospital, or while being transported. Lawmakers and activists have complained that the Trump Administration has dragg",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0182d8bcf0029431/6afe1021017e0d6e3077043f/GettyImages-2277698675.jpg?branch=production"
-    },
-    {
-      "title": "How Much Can the New Congress Reshape Health?",
-      "summary": "Though Democrats swept both the House and the Senate in the midterms, scientists and health professionals are divided over how much change the new Congressional leadership will have on health issues—owing to what Congress can and can't do to legislate change, and what elected leaders are most likely to do within those powers. Exactly how much traction health-related legislative proposals will get remains to be seen. Even if they pass Congress, they face a possible veto by President Trump. But even if certain propos",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt374c3fd2b5c2fc9b/6af232a05fb446faeccfce97/GettyImages-2303391177.jpg?branch=production"
-    },
-    {
-      "title": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens",
-      "summary": "President Donald Trump ’s warm greeting for Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China Thursday has sparked concern and ire from some European lawmakers. Polish Prime Minister Donald Tusk appeared to mock Trump’s labeling of Putin as “ my friend ” with a pointed social media message that read : “God, protect us from such friends.” The post was shared just hours before Tusk headed to a meeting in Berlin of the “ Coalition of the Willing ,” an ini",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt871431e7fea85de2/6afef425aa7700caeb7d03ff/trump-putin-tusk-mock-nov19.jpg?branch=production"
     }
   ]
 }
