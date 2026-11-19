@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c09cc8125906df12c3e36142ea0fe537cb466f48/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a6bd0ae783fede849fd755572d886b21bffae16b/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Best Colleges for Future Leaders 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c09cc8125906df12c3e36142ea0fe537cb466f48/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a6bd0ae783fede849fd755572d886b21bffae16b/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Best Colleges for Future Leaders 2027</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Women make up a majority of the college-educated labor force in the U.S., according to Pew Research Survey . This factor could partly explain why they are also a ri…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c09cc8125906df12c3e36142ea0fe537cb466f48/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a6bd0ae783fede849fd755572d886b21bffae16b/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Best Colleges for Future Leaders 2027</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Women make up a majority of the college-educated labor force in the U.S., according to Pew Research Survey . This factor could partly explain why they are also a rising share of managers and professionals , although there is still room to grow in their representation in top executive roles—a working paper from a World Bank economist found that only 16% of CFOs and 7% of CEOs in large U.S. and European companies were women in 2023. For the fourth time, TIME and Stat…</text>
     </binding>
