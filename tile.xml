@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@156a9878565495bbb3c86e026e30201e0ef74617/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f2c8619959774bd4a3debb9474045dbd35fa76fc/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why the Pessimists Are Wrong About Latin America</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@156a9878565495bbb3c86e026e30201e0ef74617/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f2c8619959774bd4a3debb9474045dbd35fa76fc/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why the Pessimists Are Wrong About Latin America</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Concerns about the dim economic prospects of Latin America have continued over the past several decades. Most of the developmental challenges that Latin America and…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@156a9878565495bbb3c86e026e30201e0ef74617/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f2c8619959774bd4a3debb9474045dbd35fa76fc/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why the Pessimists Are Wrong About Latin America</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Concerns about the dim economic prospects of Latin America have continued over the past several decades. Most of the developmental challenges that Latin America and the Caribbean face—vast inequalities, autocratic government, dependence on natural resources, exploitation by colonial or neo-colonial powers—are depicted in Diego Rivera’s murals of conquistadores landing in Veracruz in 1519, which are hosted at the National Palace in Mexico City. The social and econom…</text>
     </binding>
