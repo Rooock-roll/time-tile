@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d1f6721bfa9e61beb1dbc920abf1c89e85f1ebd/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eb8e5718b2717e42d585bc419812cadd78ff8f7e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">2026’s Words of the Year, So Far</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d1f6721bfa9e61beb1dbc920abf1c89e85f1ebd/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eb8e5718b2717e42d585bc419812cadd78ff8f7e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">2026’s Words of the Year, So Far</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and eve…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d1f6721bfa9e61beb1dbc920abf1c89e85f1ebd/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eb8e5718b2717e42d585bc419812cadd78ff8f7e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">2026’s Words of the Year, So Far</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and even the slang 67 (pronounced six-seven), in attempts to capture the cultural zeitgeist. For 2026, some dictionaries have already begun to announce their “word of the year.” Read More: Words of the Year: How the Pithy Tradition Began Each dictionary approaches the selection differently—some track language u…</text>
     </binding>
