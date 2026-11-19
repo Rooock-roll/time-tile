@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c8eaead522ca4219bbddd10ce0f78dede8842e68/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c09949b3d94b95b4e0afddef5842cb3a90b47358/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Cybersecurity Software Knows a Hack Is Happening</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c8eaead522ca4219bbddd10ce0f78dede8842e68/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c09949b3d94b95b4e0afddef5842cb3a90b47358/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Cybersecurity Software Knows a Hack Is Happening</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In July 2024, the cybersecurity firm KnowBe4 found itself in a quagmire: it had inadvertently hired a North Korean cyberattacker posing as a U.S.-based IT worker. T…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c8eaead522ca4219bbddd10ce0f78dede8842e68/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c09949b3d94b95b4e0afddef5842cb3a90b47358/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Cybersecurity Software Knows a Hack Is Happening</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In July 2024, the cybersecurity firm KnowBe4 found itself in a quagmire: it had inadvertently hired a North Korean cyberattacker posing as a U.S.-based IT worker. The would-be employee had made it through four video interviews and background checks using a stolen U.S. identity and an AI-altered image. But when he accessed his company-issued laptop, things went awry. He began installing malware and manipulated his session history files to hide the actions. It was th…</text>
     </binding>
