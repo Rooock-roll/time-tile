@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d045c0cc5628d0d7d117bc9f508cb91b5c39e401/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@62e607ff02850299daec4f151cfa3763793dfdf6/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">When People Keep What Surgeons Remove</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d045c0cc5628d0d7d117bc9f508cb91b5c39e401/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@62e607ff02850299daec4f151cfa3763793dfdf6/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">When People Keep What Surgeons Remove</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Emily likes her uterus much better in a jar than in her body. The 20-year-old, who asked to be identified by her first name to protect her privacy, keeps it in her …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d045c0cc5628d0d7d117bc9f508cb91b5c39e401/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@62e607ff02850299daec4f151cfa3763793dfdf6/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">When People Keep What Surgeons Remove</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Emily likes her uterus much better in a jar than in her body. The 20-year-old, who asked to be identified by her first name to protect her privacy, keeps it in her bedroom, on what she calls her “dead things table,” among animal skulls and other specimens. After years of difficult symptoms, she had a hysterectomy at 19—and made arrangements to bring the organ home. Her mother supplied a sticker that borrows a lyric from a popular Taylor Swift song: “It’s me, hi, I’…</text>
     </binding>
