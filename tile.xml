@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fab5cb1a074f9e19d977df09726a8d15e69ff351/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@394cc0dbed74af526e2ded123209d2d56e98afcb/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fab5cb1a074f9e19d977df09726a8d15e69ff351/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@394cc0dbed74af526e2ded123209d2d56e98afcb/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Just over two weeks after Election Day , the outcomes of nearly all of this year’s congressional races have been determined. But a few of the tightest lower chamber…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fab5cb1a074f9e19d977df09726a8d15e69ff351/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@394cc0dbed74af526e2ded123209d2d56e98afcb/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Recounts Are Set to Take Place in Some of the Tightest Uncalled Midterms Races. How Do They Work?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Just over two weeks after Election Day , the outcomes of nearly all of this year’s congressional races have been determined. But a few of the tightest lower chamber races remain uncalled—and the trailing candidates in more than one are moving to request recounts. Two of those requests have come from candidates in North Carolina: Republican Representative Virginia Foxx of the state’s 5th District and Ashley Bell, a Democrat who ran in the 10th District. Foxx filed h…</text>
     </binding>
