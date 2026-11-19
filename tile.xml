@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e2e1b47b7178ec44553f31fc3c31b1b73f3eb761/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fbd9522527f4ef22db56fa7305b0d70e43bf4f49/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Best Companies for Future Leaders 2027</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e2e1b47b7178ec44553f31fc3c31b1b73f3eb761/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fbd9522527f4ef22db56fa7305b0d70e43bf4f49/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Best Companies for Future Leaders 2027</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The career paths of future leaders may look markedly different than they did a decade ago, as AI becomes increasingly commonplace and new startups disrupt legacy co…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e2e1b47b7178ec44553f31fc3c31b1b73f3eb761/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fbd9522527f4ef22db56fa7305b0d70e43bf4f49/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Best Companies for Future Leaders 2027</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The career paths of future leaders may look markedly different than they did a decade ago, as AI becomes increasingly commonplace and new startups disrupt legacy corporations as early career hotspots. TIME and Statista partnered on the fourth edition of the Best Companies for Future Leaders to highlight the career stepping stones that shaped over 5,900 influential U.S.-based leaders from business, government, academia and society, with emerging younger leaders adde…</text>
     </binding>
