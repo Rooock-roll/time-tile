@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-19T15:01:26.810600+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-19T15:15:48.483772+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Best Colleges for Future Leaders 2027",
+    "The Best Companies for Future Leaders 2027",
+    "How TIME and Statista Determined the Best Companies and Colleges for Future Leaders 2027",
     "When People Keep What Surgeons Remove",
-    "Xi, Trump, and Putin Summit Makes History but Not Much Else",
-    "The Amputations America Can Prevent",
-    "The Future of Libraries Is About More Than Books",
-    "2026’s Words of the Year, So Far"
+    "Xi, Trump, and Putin Summit Makes History but Not Much Else"
   ],
   "articles": [
+    {
+      "title": "The Best Colleges for Future Leaders 2027",
+      "summary": "Women make up a majority of the college-educated labor force in the U.S., according to Pew Research Survey . This factor could partly explain why they are also a rising share of managers and professionals , although there is still room to grow in their representation in top executive roles—a working paper from a World Bank economist found that only 16% of CFOs and 7% of CEOs in large U.S. and European companies were women in 2023. For the fourth time, TIME and Statista have traced the formative experiences and nota",
+      "image": ""
+    },
+    {
+      "title": "The Best Companies for Future Leaders 2027",
+      "summary": "The career paths of future leaders may look markedly different than they did a decade ago, as AI becomes increasingly commonplace and new startups disrupt legacy corporations as early career hotspots. TIME and Statista partnered on the fourth edition of the Best Companies for Future Leaders to highlight the career stepping stones that shaped over 5,900 influential U.S.-based leaders from business, government, academia and society, with emerging younger leaders added to the research list each year. Analysts at Stati",
+      "image": ""
+    },
+    {
+      "title": "How TIME and Statista Determined the Best Companies and Colleges for Future Leaders 2027",
+      "summary": "In the fourth edition of The Best Colleges and Companies for Future Leaders, TIME and Statista have ranked the 175 companies and 125 colleges that stand out in the career and education histories of U.S. leaders. The list draw on approximately 5,900 influential U.S.-based leaders from business, government, academia, and society. They do not measure reputation or survey opinion. Instead, they examine where today’s leaders studied and worked up to and including their first top-level position. Statista compiled a longl",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc4d78b1a2981d630/6af20f3d7ce30b3fb61eb3b5/BEST-COMPANIES-FOR-FUTURE-LEADERS-2027.jpg?branch=production"
+    },
     {
       "title": "When People Keep What Surgeons Remove",
       "summary": "Emily likes her uterus much better in a jar than in her body. The 20-year-old, who asked to be identified by her first name to protect her privacy, keeps it in her bedroom, on what she calls her “dead things table,” among animal skulls and other specimens. After years of difficult symptoms, she had a hysterectomy at 19—and made arrangements to bring the organ home. Her mother supplied a sticker that borrows a lyric from a popular Taylor Swift song: “It’s me, hi, I’m the problem, it’s me.” Keeping it is a kind of re",
@@ -19,21 +34,6 @@
       "title": "Xi, Trump, and Putin Summit Makes History but Not Much Else",
       "summary": "It was the first-ever meeting of the leaders of the world’s three biggest nuclear powers—one that host Xi Jinping opened by hailing its “pioneering significance.” Exactly what was achieved when Xi met with Vladimir Putin and Donald Trump at Kylin Villa in northwestern Shenzhen on Thursday, however, has onlookers scratching their heads. Xi started by invoking the responsibility of Great Powers toward world peace; Putin delved into historic “shared interests;” while Trump immediately lashed out at “rogue globalist or",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8783cd40c968580a/6afedda7e950c1be62f5e9bc/GettyImages-2305284602.jpg?branch=production"
-    },
-    {
-      "title": "The Amputations America Can Prevent",
-      "summary": "I was born in Nigeria, and raised and educated in New Jersey and New York City. But more than a decade ago, my journey led me to the heart of the Mississippi Delta, a region whose rich history, resilience, hope, and deeply-rooted bloodlines tell a powerful American story. I arrived because I recognized an unmet healthcare need that could no longer be ignored—a disturbing pattern of preventable limb loss that I came to describe as the Black American amputation epidemic . About every three minutes in the U.S., someon",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfb0df02d9069927d/6afdff040b864f461d99a08a/bloodlines-fusion-vascular.png?branch=production"
-    },
-    {
-      "title": "The Future of Libraries Is About More Than Books",
-      "summary": "In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is not a shrine for the worship of books,” he wrote in 1954. “It is not a temple where literary incense is burned or one’s devotion to the bound book is expressed in ritual. A library, to modify the famous metaphor of Socrates, should be the delivery room for the birth of ideas—a place where history comes to life .” Historically, libraries have served as a",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt29a02a54cd3c2146/6afcc066be3c8b031522dfcf/future-of-libraries.jpg?branch=production"
-    },
-    {
-      "title": "2026’s Words of the Year, So Far",
-      "summary": "It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and even the slang 67 (pronounced six-seven), in attempts to capture the cultural zeitgeist. For 2026, some dictionaries have already begun to announce their “word of the year.” Read More: Words of the Year: How the Pithy Tradition Began Each dictionary approaches the selection differently—some track language use or online search trends—and some even offer shor",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd753b8e0dba54e19/6afec169eb5ef62c8f2ad542/word-of-the-year.jpg?branch=production"
     }
   ]
 }
