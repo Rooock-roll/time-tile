@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@155961bcb6f6f7c5a72cf2f84ee429e9ffeb503a/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@edecea79c4c47a5f2a2ce4915d1e8c2c5598b3c9/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Alia Bhatt Is Defining Stardom on Her Own Terms</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@155961bcb6f6f7c5a72cf2f84ee429e9ffeb503a/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The eyes of a nation were on the sleek, blue and white, 72-ft. tall Vikram-1 rocket when it zipped off its launchpad in Andhra Pradesh, India, on July 18, 2026, car…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@edecea79c4c47a5f2a2ce4915d1e8c2c5598b3c9/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Alia Bhatt Is Defining Stardom on Her Own Terms</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At first, Alia Bhatt ’s arrival was met with a degree of cynicism. Here was another daughter of Bollywood privilege—her parents are the filmmaker Mahesh Bhatt and t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@155961bcb6f6f7c5a72cf2f84ee429e9ffeb503a/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The eyes of a nation were on the sleek, blue and white, 72-ft. tall Vikram-1 rocket when it zipped off its launchpad in Andhra Pradesh, India, on July 18, 2026, carrying half a dozen small satellites to low-Earth orbit 280 miles up. It was the first time the world’s most populous nation orbited a payload launched by a privately built and owned rocket, and Prime Minister Narenda Modi was making the most of it. This story is part of the 2026 TIME100 Next India . Read…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@edecea79c4c47a5f2a2ce4915d1e8c2c5598b3c9/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Alia Bhatt Is Defining Stardom on Her Own Terms</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At first, Alia Bhatt ’s arrival was met with a degree of cynicism. Here was another daughter of Bollywood privilege—her parents are the filmmaker Mahesh Bhatt and the actor Soni Razdan—this time, asserting her magnetic presence in the 2012 film Student of the Year . A turning point arrived just two years later. In Imtiaz Ali’s 2014 film Highway , she played Veera Tripathi, a woman who goes on an unexpected voyage of self-discovery after being abducted. It was, by a…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Pawan Kumar Chandana Is…</text>
+      <text hint-style="caption">Alia Bhatt Is Defining …</text>
     </binding>
   </visual>
 </tile>
