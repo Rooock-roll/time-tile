@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6e2a57f0daf6d6e59a378d35564efcea135c3508/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f087d5c3ff11a137bf5f7586b7bcf5eedd87bd4/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Anant Goenka</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6e2a57f0daf6d6e59a378d35564efcea135c3508/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f087d5c3ff11a137bf5f7586b7bcf5eedd87bd4/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Anant Goenka</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">—Courtesy The Indian Express</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6e2a57f0daf6d6e59a378d35564efcea135c3508/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4f087d5c3ff11a137bf5f7586b7bcf5eedd87bd4/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Anant Goenka</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">—Courtesy The Indian Express</text>
     </binding>
