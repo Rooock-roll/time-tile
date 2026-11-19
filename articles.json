@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-19T08:31:05.247080+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-19T08:45:42.700950+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
     "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar",
     "Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights",
     "Alia Bhatt Is Defining Stardom on Her Own Terms",
-    "Anant Goenka",
-    "Soumya Dabriwal and Aradhana Rai Gupta"
+    "Anant Goenka"
   ],
   "articles": [
+    {
+      "title": "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
+      "summary": "In the four years since FTX collapsed —and the three since the cryptocurrency exchange’s founder, Sam Bankman-Fried , was convicted on multiple fraud charges —its downfall has been squeezed to fit many narrative frames. It’s the Emperor’s New Clothes or Icarus flying too close to the sun. Or maybe it’s a cautionary tale about Bankman-Fried’s guiding philosophy, effective altruism , which encourages adherents to maximize charitable giving by earning a lot of money. Its protagonist has been characterized as everythin",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt415f61da77e4df57/6afb64c97a7cf86a6b5b52fd/ALTRUISTS_102_250826_RH_00099_R.jpg?branch=production"
+    },
     {
       "title": "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar",
       "summary": "India makes more films than any country on earth. Led by the Hindi-language juggernaut, Bollywood, Indian cinema knows how to put on a show. In last year’s Hindi blockbuster Dhurandhar , the protagonist survives a hail of bullets at a gangster's wedding; in the Telugu-language drama RRR , which won an Oscar for the pulsating song Naatu Naatu , the hero unleashes a truckload of wild animals on a British governor's party; and in Tamil film Retro , an entire wedding song, dance and action sequence was filmed in one lo",
@@ -29,11 +34,6 @@
       "title": "Anant Goenka",
       "summary": "—Courtesy The Indian Express",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd04708f59fa9316d/6af3c5507ce30b27861ebab9/time100next-india-innovators-Anant-Goenka.jpg?branch=production"
-    },
-    {
-      "title": "Soumya Dabriwal and Aradhana Rai Gupta",
-      "summary": "—Courtesy Baala",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt43f910919f43fdb1/6af3c5507ce30b2b6a1ebabd/time100next-india-innovators-Baala.jpg?branch=production"
     }
   ]
 }
