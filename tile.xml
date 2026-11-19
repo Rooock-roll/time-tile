@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72234f2b00b80ee6ea0c4ea212f29658d791bdbf/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5ef8d881c6cb6325f56d3e0233b99461d75c8c0e/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72234f2b00b80ee6ea0c4ea212f29658d791bdbf/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5ef8d881c6cb6325f56d3e0233b99461d75c8c0e/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Dig is sure to catch the eye of anyone scanning for signs of a post-midterms vibe shift. (Never mind that it was announced last spring, just a few months into a sec…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72234f2b00b80ee6ea0c4ea212f29658d791bdbf/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5ef8d881c6cb6325f56d3e0233b99461d75c8c0e/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Amy Poehler and Michael Schur's Dig Is No Parks and Rec—But It's Still a Fun Trip</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Dig is sure to catch the eye of anyone scanning for signs of a post-midterms vibe shift. (Never mind that it was announced last spring, just a few months into a second Trump term some interpreted as a long-term rightward swerve.) The Peacock comedy, whose 10-episode first season arrives on Nov. 23, reunites Amy Poehler and Michael Schur , the duo behind the ultimate Obama-era sitcom: Parks and Recreation . But instead of embracing any zeitgeist, it seems to be in f…</text>
     </binding>
