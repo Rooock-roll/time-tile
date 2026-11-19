@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6d10b09217474bae88a5e2ef38a697fc478aad86/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a8e606bd01cc70c6041050ee5ab1962d61e49ec7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6d10b09217474bae88a5e2ef38a697fc478aad86/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a8e606bd01cc70c6041050ee5ab1962d61e49ec7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The U.S. is still reeling from a nationwide ground stop last Friday—the longest such flight stoppage in 25 years—which lasted more than four hours and resulted in m…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6d10b09217474bae88a5e2ef38a697fc478aad86/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The True Story Behind Madden and the Video Game That Turbo-Charged the NFL</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 1984, Trip Hawkins, founder of video-game publisher Electronic Arts (EA), boarded an Amtrak train in Denver for a meeting that would one day prove monumental. He walked into the dining car to pitch John Madden, the CBS football commentator and omnipresent commercial spokesman who famously feared flying, on lending his name to a football video game Hawkins wanted to create. Hawkins explained to Madden that there was just one hitch. Since the 8-bit home consoles o…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a8e606bd01cc70c6041050ee5ab1962d61e49ec7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America's Aging Air Travel Infrastructure Isn't Ready for Climate-Fuelled Extreme Weather</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The U.S. is still reeling from a nationwide ground stop last Friday—the longest such flight stoppage in 25 years—which lasted more than four hours and resulted in more than 15,000 delayed or cancelled flights. And with Thanksgiving only a week away, the year’s busiest travel season is about to begin—bringing with it anxieties of further disruption . While nationwide ground stops like the one seen last week are rare, severe weather conditions are the most common tri…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The True Story Behind M…</text>
+      <text hint-style="caption">America's Aging Air Tra…</text>
     </binding>
   </visual>
 </tile>
