@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e7d3de13a127f762e9a436ffce9b3074e9ab42f1/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Amputations America Can Prevent</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d3c8b00e1987cb0bdffcd3ad265ea9c2de3b162/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e7d3de13a127f762e9a436ffce9b3074e9ab42f1/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Amputations America Can Prevent</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">I was born in Nigeria, and raised and educated in New Jersey and New York City. But more than a decade ago, my journey led me to the heart of the Mississippi Delta,…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d3c8b00e1987cb0bdffcd3ad265ea9c2de3b162/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e7d3de13a127f762e9a436ffce9b3074e9ab42f1/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Amputations America Can Prevent</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">I was born in Nigeria, and raised and educated in New Jersey and New York City. But more than a decade ago, my journey led me to the heart of the Mississippi Delta, a region whose rich history, resilience, hope, and deeply-rooted bloodlines tell a powerful American story. I arrived because I recognized an unmet healthcare need that could no longer be ignored—a disturbing pattern of preventable limb loss that I came to describe as the Black American amputation epide…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d3c8b00e1987cb0bdffcd3ad265ea9c2de3b162/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is not a shrine for the worship of books,” he wrote in 1954. “It is not a temple where literary incense is burned or one’s devotion to the bound book is expressed in ritual. A library, to modify the famous metaphor of Socrates, should be the delivery room for the birth of ideas—a place where history comes …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Amputations America…</text>
+      <text hint-style="caption">The Future of Libraries…</text>
     </binding>
   </visual>
 </tile>
