@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c8c836c167237b38e02a23a14255ef72e803214/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2386c55bcb13695a6d70ae89379a02f1b0de0a57/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Alia Bhatt Is Defining Stardom on Her Own Terms</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c8c836c167237b38e02a23a14255ef72e803214/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2386c55bcb13695a6d70ae89379a02f1b0de0a57/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Alia Bhatt Is Defining Stardom on Her Own Terms</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At first, Alia Bhatt ’s arrival was met with a degree of cynicism. Here was another daughter of Bollywood privilege—her parents are the filmmaker Mahesh Bhatt and t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8c8c836c167237b38e02a23a14255ef72e803214/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2386c55bcb13695a6d70ae89379a02f1b0de0a57/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Alia Bhatt Is Defining Stardom on Her Own Terms</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At first, Alia Bhatt ’s arrival was met with a degree of cynicism. Here was another daughter of Bollywood privilege—her parents are the filmmaker Mahesh Bhatt and the actor Soni Razdan—this time, asserting her magnetic presence in the 2012 film Student of the Year . A turning point arrived just two years later. In Imtiaz Ali’s 2014 film Highway , she played Veera Tripathi, a woman who goes on an unexpected voyage of self-discovery after being abducted. It was, by a…</text>
     </binding>
