@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@20877e43d4f5dbdd619fe73b8716b7d433aebec8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2a26298f965f8872334af65c370e8b4354ad5487/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">School Phone Bans Show Small Learning Gains. Are They Worth It?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@20877e43d4f5dbdd619fe73b8716b7d433aebec8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2a26298f965f8872334af65c370e8b4354ad5487/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">School Phone Bans Show Small Learning Gains. Are They Worth It?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">School phone bans were associated with a small but statistically significant improvement in a combined measure of math and reading achievement growth, a new report …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@20877e43d4f5dbdd619fe73b8716b7d433aebec8/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2a26298f965f8872334af65c370e8b4354ad5487/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">School Phone Bans Show Small Learning Gains. Are They Worth It?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">School phone bans were associated with a small but statistically significant improvement in a combined measure of math and reading achievement growth, a new report found . But the literature on the effectiveness of bans is limited, and the question remains whether modest academic improvements are worth the cost and labor involved in enforcing them. Harvard University researchers analyzed standardized test scores and found that students in schools with phone bans ma…</text>
     </binding>
