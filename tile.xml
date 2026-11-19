@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2c058235363d79ef1e3064f354b8e8fa3b863f0c/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b241ffabd5ef14f70973f4122a90a161e8402075/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Much Can the New Congress Reshape Health?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2c058235363d79ef1e3064f354b8e8fa3b863f0c/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As Democrats prepare to take control of Congress next year, Sen. Andy Kim of New Jersey on Thursday unveiled new legislation aimed at addressing the surge in deaths…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b241ffabd5ef14f70973f4122a90a161e8402075/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Much Can the New Congress Reshape Health?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Though Democrats swept both the House and the Senate in the midterms, scientists and health professionals are divided over how much change the new Congressional lea…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@2c058235363d79ef1e3064f354b8e8fa3b863f0c/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As Democrats prepare to take control of Congress next year, Sen. Andy Kim of New Jersey on Thursday unveiled new legislation aimed at addressing the surge in deaths of people in immigration detention centers . The Death in Detention Transparency Act put forward by Kim would beef up what Immigration and Customs Enforcement (ICE) is required to tell Congress when a detainee dies in a detention center, hospital, or while being transported. Lawmakers and activists have…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b241ffabd5ef14f70973f4122a90a161e8402075/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Much Can the New Congress Reshape Health?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Though Democrats swept both the House and the Senate in the midterms, scientists and health professionals are divided over how much change the new Congressional leadership will have on health issues—owing to what Congress can and can't do to legislate change, and what elected leaders are most likely to do within those powers. Exactly how much traction health-related legislative proposals will get remains to be seen. Even if they pass Congress, they face a possible …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Senator Unveils Bill to…</text>
+      <text hint-style="caption">How Much Can the New Co…</text>
     </binding>
   </visual>
 </tile>
