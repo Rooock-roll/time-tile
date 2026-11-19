@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-19T11:15:53.379837+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-19T11:31:06.914076+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Amputations America Can Prevent",
+    "The Future of Libraries Is About More Than Books",
     "2026’s Words of the Year, So Far",
     "The Altruists Rewrites the FTX Collapse as an Implausible Dangerous Liaisons for Nerds",
-    "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar",
-    "Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights",
-    "Alia Bhatt Is Defining Stardom on Her Own Terms"
+    "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar"
   ],
   "articles": [
+    {
+      "title": "The Amputations America Can Prevent",
+      "summary": "I was born in Nigeria, and raised and educated in New Jersey and New York City. But more than a decade ago, my journey led me to the heart of the Mississippi Delta, a region whose rich history, resilience, hope, and deeply-rooted bloodlines tell a powerful American story. I arrived because I recognized an unmet healthcare need that could no longer be ignored—a disturbing pattern of preventable limb loss that I came to describe as the Black American amputation epidemic . About every three minutes in the U.S., someon",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfb0df02d9069927d/6afdff040b864f461d99a08a/bloodlines-fusion-vascular.png?branch=production"
+    },
+    {
+      "title": "The Future of Libraries Is About More Than Books",
+      "summary": "In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is not a shrine for the worship of books,” he wrote in 1954. “It is not a temple where literary incense is burned or one’s devotion to the bound book is expressed in ritual. A library, to modify the famous metaphor of Socrates, should be the delivery room for the birth of ideas—a place where history comes to life .” Historically, libraries have served as a",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt29a02a54cd3c2146/6afcc066be3c8b031522dfcf/future-of-libraries.jpg?branch=production"
+    },
     {
       "title": "2026’s Words of the Year, So Far",
       "summary": "It can be difficult to sum up a year in a word, but that hasn’t stopped dictionaries from trying. Last year , they picked terms like “rage bait,” “AI slop,” and even the slang 67 (pronounced six-seven), in attempts to capture the cultural zeitgeist. For 2026, some dictionaries have already begun to announce their “word of the year.” Read More: Words of the Year: How the Pithy Tradition Began Each dictionary approaches the selection differently—some track language use or online search trends—and some even offer shor",
@@ -24,16 +34,6 @@
       "title": "Indian Cinema Is Bigger Than Ever. Meet the Directors Raising the Bar",
       "summary": "India makes more films than any country on earth. Led by the Hindi-language juggernaut, Bollywood, Indian cinema knows how to put on a show. In last year’s Hindi blockbuster Dhurandhar , the protagonist survives a hail of bullets at a gangster's wedding; in the Telugu-language drama RRR , which won an Oscar for the pulsating song Naatu Naatu , the hero unleashes a truckload of wild animals on a British governor's party; and in Tamil film Retro , an entire wedding song, dance and action sequence was filmed in one lo",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt863c405235a22b04/6af4cff2bd3727629d7b7728/time100next-india-profiles-directors.jpg?branch=production"
-    },
-    {
-      "title": "Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights",
-      "summary": "The eyes of a nation were on the sleek, blue and white, 72-ft. tall Vikram-1 rocket when it zipped off its launchpad in Andhra Pradesh, India, on July 18, 2026, carrying half a dozen small satellites to low-Earth orbit 280 miles up. It was the first time the world’s most populous nation orbited a payload launched by a privately built and owned rocket, and Prime Minister Narenda Modi was making the most of it. This story is part of the 2026 TIME100 Next India . Read Rajan Anandan’s tribute to Pawan Kumar Chandana he",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt07c844f967c32885/6af4cbdc3c8cbee720efcee5/time100next-india-profiles-pawan-chandana.jpg?branch=production"
-    },
-    {
-      "title": "Alia Bhatt Is Defining Stardom on Her Own Terms",
-      "summary": "At first, Alia Bhatt ’s arrival was met with a degree of cynicism. Here was another daughter of Bollywood privilege—her parents are the filmmaker Mahesh Bhatt and the actor Soni Razdan—this time, asserting her magnetic presence in the 2012 film Student of the Year . A turning point arrived just two years later. In Imtiaz Ali’s 2014 film Highway , she played Veera Tripathi, a woman who goes on an unexpected voyage of self-discovery after being abducted. It was, by all measures, an unorthodox choice. “I wanted to sha",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0f54d7673d1f9157/6af4c7a4b713ad6e28671f13/time100next-india-profiles-alia-bhatt.jpg?branch=production"
     }
   ]
 }
