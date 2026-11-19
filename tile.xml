@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4344fe1f91d4ec78aa522bd57a93ecfb9e8cddf4/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f632c11511dedd710682246b44b2098f7cb9607d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4344fe1f91d4ec78aa522bd57a93ecfb9e8cddf4/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f632c11511dedd710682246b44b2098f7cb9607d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4344fe1f91d4ec78aa522bd57a93ecfb9e8cddf4/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f632c11511dedd710682246b44b2098f7cb9607d/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Future of Libraries Is About More Than Books</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In considering the role of libraries , I’m often pulled to the words of journalist, author, and longtime editor of Saturday Review , Norman Cousins. “The library is not a shrine for the worship of books,” he wrote in 1954. “It is not a temple where literary incense is burned or one’s devotion to the bound book is expressed in ritual. A library, to modify the famous metaphor of Socrates, should be the delivery room for the birth of ideas—a place where history comes …</text>
     </binding>
