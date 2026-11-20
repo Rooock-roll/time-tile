@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@13b74cfcd06b79ca4ec17ae80d4fead75d97113c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e520909463dd25b7d2e3aee697ff7bee78c39ed1/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@13b74cfcd06b79ca4ec17ae80d4fead75d97113c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e520909463dd25b7d2e3aee697ff7bee78c39ed1/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On the evening of Nov. 13, 1989, Ian Charleson walked onto the Olivier stage at London’s National Theatre to play Hamlet for the last time. He was 40 years old and …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@13b74cfcd06b79ca4ec17ae80d4fead75d97113c/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e520909463dd25b7d2e3aee697ff7bee78c39ed1/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On the evening of Nov. 13, 1989, Ian Charleson walked onto the Olivier stage at London’s National Theatre to play Hamlet for the last time. He was 40 years old and dying of AIDS, though few of the 1,150 or so people watching from the dark knew it. The illness had puffed the skin around his eyes and affected his throat and chest, but the change in his face had been explained away as sinus surgery. The Olivier is the largest of the National's three auditoriums, its s…</text>
     </binding>
