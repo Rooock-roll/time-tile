@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-20T17:15:46.236988+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-20T17:31:07.690606+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
+    "Scientists Are Pursuing the Dream of a 'Virtual Cell'",
     "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
     "Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet",
-    "A Black Figure Skater Just Made History. Here’s Why It Matters",
-    "What Comes Next After Historic Myanmar Genocide Ruling",
-    "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027"
+    "A Black Figure Skater Just Made History. Here’s Why It Matters"
   ],
   "articles": [
+    {
+      "title": "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
+      "summary": "Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the two populations is set to keep steadily widening in the ensuing decades if recent trends continue, with Muslims potentially representing 3.64 billion people around the globe in 2070 compared to 2.96 billion Christians. These projections come from a comprehensive study by the Pew Research Center, which drew on census and survey data on factors including fer",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4684c637053cb5c1/6b0072e7ede4c328bb6cd486/GettyImages-2207656313.jpg?branch=production"
+    },
+    {
+      "title": "Scientists Are Pursuing the Dream of a 'Virtual Cell'",
+      "summary": "A single cell is a world unto itself, billions of interlocking molecules whose intricate patterns foretell health and disease. Biologists usually investigate how cells work in the lab. But in recent years, the idea of a “virtual cell” —a computer model so detailed, with such a close resemblance to the real thing, that scientists could run experiments on it instead of in the lab—has entered the conversation . With a virtual cell, biologists imagine, you could switch off a gene involved in a disease, or add an experi",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbf13fc5da8f995e4/6b0079bb6465593efb9918ea/GettyImages-1124678305.jpg?branch=production"
+    },
     {
       "title": "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
       "summary": "Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost everyone, gay or straight, whether you wanted to admit it or not. Friends of friends, acquaintances or associates who brightened your day, or, worst of all, a loved one: people you cherished could wither and disappear in practically a heartbeat. The performing arts were hit especially hard, and there’s no way to reckon with the unfulfilled potential of the m",
@@ -24,16 +34,6 @@
       "title": "A Black Figure Skater Just Made History. Here’s Why It Matters",
       "summary": "Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix. This jump is symbolic of something far larger. While Black competitors in Olympic figure skating are still few and far between, we exist vibrantly. Gasparotto’s triple axel was a byproduct of a long effort in a small, expensive sport for more visibility and support for skaters of all marginalized backgrounds. And her success shows how far Black athlete",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt083b5ffe89695373/6aff540aaa77000cc97d0d58/alexa-gasparotto-triple-axel.jpg?branch=production"
-    },
-    {
-      "title": "What Comes Next After Historic Myanmar Genocide Ruling",
-      "summary": "The world’s top international court has ruled that Myanmar committed genocide against its Rohingya Muslim minority, more than a million of whom remain displaced. The verdict , issued Thursday, is the first time a state has been found responsible for committing genocide in the history of the International Court of Justice, which was established in 1945. In a weekslong military campaign in 2017, Myanmar forces killed at least 10,000 people, including up to 2,109 children under five, and forced more than 700,000 other",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt98654c7b5b08bd4a/6b001592646559e062991523/Rohingya_refugees_after_ICJ_ruling.jpg?branch=production"
-    },
-    {
-      "title": "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027",
-      "summary": "President Donald Trump suggested he is putting off any major decisions on Iran until 2027, amid reports that he’s considering renewed major operations in the war that continues despite repeated promises that it’ll end soon. Speaking to Reuters on whether new major strikes are possible—the U.S. has engaged in limited strikes on Qeshm Island in the Strait of Hormuz—Trump, who was en route to Washington following his trip to China, said, “Well, I’ll talk to you about it after the beginning of the year.” He added: “We’",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta853d42614c4666e/6b001094705278558db37b87/donald-trump-1.jpg?branch=production"
     }
   ]
 }
