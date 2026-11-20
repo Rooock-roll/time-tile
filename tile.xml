@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0784f4eef961865f363034fa3dd05834f9d8cc90/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a244177126beb8c97e9a6c91c93ec64f773a96e7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Climate Question Hanging Over Anthropic’s IPO</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0784f4eef961865f363034fa3dd05834f9d8cc90/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump on Friday offered unusually warm praise for the top two Democrats in Congress and suggested that the incoming Democratic majority may prove e…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a244177126beb8c97e9a6c91c93ec64f773a96e7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Climate Question Hanging Over Anthropic’s IPO</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0784f4eef961865f363034fa3dd05834f9d8cc90/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump on Friday offered unusually warm praise for the top two Democrats in Congress and suggested that the incoming Democratic majority may prove easier to negotiate with than Republicans. Speaking to reporters in the briefing room, Trump described Hakeem Jeffries, who is poised to become the first Black Speaker of the House, as “streetwise” and “smart,” and also praised the current Senate Democratic leader Chuck Schumer, a striking change in tone …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a244177126beb8c97e9a6c91c93ec64f773a96e7/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Climate Question Hanging Over Anthropic’s IPO</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the biggest IPO of all time. And it’s perhaps the cleanest signal of how interwoven the economy has become with AI. But the Anthropic IPO also provides an important lens into this moment for energy and climate . It’s only slightly hyperbolic to say that over the last few years AI has sucked up all the capit…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Trump Praises Jeffries …</text>
+      <text hint-style="caption">The Climate Question Ha…</text>
     </binding>
   </visual>
 </tile>
