@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-20T13:31:02.978338+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-20T13:45:47.076746+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
+    "Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet",
     "A Black Figure Skater Just Made History. Here’s Why It Matters",
     "What Comes Next After Historic Myanmar Genocide Ruling",
-    "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027",
-    "What Does It Mean to Age Well? Three Experts Weigh In",
-    "Van Hollen Puts AI at Center of His Challenge to Schumer"
+    "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027"
   ],
   "articles": [
+    {
+      "title": "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
+      "summary": "Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost everyone, gay or straight, whether you wanted to admit it or not. Friends of friends, acquaintances or associates who brightened your day, or, worst of all, a loved one: people you cherished could wither and disappear in practically a heartbeat. The performing arts were hit especially hard, and there’s no way to reckon with the unfulfilled potential of the m",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3e2d104f020b0864/6afb65ce69790b7180907172/Elsinore_03084_R.jpg?branch=production"
+    },
+    {
+      "title": "Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet",
+      "summary": "On the evening of Nov. 13, 1989, Ian Charleson walked onto the Olivier stage at London’s National Theatre to play Hamlet for the last time. He was 40 years old and dying of AIDS, though few of the 1,150 or so people watching from the dark knew it. The illness had puffed the skin around his eyes and affected his throat and chest, but the change in his face had been explained away as sinus surgery. The Olivier is the largest of the National's three auditoriums, its seats curving in a wide arc around the stage. It is ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt423e642b93e6e24e/6af623f294462eaacbc15331/Elsinore_02715_R2.jpg?branch=production"
+    },
     {
       "title": "A Black Figure Skater Just Made History. Here’s Why It Matters",
       "summary": "Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix. This jump is symbolic of something far larger. While Black competitors in Olympic figure skating are still few and far between, we exist vibrantly. Gasparotto’s triple axel was a byproduct of a long effort in a small, expensive sport for more visibility and support for skaters of all marginalized backgrounds. And her success shows how far Black athlete",
@@ -24,16 +34,6 @@
       "title": "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027",
       "summary": "President Donald Trump suggested he is putting off any major decisions on Iran until 2027, amid reports that he’s considering renewed major operations in the war that continues despite repeated promises that it’ll end soon. Speaking to Reuters on whether new major strikes are possible—the U.S. has engaged in limited strikes on Qeshm Island in the Strait of Hormuz—Trump, who was en route to Washington following his trip to China, said, “Well, I’ll talk to you about it after the beginning of the year.” He added: “We’",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta853d42614c4666e/6b001094705278558db37b87/donald-trump-1.jpg?branch=production"
-    },
-    {
-      "title": "What Does It Mean to Age Well? Three Experts Weigh In",
-      "summary": "When people tell Dr. Dean Ornish they want to live longer, he asks them why. Maybe they want to dance at their kid’s wedding, they say, or finally write the book they’ve been thinking about for years. Whatever their answer, it gives them something to work toward and can make changing a habit today feel worth the effort. Knowing what you want to stay healthy enough to do can shape the questions you ask at a doctor’s visit. It can also help you make sense of options like biological-age tests, peptides, and new uses f",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8e112b9886469331/6afe0ba36e3eb18e03dfa879/mens-health-hims-talk.jpg?branch=production"
-    },
-    {
-      "title": "Van Hollen Puts AI at Center of His Challenge to Schumer",
-      "summary": "Senator Chris Van Hollen of Maryland is making the regulation of artificial intelligence a central part of his campaign to lead Senate Democrats , arguing that Congress must move more aggressively to confront the technology's growing risks and that the party needs a leader willing to challenge the powerful companies seeking to shape the rules. At a news conference Thursday, Van Hollen laid out a vision for a more assertive Senate that would impose mandatory safeguards on AI companies, hold them liable for harm caus",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt60733b67782dd337/6aff76fc7a7cf87dee5b7374/chris-van-hollen-ai-schumer.jpg?branch=production"
     }
   ]
 }
