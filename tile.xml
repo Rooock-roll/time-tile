@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3cdbffe33489d2ad9fd06707c757cf682a106b9d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The True Story Behind The Altruists and the FTX Scandal</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0f7bc772677a76d96694bd67976cfabe368cd794/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3cdbffe33489d2ad9fd06707c757cf682a106b9d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The True Story Behind The Altruists and the FTX Scandal</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Like other entries in the growing genre of media about tech scandals and leadership crises, Netflix’s The Altruists asks how honest a visionary billionaire can be. …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0f7bc772677a76d96694bd67976cfabe368cd794/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s easy to feel nostalgia for the Hollywood filmmaking of the 1970s, when wily young directors succeeded in shaking the big-studio money tree to fund their outlan…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3cdbffe33489d2ad9fd06707c757cf682a106b9d/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The True Story Behind The Altruists and the FTX Scandal</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Like other entries in the growing genre of media about tech scandals and leadership crises, Netflix’s The Altruists asks how honest a visionary billionaire can be. Shows like The Dropout (in which Amanda Seyfried plays Elizabeth Holmes ) and films like Artificial (starring Andrew Garfield as Sam Altman) imagine a more unrehearsed side of figures audiences have spent much time watching in the public eye, with viewers’ curiosity piqued by controversy and internal pol…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0f7bc772677a76d96694bd67976cfabe368cd794/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s easy to feel nostalgia for the Hollywood filmmaking of the 1970s, when wily young directors succeeded in shaking the big-studio money tree to fund their outlandish, and often brilliant, projects. But we’ve also reached the era where the movies of the 1990s look pretty damn good. Which means David Fincher’s The Further Mis-Adventures of Cliff Booth is probably hitting at the right time. The script is by ’90s maverick Quentin Tarantino . The star is Brad Pitt , …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The True Story Behind T…</text>
+      <text hint-style="caption">The Further Mis-Adventu…</text>
     </binding>
   </visual>
 </tile>
