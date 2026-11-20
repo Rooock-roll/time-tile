@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-20T18:45:45.056059+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-20T19:01:25.679109+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery",
+    "Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader",
     "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
     "Scientists Are Pursuing the Dream of a 'Virtual Cell'",
-    "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
-    "Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet",
-    "A Black Figure Skater Just Made History. Here’s Why It Matters"
+    "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death"
   ],
   "articles": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery",
+      "summary": "Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The first four Hunger Games movies, released from 2012 to 2015 and adapted from Suzanne Collins’ enormously successful young-adult novels , featured Jennifer Lawrence as the ever-plucky Katniss Everdeen. She gave those movies a bristling vitality that could keep you watching even if you had no interest in the material's hyper-dramatic teen dystopian visions . ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt07229b373708849e/6b0094727052788233b3801e/solstice-unit-250916-00315rc.jpg?branch=production"
+    },
+    {
+      "title": "Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader",
+      "summary": "Senator Chris Van Hollen has said that he has the backing of about 15 of his colleagues in his quest to challenge Senator Chuck Schumer for Senate Majority Leader. So far, only a few of them have publicly declared their support. The progressive Maryland lawmaker announced his intent to run for the role last week, saying that the results of the 2026 midterm elections show that “the American people called for change,” not just from President Donald Trump but also “a change for the status quo that isn’t working for pe",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5926b0a907d3c9e3/6b008fa11b16e9124317d475/Van-Hollen-Backers.jpg?branch=production"
+    },
     {
       "title": "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
       "summary": "Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the two populations is set to keep steadily widening in the ensuing decades if recent trends continue, with Muslims potentially representing 3.64 billion people around the globe in 2070 compared to 2.96 billion Christians. These projections come from a comprehensive study by the Pew Research Center, which drew on census and survey data on factors including fer",
@@ -24,16 +34,6 @@
       "title": "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
       "summary": "Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost everyone, gay or straight, whether you wanted to admit it or not. Friends of friends, acquaintances or associates who brightened your day, or, worst of all, a loved one: people you cherished could wither and disappear in practically a heartbeat. The performing arts were hit especially hard, and there’s no way to reckon with the unfulfilled potential of the m",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3e2d104f020b0864/6afb65ce69790b7180907172/Elsinore_03084_R.jpg?branch=production"
-    },
-    {
-      "title": "Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet",
-      "summary": "On the evening of Nov. 13, 1989, Ian Charleson walked onto the Olivier stage at London’s National Theatre to play Hamlet for the last time. He was 40 years old and dying of AIDS, though few of the 1,150 or so people watching from the dark knew it. The illness had puffed the skin around his eyes and affected his throat and chest, but the change in his face had been explained away as sinus surgery. The Olivier is the largest of the National's three auditoriums, its seats curving in a wide arc around the stage. It is ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt423e642b93e6e24e/6af623f294462eaacbc15331/Elsinore_02715_R2.jpg?branch=production"
-    },
-    {
-      "title": "A Black Figure Skater Just Made History. Here’s Why It Matters",
-      "summary": "Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix. This jump is symbolic of something far larger. While Black competitors in Olympic figure skating are still few and far between, we exist vibrantly. Gasparotto’s triple axel was a byproduct of a long effort in a small, expensive sport for more visibility and support for skaters of all marginalized backgrounds. And her success shows how far Black athlete",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt083b5ffe89695373/6aff540aaa77000cc97d0d58/alexa-gasparotto-triple-axel.jpg?branch=production"
     }
   ]
 }

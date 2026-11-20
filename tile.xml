@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@de6618c9f0a825c7a15b54b9d0f965a470d1a662/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@89d514d4c70bca562557678b3643358df243c91b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@de6618c9f0a825c7a15b54b9d0f965a470d1a662/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost ever…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@89d514d4c70bca562557678b3643358df243c91b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The fi…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@de6618c9f0a825c7a15b54b9d0f965a470d1a662/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost everyone, gay or straight, whether you wanted to admit it or not. Friends of friends, acquaintances or associates who brightened your day, or, worst of all, a loved one: people you cherished could wither and disappear in practically a heartbeat. The performing arts were hit especially hard, and there’s no wa…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@89d514d4c70bca562557678b3643358df243c91b/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The first four Hunger Games movies, released from 2012 to 2015 and adapted from Suzanne Collins’ enormously successful young-adult novels , featured Jennifer Lawrence as the ever-plucky Katniss Everdeen. She gave those movies a bristling vitality that could keep you watching even if you had no interest in the …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">In Elsinore, a Radiant …</text>
+      <text hint-style="caption">The Hunger Games: Sunri…</text>
     </binding>
   </visual>
 </tile>
