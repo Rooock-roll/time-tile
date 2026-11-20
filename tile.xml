@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f8aafb24ee46812451eb47d3184a229df3175380/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d768f7a26da86c0fd9b2106b39eb235bc4a0b8d/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f8aafb24ee46812451eb47d3184a229df3175380/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d768f7a26da86c0fd9b2106b39eb235bc4a0b8d/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the tw…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f8aafb24ee46812451eb47d3184a229df3175380/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5d768f7a26da86c0fd9b2106b39eb235bc4a0b8d/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the two populations is set to keep steadily widening in the ensuing decades if recent trends continue, with Muslims potentially representing 3.64 billion people around the globe in 2070 compared to 2.96 billion Christians. These projections come from a comprehensive study by the Pew Research Center, which drew…</text>
     </binding>
