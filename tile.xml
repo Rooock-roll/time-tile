@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@990431c3d1dad980aa8bf48d68f582643156b34a/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e979e625cf73b3efc8ac5284c599f80473b40b78/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">A Black Figure Skater Just Made History. Here’s Why It Matters</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@990431c3d1dad980aa8bf48d68f582643156b34a/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump suggested he is putting off any major decisions on Iran until 2027, amid reports that he’s considering renewed major operations in the war th…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e979e625cf73b3efc8ac5284c599f80473b40b78/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">A Black Figure Skater Just Made History. Here’s Why It Matters</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@990431c3d1dad980aa8bf48d68f582643156b34a/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump suggested he is putting off any major decisions on Iran until 2027, amid reports that he’s considering renewed major operations in the war that continues despite repeated promises that it’ll end soon. Speaking to Reuters on whether new major strikes are possible—the U.S. has engaged in limited strikes on Qeshm Island in the Strait of Hormuz—Trump, who was en route to Washington following his trip to China, said, “Well, I’ll talk to you about …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e979e625cf73b3efc8ac5284c599f80473b40b78/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">A Black Figure Skater Just Made History. Here’s Why It Matters</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix. This jump is symbolic of something far larger. While Black competitors in Olympic figure skating are still few and far between, we exist vibrantly. Gasparotto’s triple axel was a byproduct of a long effort in a small, expensive sport for more visibility and support for skaters of all marginalized backg…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">‘We’ve Got Time’: Trump…</text>
+      <text hint-style="caption">A Black Figure Skater J…</text>
     </binding>
   </visual>
 </tile>

@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-20T11:01:16.449468+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-20T11:15:45.812366+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "A Black Figure Skater Just Made History. Here’s Why It Matters",
+    "What Comes Next After Historic Myanmar Genocide Ruling",
     "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027",
     "What Does It Mean to Age Well? Three Experts Weigh In",
-    "Van Hollen Puts AI at Center of His Challenge to Schumer",
-    "Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates",
-    "The True Story Behind The Altruists and the FTX Scandal"
+    "Van Hollen Puts AI at Center of His Challenge to Schumer"
   ],
   "articles": [
+    {
+      "title": "A Black Figure Skater Just Made History. Here’s Why It Matters",
+      "summary": "Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix. This jump is symbolic of something far larger. While Black competitors in Olympic figure skating are still few and far between, we exist vibrantly. Gasparotto’s triple axel was a byproduct of a long effort in a small, expensive sport for more visibility and support for skaters of all marginalized backgrounds. And her success shows how far Black athlete",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt083b5ffe89695373/6aff540aaa77000cc97d0d58/alexa-gasparotto-triple-axel.jpg?branch=production"
+    },
+    {
+      "title": "What Comes Next After Historic Myanmar Genocide Ruling",
+      "summary": "The world’s top international court has ruled that Myanmar committed genocide against its Rohingya Muslim minority, more than a million of whom remain displaced. The verdict , issued Thursday, is the first time a state has been found responsible for committing genocide in the history of the International Court of Justice, which was established in 1945. In a weekslong military campaign in 2017, Myanmar forces killed at least 10,000 people, including up to 2,109 children under five, and forced more than 700,000 other",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt98654c7b5b08bd4a/6b001592646559e062991523/Rohingya_refugees_after_ICJ_ruling.jpg?branch=production"
+    },
     {
       "title": "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027",
       "summary": "President Donald Trump suggested he is putting off any major decisions on Iran until 2027, amid reports that he’s considering renewed major operations in the war that continues despite repeated promises that it’ll end soon. Speaking to Reuters on whether new major strikes are possible—the U.S. has engaged in limited strikes on Qeshm Island in the Strait of Hormuz—Trump, who was en route to Washington following his trip to China, said, “Well, I’ll talk to you about it after the beginning of the year.” He added: “We’",
@@ -24,16 +34,6 @@
       "title": "Van Hollen Puts AI at Center of His Challenge to Schumer",
       "summary": "Senator Chris Van Hollen of Maryland is making the regulation of artificial intelligence a central part of his campaign to lead Senate Democrats , arguing that Congress must move more aggressively to confront the technology's growing risks and that the party needs a leader willing to challenge the powerful companies seeking to shape the rules. At a news conference Thursday, Van Hollen laid out a vision for a more assertive Senate that would impose mandatory safeguards on AI companies, hold them liable for harm caus",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt60733b67782dd337/6aff76fc7a7cf87dee5b7374/chris-van-hollen-ai-schumer.jpg?branch=production"
-    },
-    {
-      "title": "Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates",
-      "summary": "The Senate voted on Nov. 18 to move forward with the Bipartisan Affordability and American Jobs Act (BAAJA) of 2026, a controversial permitting reform bill that aims to speed up the nation’s ability to build infrastructure and energy —which can often take years under the current process. The bill—which has divided environmentalists and clean energy advocates—will now face a final Senate vote before moving to the House of Representatives. The purpose of BAAJA, in the eyes of some clean energy advocates and other sup",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt501e11778cb64b5f/6aff5a7d0b864f018799b1a4/baaja-congress.jpg?branch=production"
-    },
-    {
-      "title": "The True Story Behind The Altruists and the FTX Scandal",
-      "summary": "Like other entries in the growing genre of media about tech scandals and leadership crises, Netflix’s The Altruists asks how honest a visionary billionaire can be. Shows like The Dropout (in which Amanda Seyfried plays Elizabeth Holmes ) and films like Artificial (starring Andrew Garfield as Sam Altman) imagine a more unrehearsed side of figures audiences have spent much time watching in the public eye, with viewers’ curiosity piqued by controversy and internal politics at their respective companies. The Altruists ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd7c28aaca483dfcf/6af6248ae3422eea3db5cc96/The_Altruists_n_S1_E4_00_27_21_14_R.jpg?branch=production"
     }
   ]
 }
