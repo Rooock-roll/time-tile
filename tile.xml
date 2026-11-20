@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@75b2b36967b65a0d55ea45385da0c61e5bb9720e/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Does It Mean to Age Well? Three Experts Weigh In</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@092f994ad988894577805aa24564399a34fbf4fe/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Van Hollen Puts AI at Center of His Challenge to Schumer</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@75b2b36967b65a0d55ea45385da0c61e5bb9720e/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Does It Mean to Age Well? Three Experts Weigh In</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">When people tell Dr. Dean Ornish they want to live longer, he asks them why. Maybe they want to dance at their kid’s wedding, they say, or finally write the book th…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@092f994ad988894577805aa24564399a34fbf4fe/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Van Hollen Puts AI at Center of His Challenge to Schumer</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Senator Chris Van Hollen of Maryland is making the regulation of artificial intelligence a central part of his campaign to lead Senate Democrats , arguing that Cong…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@75b2b36967b65a0d55ea45385da0c61e5bb9720e/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Does It Mean to Age Well? Three Experts Weigh In</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">When people tell Dr. Dean Ornish they want to live longer, he asks them why. Maybe they want to dance at their kid’s wedding, they say, or finally write the book they’ve been thinking about for years. Whatever their answer, it gives them something to work toward and can make changing a habit today feel worth the effort. Knowing what you want to stay healthy enough to do can shape the questions you ask at a doctor’s visit. It can also help you make sense of options …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@092f994ad988894577805aa24564399a34fbf4fe/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Van Hollen Puts AI at Center of His Challenge to Schumer</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Senator Chris Van Hollen of Maryland is making the regulation of artificial intelligence a central part of his campaign to lead Senate Democrats , arguing that Congress must move more aggressively to confront the technology's growing risks and that the party needs a leader willing to challenge the powerful companies seeking to shape the rules. At a news conference Thursday, Van Hollen laid out a vision for a more assertive Senate that would impose mandatory safegua…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What Does It Mean to Ag…</text>
+      <text hint-style="caption">Van Hollen Puts AI at C…</text>
     </binding>
   </visual>
 </tile>
