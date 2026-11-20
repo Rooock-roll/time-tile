@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-20T02:31:01.820407+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-20T02:45:41.005564+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What Does It Mean to Age Well? Three Experts Weigh In",
     "Van Hollen Puts AI at Center of His Challenge to Schumer",
     "Why the BAAJA Permitting Reform Bill Is Dividing Climate and Energy Advocates",
     "The True Story Behind The Altruists and the FTX Scandal",
-    "The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe",
-    "What the Midterms Taught Us About the State of America’s Democracy"
+    "The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe"
   ],
   "articles": [
+    {
+      "title": "What Does It Mean to Age Well? Three Experts Weigh In",
+      "summary": "When people tell Dr. Dean Ornish they want to live longer, he asks them why. Maybe they want to dance at their kid’s wedding, they say, or finally write the book they’ve been thinking about for years. Whatever their answer, it gives them something to work toward and can make changing a habit today feel worth the effort. Knowing what you want to stay healthy enough to do can shape the questions you ask at a doctor’s visit. It can also help you make sense of options like biological-age tests, peptides, and new uses f",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8e112b9886469331/6afe0ba36e3eb18e03dfa879/mens-health-hims-talk.jpg?branch=production"
+    },
     {
       "title": "Van Hollen Puts AI at Center of His Challenge to Schumer",
       "summary": "Senator Chris Van Hollen of Maryland is making the regulation of artificial intelligence a central part of his campaign to lead Senate Democrats , arguing that Congress must move more aggressively to confront the technology's growing risks and that the party needs a leader willing to challenge the powerful companies seeking to shape the rules. At a news conference Thursday, Van Hollen laid out a vision for a more assertive Senate that would impose mandatory safeguards on AI companies, hold them liable for harm caus",
@@ -29,11 +34,6 @@
       "title": "The Further Mis-Adventures of Cliff Booth May Be Less a Film than a Vibe",
       "summary": "It’s easy to feel nostalgia for the Hollywood filmmaking of the 1970s, when wily young directors succeeded in shaking the big-studio money tree to fund their outlandish, and often brilliant, projects. But we’ve also reached the era where the movies of the 1990s look pretty damn good. Which means David Fincher’s The Further Mis-Adventures of Cliff Booth is probably hitting at the right time. The script is by ’90s maverick Quentin Tarantino . The star is Brad Pitt , whose career has been off-and-on entwined with Finc",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt831fd6997e6fb810/6aff2a9bbe3c8b834e22f8a3/UFP25_R7_Rec709_2p4gamma_6188x3240_20260831.0616962_R6.jpg?branch=production"
-    },
-    {
-      "title": "What the Midterms Taught Us About the State of America’s Democracy",
-      "summary": "The recent “Blue Wave” was Democrats’ best election night in years. But Memphis, a majority-Black city whose own congressional seat Democrats had held for more than four decades, will be represented in Congress entirely by Republicans . The day after the midterms, Justin Pearson, the Democratic candidate for Tennessee’s newly drawn Ninth District House seat, may have conceded his race, but he refused to concede to the redistricting. These “ rigged maps ”—as he called them— broke apart his voter base and were enable",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blteec43999c41d5d0f/6aff2e14f0e51534de3ebaf6/Capitol-building-democracy.jpg?branch=production"
     }
   ]
 }
