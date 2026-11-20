@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-20T20:31:07.265763+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-20T20:45:47.942817+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy",
     "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
     "The Climate Question Hanging Over Anthropic’s IPO",
     "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery",
-    "Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader",
-    "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why"
+    "Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader"
   ],
   "articles": [
+    {
+      "title": "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy",
+      "summary": "Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim from being reaped into the 74th Annual Hunger Games, her future District 12 mentor Haymitch Abernathy was forced to take part in his own Games. Given Haymitch was still alive at the start of The Hunger Games , we already knew he survived the 50th Games and was the victor of the infamous Second Quarter Quell, where twice the usual number of tributes were r",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8157a28e8ceb656b/6afdf83569790be3b89080a2/SOTR-Joseph-Zada.jpg?branch=production"
+    },
     {
       "title": "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
       "summary": "President Donald Trump on Friday offered unusually warm praise for the top two Democrats in Congress and suggested that the incoming Democratic majority may prove easier to negotiate with than Republicans. Speaking to reporters in the briefing room, Trump described Hakeem Jeffries, who is poised to become the first Black Speaker of the House, as “streetwise” and “smart,” and also praised the current Senate Democratic leader Chuck Schumer, a striking change in tone toward two lawmakers with whom he has repeatedly cl",
@@ -29,11 +34,6 @@
       "title": "Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader",
       "summary": "Senator Chris Van Hollen has said that he has the backing of about 15 of his colleagues in his quest to challenge Senator Chuck Schumer for Senate Majority Leader. So far, only a few of them have publicly declared their support. The progressive Maryland lawmaker announced his intent to run for the role last week, saying that the results of the 2026 midterm elections show that “the American people called for change,” not just from President Donald Trump but also “a change for the status quo that isn’t working for pe",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5926b0a907d3c9e3/6b008fa11b16e9124317d475/Van-Hollen-Backers.jpg?branch=production"
-    },
-    {
-      "title": "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
-      "summary": "Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the two populations is set to keep steadily widening in the ensuing decades if recent trends continue, with Muslims potentially representing 3.64 billion people around the globe in 2070 compared to 2.96 billion Christians. These projections come from a comprehensive study by the Pew Research Center, which drew on census and survey data on factors including fer",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4684c637053cb5c1/6b0072e7ede4c328bb6cd486/GettyImages-2207656313.jpg?branch=production"
     }
   ]
 }
