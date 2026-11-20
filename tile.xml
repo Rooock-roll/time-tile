@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@36fbc182e0f67a4713b3cf2fd37d8edf3b491bc1/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@980259ca4e0f147684074ed8ba4e3aeaed7af693/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scientists Are Pursuing the Dream of a 'Virtual Cell'</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@36fbc182e0f67a4713b3cf2fd37d8edf3b491bc1/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@980259ca4e0f147684074ed8ba4e3aeaed7af693/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scientists Are Pursuing the Dream of a 'Virtual Cell'</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A single cell is a world unto itself, billions of interlocking molecules whose intricate patterns foretell health and disease. Biologists usually investigate how ce…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@36fbc182e0f67a4713b3cf2fd37d8edf3b491bc1/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@980259ca4e0f147684074ed8ba4e3aeaed7af693/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scientists Are Pursuing the Dream of a 'Virtual Cell'</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A single cell is a world unto itself, billions of interlocking molecules whose intricate patterns foretell health and disease. Biologists usually investigate how cells work in the lab. But in recent years, the idea of a “virtual cell” —a computer model so detailed, with such a close resemblance to the real thing, that scientists could run experiments on it instead of in the lab—has entered the conversation . With a virtual cell, biologists imagine, you could switch…</text>
     </binding>
