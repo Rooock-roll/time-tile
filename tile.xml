@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3bc96baa531eb6b473938447b51489d1d22c5085/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">A Black Figure Skater Just Made History. Here’s Why It Matters</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@88bc4386fd52c22556b6888c70c7130142f94635/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Comes Next After Historic Myanmar Genocide Ruling</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3bc96baa531eb6b473938447b51489d1d22c5085/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">A Black Figure Skater Just Made History. Here’s Why It Matters</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@88bc4386fd52c22556b6888c70c7130142f94635/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Comes Next After Historic Myanmar Genocide Ruling</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The world’s top international court has ruled that Myanmar committed genocide against its Rohingya Muslim minority, more than a million of whom remain displaced. Th…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3bc96baa531eb6b473938447b51489d1d22c5085/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">A Black Figure Skater Just Made History. Here’s Why It Matters</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Last weekend, American figure skater Alexa Gasparotto made history as the first Black woman ever to land a triple axel at the International Skating Union Grand Prix. This jump is symbolic of something far larger. While Black competitors in Olympic figure skating are still few and far between, we exist vibrantly. Gasparotto’s triple axel was a byproduct of a long effort in a small, expensive sport for more visibility and support for skaters of all marginalized backg…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@88bc4386fd52c22556b6888c70c7130142f94635/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Comes Next After Historic Myanmar Genocide Ruling</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The world’s top international court has ruled that Myanmar committed genocide against its Rohingya Muslim minority, more than a million of whom remain displaced. The verdict , issued Thursday, is the first time a state has been found responsible for committing genocide in the history of the International Court of Justice, which was established in 1945. In a weekslong military campaign in 2017, Myanmar forces killed at least 10,000 people, including up to 2,109 chil…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">A Black Figure Skater J…</text>
+      <text hint-style="caption">What Comes Next After H…</text>
     </binding>
   </visual>
 </tile>
