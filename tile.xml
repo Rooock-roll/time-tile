@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e725e9a93af68b6d3d4909928b4289deee855f27/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@87060ff4654db5f8286b97dc9a0cbe066b70c70d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e725e9a93af68b6d3d4909928b4289deee855f27/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost ever…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@87060ff4654db5f8286b97dc9a0cbe066b70c70d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On the evening of Nov. 13, 1989, Ian Charleson walked onto the Olivier stage at London’s National Theatre to play Hamlet for the last time. He was 40 years old and …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e725e9a93af68b6d3d4909928b4289deee855f27/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost everyone, gay or straight, whether you wanted to admit it or not. Friends of friends, acquaintances or associates who brightened your day, or, worst of all, a loved one: people you cherished could wither and disappear in practically a heartbeat. The performing arts were hit especially hard, and there’s no wa…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@87060ff4654db5f8286b97dc9a0cbe066b70c70d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Elsinore and the Remarkable True Story of a Dying Actor’s Triumph as Hamlet</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On the evening of Nov. 13, 1989, Ian Charleson walked onto the Olivier stage at London’s National Theatre to play Hamlet for the last time. He was 40 years old and dying of AIDS, though few of the 1,150 or so people watching from the dark knew it. The illness had puffed the skin around his eyes and affected his throat and chest, but the change in his face had been explained away as sinus surgery. The Olivier is the largest of the National's three auditoriums, its s…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">In Elsinore, a Radiant …</text>
+      <text hint-style="caption">Elsinore and the Remark…</text>
     </binding>
   </visual>
 </tile>
