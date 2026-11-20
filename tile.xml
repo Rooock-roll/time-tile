@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@62204206dd630ba04b81746683681bfdf7aa4c79/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c9fd408172c68cdc1a793e61fbb0b8983efb5f0a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@62204206dd630ba04b81746683681bfdf7aa4c79/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Senator Chris Van Hollen has said that he has the backing of about 15 of his colleagues in his quest to challenge Senator Chuck Schumer for Senate Majority Leader. …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c9fd408172c68cdc1a793e61fbb0b8983efb5f0a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the tw…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@62204206dd630ba04b81746683681bfdf7aa4c79/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Senator Chris Van Hollen has said that he has the backing of about 15 of his colleagues in his quest to challenge Senator Chuck Schumer for Senate Majority Leader. So far, only a few of them have publicly declared their support. The progressive Maryland lawmaker announced his intent to run for the role last week, saying that the results of the 2026 midterm elections show that “the American people called for change,” not just from President Donald Trump but also “a …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c9fd408172c68cdc1a793e61fbb0b8983efb5f0a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the two populations is set to keep steadily widening in the ensuing decades if recent trends continue, with Muslims potentially representing 3.64 billion people around the globe in 2070 compared to 2.96 billion Christians. These projections come from a comprehensive study by the Pew Research Center, which drew…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Here Are the Senators W…</text>
+      <text hint-style="caption">Muslims Are Projected t…</text>
     </binding>
   </visual>
 </tile>
