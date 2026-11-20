@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-20T20:01:18.201187+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-20T20:15:45.649060+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
+    "The Climate Question Hanging Over Anthropic’s IPO",
     "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery",
     "Here Are the Senators Who Are Backing Van Hollen Over Schumer for Senate Majority Leader",
-    "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
-    "Scientists Are Pursuing the Dream of a 'Virtual Cell'",
-    "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death"
+    "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why"
   ],
   "articles": [
+    {
+      "title": "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
+      "summary": "President Donald Trump on Friday offered unusually warm praise for the top two Democrats in Congress and suggested that the incoming Democratic majority may prove easier to negotiate with than Republicans. Speaking to reporters in the briefing room, Trump described Hakeem Jeffries, who is poised to become the first Black Speaker of the House, as “streetwise” and “smart,” and also praised the current Senate Democratic leader Chuck Schumer, a striking change in tone toward two lawmakers with whom he has repeatedly cl",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta261b592313bcc0b/6b0089847031a7267dec2f37/GettyImages-2305498671.jpg?branch=production"
+    },
+    {
+      "title": "The Climate Question Hanging Over Anthropic’s IPO",
+      "summary": "From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the biggest IPO of all time. And it’s perhaps the cleanest signal of how interwoven the economy has become with AI. But the Anthropic IPO also provides an important lens into this moment for energy and climate . It’s only slightly hyperbolic to say that over the last few years AI has sucked up all the capital and all the attention, forcing everything else, ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt83999996dba2ea3d/6b008613646559ee4799192f/anthropic_ipo_climate_times_square.jpg?branch=production"
+    },
     {
       "title": "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery",
       "summary": "Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The first four Hunger Games movies, released from 2012 to 2015 and adapted from Suzanne Collins’ enormously successful young-adult novels , featured Jennifer Lawrence as the ever-plucky Katniss Everdeen. She gave those movies a bristling vitality that could keep you watching even if you had no interest in the material's hyper-dramatic teen dystopian visions . ",
@@ -24,16 +34,6 @@
       "title": "Muslims Are Projected to Become the World’s Largest Religious Group by 2035, Surpassing Christians. Here’s Why",
       "summary": "Muslims are projected to become the world’s largest religious group —overtaking Christians , who have long held that distinction—by 2035. And the gap between the two populations is set to keep steadily widening in the ensuing decades if recent trends continue, with Muslims potentially representing 3.64 billion people around the globe in 2070 compared to 2.96 billion Christians. These projections come from a comprehensive study by the Pew Research Center, which drew on census and survey data on factors including fer",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4684c637053cb5c1/6b0072e7ede4c328bb6cd486/GettyImages-2207656313.jpg?branch=production"
-    },
-    {
-      "title": "Scientists Are Pursuing the Dream of a 'Virtual Cell'",
-      "summary": "A single cell is a world unto itself, billions of interlocking molecules whose intricate patterns foretell health and disease. Biologists usually investigate how cells work in the lab. But in recent years, the idea of a “virtual cell” —a computer model so detailed, with such a close resemblance to the real thing, that scientists could run experiments on it instead of in the lab—has entered the conversation . With a virtual cell, biologists imagine, you could switch off a gene involved in a disease, or add an experi",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbf13fc5da8f995e4/6b0079bb6465593efb9918ea/GettyImages-1124678305.jpg?branch=production"
-    },
-    {
-      "title": "In Elsinore, a Radiant Andrew Scott Finds Life in a Play About Death",
-      "summary": "Contracting HIV is no longer a death sentence. But before the current medications and treatments emerged, the AIDS crisis of the 1980s and 1990s touched almost everyone, gay or straight, whether you wanted to admit it or not. Friends of friends, acquaintances or associates who brightened your day, or, worst of all, a loved one: people you cherished could wither and disappear in practically a heartbeat. The performing arts were hit especially hard, and there’s no way to reckon with the unfulfilled potential of the m",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3e2d104f020b0864/6afb65ce69790b7180907172/Elsinore_03084_R.jpg?branch=production"
     }
   ]
 }
