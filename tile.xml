@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b06c4494b3c0df7b91f0cec45389786f59091530/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8ab4049e2621132f8f19b80343ce93afc31fb64a/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b06c4494b3c0df7b91f0cec45389786f59091530/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8ab4049e2621132f8f19b80343ce93afc31fb64a/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a lon…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b06c4494b3c0df7b91f0cec45389786f59091530/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8ab4049e2621132f8f19b80343ce93afc31fb64a/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a long way since those agonizing scenes in Miloš Forman’s One Flew Over the Cuckoo’s Nest —but I understand why ECT still freaks people out. Electricity is what Victor Frankenstein used to animate his monster; as recently as 2020 , the state used it to execute murderers. Nevertheless, in 2021, I decided to un…</text>
     </binding>
