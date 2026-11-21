@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-21T14:01:16.003649+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-21T14:15:51.025294+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?",
     "America, China, and the Costs of the Bipolar AI Race",
     "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
     "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks",
-    "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy",
-    "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027"
+    "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy"
   ],
   "articles": [
+    {
+      "title": "Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?",
+      "summary": "The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the largest and deadliest Ebola outbreak in the country’s history and the second-deadliest worldwide. Katie Thomas-Canfield, who is based in Bunia, Congo, and serves as the Ebola response director for the International Rescue Committee, tells TIME that this outbreak’s deadly pace is informed by numerous converging factors. “There's some element of it that is a ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97ae3f6d5fc1a7ee/6b01a1c99a20bc24d08fa016/GettyImages-2300883531.jpg?branch=production"
+    },
     {
       "title": "America, China, and the Costs of the Bipolar AI Race",
       "summary": "We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The United States has long dominated the field, but China’s meteoric rise has made it the strongest challenger to American dominance . The AI race is increasingly bipolar, and much of the power to shape this critical technology is concentrated in these two countries. With the American and Chinese dominance of this emerging technology comes a widening geograph",
@@ -29,11 +34,6 @@
       "title": "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy",
       "summary": "Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim from being reaped into the 74th Annual Hunger Games, her future District 12 mentor Haymitch Abernathy was forced to take part in his own Games. Given Haymitch was still alive at the start of The Hunger Games , we already knew he survived the 50th Games and was the victor of the infamous Second Quarter Quell, where twice the usual number of tributes were r",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8157a28e8ceb656b/6afdf83569790be3b89080a2/SOTR-Joseph-Zada.jpg?branch=production"
-    },
-    {
-      "title": "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
-      "summary": "President Donald Trump on Friday offered unusually warm praise for the top two Democrats in Congress and suggested that the incoming Democratic majority may prove easier to negotiate with than Republicans. Speaking to reporters in the briefing room, Trump described Hakeem Jeffries, who is poised to become the first Black Speaker of the House, as “streetwise” and “smart,” and also praised the current Senate Democratic leader Chuck Schumer, a striking change in tone toward two lawmakers with whom he has repeatedly cl",
-      "image": "https://cdn.jwplayer.com/manifests/HPRGYkbn.m3u8"
     }
   ]
 }
