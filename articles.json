@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-21T11:31:08.095540+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-21T11:45:44.325891+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
     "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks",
     "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy",
     "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
-    "The Climate Question Hanging Over Anthropic’s IPO",
-    "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery"
+    "The Climate Question Hanging Over Anthropic’s IPO"
   ],
   "articles": [
+    {
+      "title": "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
+      "summary": "Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a long way since those agonizing scenes in Miloš Forman’s One Flew Over the Cuckoo’s Nest —but I understand why ECT still freaks people out. Electricity is what Victor Frankenstein used to animate his monster; as recently as 2020 , the state used it to execute murderers. Nevertheless, in 2021, I decided to undergo the treatment, allowing an electrical current",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc25c9201d49a3b88/6afe0f1af70f127c4da14f2b/ect.jpg?branch=production"
+    },
     {
       "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks",
       "summary": "Canadian Prime Minister Mark Carney is placing particular focus on renewing relations with China as he aims to deepen international trade ties and diversify from U.S. reliance amid a three-month-long trade war with the U.S. When asked what cards Canada holds in its ongoing talks with Washington, Carney, who recently announced a new partnership with the E.U. , pointed to the country's budding relationships elsewhere. “Our cards are that everyone else in the world wants to deal with us,” he said Wednesday during a re",
@@ -29,11 +34,6 @@
       "title": "The Climate Question Hanging Over Anthropic’s IPO",
       "summary": "From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the biggest IPO of all time. And it’s perhaps the cleanest signal of how interwoven the economy has become with AI. But the Anthropic IPO also provides an important lens into this moment for energy and climate . It’s only slightly hyperbolic to say that over the last few years AI has sucked up all the capital and all the attention, forcing everything else, ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt83999996dba2ea3d/6b008613646559ee4799192f/anthropic_ipo_climate_times_square.jpg?branch=production"
-    },
-    {
-      "title": "The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery",
-      "summary": "Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The first four Hunger Games movies, released from 2012 to 2015 and adapted from Suzanne Collins’ enormously successful young-adult novels , featured Jennifer Lawrence as the ever-plucky Katniss Everdeen. She gave those movies a bristling vitality that could keep you watching even if you had no interest in the material's hyper-dramatic teen dystopian visions . ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt07229b373708849e/6b0094727052788233b3801e/solstice-unit-250916-00315rc.jpg?branch=production"
     }
   ]
 }
