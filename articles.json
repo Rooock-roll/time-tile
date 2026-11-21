@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-21T12:15:45.110023+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-21T12:31:05.957778+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "America, China, and the Costs of the Bipolar AI Race",
     "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
     "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks",
     "How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy",
-    "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
-    "The Climate Question Hanging Over Anthropic’s IPO"
+    "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027"
   ],
   "articles": [
+    {
+      "title": "America, China, and the Costs of the Bipolar AI Race",
+      "summary": "We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The United States has long dominated the field, but China’s meteoric rise has made it the strongest challenger to American dominance . The AI race is increasingly bipolar, and much of the power to shape this critical technology is concentrated in these two countries. With the American and Chinese dominance of this emerging technology comes a widening geograph",
+      "image": ""
+    },
     {
       "title": "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
       "summary": "Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a long way since those agonizing scenes in Miloš Forman’s One Flew Over the Cuckoo’s Nest —but I understand why ECT still freaks people out. Electricity is what Victor Frankenstein used to animate his monster; as recently as 2020 , the state used it to execute murderers. Nevertheless, in 2021, I decided to undergo the treatment, allowing an electrical current",
@@ -29,11 +34,6 @@
       "title": "Trump Praises Jeffries and Schumer, Sees Room For Deals With Democrats in 2027",
       "summary": "President Donald Trump on Friday offered unusually warm praise for the top two Democrats in Congress and suggested that the incoming Democratic majority may prove easier to negotiate with than Republicans. Speaking to reporters in the briefing room, Trump described Hakeem Jeffries, who is poised to become the first Black Speaker of the House, as “streetwise” and “smart,” and also praised the current Senate Democratic leader Chuck Schumer, a striking change in tone toward two lawmakers with whom he has repeatedly cl",
       "image": "https://cdn.jwplayer.com/manifests/HPRGYkbn.m3u8"
-    },
-    {
-      "title": "The Climate Question Hanging Over Anthropic’s IPO",
-      "summary": "From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the biggest IPO of all time. And it’s perhaps the cleanest signal of how interwoven the economy has become with AI. But the Anthropic IPO also provides an important lens into this moment for energy and climate . It’s only slightly hyperbolic to say that over the last few years AI has sucked up all the capital and all the attention, forcing everything else, ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt83999996dba2ea3d/6b008613646559ee4799192f/anthropic_ipo_climate_times_square.jpg?branch=production"
     }
   ]
 }
