@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f368cf8e779bcae41e0e6c064721fcd5c2dde8ce/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60377845cc1a302d98f75f0b7d64acf529b37c18/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f368cf8e779bcae41e0e6c064721fcd5c2dde8ce/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60377845cc1a302d98f75f0b7d64acf529b37c18/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim f…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f368cf8e779bcae41e0e6c064721fcd5c2dde8ce/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60377845cc1a302d98f75f0b7d64acf529b37c18/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim from being reaped into the 74th Annual Hunger Games, her future District 12 mentor Haymitch Abernathy was forced to take part in his own Games. Given Haymitch was still alive at the start of The Hunger Games , we already knew he survived the 50th Games and was the victor of the infamous Second Quarter Que…</text>
     </binding>
