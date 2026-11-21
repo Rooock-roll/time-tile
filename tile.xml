@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6896e0c66d4c472473f730b5a7ed3956ba1d352e/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Climate Question Hanging Over Anthropic’s IPO</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@94ab54d150732b8f59e19244304e62e9f0ef17ed/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6896e0c66d4c472473f730b5a7ed3956ba1d352e/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Climate Question Hanging Over Anthropic’s IPO</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@94ab54d150732b8f59e19244304e62e9f0ef17ed/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The fi…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6896e0c66d4c472473f730b5a7ed3956ba1d352e/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Climate Question Hanging Over Anthropic’s IPO</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">From a business, economics, or technology angle, the record-breaking Anthropic IPO is one of the biggest stories of the year. Raising around $81 billion, it was the biggest IPO of all time. And it’s perhaps the cleanest signal of how interwoven the economy has become with AI. But the Anthropic IPO also provides an important lens into this moment for energy and climate . It’s only slightly hyperbolic to say that over the last few years AI has sucked up all the capit…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@94ab54d150732b8f59e19244304e62e9f0ef17ed/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Hunger Games: Sunrise on the Reaping Blurs Into a Cloud of Drudgery</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Just when you think there’s no more life in a franchise, an executive somewhere puts a crowbar in the crypt and revives an old moneymaker for one more round. The first four Hunger Games movies, released from 2012 to 2015 and adapted from Suzanne Collins’ enormously successful young-adult novels , featured Jennifer Lawrence as the ever-plucky Katniss Everdeen. She gave those movies a bristling vitality that could keep you watching even if you had no interest in the …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Climate Question Ha…</text>
+      <text hint-style="caption">The Hunger Games: Sunri…</text>
     </binding>
   </visual>
 </tile>
