@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-22T21:15:45.301126+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-22T21:31:03.578445+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Why the World’s Climate Talks Broke Down—and What Happens Now",
     "How to Deal with Anxiety",
     "Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?",
     "America, China, and the Costs of the Bipolar AI Race",
-    "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
-    "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks"
+    "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner"
   ],
   "articles": [
+    {
+      "title": "Why the World’s Climate Talks Broke Down—and What Happens Now",
+      "summary": "COP31 , the United Nations’ annual climate change summit, ended on Sunday without consensus on an overarching climate deal after about two days of overtime in Antalya, Türkiye. The annual conference brings together delegates to shape and formalize an approach to combating the effects of global warming . This year, the main dispute was whether the agreement should explicitly call for a transition away from fossil fuels . That commitment traces back to the Paris Agreement , a 2015 climate treaty that calls for effort",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt150e909da545f73e/6b0341b4144cf26cbd643b7f/AP26315475140253.jpg?branch=production"
+    },
     {
       "title": "How to Deal with Anxiety",
       "summary": "Hands down, anxiety is the most common mental health issue affecting Americans today. Over 19% of adults in the U.S. meet criteria for an anxiety disorder in any given year. Many often don’t recognize these difficulties, or mistake them for signs of a physical health condition. As a psychologist, I can tell you that worrying is a normal part of life. Occasionally, we all get a little nervous about something. We can fret that we blew a job interview or made a poor impression on a first date. We may feel on edge thin",
@@ -29,11 +34,6 @@
       "title": "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
       "summary": "Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a long way since those agonizing scenes in Miloš Forman’s One Flew Over the Cuckoo’s Nest —but I understand why ECT still freaks people out. Electricity is what Victor Frankenstein used to animate his monster; as recently as 2020 , the state used it to execute murderers. Nevertheless, in 2021, I decided to undergo the treatment, allowing an electrical current",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc25c9201d49a3b88/6afe0f1af70f127c4da14f2b/ect.jpg?branch=production"
-    },
-    {
-      "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks",
-      "summary": "Canadian Prime Minister Mark Carney is placing particular focus on renewing relations with China as he aims to deepen international trade ties and diversify from U.S. reliance amid a three-month-long trade war with the U.S. When asked what cards Canada holds in its ongoing talks with Washington, Carney, who recently announced a new partnership with the E.U. , pointed to the country's budding relationships elsewhere. “Our cards are that everyone else in the world wants to deal with us,” he said Wednesday during a re",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta8808accd5e4e747/6aff0fd6f0e515d38b3eb965/Carney_China.jpg?branch=production"
     }
   ]
 }
