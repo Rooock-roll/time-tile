@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4471d699ba0c7394d674cad5fc172e64276c9f9c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f6d60c4f2d93bdd55c76b35fa446ee1dd943853/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4471d699ba0c7394d674cad5fc172e64276c9f9c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Canadian Prime Minister Mark Carney is placing particular focus on renewing relations with China as he aims to deepen international trade ties and diversify from U.…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f6d60c4f2d93bdd55c76b35fa446ee1dd943853/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim f…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4471d699ba0c7394d674cad5fc172e64276c9f9c/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Canadian Prime Minister Mark Carney is placing particular focus on renewing relations with China as he aims to deepen international trade ties and diversify from U.S. reliance amid a three-month-long trade war with the U.S. When asked what cards Canada holds in its ongoing talks with Washington, Carney, who recently announced a new partnership with the E.U. , pointed to the country's budding relationships elsewhere. “Our cards are that everyone else in the world wa…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5f6d60c4f2d93bdd55c76b35fa446ee1dd943853/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim from being reaped into the 74th Annual Hunger Games, her future District 12 mentor Haymitch Abernathy was forced to take part in his own Games. Given Haymitch was still alive at the start of The Hunger Games , we already knew he survived the 50th Games and was the victor of the infamous Second Quarter Que…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How Carney’s Shift Towa…</text>
+      <text hint-style="caption">How Sunrise on the Reap…</text>
     </binding>
   </visual>
 </tile>
