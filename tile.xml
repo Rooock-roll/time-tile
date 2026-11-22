@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27d8e17ff567d49a648e6daad8848a6185f43ffd/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">America, China, and the Costs of the Bipolar AI Race</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e31d2986d3d54d03bdd0891bdc1864ba87c9b548/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27d8e17ff567d49a648e6daad8848a6185f43ffd/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America, China, and the Costs of the Bipolar AI Race</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The U…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e31d2986d3d54d03bdd0891bdc1864ba87c9b548/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a lon…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27d8e17ff567d49a648e6daad8848a6185f43ffd/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America, China, and the Costs of the Bipolar AI Race</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The United States has long dominated the field, but China’s meteoric rise has made it the strongest challenger to American dominance . The AI race is increasingly bipolar, and much of the power to shape this critical technology is concentrated in these two countries. With the American and Chinese dominance of…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e31d2986d3d54d03bdd0891bdc1864ba87c9b548/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a long way since those agonizing scenes in Miloš Forman’s One Flew Over the Cuckoo’s Nest —but I understand why ECT still freaks people out. Electricity is what Victor Frankenstein used to animate his monster; as recently as 2020 , the state used it to execute murderers. Nevertheless, in 2021, I decided to un…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">America, China, and the…</text>
+      <text hint-style="caption">ECT Is a Controversial …</text>
     </binding>
   </visual>
 </tile>
