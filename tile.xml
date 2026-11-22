@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8b07174b3dd8d01a15403a97c0478e3d4b7df298/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7cf56c60b00014c2f34fa55acfa97f1b5b78a1da/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8b07174b3dd8d01a15403a97c0478e3d4b7df298/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim f…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7cf56c60b00014c2f34fa55acfa97f1b5b78a1da/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the lar…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8b07174b3dd8d01a15403a97c0478e3d4b7df298/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How Sunrise on the Reaping Connects to the Original Hunger Games Trilogy</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Warning: This post contains spoilers for Sunrise on the Reaping . Twenty-four years before Katniss Everdeen volunteered as tribute to save her younger sister Prim from being reaped into the 74th Annual Hunger Games, her future District 12 mentor Haymitch Abernathy was forced to take part in his own Games. Given Haymitch was still alive at the start of The Hunger Games , we already knew he survived the 50th Games and was the victor of the infamous Second Quarter Que…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7cf56c60b00014c2f34fa55acfa97f1b5b78a1da/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the largest and deadliest Ebola outbreak in the country’s history and the second-deadliest worldwide. Katie Thomas-Canfield, who is based in Bunia, Congo, and serves as the Ebola response director for the International Rescue Committee, tells TIME that this outbreak’s deadly pace is informed by numerous converg…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How Sunrise on the Reap…</text>
+      <text hint-style="caption">Ebola’s Death Toll Tops…</text>
     </binding>
   </visual>
 </tile>
