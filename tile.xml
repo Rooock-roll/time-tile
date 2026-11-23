@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@52a17adbbc15c5cb9605c8caf3c32406d9e1892b/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Deal with Anxiety</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@503aa6fc4c8d91e56676acb63a225751e6f42703/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@52a17adbbc15c5cb9605c8caf3c32406d9e1892b/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Deal with Anxiety</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Hands down, anxiety is the most common mental health issue affecting Americans today. Over 19% of adults in the U.S. meet criteria for an anxiety disorder in any gi…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@503aa6fc4c8d91e56676acb63a225751e6f42703/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the lar…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@52a17adbbc15c5cb9605c8caf3c32406d9e1892b/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Deal with Anxiety</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Hands down, anxiety is the most common mental health issue affecting Americans today. Over 19% of adults in the U.S. meet criteria for an anxiety disorder in any given year. Many often don’t recognize these difficulties, or mistake them for signs of a physical health condition. As a psychologist, I can tell you that worrying is a normal part of life. Occasionally, we all get a little nervous about something. We can fret that we blew a job interview or made a poor i…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@503aa6fc4c8d91e56676acb63a225751e6f42703/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the largest and deadliest Ebola outbreak in the country’s history and the second-deadliest worldwide. Katie Thomas-Canfield, who is based in Bunia, Congo, and serves as the Ebola response director for the International Rescue Committee, tells TIME that this outbreak’s deadly pace is informed by numerous converg…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Deal with Anxiety</text>
+      <text hint-style="caption">Ebola’s Death Toll Tops…</text>
     </binding>
   </visual>
 </tile>
