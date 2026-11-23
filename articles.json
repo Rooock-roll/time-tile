@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-23T15:01:21.107206+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-23T15:15:45.304795+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul",
     "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
     "Scott Olson—Getty Images",
     "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
-    "Why the World’s Climate Talks Broke Down—and What Happens Now",
-    "How to Deal with Anxiety"
+    "Why the World’s Climate Talks Broke Down—and What Happens Now"
   ],
   "articles": [
+    {
+      "title": "Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul",
+      "summary": "For nearly half a century, the Blade Runner franchise has been on the run from the accusation that its future-noir visual style eclipses the substance of its stories. Critics rhapsodized over the look of Ridley Scott’s 1982 film—a box-office flop that gradually achieved cult-classic status on home video—but judged it to be, as Janet Maslin wrote in the New York Times , “a mess, at least as far as its narrative is concerned.” TIME’s Richard Corliss concluded that “ Blade Runner , like its setting, is a beautiful, de",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt62af45bb54788b1b/6afdc75a6e3eb1d85bdfa739/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?branch=production"
+    },
     {
       "title": "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
       "summary": "Ukraine sank a Russian warship moored at a port in Libya using naval drones, said Ukrainian President Volodymyr Zelensky . Forces deployed seven Ukrainian-made drones that struck and sank the Russian corvette Mercury, which was carrying a combat helicopter, Zelensky said Monday morning. A second ship, the Russian container carrier MV ANGARA, which Zelensky said was being used to “transport weapons,” was also hit. Footage released by Ukraine’s Ministry of Defense appeared to show sea drones speeding toward the warsh",
@@ -29,11 +34,6 @@
       "title": "Why the World’s Climate Talks Broke Down—and What Happens Now",
       "summary": "COP31 , the United Nations’ annual climate change summit, ended on Sunday without consensus on an overarching climate deal after about two days of overtime in Antalya, Türkiye. The annual conference brings together delegates to shape and formalize an approach to combating the effects of global warming . This year, the main dispute was whether the agreement should explicitly call for a transition away from fossil fuels . That commitment traces back to the Paris Agreement , a 2015 climate treaty that calls for effort",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt150e909da545f73e/6b0341b4144cf26cbd643b7f/AP26315475140253.jpg?branch=production"
-    },
-    {
-      "title": "How to Deal with Anxiety",
-      "summary": "Hands down, anxiety is the most common mental health issue affecting Americans today. Over 19% of adults in the U.S. meet criteria for an anxiety disorder in any given year. Many often don’t recognize these difficulties, or mistake them for signs of a physical health condition. As a psychologist, I can tell you that worrying is a normal part of life. Occasionally, we all get a little nervous about something. We can fret that we blew a job interview or made a poor impression on a first date. We may feel on edge thin",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd44c69c8d9747f6f/6b006e1ee196fd518ddc0dbc/anxiety.jpg?branch=production"
     }
   ]
 }
