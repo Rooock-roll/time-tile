@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72aa47ee5098be83fb25a6c5198e90cfc6d8cafc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b0a6d259353f3d2a320e68c54bd7ee606e1b9158/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72aa47ee5098be83fb25a6c5198e90cfc6d8cafc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b0a6d259353f3d2a320e68c54bd7ee606e1b9158/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump on Monday applauded NVIDIA’s board of directors for reinstating Jensen Huang as the company’s president and CEO, calling it “the correct and …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72aa47ee5098be83fb25a6c5198e90cfc6d8cafc/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b0a6d259353f3d2a320e68c54bd7ee606e1b9158/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump on Monday applauded NVIDIA’s board of directors for reinstating Jensen Huang as the company’s president and CEO, calling it “the correct and proper decision.” “The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO,” Trump said in a Truth Social post . “The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the Ame…</text>
     </binding>
