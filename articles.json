@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-23T17:15:45.098950+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-23T17:31:05.511178+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
+    "How Taiwan Is Turning Tech Supremacy Into a Security Shield",
     "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
     "Thanksgiving Dinner Is Set to Cost Americans More This Year, Says Farm Bureau. Here’s Why",
-    "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang",
-    "Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul",
-    "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya"
+    "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang"
   ],
   "articles": [
+    {
+      "title": "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
+      "summary": "In the eleven years since the Paris Agreement , countries around the world have met annually to plot out the global consensus on how to tackle climate change. In some years negotiations led to big breakthroughs. In others, talks simply kept the ball in play, signaling to the world that nations were aligned in their desire to tackle climate change, even if it’s hard to agree on the exact path forward. So it was a striking moment in the three-decade arc of United Nations climate negotiations when talks fell apart in ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51fae25dab4135dc/6b04668b729e012440cc87aa/cop31_climate_conference.jpg?branch=production"
+    },
+    {
+      "title": "How Taiwan Is Turning Tech Supremacy Into a Security Shield",
+      "summary": "The southern Taiwanese city of Chiayi has long been synonymous with a cherished culinary staple: turkey rice, served drenched in savory soy broth and topped with lard-fried shallots and pickled radish. Introduced by American GIs after World War II, the non-native bird became an affordable alternative to chicken and quickly became a local icon. Eight decades later, Chiayi is anchoring its identity in a very different military legacy: uncrewed aerial vehicles (UAVs). Today, more than 50 companies and research institu",
+      "image": "https://cdn.jwplayer.com/manifests/gXNQ6TfE.m3u8"
+    },
     {
       "title": "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
       "summary": "The ongoing Ebola outbreak centered in the Democratic Republic of Congo (DRC) is now the second largest on record. The virus has infected more than 11,000 people in five countries and has killed more than 5,700 people as of Nov. 20. Pardis Sabeti, a leader at the Broad Institute of MIT and Harvard who specializes in computational genetics and evolutionary biology, has tracked Ebola outbreaks for years. In the largest Ebola outbreak on record, in West Africa from 2014 to 2016, she sequenced many of the viral samples",
@@ -24,16 +34,6 @@
       "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang",
       "summary": "President Donald Trump on Monday applauded NVIDIA’s board of directors for reinstating Jensen Huang as the company’s president and CEO, calling it “the correct and proper decision.” “The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO,” Trump said in a Truth Social post . “The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy.” Huang’s return to the technology co",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5bce7363a810093e/6b0458929a20bcd0398fae47/Trump-NVIDIA-Reax.jpg?branch=production"
-    },
-    {
-      "title": "Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul",
-      "summary": "For nearly half a century, the Blade Runner franchise has been on the run from the accusation that its future-noir visual style eclipses the substance of its stories. Critics rhapsodized over the look of Ridley Scott’s 1982 film—a box-office flop that gradually achieved cult-classic status on home video—but judged it to be, as Janet Maslin wrote in the New York Times , “a mess, at least as far as its narrative is concerned.” TIME’s Richard Corliss concluded that “ Blade Runner , like its setting, is a beautiful, de",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt62af45bb54788b1b/6afdc75a6e3eb1d85bdfa739/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?branch=production"
-    },
-    {
-      "title": "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
-      "summary": "Ukraine sank a Russian warship moored at a port in Libya using naval drones, said Ukrainian President Volodymyr Zelensky . Forces deployed seven Ukrainian-made drones that struck and sank the Russian corvette Mercury, which was carrying a combat helicopter, Zelensky said Monday morning. A second ship, the Russian container carrier MV ANGARA, which Zelensky said was being used to “transport weapons,” was also hit. Footage released by Ukraine’s Ministry of Defense appeared to show sea drones speeding toward the warsh",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b7fe102fd90768e/6b042b9494c0acf7c14a5d9b/Russia_warship.jpg?branch=production"
     }
   ]
 }
