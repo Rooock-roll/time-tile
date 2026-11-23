@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b50abb5062f6c3133b82745ef00dabcf232e9a55/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@067102ecbc4e0a1c818a98347b55aabb81d2ca4e/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Scott Olson—Getty Images</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b50abb5062f6c3133b82745ef00dabcf232e9a55/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Ukraine sank a Russian warship moored at a port in Libya using naval drones, said Ukrainian President Volodymyr Zelensky. Forces deployed seven Ukrainian-made drone…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@067102ecbc4e0a1c818a98347b55aabb81d2ca4e/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Scott Olson—Getty Images</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The U.S. Army said it is pushing through with the controlled detonation of more than five dozen barrels of a toxic explosive chemical in an Iowa munitions plant on …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b50abb5062f6c3133b82745ef00dabcf232e9a55/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Ukraine sank a Russian warship moored at a port in Libya using naval drones, said Ukrainian President Volodymyr Zelensky. Forces deployed seven Ukrainian-made drones that struck and sank the Russian corvette Mercury, which was carrying a combat helicopter, Zelensky said Monday morning. A second ship, the Russian container carrier MV ANGARA, which Zelensky said was being used to “transport weapons,” was also hit. Footage released by Ukraine’s Ministry of Defense app…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@067102ecbc4e0a1c818a98347b55aabb81d2ca4e/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Scott Olson—Getty Images</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The U.S. Army said it is pushing through with the controlled detonation of more than five dozen barrels of a toxic explosive chemical in an Iowa munitions plant on Wednesday, despite public outcry over the potential health impacts on neighboring communities and an ongoing legal battle. Nearly five tons of degraded lead azide, a chemical compound used as a detonator in cartridges and shells, are set to be detonated at the Iowa Army Ammunition Plant in Middletown, a …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Zelensky Says Ukraine S…</text>
+      <text hint-style="caption">Scott Olson—Getty Images</text>
     </binding>
   </visual>
 </tile>
