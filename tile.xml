@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e8267500905cee9dde66ac3e566c5702cd75e74c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@28d1395995da9ccd83252272f863e463f9c83c25/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why the World’s Climate Talks Broke Down—and What Happens Now</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e8267500905cee9dde66ac3e566c5702cd75e74c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@28d1395995da9ccd83252272f863e463f9c83c25/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why the World’s Climate Talks Broke Down—and What Happens Now</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">COP31 , the United Nations’ annual climate change summit, ended on Sunday without consensus on an overarching climate deal after about two days of overtime in Antal…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e8267500905cee9dde66ac3e566c5702cd75e74c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@28d1395995da9ccd83252272f863e463f9c83c25/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why the World’s Climate Talks Broke Down—and What Happens Now</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">COP31 , the United Nations’ annual climate change summit, ended on Sunday without consensus on an overarching climate deal after about two days of overtime in Antalya, Türkiye. The annual conference brings together delegates to shape and formalize an approach to combating the effects of global warming . This year, the main dispute was whether the agreement should explicitly call for a transition away from fossil fuels . That commitment traces back to the Paris Agre…</text>
     </binding>
