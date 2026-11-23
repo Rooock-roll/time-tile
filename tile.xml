@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4e25513f567a2f264272053dbc63cf12b98749df/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fb56d9b3657b157281e2dcf866d87ebd200372f3/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4e25513f567a2f264272053dbc63cf12b98749df/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fb56d9b3657b157281e2dcf866d87ebd200372f3/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For nearly half a century, the Blade Runner franchise has been on the run from the accusation that its future-noir visual style eclipses the substance of its storie…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4e25513f567a2f264272053dbc63cf12b98749df/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fb56d9b3657b157281e2dcf866d87ebd200372f3/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For nearly half a century, the Blade Runner franchise has been on the run from the accusation that its future-noir visual style eclipses the substance of its stories. Critics rhapsodized over the look of Ridley Scott’s 1982 film—a box-office flop that gradually achieved cult-classic status on home video—but judged it to be, as Janet Maslin wrote in the New York Times , “a mess, at least as far as its narrative is concerned.” TIME’s Richard Corliss concluded that “ …</text>
     </binding>
