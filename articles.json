@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-23T18:15:46.779510+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-23T18:31:06.470017+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Will Bad Weather Disrupt Thanksgiving Travel?",
+    "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
     "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
     "How Taiwan Is Turning Tech Supremacy Into a Security Shield",
-    "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
-    "Thanksgiving Dinner Is Set to Cost Americans More This Year, Says Farm Bureau. Here’s Why",
-    "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang"
+    "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti"
   ],
   "articles": [
+    {
+      "title": "Will Bad Weather Disrupt Thanksgiving Travel?",
+      "summary": "Millions are expected to travel this week ahead of the Thanksgiving holiday, but stormy weather and coastal flooding in parts of the country could disrupt plans during one of the year’s busiest travel periods. AAA projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving between Tuesday, Nov. 24 and Monday, Nov. 30. On the East Coast, a developing nor’easter is expected to bring heavy rain, winds, and coastal flooding to the Southeast, impacting Florida and the Carolinas on Wednesday,",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7f9189e9faf8afea/6b047fb4ede4c378ff6cec6d/thanksgiving-weather.jpg?branch=production"
+    },
+    {
+      "title": "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
+      "summary": "Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the business, tech, and policy worlds. On Nov. 12, Huang stepped down from the company he co-founded in 1993 after acknowledging an extramarital affair with Alice Huang, a Chinese national whom U.S. intelligence officials reportedly suspected was a Chinese spy. Her former company, Megaspeed, is also under criminal investigation over possible export-control ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltedaff2308db0cfe9/6b047919144cf25daf64489f/GettyImages-2297774940.jpg?branch=production"
+    },
     {
       "title": "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
       "summary": "In the eleven years since the Paris Agreement , countries around the world have met annually to plot out the global consensus on how to tackle climate change. In some years negotiations led to big breakthroughs. In others, talks simply kept the ball in play, signaling to the world that nations were aligned in their desire to tackle climate change, even if it’s hard to agree on the exact path forward. So it was a striking moment in the three-decade arc of United Nations climate negotiations when talks fell apart in ",
@@ -24,16 +34,6 @@
       "title": "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
       "summary": "The ongoing Ebola outbreak centered in the Democratic Republic of Congo (DRC) is now the second largest on record. The virus has infected more than 11,000 people in five countries and has killed more than 5,700 people as of Nov. 20. Pardis Sabeti, a leader at the Broad Institute of MIT and Harvard who specializes in computational genetics and evolutionary biology, has tracked Ebola outbreaks for years. In the largest Ebola outbreak on record, in West Africa from 2014 to 2016, she sequenced many of the viral samples",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7a41e82cbb7b4f28/6afda2800b864fe5eb999e68/GettyImages-2301848629.jpg?branch=production"
-    },
-    {
-      "title": "Thanksgiving Dinner Is Set to Cost Americans More This Year, Says Farm Bureau. Here’s Why",
-      "summary": "The American Farm Bureau Federation (AFBF) estimates that the cost of Thanksgiving dinner this year will be up more than 6% compared to last year, with steep turkey prices and higher fuel costs driving up the bill. The average 10-person dinner will cost $58.63, compared to $55.18 in 2025, according to the bureau’s annual report . This is the first year the bureau has reported a rise in the cost of the dinner since 2022, when prices hit a record high of $64.05. The agricultural organization’s estimates are based on ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf03fafa2fec1af9d/6b045c4a6465590d04992c25/GettyImages-2301165740_(1).jpg?branch=production"
-    },
-    {
-      "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang",
-      "summary": "President Donald Trump on Monday applauded NVIDIA’s board of directors for reinstating Jensen Huang as the company’s president and CEO, calling it “the correct and proper decision.” “The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO,” Trump said in a Truth Social post . “The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy.” Huang’s return to the technology co",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5bce7363a810093e/6b0458929a20bcd0398fae47/Trump-NVIDIA-Reax.jpg?branch=production"
     }
   ]
 }
