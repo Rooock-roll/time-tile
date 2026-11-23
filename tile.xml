@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8e714844122b46ef7ed8a83ece0c6a5f31be3afd/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@12fc6f87e68f9b9d46f11f58d10efd898d1a92e9/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8e714844122b46ef7ed8a83ece0c6a5f31be3afd/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@12fc6f87e68f9b9d46f11f58d10efd898d1a92e9/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The ongoing Ebola outbreak centered in the Democratic Republic of Congo (DRC) is now the second largest on record. The virus has infected more than 11,000 people in…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8e714844122b46ef7ed8a83ece0c6a5f31be3afd/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@12fc6f87e68f9b9d46f11f58d10efd898d1a92e9/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The ongoing Ebola outbreak centered in the Democratic Republic of Congo (DRC) is now the second largest on record. The virus has infected more than 11,000 people in five countries and has killed more than 5,700 people as of Nov. 20. Pardis Sabeti, a leader at the Broad Institute of MIT and Harvard who specializes in computational genetics and evolutionary biology, has tracked Ebola outbreaks for years. In the largest Ebola outbreak on record, in West Africa from 20…</text>
     </binding>
