@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@58805e8a79cb1e8cddc9648cb5855a2656fe7978/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">6 Questions About Jensen Huang's Stunning Return as Nvidia CEO</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@352bdead9d7e3235efeabc01ccb7211d4d34b8b4/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@58805e8a79cb1e8cddc9648cb5855a2656fe7978/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">6 Questions About Jensen Huang's Stunning Return as Nvidia CEO</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@352bdead9d7e3235efeabc01ccb7211d4d34b8b4/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In the eleven years since the Paris Agreement , countries around the world have met annually to plot out the global consensus on how to tackle climate change. In so…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@58805e8a79cb1e8cddc9648cb5855a2656fe7978/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">6 Questions About Jensen Huang's Stunning Return as Nvidia CEO</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the business, tech, and policy worlds. On Nov. 12, Huang stepped down from the company he co-founded in 1993 after acknowledging an extramarital affair with Alice Huang, a Chinese national whom U.S. intelligence officials reportedly suspected was a Chinese spy. Her former company, Megaspeed, is also under c…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@352bdead9d7e3235efeabc01ccb7211d4d34b8b4/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In the eleven years since the Paris Agreement , countries around the world have met annually to plot out the global consensus on how to tackle climate change. In some years negotiations led to big breakthroughs. In others, talks simply kept the ball in play, signaling to the world that nations were aligned in their desire to tackle climate change, even if it’s hard to agree on the exact path forward. So it was a striking moment in the three-decade arc of United Nat…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">6 Questions About Jense…</text>
+      <text hint-style="caption">The Failed U.N. COP31 D…</text>
     </binding>
   </visual>
 </tile>
