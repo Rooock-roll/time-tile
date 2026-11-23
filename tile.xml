@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ac08b0779c18a7700e524e249e6c30a23b780495/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@30f87875f1d08aefc0bbbbe1c16bbfb22fa111eb/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ac08b0779c18a7700e524e249e6c30a23b780495/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@30f87875f1d08aefc0bbbbe1c16bbfb22fa111eb/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the lar…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ac08b0779c18a7700e524e249e6c30a23b780495/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@30f87875f1d08aefc0bbbbe1c16bbfb22fa111eb/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the largest and deadliest Ebola outbreak in the country’s history and the second-deadliest worldwide. Katie Thomas-Canfield, who is based in Bunia, Congo, and serves as the Ebola response director for the International Rescue Committee, tells TIME that this outbreak’s deadly pace is informed by numerous converg…</text>
     </binding>
