@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-23T16:15:46.191528+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-23T16:31:04.823254+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
+    "Thanksgiving Dinner Is Set to Cost Americans More This Year, Says Farm Bureau. Here’s Why",
+    "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang",
     "Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul",
-    "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
-    "Scott Olson—Getty Images",
-    "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
-    "Why the World’s Climate Talks Broke Down—and What Happens Now"
+    "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya"
   ],
   "articles": [
+    {
+      "title": "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
+      "summary": "The ongoing Ebola outbreak centered in the Democratic Republic of Congo (DRC) is now the second largest on record. The virus has infected more than 11,000 people in five countries and has killed more than 5,700 people as of Nov. 20. Pardis Sabeti, a leader at the Broad Institute of MIT and Harvard who specializes in computational genetics and evolutionary biology, has tracked Ebola outbreaks for years. In the largest Ebola outbreak on record, in West Africa from 2014 to 2016, she sequenced many of the viral samples",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7a41e82cbb7b4f28/6afda2800b864fe5eb999e68/GettyImages-2301848629.jpg?branch=production"
+    },
+    {
+      "title": "Thanksgiving Dinner Is Set to Cost Americans More This Year, Says Farm Bureau. Here’s Why",
+      "summary": "The American Farm Bureau Federation (AFBF) estimates that the cost of Thanksgiving dinner this year will be up more than 6% compared to last year, with steep turkey prices and higher fuel costs driving up the bill. The average 10-person dinner will cost $58.63, compared to $55.18 in 2025, according to the bureau’s annual report . This is the first year the bureau has reported a rise in the cost of the dinner since 2022, when prices hit a record high of $64.05. The agricultural organization’s estimates are based on ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf03fafa2fec1af9d/6b045c4a6465590d04992c25/GettyImages-2301165740_(1).jpg?branch=production"
+    },
+    {
+      "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang",
+      "summary": "President Donald Trump on Monday applauded NVIDIA’s board of directors for reinstating Jensen Huang as the company’s president and CEO, calling it “the correct and proper decision.” “The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO,” Trump said in a Truth Social post . “The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy.” Huang’s return to the technology co",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5bce7363a810093e/6b0458929a20bcd0398fae47/Trump-NVIDIA-Reax.jpg?branch=production"
+    },
     {
       "title": "Beneath Its Brilliant Surface, Blade Runner 2099 Lacks a Human Soul",
       "summary": "For nearly half a century, the Blade Runner franchise has been on the run from the accusation that its future-noir visual style eclipses the substance of its stories. Critics rhapsodized over the look of Ridley Scott’s 1982 film—a box-office flop that gradually achieved cult-classic status on home video—but judged it to be, as Janet Maslin wrote in the New York Times , “a mess, at least as far as its narrative is concerned.” TIME’s Richard Corliss concluded that “ Blade Runner , like its setting, is a beautiful, de",
@@ -19,21 +34,6 @@
       "title": "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
       "summary": "Ukraine sank a Russian warship moored at a port in Libya using naval drones, said Ukrainian President Volodymyr Zelensky . Forces deployed seven Ukrainian-made drones that struck and sank the Russian corvette Mercury, which was carrying a combat helicopter, Zelensky said Monday morning. A second ship, the Russian container carrier MV ANGARA, which Zelensky said was being used to “transport weapons,” was also hit. Footage released by Ukraine’s Ministry of Defense appeared to show sea drones speeding toward the warsh",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b7fe102fd90768e/6b042b9494c0acf7c14a5d9b/Russia_warship.jpg?branch=production"
-    },
-    {
-      "title": "Scott Olson—Getty Images",
-      "summary": "The U.S. Army said it is pushing through with the controlled detonation of more than five dozen barrels of a toxic explosive chemical in an Iowa munitions plant on Wednesday, despite public outcry over the potential health impacts on neighboring communities and an ongoing legal battle. Nearly five tons of degraded lead azide, a chemical compound used as a detonator in cartridges and shells, are set to be detonated at the Iowa Army Ammunition Plant in Middletown, a city in Des Moines County of nearly 400 people some",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc85795e6f74e8865/6b041861729e01679fcc8135/iowa-munitions-plant.jpg?branch=production"
-    },
-    {
-      "title": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
-      "summary": "South Korea’s education minister has resigned after intense backlash against new rules meant to prevent cheating using artificial intelligence during the country’s high-stakes college entrance exams. Choi Kyo-jin announced his resignation on Sunday in response to “criticism or blame from the public for failing to prepare adequately in advance.” The Ministry of Education had announced the new exam measures on Tuesday, just two days before nearly 500,000 South Koreans took the hourslong College Scholastic Ability Tes",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt80be1e454b1126a6/6b041bc170527868f9b39167/South_Korea_Suneung.jpg?branch=production"
-    },
-    {
-      "title": "Why the World’s Climate Talks Broke Down—and What Happens Now",
-      "summary": "COP31 , the United Nations’ annual climate change summit, ended on Sunday without consensus on an overarching climate deal after about two days of overtime in Antalya, Türkiye. The annual conference brings together delegates to shape and formalize an approach to combating the effects of global warming . This year, the main dispute was whether the agreement should explicitly call for a transition away from fossil fuels . That commitment traces back to the Paris Agreement , a 2015 climate treaty that calls for effort",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt150e909da545f73e/6b0341b4144cf26cbd643b7f/AP26315475140253.jpg?branch=production"
     }
   ]
 }
