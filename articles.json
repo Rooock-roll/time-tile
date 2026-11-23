@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-23T21:31:02.585689+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-23T21:45:45.582238+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What the Rohingya and Gambia Proved in The Hague",
     "What to Know About The Supermoon Appearing This Thanksgiving Week",
     "Will Bad Weather Disrupt Thanksgiving Travel?",
     "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
-    "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
-    "How Taiwan Is Turning Tech Supremacy Into a Security Shield"
+    "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action"
   ],
   "articles": [
+    {
+      "title": "What the Rohingya and Gambia Proved in The Hague",
+      "summary": "In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities against the Rohingya called for investigating and prosecuting Myanmar military leaders for genocide, crimes against humanity, and war crimes. At the time, it felt impossibly distant. I approached diplomats in New York and officials in national capitals with an idea: What if a country which is party to the Genocide Convention asked the ICJ to hold Myanmar itsel",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltefcd54187d0af209/6b04a0cdca3d8d6afcd95c1e/GettyImages-855861622.jpg?branch=production"
+    },
     {
       "title": "What to Know About The Supermoon Appearing This Thanksgiving Week",
       "summary": "There will be a lot of things competing for your attention this Thanksgiving week: the travel, the turkey , the family, the football. But spare a moment for the sky. On Monday, Tuesday, and Wednesday, Nov. 23 to 25, a spectacular full moon known as a supermoon will shine overhead, visible both in the evening and, though not as dazzlingly, during the day. It will be the first of a run of three supermoons, the other two peaking on Christmas Eve and Jan. 22. A supermoon is like any other full moon, only more so. A ful",
@@ -29,11 +34,6 @@
       "title": "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
       "summary": "In the eleven years since the Paris Agreement , countries around the world have met annually to plot out the global consensus on how to tackle climate change. In some years negotiations led to big breakthroughs. In others, talks simply kept the ball in play, signaling to the world that nations were aligned in their desire to tackle climate change, even if it’s hard to agree on the exact path forward. So it was a striking moment in the three-decade arc of United Nations climate negotiations when talks fell apart in ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51fae25dab4135dc/6b04668b729e012440cc87aa/cop31_climate_conference.jpg?branch=production"
-    },
-    {
-      "title": "How Taiwan Is Turning Tech Supremacy Into a Security Shield",
-      "summary": "The southern Taiwanese city of Chiayi has long been synonymous with a cherished culinary staple: turkey rice, served drenched in savory soy broth and topped with lard-fried shallots and pickled radish. Introduced by American GIs after World War II, the non-native bird became an affordable alternative to chicken and quickly became a local icon. Eight decades later, Chiayi is anchoring its identity in a very different military legacy: uncrewed aerial vehicles (UAVs). Today, more than 50 companies and research institu",
-      "image": "https://cdn.jwplayer.com/manifests/gXNQ6TfE.m3u8"
     }
   ]
 }
