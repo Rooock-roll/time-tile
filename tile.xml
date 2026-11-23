@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@22c4942b419d89fafc3a0c4b1ef989cc79a3ef58/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Will Bad Weather Disrupt Thanksgiving Travel?</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc36163c1688cda8fa236d1fcd72f9cc434b0342/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">6 Questions About Jensen Huang's Stunning Return as Nvidia CEO</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@22c4942b419d89fafc3a0c4b1ef989cc79a3ef58/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Will Bad Weather Disrupt Thanksgiving Travel?</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Millions are expected to travel this week ahead of the Thanksgiving holiday, but stormy weather and coastal flooding in parts of the country could disrupt plans dur…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc36163c1688cda8fa236d1fcd72f9cc434b0342/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">6 Questions About Jensen Huang's Stunning Return as Nvidia CEO</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@22c4942b419d89fafc3a0c4b1ef989cc79a3ef58/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Will Bad Weather Disrupt Thanksgiving Travel?</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Millions are expected to travel this week ahead of the Thanksgiving holiday, but stormy weather and coastal flooding in parts of the country could disrupt plans during one of the year’s busiest travel periods. AAA projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving between Tuesday, Nov. 24 and Monday, Nov. 30. On the East Coast, a developing nor’easter is expected to bring heavy rain, winds, and coastal flooding to the Southeast…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fc36163c1688cda8fa236d1fcd72f9cc434b0342/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">6 Questions About Jensen Huang's Stunning Return as Nvidia CEO</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the business, tech, and policy worlds. On Nov. 12, Huang stepped down from the company he co-founded in 1993 after acknowledging an extramarital affair with Alice Huang, a Chinese national whom U.S. intelligence officials reportedly suspected was a Chinese spy. Her former company, Megaspeed, is also under c…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Will Bad Weather Disrup…</text>
+      <text hint-style="caption">6 Questions About Jense…</text>
     </binding>
   </visual>
 </tile>
