@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fb373e79601eef2f0840c194ca0ed4b693dff1bb/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b1977c96c7b243acaaf48c87feae8b1d6213bd0c/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fb373e79601eef2f0840c194ca0ed4b693dff1bb/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b1977c96c7b243acaaf48c87feae8b1d6213bd0c/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">South Korea’s education minister has resigned after intense backlash against new rules meant to prevent cheating using artificial intelligence during the country’s …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fb373e79601eef2f0840c194ca0ed4b693dff1bb/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b1977c96c7b243acaaf48c87feae8b1d6213bd0c/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">South Korea’s education minister has resigned after intense backlash against new rules meant to prevent cheating using artificial intelligence during the country’s high-stakes college entrance exams. Choi Kyo-jin announced his resignation on Sunday in response to “criticism or blame from the public for failing to prepare adequately in advance.” The Ministry of Education had announced the new exam measures on Tuesday, just two days before nearly 500,000 South Korean…</text>
     </binding>
