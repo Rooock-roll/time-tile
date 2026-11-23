@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-23T13:01:19.285934+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-23T13:15:46.410600+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
+    "Scott Olson—Getty Images",
+    "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
     "Why the World’s Climate Talks Broke Down—and What Happens Now",
-    "How to Deal with Anxiety",
-    "Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?",
-    "America, China, and the Costs of the Bipolar AI Race",
-    "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner"
+    "How to Deal with Anxiety"
   ],
   "articles": [
+    {
+      "title": "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
+      "summary": "Ukraine sank a Russian warship moored at a port in Libya using naval drones, said Ukrainian President Volodymyr Zelensky. Forces deployed seven Ukrainian-made drones that struck and sank the Russian corvette Mercury, which was carrying a combat helicopter, Zelensky said Monday morning. A second ship, the Russian container carrier MV ANGARA, which Zelensky said was being used to “transport weapons,” was also hit. Footage released by Ukraine’s Ministry of Defense appeared to show sea drones speeding toward the warshi",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b7fe102fd90768e/6b042b9494c0acf7c14a5d9b/Russia_warship.jpg?branch=production"
+    },
+    {
+      "title": "Scott Olson—Getty Images",
+      "summary": "The U.S. Army said it is pushing through with the controlled detonation of more than five dozen barrels of a toxic explosive chemical in an Iowa munitions plant on Wednesday, despite public outcry over the potential health impacts on neighboring communities and an ongoing legal battle. Nearly five tons of degraded lead azide, a chemical compound used as a detonator in cartridges and shells, are set to be detonated at the Iowa Army Ammunition Plant in Middletown, a city in Des Moines County of nearly 400 people some",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc85795e6f74e8865/6b041861729e01679fcc8135/iowa-munitions-plant.jpg?branch=production"
+    },
+    {
+      "title": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
+      "summary": "South Korea’s education minister has resigned after intense backlash against new rules meant to prevent cheating using artificial intelligence during the country’s high-stakes college entrance exams. Choi Kyo-jin announced his resignation on Sunday in response to “criticism or blame from the public for failing to prepare adequately in advance.” The Ministry of Education had announced the new exam measures on Tuesday, just two days before nearly 500,000 South Koreans took the hourslong College Scholastic Ability Tes",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt80be1e454b1126a6/6b041bc170527868f9b39167/South_Korea_Suneung.jpg?branch=production"
+    },
     {
       "title": "Why the World’s Climate Talks Broke Down—and What Happens Now",
       "summary": "COP31 , the United Nations’ annual climate change summit, ended on Sunday without consensus on an overarching climate deal after about two days of overtime in Antalya, Türkiye. The annual conference brings together delegates to shape and formalize an approach to combating the effects of global warming . This year, the main dispute was whether the agreement should explicitly call for a transition away from fossil fuels . That commitment traces back to the Paris Agreement , a 2015 climate treaty that calls for effort",
@@ -19,21 +34,6 @@
       "title": "How to Deal with Anxiety",
       "summary": "Hands down, anxiety is the most common mental health issue affecting Americans today. Over 19% of adults in the U.S. meet criteria for an anxiety disorder in any given year. Many often don’t recognize these difficulties, or mistake them for signs of a physical health condition. As a psychologist, I can tell you that worrying is a normal part of life. Occasionally, we all get a little nervous about something. We can fret that we blew a job interview or made a poor impression on a first date. We may feel on edge thin",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd44c69c8d9747f6f/6b006e1ee196fd518ddc0dbc/anxiety.jpg?branch=production"
-    },
-    {
-      "title": "Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?",
-      "summary": "The Ebola outbreak that originated in the Democratic Republic of Congo (DRC) has surpassed 11,700 confirmed cases and 5,700 deaths as of Nov. 19 , making it the largest and deadliest Ebola outbreak in the country’s history and the second-deadliest worldwide. Katie Thomas-Canfield, who is based in Bunia, Congo, and serves as the Ebola response director for the International Rescue Committee, tells TIME that this outbreak’s deadly pace is informed by numerous converging factors. “There's some element of it that is a ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97ae3f6d5fc1a7ee/6b01a1c99a20bc24d08fa016/GettyImages-2300883531.jpg?branch=production"
-    },
-    {
-      "title": "America, China, and the Costs of the Bipolar AI Race",
-      "summary": "We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The United States has long dominated the field, but China’s meteoric rise has made it the strongest challenger to American dominance . The AI race is increasingly bipolar, and much of the power to shape this critical technology is concentrated in these two countries. With the American and Chinese dominance of this emerging technology comes a widening geograph",
-      "image": ""
-    },
-    {
-      "title": "ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner",
-      "summary": "Electroconvulsive therapy, or ECT, isn’t terribly fashionable. People sometimes get an uneasy look on their faces at the mention of it. The treatment has come a long way since those agonizing scenes in Miloš Forman’s One Flew Over the Cuckoo’s Nest —but I understand why ECT still freaks people out. Electricity is what Victor Frankenstein used to animate his monster; as recently as 2020 , the state used it to execute murderers. Nevertheless, in 2021, I decided to undergo the treatment, allowing an electrical current",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc25c9201d49a3b88/6afe0f1af70f127c4da14f2b/ect.jpg?branch=production"
     }
   ]
 }
