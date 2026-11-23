@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9cf171a5be2da2e227307c4c9a3c849a82f6dca/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@652bd331e91cd64a701f32e0caa105e2c40b72dc/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">America, China, and the Costs of the Bipolar AI Race</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9cf171a5be2da2e227307c4c9a3c849a82f6dca/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@652bd331e91cd64a701f32e0caa105e2c40b72dc/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">America, China, and the Costs of the Bipolar AI Race</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The U…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a9cf171a5be2da2e227307c4c9a3c849a82f6dca/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@652bd331e91cd64a701f32e0caa105e2c40b72dc/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">America, China, and the Costs of the Bipolar AI Race</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">We are in the age of artificial intelligence. Many are comparing the technology to electricity and describing it as the industrial revolution of this century. The United States has long dominated the field, but China’s meteoric rise has made it the strongest challenger to American dominance . The AI race is increasingly bipolar, and much of the power to shape this critical technology is concentrated in these two countries. With the American and Chinese dominance of…</text>
     </binding>
