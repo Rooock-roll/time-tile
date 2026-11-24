@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c47fdc45105e4346c88b8bd3739da805a2a61da5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ed3e07d96c92f6a41235e65be3fbbfefdb5c8c11/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About The Supermoon Appearing This Thanksgiving Week</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c47fdc45105e4346c88b8bd3739da805a2a61da5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ed3e07d96c92f6a41235e65be3fbbfefdb5c8c11/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About The Supermoon Appearing This Thanksgiving Week</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">There will be a lot of things competing for your attention this Thanksgiving week: the travel, the turkey , the family, the football. But spare a moment for the sky…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c47fdc45105e4346c88b8bd3739da805a2a61da5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ed3e07d96c92f6a41235e65be3fbbfefdb5c8c11/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About The Supermoon Appearing This Thanksgiving Week</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">There will be a lot of things competing for your attention this Thanksgiving week: the travel, the turkey , the family, the football. But spare a moment for the sky. On Monday, Tuesday, and Wednesday, Nov. 23 to 25, a spectacular full moon known as a supermoon will shine overhead, visible both in the evening and, though not as dazzlingly, during the day. It will be the first of a run of three supermoons, the other two peaking on Christmas Eve and Jan. 22. A supermo…</text>
     </binding>
