@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@05a2e8017ed8feab49e4d98f4dcb300bd08b897f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Immigration Is Not a Fringe Issue</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0a37f2dea550ff2c8e135e0d2c4c12e52b6142c1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@05a2e8017ed8feab49e4d98f4dcb300bd08b897f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Immigration Is Not a Fringe Issue</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way t…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0a37f2dea550ff2c8e135e0d2c4c12e52b6142c1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executiv…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@05a2e8017ed8feab49e4d98f4dcb300bd08b897f/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Immigration Is Not a Fringe Issue</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way to work. Besides them sat and wept the families of Renee Nicole Good and Alex Pretti . Next to me were clergy wearing t-shirts that said “ Connected Americans ” and whispering prayers as they listened to the testimony of families whose loved ones had been killed in the streets. While a number of elected o…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0a37f2dea550ff2c8e135e0d2c4c12e52b6142c1/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have be…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Immigration Is Not a Fr…</text>
+      <text hint-style="caption">Jensen Huang and the Cu…</text>
     </binding>
   </visual>
 </tile>

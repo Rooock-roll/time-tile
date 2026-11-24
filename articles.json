@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-24T15:45:52.074243+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-24T16:01:15.458082+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Jensen Huang and the Cult of the Male Tech Founder",
+    "Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?",
     "Where AI Meets Instinct in Formula 1",
     "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
-    "Havana, Caracas and Trump’s Unfinished Business in Latin America",
-    "Immigration Is Not a Fringe Issue",
-    "Measles Is Back in the U.S. What Happens Next?"
+    "Havana, Caracas and Trump’s Unfinished Business in Latin America"
   ],
   "articles": [
+    {
+      "title": "Jensen Huang and the Cult of the Male Tech Founder",
+      "summary": "Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have been unusually shocking for an industry whose real-li",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt18fbafa11c9cce40/6b05b13f729e01bc4fcc9327/GettyImages-2306021511.jpg?branch=production"
+    },
+    {
+      "title": "Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?",
+      "summary": "New York City Mayor Zohran Mamdani has announced plans to shut down the city’s Rikers Island jail complex in 2032 after a century in operation, setting an end date for a site that has long been infamous for persistent violence and abuse. In its place, the city is set to open “borough-based” jails in four of its five boroughs : Manhattan, Brooklyn, Queens, and the Bronx. The fifth, Staten Island, would be the only borough not to host a jail. “Our administration is closing Rikers Island once and for all, and building",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2eae293629b78ad6/6b05a37f144cf2906f64514e/GettyImages-2305555616.jpg?branch=production"
+    },
     {
       "title": "Where AI Meets Instinct in Formula 1",
       "summary": "",
@@ -24,16 +34,6 @@
       "title": "Havana, Caracas and Trump’s Unfinished Business in Latin America",
       "summary": "“I want to get Cuba done before I leave you,” President Donald Trump told a conservative radio host on Nov. 12. It is a reminder that, despite the historic beating his party took in the midterm elections, Trump continues to see Latin America as a crucial part of his legacy. Though it was New York Post headline writers who coined the term “Donroe Doctrine,” a play on President James Monroe’s insistence two centuries ago that the United States alone would dominate the Americas, Trump has embraced the term as he think",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbe7e9a5dd207e706/6b0582daca3d8de4ced96305/GettyImages-2304822391.jpg?branch=production"
-    },
-    {
-      "title": "Immigration Is Not a Fringe Issue",
-      "summary": "At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way to work. Besides them sat and wept the families of Renee Nicole Good and Alex Pretti . Next to me were clergy wearing t-shirts that said “ Connected Americans ” and whispering prayers as they listened to the testimony of families whose loved ones had been killed in the streets. While a number of elected officials sat in the front of the room, they were no",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc92a8202a523291f/6b04cb3a15881e90ad0d3ef8/Statue-of-Liberty.jpg?branch=production"
-    },
-    {
-      "title": "Measles Is Back in the U.S. What Happens Next?",
-      "summary": "On Nov. 17, the Pan American Health Organization (PAHO) declared that measles is no longer considered \"eliminated\" in the U.S. In the past year, the U.S. Centers for Disease Control and Prevention (CDC) recorded more than 5,800 cases of measles—the highest caseload since 1991. Vaccination programs and increased monitoring of incoming measles cases helped the U.S. to eliminate measles in 2000, meaning there was no consistent spread of the virus within the country for more than a year. Since then, sporadic cases of t",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c8288d2a1d39662/6b044e3915881e05190d3724/GettyImages-2202122535.jpg?branch=production"
     }
   ]
 }
