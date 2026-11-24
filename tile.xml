@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ebbed8a7f8f73839dad1684ffde68d186b75540d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5bae979a38077506165cf62cad090f03b214e0fe/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ebbed8a7f8f73839dad1684ffde68d186b75540d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5bae979a38077506165cf62cad090f03b214e0fe/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexua…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ebbed8a7f8f73839dad1684ffde68d186b75540d/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5bae979a38077506165cf62cad090f03b214e0fe/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexual misconduct . Gomez, in a statement , said he “recognize[s] the seriousness of the Ethics Committee’s report, ” but has “strong disagreements” with its conclusions. “Among other significant deficiencies and omissions, the report does not include key portions of my testimony that are essential to a full …</text>
     </binding>
