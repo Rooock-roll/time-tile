@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@290f63c2fa5f6f9ddbdadabbe5692ad8aa32d180/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4e3c4ca4bdad0086e0f5afed7b206725e424ac10/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Measles Is Back in the U.S. What Happens Next?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@290f63c2fa5f6f9ddbdadabbe5692ad8aa32d180/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4e3c4ca4bdad0086e0f5afed7b206725e424ac10/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Measles Is Back in the U.S. What Happens Next?</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On Nov. 17, the Pan American Health Organization (PAHO) declared that measles is no longer considered &quot;eliminated&quot; in the U.S. In the past year, the U.S. Centers fo…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@290f63c2fa5f6f9ddbdadabbe5692ad8aa32d180/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4e3c4ca4bdad0086e0f5afed7b206725e424ac10/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Measles Is Back in the U.S. What Happens Next?</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On Nov. 17, the Pan American Health Organization (PAHO) declared that measles is no longer considered &quot;eliminated&quot; in the U.S. In the past year, the U.S. Centers for Disease Control and Prevention (CDC) recorded more than 5,800 cases of measles—the highest caseload since 1991. Vaccination programs and increased monitoring of incoming measles cases helped the U.S. to eliminate measles in 2000, meaning there was no consistent spread of the virus within the country fo…</text>
     </binding>
