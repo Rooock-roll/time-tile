@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-24T19:45:43.979756+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-24T20:03:09.380467+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
     "Habits Food-Waste Experts Recommend This Thanksgiving",
     "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions",
     "11 Things People in Healthy Relationships Say to Each Other",
-    "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct",
-    "Jensen Huang and the Cult of the Male Tech Founder"
+    "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct"
   ],
   "articles": [
+    {
+      "title": "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
+      "summary": "President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Medal of Freedom. Appearing on Steve Bannon’s War Room podcast on Monday, Giuliani said that he was “very, very humbled and very honored” by the recognition. Giuliani rose to prominence as a prosecutor in New York and was first elected Mayor of New York City in 1993 as a Republican. For his leadership during 9/11, he was dubbed “America’s Mayor.” In 2007, ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c6f6a672bed9260/6b05c257e196fd3428dc2dd0/GettyImages-2294160246.jpg?branch=production"
+    },
     {
       "title": "Habits Food-Waste Experts Recommend This Thanksgiving",
       "summary": "For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. One study found that, in 2025, Americans discarded enough food to fill 40 football fields from their Thanksgiving meals. We spoke with experts about how you can avoid food waste this Thanksgiving. Read more: Will Bad Weather Disrupt Thanksgiving Travel? Avoiding food waste starts long before your meal is on the table. Before you go shopping, look through ",
@@ -29,11 +34,6 @@
       "title": "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct",
       "summary": "Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexual misconduct . Gomez, in a statement , said he “recognize[s] the seriousness of the Ethics Committee’s report, ” but has “strong disagreements” with its conclusions. “Among other significant deficiencies and omissions, the report does not include key portions of my testimony that are essential to a full and fair understanding of what occurred,” Gomez sai",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97a05cc012a248fa/6b05b0fa4377b55a01433064/GettyImages-2266851382.jpg?branch=production"
-    },
-    {
-      "title": "Jensen Huang and the Cult of the Male Tech Founder",
-      "summary": "Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have been unusually shocking for an industry whose real-li",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt18fbafa11c9cce40/6b05b13f729e01bc4fcc9327/GettyImages-2306021511.jpg?branch=production"
     }
   ]
 }

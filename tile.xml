@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc62ac734e87dba998296227f96e07b69edc2dc3/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fe3386f2f05706745c08637d8060beb8af783937/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc62ac734e87dba998296227f96e07b69edc2dc3/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fe3386f2f05706745c08637d8060beb8af783937/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Me…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc62ac734e87dba998296227f96e07b69edc2dc3/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing you could rewind. But listen to people in healthy relationships, and certain kinds of words come up again and again: the ones that show appreciation, make room for a bad day, or let someone know they don’t have to hide the messy parts of being human. “Sometimes people just want to feel seen,” says Stepha…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fe3386f2f05706745c08637d8060beb8af783937/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Medal of Freedom. Appearing on Steve Bannon’s War Room podcast on Monday, Giuliani said that he was “very, very humbled and very honored” by the recognition. Giuliani rose to prominence as a prosecutor in New York and was first elected Mayor of New York City in 1993 as a Republican. For his leadership duri…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">11 Things People in Hea…</text>
+      <text hint-style="caption">Trump Gives ‘America’s …</text>
     </binding>
   </visual>
 </tile>
