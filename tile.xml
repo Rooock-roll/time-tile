@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8635bb11284c3acf3022c9390347393c8bfbfa22/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Habits Food-Waste Experts Recommend This Thanksgiving</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@14f81271ae24465a2a58ef2fd7910b2e2ed10448/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8635bb11284c3acf3022c9390347393c8bfbfa22/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Habits Food-Waste Experts Recommend This Thanksgiving</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. O…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@14f81271ae24465a2a58ef2fd7910b2e2ed10448/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Pentagon has accused Canada of falling short as a credible partner in defending North America, escalating tensions between the neighboring countries amid an ong…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8635bb11284c3acf3022c9390347393c8bfbfa22/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Habits Food-Waste Experts Recommend This Thanksgiving</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. One study found that, in 2025, Americans discarded enough food to fill 40 football fields from their Thanksgiving meals. We spoke with experts about how you can avoid food waste this Thanksgiving. Read more: Will Bad Weather Disrupt Thanksgiving Travel? Avoiding food waste starts long before your meal is …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@14f81271ae24465a2a58ef2fd7910b2e2ed10448/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Pentagon has accused Canada of falling short as a credible partner in defending North America, escalating tensions between the neighboring countries amid an ongoing trade war . In a two-page fact sheet released Monday, the Pentagon under Defense Secretary Pete Hegseth outlined what it described as Canada's “defense shortfalls,” issuing a sharp rebuke of the country's leadership under Prime Minister Mark Carney . &quot;Canada must get serious and focused,&quot; read the f…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Habits Food-Waste Exper…</text>
+      <text hint-style="caption">Hegseth’s Pentagon Accu…</text>
     </binding>
   </visual>
 </tile>
