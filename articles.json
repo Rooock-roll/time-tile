@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-23T23:45:42.604601+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-24T00:01:21.905667+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "To Debate in 2028, Democrats Will Have to Disavow Dark Money",
     "What Gambia Helped the Rohingya Prove in The Hague",
     "What to Know About The Supermoon Appearing This Thanksgiving Week",
     "Will Bad Weather Disrupt Thanksgiving Travel?",
-    "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
-    "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action"
+    "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO"
   ],
   "articles": [
+    {
+      "title": "To Debate in 2028, Democrats Will Have to Disavow Dark Money",
+      "summary": "The Democratic National Committee (DNC) on Monday announced plans for 12 debates in the 2028 Democratic presidential primary, beginning in June 2027. The framework, released earlier than usual, includes a new requirement: To qualify for the debates, candidates must sign a pledge to denounce certain outside spending. Candidates will need to sign the newly released Fair Campaign Practices Pledge, denouncing both super PAC spending and “dark money,” which is any political funding from undisclosed sources. Otherwise, t",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt09fe69eaa0f86151/6b04b3b74377b50c8b43294c/GettyImages-1152115424.jpg?branch=production"
+    },
     {
       "title": "What Gambia Helped the Rohingya Prove in The Hague",
       "summary": "In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities against the Rohingya called for investigating and prosecuting Myanmar military leaders for genocide, crimes against humanity, and war crimes. At the time, it felt impossibly distant. I approached diplomats in New York and officials in national capitals with an idea: What if a country which is party to the Genocide Convention asked the ICJ to hold Myanmar itsel",
@@ -29,11 +34,6 @@
       "title": "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
       "summary": "Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the business, tech, and policy worlds. On Nov. 12, Huang stepped down from the company he co-founded in 1993 after acknowledging an extramarital affair with Alice Huang, a Chinese national whom U.S. intelligence officials reportedly suspected was a Chinese spy. Her former company, Megaspeed, is also under criminal investigation over possible export-control ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltedaff2308db0cfe9/6b047919144cf25daf64489f/GettyImages-2297774940.jpg?branch=production"
-    },
-    {
-      "title": "The Failed U.N. COP31 Deal Reveals a New Reality for Climate Action",
-      "summary": "In the eleven years since the Paris Agreement , countries around the world have met annually to plot out the global consensus on how to tackle climate change. In some years negotiations led to big breakthroughs. In others, talks simply kept the ball in play, signaling to the world that nations were aligned in their desire to tackle climate change, even if it’s hard to agree on the exact path forward. So it was a striking moment in the three-decade arc of United Nations climate negotiations when talks fell apart in ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51fae25dab4135dc/6b04668b729e012440cc87aa/cop31_climate_conference.jpg?branch=production"
     }
   ]
 }
