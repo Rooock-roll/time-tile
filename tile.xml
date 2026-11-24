@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9242b055f61a8a5878b84e7b597a2af22b1dcc31/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b01efc1112933a79471b087df0883e8bb3d5a3cb/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Gambia Helped the Rohingya Prove in The Hague</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9242b055f61a8a5878b84e7b597a2af22b1dcc31/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b01efc1112933a79471b087df0883e8bb3d5a3cb/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Gambia Helped the Rohingya Prove in The Hague</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities agains…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9242b055f61a8a5878b84e7b597a2af22b1dcc31/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b01efc1112933a79471b087df0883e8bb3d5a3cb/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Gambia Helped the Rohingya Prove in The Hague</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities against the Rohingya called for investigating and prosecuting Myanmar military leaders for genocide, crimes against humanity, and war crimes. At the time, it felt impossibly distant. I approached diplomats in New York and officials in national capitals with an idea: What if a country which is party to the Geno…</text>
     </binding>
