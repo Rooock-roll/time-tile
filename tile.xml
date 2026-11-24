@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d1ac98e911d57b6c9b97fd9be79b3b77118e4d89/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7e2af0ddd7cf65aa4aed2b6f30cb5b22851112b4/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d1ac98e911d57b6c9b97fd9be79b3b77118e4d89/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7e2af0ddd7cf65aa4aed2b6f30cb5b22851112b4/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexua…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d1ac98e911d57b6c9b97fd9be79b3b77118e4d89/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing you could rewind. But listen to people in healthy relationships, and certain kinds of words come up again and again: the ones that show appreciation, make room for a bad day, or let someone know they don’t have to hide the messy parts of being human. “Sometimes people just want to feel seen,” says Stepha…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7e2af0ddd7cf65aa4aed2b6f30cb5b22851112b4/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexual misconduct . Gomez, in a statement , said he “recognize[s] the seriousness of the Ethics Committee’s report, ” but has “strong disagreements” with its conclusions. “Among other significant deficiencies and omissions, the report does not include key portions of my testimony that are essential to a full …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">11 Things People in Hea…</text>
+      <text hint-style="caption">Representative Jimmy Go…</text>
     </binding>
   </visual>
 </tile>
