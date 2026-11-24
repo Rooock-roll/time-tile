@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-24T19:15:44.565665+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-24T19:31:02.467195+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Habits Food-Waste Experts Recommend This Thanksgiving",
+    "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions",
     "11 Things People in Healthy Relationships Say to Each Other",
     "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct",
-    "Jensen Huang and the Cult of the Male Tech Founder",
-    "Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?",
-    "Where AI Meets Instinct in Formula 1"
+    "Jensen Huang and the Cult of the Male Tech Founder"
   ],
   "articles": [
+    {
+      "title": "Habits Food-Waste Experts Recommend This Thanksgiving",
+      "summary": "For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. One study found that, in 2025, Americans discarded enough food to fill 40 football fields from their Thanksgiving meals. We spoke with experts about how you can avoid food waste this Thanksgiving. Read more: Will Bad Weather Disrupt Thanksgiving Travel? Avoiding food waste starts long before your meal is on the table. Before you go shopping, look through ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltda88ee153d7c8838/6b05dd98ede4c335d26cf5a9/thanksgiving-food-waste-tips.jpg?branch=production"
+    },
+    {
+      "title": "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions",
+      "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, escalating tensions between the neighboring countries amid an ongoing trade war . In a two-page fact sheet released Monday, the Pentagon under Defense Secretary Pete Hegseth outlined what it described as Canada's “defense shortfalls,” issuing a sharp rebuke of the country's leadership under Prime Minister Mark Carney . \"Canada must get serious and focused,\" read the fact sheet. The document criticized, what it charact",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3f4a965f01d67380/6b05836be196fd1b24dc2bb0/Meeting_U.S.-Canada.jpg?branch=production"
+    },
     {
       "title": "11 Things People in Healthy Relationships Say to Each Other",
       "summary": "No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing you could rewind. But listen to people in healthy relationships, and certain kinds of words come up again and again: the ones that show appreciation, make room for a bad day, or let someone know they don’t have to hide the messy parts of being human. “Sometimes people just want to feel seen,” says Stephanie Michaelian, a Los Angeles-based therapist. That",
@@ -24,16 +34,6 @@
       "title": "Jensen Huang and the Cult of the Male Tech Founder",
       "summary": "Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have been unusually shocking for an industry whose real-li",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt18fbafa11c9cce40/6b05b13f729e01bc4fcc9327/GettyImages-2306021511.jpg?branch=production"
-    },
-    {
-      "title": "Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?",
-      "summary": "New York City Mayor Zohran Mamdani has announced plans to shut down the city’s Rikers Island jail complex in 2032 after a century in operation, setting an end date for a site that has long been infamous for persistent violence and abuse. In its place, the city is set to open “borough-based” jails in four of its five boroughs : Manhattan, Brooklyn, Queens, and the Bronx. The fifth, Staten Island, would be the only borough not to host a jail. “Our administration is closing Rikers Island once and for all, and building",
-      "image": "https://cdn.jwplayer.com/manifests/6UTvQ0jz.m3u8"
-    },
-    {
-      "title": "Where AI Meets Instinct in Formula 1",
-      "summary": "",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdf748bdcf9db74e2/6aff71d1b84d8b5455c9b111/The_Human_Endeavor_Thumbnail_S1E2.png?branch=production"
     }
   ]
 }
