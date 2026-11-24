@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-24T13:31:01.500620+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-24T13:45:48.889528+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Havana, Caracas and Trump’s Unfinished Business in Latin America",
     "Immigration Is Not a Fringe Issue",
     "Measles Is Back in the U.S. What Happens Next?",
     "This Moderate Democrat Thinks Trump Could Help Rein In ICE",
-    "TIME's Top 100 Photos of 2026",
-    "AI’s Frankenstein Moment"
+    "TIME's Top 100 Photos of 2026"
   ],
   "articles": [
+    {
+      "title": "Havana, Caracas and Trump’s Unfinished Business in Latin America",
+      "summary": "“I want to get Cuba done before I leave you,” President Donald Trump told a conservative radio host on Nov. 12. It is a reminder that, despite the historic beating his party took in the midterm elections, Trump continues to see Latin America as a crucial part of his legacy. Though it was New York Post headline writers who coined the term “Donroe Doctrine,” a play on President James Monroe’s insistence two centuries ago that the United States alone would dominate the Americas, Trump has embraced the term as he think",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbe7e9a5dd207e706/6b0582daca3d8de4ced96305/GettyImages-2304822391.jpg?branch=production"
+    },
     {
       "title": "Immigration Is Not a Fringe Issue",
       "summary": "At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way to work. Besides them sat and wept the families of Renee Nicole Good and Alex Pretti . Next to me were clergy wearing t-shirts that said “ Connected Americans ” and whispering prayers as they listened to the testimony of families whose loved ones had been killed in the streets. While a number of elected officials sat in the front of the room, they were no",
@@ -29,11 +34,6 @@
       "title": "TIME's Top 100 Photos of 2026",
       "summary": "In 2026, the earth was rocked by more extreme weather and the moon seemed once again within our reach. The streets of our cities were rushed by celebrating sports fans and thronged with angry citizens. Technological change, with all the fear and excitement it brings, seemed to accelerate faster than ever. People reached for greatness —or, in a time of global conflict , simply for peace. We know all this because, despite everything that changes, we can still believe our own eyes. The essence of TIME's Photos of the ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte764fab4262856d9/6af91734eb5ef645cb2aba25/1._Gaza-soccer-top-photos-2026.jpg?branch=production"
-    },
-    {
-      "title": "AI’s Frankenstein Moment",
-      "summary": "Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that seem straight out of science fiction. In his September essay “ We Must Pace the Frontier, ” he offered a plan for the outside monitoring of AI models and industry-wide and global regulation. In a rare display of unity among tech titans, fellow CEOs Elon Musk and Sam Altman agreed on the need to pull in the reins. Sounding the alarm on NBC’s Meet the Pre",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb09ee984afc7134e/6b04c77a144cf27fd8644af3/Frankenstein-directed-James-Whale.jpg?branch=production"
     }
   ]
 }
