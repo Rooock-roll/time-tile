@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8645551eb78c3bdc225cd9a40bd93947c04d5ccb/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc355cea38b1a2783abc22c0d4de1dadd33fa2c2/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8645551eb78c3bdc225cd9a40bd93947c04d5ccb/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc355cea38b1a2783abc22c0d4de1dadd33fa2c2/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8645551eb78c3bdc225cd9a40bd93947c04d5ccb/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dc355cea38b1a2783abc22c0d4de1dadd33fa2c2/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">11 Things People in Healthy Relationships Say to Each Other</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing you could rewind. But listen to people in healthy relationships, and certain kinds of words come up again and again: the ones that show appreciation, make room for a bad day, or let someone know they don’t have to hide the messy parts of being human. “Sometimes people just want to feel seen,” says Stepha…</text>
     </binding>
