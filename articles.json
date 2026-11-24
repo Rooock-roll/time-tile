@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-24T15:01:19.440542+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-24T15:15:47.829547+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Where AI Meets Instinct in Formula 1",
     "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
     "Havana, Caracas and Trump’s Unfinished Business in Latin America",
     "Immigration Is Not a Fringe Issue",
-    "Measles Is Back in the U.S. What Happens Next?",
-    "This Moderate Democrat Thinks Trump Could Help Rein In ICE"
+    "Measles Is Back in the U.S. What Happens Next?"
   ],
   "articles": [
+    {
+      "title": "Where AI Meets Instinct in Formula 1",
+      "summary": "",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdf748bdcf9db74e2/6aff71d1b84d8b5455c9b111/The_Human_Endeavor_Thumbnail_S1E2.png?branch=production"
+    },
     {
       "title": "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
       "summary": "Grand Theft Auto VI is inescapable; everyone is talking about it. Even people and venues you wouldn’t expect are taking notice. I certainly didn’t have The Weather Channel and Anderson Cooper on my bingo card. Workers are taking time off to play and teachers have alternately canceled classes and bribed their students not to play hooky. GTA VI is one of the rare video games that transcends siloed awareness of the medium into mainstream consciousness. Video games aren’t nearly as widely covered as other forms of popu",
@@ -29,11 +34,6 @@
       "title": "Measles Is Back in the U.S. What Happens Next?",
       "summary": "On Nov. 17, the Pan American Health Organization (PAHO) declared that measles is no longer considered \"eliminated\" in the U.S. In the past year, the U.S. Centers for Disease Control and Prevention (CDC) recorded more than 5,800 cases of measles—the highest caseload since 1991. Vaccination programs and increased monitoring of incoming measles cases helped the U.S. to eliminate measles in 2000, meaning there was no consistent spread of the virus within the country for more than a year. Since then, sporadic cases of t",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c8288d2a1d39662/6b044e3915881e05190d3724/GettyImages-2202122535.jpg?branch=production"
-    },
-    {
-      "title": "This Moderate Democrat Thinks Trump Could Help Rein In ICE",
-      "summary": "Representative Henry Cuellar has been in Congress for more than 20 years, representing a South Texas district that includes a big chunk of Texas' border with Mexico. Over the years, he has fended off pressures from both parties: Democrats have tried and failed to replace him with someone more liberal; Republicans have tried and failed to convince him to join the GOP. Now he's about to start a new term as part of the largest Democratic majority this century. While many of his colleagues want to battle the Trump Admi",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt15a7749934bd1b6e/6b04682b94c0ac4f0d4a635c/GettyImages-2298413614.jpg?branch=production"
     }
   ]
 }
