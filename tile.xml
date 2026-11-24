@@ -2,19 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@76f950f5beecddad8c335a49b42fd137e90cb2a5/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Where AI Meets Instinct in Formula 1</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9fbeb7bd8d78aabf83ea6761156c2ab54bc7d1da/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@76f950f5beecddad8c335a49b42fd137e90cb2a5/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Where AI Meets Instinct in Formula 1</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9fbeb7bd8d78aabf83ea6761156c2ab54bc7d1da/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Grand Theft Auto VI is inescapable; everyone is talking about it. Even people and venues you wouldn’t expect are taking notice. I certainly didn’t have The Weather …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@76f950f5beecddad8c335a49b42fd137e90cb2a5/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Where AI Meets Instinct in Formula 1</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9fbeb7bd8d78aabf83ea6761156c2ab54bc7d1da/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Grand Theft Auto VI is inescapable; everyone is talking about it. Even people and venues you wouldn’t expect are taking notice. I certainly didn’t have The Weather Channel and Anderson Cooper on my bingo card. Workers are taking time off to play and teachers have alternately canceled classes and bribed their students not to play hooky. GTA VI is one of the rare video games that transcends siloed awareness of the medium into mainstream consciousness. Video games are…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Where AI Meets Instinct…</text>
+      <text hint-style="caption">GTA VI is More Than Jus…</text>
     </binding>
   </visual>
 </tile>
