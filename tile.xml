@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e721e122601d514fcdc0ad19dc3e6699061ed595/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4fc2bf4aa07c807d796a4c2a75a811205dd4e169/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e721e122601d514fcdc0ad19dc3e6699061ed595/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4fc2bf4aa07c807d796a4c2a75a811205dd4e169/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executiv…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e721e122601d514fcdc0ad19dc3e6699061ed595/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4fc2bf4aa07c807d796a4c2a75a811205dd4e169/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have be…</text>
     </binding>
