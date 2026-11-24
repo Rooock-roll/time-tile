@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@824381073579b999c326322bcf3ea3aaed098a73/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">This Moderate Democrat Thinks Trump Could Help Rein In ICE</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a7c70fc429cf0df25feb5637edda2bbbe50e8f3b/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">TIME's Top 100 Photos of 2026</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@824381073579b999c326322bcf3ea3aaed098a73/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">This Moderate Democrat Thinks Trump Could Help Rein In ICE</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Representative Henry Cuellar has been in Congress for more than 20 years, representing a South Texas district that includes a big chunk of Texas' border with Mexico…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a7c70fc429cf0df25feb5637edda2bbbe50e8f3b/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">TIME's Top 100 Photos of 2026</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In 2026, the earth was rocked by more extreme weather and the moon seemed once again within our reach. The streets of our cities were rushed by celebrating sports f…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@824381073579b999c326322bcf3ea3aaed098a73/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">This Moderate Democrat Thinks Trump Could Help Rein In ICE</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Representative Henry Cuellar has been in Congress for more than 20 years, representing a South Texas district that includes a big chunk of Texas' border with Mexico. Over the years, he has fended off pressures from both parties: Democrats have tried and failed to replace him with someone more liberal; Republicans have tried and failed to convince him to join the GOP. Now he's about to start a new term as part of the largest Democratic majority this century. While m…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a7c70fc429cf0df25feb5637edda2bbbe50e8f3b/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">TIME's Top 100 Photos of 2026</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In 2026, the earth was rocked by more extreme weather and the moon seemed once again within our reach. The streets of our cities were rushed by celebrating sports fans and thronged with angry citizens. Technological change, with all the fear and excitement it brings, seemed to accelerate faster than ever. People reached for greatness —or, in a time of global conflict , simply for peace. We know all this because, despite everything that changes, we can still believe…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">This Moderate Democrat …</text>
+      <text hint-style="caption">TIME's Top 100 Photos o…</text>
     </binding>
   </visual>
 </tile>
