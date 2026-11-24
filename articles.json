@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-24T20:45:42.711494+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-24T21:01:16.259255+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
     "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
     "Habits Food-Waste Experts Recommend This Thanksgiving",
     "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions",
-    "11 Things People in Healthy Relationships Say to Each Other",
-    "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct"
+    "11 Things People in Healthy Relationships Say to Each Other"
   ],
   "articles": [
+    {
+      "title": "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
+      "summary": "The legislative office of Puma Shen feels more like a college dorm than a lawmaker’s workplace. Every surface is piled high with anime figurines, camping equipment, and baseball memorabilia. “I don’t have enough space at home, so I have to put it all in my office,” he tells TIME. “Otherwise, my wife will be p—d off!” Read more: How Taiwan Is Turning Tech Supremacy Into a Security Shield Then the décor turns political. A large Ukrainian flag, signed by troops during Shen’s 2023 visit, hangs on one wall. On the door,",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0053273cc1df2c7e/6b05efef0378a6657b271173/GettyImages-2305005470.jpg?branch=production"
+    },
     {
       "title": "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
       "summary": "President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Medal of Freedom. Appearing on Steve Bannon’s War Room podcast on Monday, Giuliani said that he was “very, very humbled and very honored” by the recognition. Giuliani rose to prominence as a prosecutor in New York and was first elected Mayor of New York City in 1993 as a Republican. For his leadership during 9/11, he was dubbed “America’s Mayor.” In 2007, ",
@@ -29,11 +34,6 @@
       "title": "11 Things People in Healthy Relationships Say to Each Other",
       "summary": "No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing you could rewind. But listen to people in healthy relationships, and certain kinds of words come up again and again: the ones that show appreciation, make room for a bad day, or let someone know they don’t have to hide the messy parts of being human. “Sometimes people just want to feel seen,” says Stephanie Michaelian, a Los Angeles-based therapist. That",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt55da4c1773e9b818/6b04bb17bdb22b1266cb4e9f/T2T_Healthy_Relationship.png?branch=production"
-    },
-    {
-      "title": "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct",
-      "summary": "Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexual misconduct . Gomez, in a statement , said he “recognize[s] the seriousness of the Ethics Committee’s report, ” but has “strong disagreements” with its conclusions. “Among other significant deficiencies and omissions, the report does not include key portions of my testimony that are essential to a full and fair understanding of what occurred,” Gomez sai",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97a05cc012a248fa/6b05b0fa4377b55a01433064/GettyImages-2266851382.jpg?branch=production"
     }
   ]
 }
