@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01b4e340dae345aeb29f9f751eed475224ebc99d/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Gambia Helped the Rohingya Prove in The Hague</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a4cb4acd05ee8321907c69add050263003acc1ce/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">AI’s Frankenstein Moment</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01b4e340dae345aeb29f9f751eed475224ebc99d/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Gambia Helped the Rohingya Prove in The Hague</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities agains…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a4cb4acd05ee8321907c69add050263003acc1ce/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">AI’s Frankenstein Moment</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@01b4e340dae345aeb29f9f751eed475224ebc99d/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Gambia Helped the Rohingya Prove in The Hague</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities against the Rohingya called for investigating and prosecuting Myanmar military leaders for genocide, crimes against humanity, and war crimes. At the time, it felt impossibly distant. I approached diplomats in New York and officials in national capitals with an idea: What if a country which is party to the Geno…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a4cb4acd05ee8321907c69add050263003acc1ce/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">AI’s Frankenstein Moment</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that seem straight out of science fiction. In his September essay “ We Must Pace the Frontier, ” he offered a plan for the outside monitoring of AI models and industry-wide and global regulation. In a rare display of unity among tech titans, fellow CEOs Elon Musk and Sam Altman agreed on the need to pull in …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What Gambia Helped the …</text>
+      <text hint-style="caption">AI’s Frankenstein Moment</text>
     </binding>
   </visual>
 </tile>

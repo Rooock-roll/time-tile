@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-24T11:01:17.654484+00:00",
+  "updated": "2026-11-24T11:15:47.453598+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "AI’s Frankenstein Moment",
+    "Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’",
     "To Debate in 2028, Democrats Will Have to Disavow Dark Money",
     "What Gambia Helped the Rohingya Prove in The Hague",
-    "What to Know About The Supermoon Appearing This Thanksgiving Week",
-    "Will Bad Weather Disrupt Thanksgiving Travel?",
-    "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO"
+    "What to Know About The Supermoon Appearing This Thanksgiving Week"
   ],
   "articles": [
+    {
+      "title": "AI’s Frankenstein Moment",
+      "summary": "Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that seem straight out of science fiction. In his September essay “ We Must Pace the Frontier, ” he offered a plan for the outside monitoring of AI models and industry-wide and global regulation. In a rare display of unity among tech titans, fellow CEOs Elon Musk and Sam Altman agreed on the need to pull in the reins. Sounding the alarm on NBC’s Meet the Pre",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb09ee984afc7134e/6b04c77a144cf27fd8644af3/Frankenstein-directed-James-Whale.jpg?branch=production"
+    },
+    {
+      "title": "Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’",
+      "summary": "Russia has accused Estonia of bringing the two countries to the brink of “open war.” The Russian foreign ministry on Monday lodged a formal protest with the Estonian charge d’affaires in Moscow over Estonia’s decision to close its road border crossings with Russia. The ministry said the border closure was among several other “hostile” and “Russophobic” moves taken against Russia in recent years, adding that Russia reserves the right to respond with measures to protect its national interests. “The Estonian diplomat ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt92717bf43e149396/6b0566307031a739ddec4da3/Russia_Estonia_flags.jpg?branch=production"
+    },
     {
       "title": "To Debate in 2028, Democrats Will Have to Disavow Dark Money",
       "summary": "The Democratic National Committee (DNC) on Monday announced plans for 12 debates in the 2028 Democratic presidential primary, beginning in June 2027. The framework, released earlier than usual, includes a new requirement: To qualify for the debates, candidates must sign a pledge to denounce certain outside spending. Candidates will need to sign the newly released Fair Campaign Practices Pledge, denouncing both super PAC spending and “dark money,” which is any political funding from undisclosed sources. Otherwise, t",
@@ -24,16 +34,6 @@
       "title": "What to Know About The Supermoon Appearing This Thanksgiving Week",
       "summary": "There will be a lot of things competing for your attention this Thanksgiving week: the travel, the turkey , the family, the football. But spare a moment for the sky. On Monday, Tuesday, and Wednesday, Nov. 23 to 25, a spectacular full moon known as a supermoon will shine overhead, visible both in the evening and, though not as dazzlingly, during the day. It will be the first of a run of three supermoons, the other two peaking on Christmas Eve and Jan. 22. A supermoon is like any other full moon, only more so. A ful",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0fecbc25e973a3f8/6b04a37a705278f11fb39ae2/beaver-moon-supermoon-thanksgiving.jpg?branch=production"
-    },
-    {
-      "title": "Will Bad Weather Disrupt Thanksgiving Travel?",
-      "summary": "Millions are expected to travel this week ahead of the Thanksgiving holiday, but stormy weather and coastal flooding in parts of the country could disrupt plans during one of the year’s busiest travel periods. AAA projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving between Tuesday, Nov. 24 and Monday, Nov. 30. On the East Coast, a developing nor’easter is expected to bring heavy rain, winds, and coastal flooding to the Southeast, impacting Florida and the Carolinas on Wednesday,",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7f9189e9faf8afea/6b047fb4ede4c378ff6cec6d/thanksgiving-weather.jpg?branch=production"
-    },
-    {
-      "title": "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
-      "summary": "Eleven days. That’s how long it took Jensen Huang to return to his post of CEO of Nvidia after resigning in the wake of an alleged espionage scandal that rocked the business, tech, and policy worlds. On Nov. 12, Huang stepped down from the company he co-founded in 1993 after acknowledging an extramarital affair with Alice Huang, a Chinese national whom U.S. intelligence officials reportedly suspected was a Chinese spy. Her former company, Megaspeed, is also under criminal investigation over possible export-control ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltedaff2308db0cfe9/6b047919144cf25daf64489f/GettyImages-2297774940.jpg?branch=production"
     }
   ]
 }
