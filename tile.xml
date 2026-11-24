@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7d5023b76b8d3fc7c64a94c1fce4c37eaa0d1bb0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7b89e0f38ac817c1163674f9196c68a798ca7360/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Immigration Is Not a Fringe Issue</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7d5023b76b8d3fc7c64a94c1fce4c37eaa0d1bb0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7b89e0f38ac817c1163674f9196c68a798ca7360/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Immigration Is Not a Fringe Issue</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7d5023b76b8d3fc7c64a94c1fce4c37eaa0d1bb0/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7b89e0f38ac817c1163674f9196c68a798ca7360/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Immigration Is Not a Fringe Issue</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way to work. Besides them sat and wept the families of Renee Nicole Good and Alex Pretti . Next to me were clergy wearing t-shirts that said “ Connected Americans ” and whispering prayers as they listened to the testimony of families whose loved ones had been killed in the streets. While a number of elected o…</text>
     </binding>
