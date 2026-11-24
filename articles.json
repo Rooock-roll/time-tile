@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-24T12:45:44.563039+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-24T13:01:16.835846+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Immigration Is Not a Fringe Issue",
+    "Measles Is Back in the U.S. What Happens Next?",
+    "This Moderate Democrat Thinks Trump Could Help Rein In ICE",
     "TIME's Top 100 Photos of 2026",
-    "AI’s Frankenstein Moment",
-    "Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’",
-    "To Debate in 2028, Democrats Will Have to Disavow Dark Money",
-    "What Gambia Helped the Rohingya Prove in The Hague"
+    "AI’s Frankenstein Moment"
   ],
   "articles": [
+    {
+      "title": "Immigration Is Not a Fringe Issue",
+      "summary": "At a Senate forum on ICE violence, I listened to the sons of Lorenzo Salgado Araujo describe the morning their father was shot dead by ICE agents while on his way to work. Besides them sat and wept the families of Renee Nicole Good and Alex Pretti . Next to me were clergy wearing t-shirts that said “ Connected Americans ” and whispering prayers as they listened to the testimony of families whose loved ones had been killed in the streets. While a number of elected officials sat in the front of the room, they were no",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc92a8202a523291f/6b04cb3a15881e90ad0d3ef8/Statue-of-Liberty.jpg?branch=production"
+    },
+    {
+      "title": "Measles Is Back in the U.S. What Happens Next?",
+      "summary": "On Nov. 17, the Pan American Health Organization (PAHO) declared that measles is no longer considered \"eliminated\" in the U.S. In the past year, the U.S. Centers for Disease Control and Prevention (CDC) recorded more than 5,800 cases of measles—the highest caseload since 1991. Vaccination programs and increased monitoring of incoming measles cases helped the U.S. to eliminate measles in 2000, meaning there was no consistent spread of the virus within the country for more than a year. Since then, sporadic cases of t",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c8288d2a1d39662/6b044e3915881e05190d3724/GettyImages-2202122535.jpg?branch=production"
+    },
+    {
+      "title": "This Moderate Democrat Thinks Trump Could Help Rein In ICE",
+      "summary": "Representative Henry Cuellar has been in Congress for more than 20 years, representing a South Texas district that includes a big chunk of Texas' border with Mexico. Over the years, he has fended off pressures from both parties: Democrats have tried and failed to replace him with someone more liberal; Republicans have tried and failed to convince him to join the GOP. Now he's about to start a new term as part of the largest Democratic majority this century. While many of his colleagues want to battle the Trump Admi",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt15a7749934bd1b6e/6b04682b94c0ac4f0d4a635c/GettyImages-2298413614.jpg?branch=production"
+    },
     {
       "title": "TIME's Top 100 Photos of 2026",
       "summary": "In 2026, the earth was rocked by more extreme weather and the moon seemed once again within our reach. The streets of our cities were rushed by celebrating sports fans and thronged with angry citizens. Technological change, with all the fear and excitement it brings, seemed to accelerate faster than ever. People reached for greatness —or, in a time of global conflict , simply for peace. We know all this because, despite everything that changes, we can still believe our own eyes. The essence of TIME's Photos of the ",
@@ -19,21 +34,6 @@
       "title": "AI’s Frankenstein Moment",
       "summary": "Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that seem straight out of science fiction. In his September essay “ We Must Pace the Frontier, ” he offered a plan for the outside monitoring of AI models and industry-wide and global regulation. In a rare display of unity among tech titans, fellow CEOs Elon Musk and Sam Altman agreed on the need to pull in the reins. Sounding the alarm on NBC’s Meet the Pre",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltb09ee984afc7134e/6b04c77a144cf27fd8644af3/Frankenstein-directed-James-Whale.jpg?branch=production"
-    },
-    {
-      "title": "Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’",
-      "summary": "Russia has accused Estonia of bringing the two countries to the brink of “open war.” The Russian foreign ministry on Monday lodged a formal protest with the Estonian charge d’affaires in Moscow over Estonia’s decision to close its road border crossings with Russia. The ministry said the border closure was among several other “hostile” and “Russophobic” moves taken against Russia in recent years, adding that Russia reserves the right to respond with measures to protect its national interests. “The Estonian diplomat ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt92717bf43e149396/6b0566307031a739ddec4da3/Russia_Estonia_flags.jpg?branch=production"
-    },
-    {
-      "title": "To Debate in 2028, Democrats Will Have to Disavow Dark Money",
-      "summary": "The Democratic National Committee (DNC) on Monday announced plans for 12 debates in the 2028 Democratic presidential primary, beginning in June 2027. The framework, released earlier than usual, includes a new requirement: To qualify for the debates, candidates must sign a pledge to denounce certain outside spending. Candidates will need to sign the newly released Fair Campaign Practices Pledge, denouncing both super PAC spending and “dark money,” which is any political funding from undisclosed sources. Otherwise, t",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt09fe69eaa0f86151/6b04b3b74377b50c8b43294c/GettyImages-1152115424.jpg?branch=production"
-    },
-    {
-      "title": "What Gambia Helped the Rohingya Prove in The Hague",
-      "summary": "In early 2019, I was working for Human Rights Watch. A few months earlier, a UN fact-finding mission on Myanmar had concluded that the evidence of atrocities against the Rohingya called for investigating and prosecuting Myanmar military leaders for genocide, crimes against humanity, and war crimes. At the time, it felt impossibly distant. I approached diplomats in New York and officials in national capitals with an idea: What if a country which is party to the Genocide Convention asked the ICJ to hold Myanmar itsel",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltefcd54187d0af209/6b04a0cdca3d8d6afcd95c1e/GettyImages-855861622.jpg?branch=production"
     }
   ]
 }
