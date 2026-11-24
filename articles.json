@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-24T17:07:44.551831+00:00",
+  "updated": "2026-11-24T17:15:52.176191+00:00",
   "showing": 0,
   "next": 1,
   "titles": [
+    "11 Things People in Healthy Relationships Say to Each Other",
+    "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct",
     "Jensen Huang and the Cult of the Male Tech Founder",
     "Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?",
-    "Where AI Meets Instinct in Formula 1",
-    "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
-    "Havana, Caracas and Trump’s Unfinished Business in Latin America"
+    "Where AI Meets Instinct in Formula 1"
   ],
   "articles": [
+    {
+      "title": "11 Things People in Healthy Relationships Say to Each Other",
+      "summary": "No one teaches you how to talk to your partner. You pick it up as you go—sometimes by watching your family members, sometimes by saying the wrong thing and wishing you could rewind. But listen to people in healthy relationships, and certain kinds of words come up again and again: the ones that show appreciation, make room for a bad day, or let someone know they don’t have to hide the messy parts of being human. “Sometimes people just want to feel seen,” says Stephanie Michaelian, a Los Angeles-based therapist. That",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt55da4c1773e9b818/6b04bb17bdb22b1266cb4e9f/T2T_Healthy_Relationship.png?branch=production"
+    },
+    {
+      "title": "Representative Jimmy Gomez Resigns After House Ethics Panel Finds Evidence of Sexual Misconduct",
+      "summary": "Representative Jimmy Gomez, a California Democrat, announced his resignation Monday after a House ethics panel found “substantial evidence” that he engaged in sexual misconduct . Gomez, in a statement , said he “recognize[s] the seriousness of the Ethics Committee’s report, ” but has “strong disagreements” with its conclusions. “Among other significant deficiencies and omissions, the report does not include key portions of my testimony that are essential to a full and fair understanding of what occurred,” Gomez sai",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97a05cc012a248fa/6b05b0fa4377b55a01433064/GettyImages-2266851382.jpg?branch=production"
+    },
     {
       "title": "Jensen Huang and the Cult of the Male Tech Founder",
       "summary": "Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have been unusually shocking for an industry whose real-li",
@@ -18,22 +28,12 @@
     {
       "title": "Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?",
       "summary": "New York City Mayor Zohran Mamdani has announced plans to shut down the city’s Rikers Island jail complex in 2032 after a century in operation, setting an end date for a site that has long been infamous for persistent violence and abuse. In its place, the city is set to open “borough-based” jails in four of its five boroughs : Manhattan, Brooklyn, Queens, and the Bronx. The fifth, Staten Island, would be the only borough not to host a jail. “Our administration is closing Rikers Island once and for all, and building",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2eae293629b78ad6/6b05a37f144cf2906f64514e/GettyImages-2305555616.jpg?branch=production"
+      "image": "https://cdn.jwplayer.com/manifests/6UTvQ0jz.m3u8"
     },
     {
       "title": "Where AI Meets Instinct in Formula 1",
       "summary": "",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdf748bdcf9db74e2/6aff71d1b84d8b5455c9b111/The_Human_Endeavor_Thumbnail_S1E2.png?branch=production"
-    },
-    {
-      "title": "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
-      "summary": "Grand Theft Auto VI is inescapable; everyone is talking about it. Even people and venues you wouldn’t expect are taking notice. I certainly didn’t have The Weather Channel and Anderson Cooper on my bingo card. Workers are taking time off to play and teachers have alternately canceled classes and bribed their students not to play hooky. GTA VI is one of the rare video games that transcends siloed awareness of the medium into mainstream consciousness. Video games aren’t nearly as widely covered as other forms of popu",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt528e56ece3859c73/6b0501e3705278544cb39ced/Jason_and_Lucia_03_(1).jpg?branch=production"
-    },
-    {
-      "title": "Havana, Caracas and Trump’s Unfinished Business in Latin America",
-      "summary": "“I want to get Cuba done before I leave you,” President Donald Trump told a conservative radio host on Nov. 12. It is a reminder that, despite the historic beating his party took in the midterm elections, Trump continues to see Latin America as a crucial part of his legacy. Though it was New York Post headline writers who coined the term “Donroe Doctrine,” a play on President James Monroe’s insistence two centuries ago that the United States alone would dominate the Americas, Trump has embraced the term as he think",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbe7e9a5dd207e706/6b0582daca3d8de4ced96305/GettyImages-2304822391.jpg?branch=production"
     }
   ]
 }
