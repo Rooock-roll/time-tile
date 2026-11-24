@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-24T14:15:44.104656+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-24T14:31:02.314705+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
     "Havana, Caracas and Trump’s Unfinished Business in Latin America",
     "Immigration Is Not a Fringe Issue",
     "Measles Is Back in the U.S. What Happens Next?",
-    "This Moderate Democrat Thinks Trump Could Help Rein In ICE",
-    "TIME's Top 100 Photos of 2026"
+    "This Moderate Democrat Thinks Trump Could Help Rein In ICE"
   ],
   "articles": [
+    {
+      "title": "GTA VI is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
+      "summary": "Grand Theft Auto VI is inescapable; everyone is talking about it. Even people and venues you wouldn’t expect are taking notice. I certainly didn’t have The Weather Channel and Anderson Cooper on my bingo card. Workers are taking time off to play and teachers have alternately canceled classes and bribed their students not to play hooky. GTA VI is one of the rare video games that transcends siloed awareness of the medium into mainstream consciousness. Video games aren’t nearly as widely covered as other forms of popu",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt528e56ece3859c73/6b0501e3705278544cb39ced/Jason_and_Lucia_03_(1).jpg?branch=production"
+    },
     {
       "title": "Havana, Caracas and Trump’s Unfinished Business in Latin America",
       "summary": "“I want to get Cuba done before I leave you,” President Donald Trump told a conservative radio host on Nov. 12. It is a reminder that, despite the historic beating his party took in the midterm elections, Trump continues to see Latin America as a crucial part of his legacy. Though it was New York Post headline writers who coined the term “Donroe Doctrine,” a play on President James Monroe’s insistence two centuries ago that the United States alone would dominate the Americas, Trump has embraced the term as he think",
@@ -29,11 +34,6 @@
       "title": "This Moderate Democrat Thinks Trump Could Help Rein In ICE",
       "summary": "Representative Henry Cuellar has been in Congress for more than 20 years, representing a South Texas district that includes a big chunk of Texas' border with Mexico. Over the years, he has fended off pressures from both parties: Democrats have tried and failed to replace him with someone more liberal; Republicans have tried and failed to convince him to join the GOP. Now he's about to start a new term as part of the largest Democratic majority this century. While many of his colleagues want to battle the Trump Admi",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt15a7749934bd1b6e/6b04682b94c0ac4f0d4a635c/GettyImages-2298413614.jpg?branch=production"
-    },
-    {
-      "title": "TIME's Top 100 Photos of 2026",
-      "summary": "In 2026, the earth was rocked by more extreme weather and the moon seemed once again within our reach. The streets of our cities were rushed by celebrating sports fans and thronged with angry citizens. Technological change, with all the fear and excitement it brings, seemed to accelerate faster than ever. People reached for greatness —or, in a time of global conflict , simply for peace. We know all this because, despite everything that changes, we can still believe our own eyes. The essence of TIME's Photos of the ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte764fab4262856d9/6af91734eb5ef645cb2aba25/1._Gaza-soccer-top-photos-2026.jpg?branch=production"
     }
   ]
 }
