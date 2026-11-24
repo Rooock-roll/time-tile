@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ea18e950612ba4cc822bdd112e1693c148a2882b/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@34bb36f0eb2853a13aa7173555b1b504e16a57bf/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ea18e950612ba4cc822bdd112e1693c148a2882b/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executiv…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@34bb36f0eb2853a13aa7173555b1b504e16a57bf/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">New York City Mayor Zohran Mamdani has announced plans to shut down the city’s Rikers Island jail complex in 2032 after a century in operation, setting an end date …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ea18e950612ba4cc822bdd112e1693c148a2882b/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Jensen Huang and the Cult of the Male Tech Founder</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Even by Silicon Valley's standards, Jensen Huang’s scandals were outlandish. Huang resigned two weeks ago following reports that he had an affair with tech executive Alice Huang, an alleged Chinese spy whose company was suspected of steering restricted advanced AI chips to the country. He has also reportedly engaged in at least two other affairs with subordinates at Nvidi a and was known for belittling those who worked under him. While Huang’s controversies have be…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@34bb36f0eb2853a13aa7173555b1b504e16a57bf/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Mamdani Unveils Plan to Close Infamous Rikers Island, Replace It With ‘Borough-Based Jails’ by 2032. How Would It Work?</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">New York City Mayor Zohran Mamdani has announced plans to shut down the city’s Rikers Island jail complex in 2032 after a century in operation, setting an end date for a site that has long been infamous for persistent violence and abuse. In its place, the city is set to open “borough-based” jails in four of its five boroughs : Manhattan, Brooklyn, Queens, and the Bronx. The fifth, Staten Island, would be the only borough not to host a jail. “Our administration is c…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Jensen Huang and the Cu…</text>
+      <text hint-style="caption">Mamdani Unveils Plan to…</text>
     </binding>
   </visual>
 </tile>
