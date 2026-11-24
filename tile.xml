@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9925338f9d74fa99b3485bf87f60241d231c4e82/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">AI’s Frankenstein Moment</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d526aa14617f4e25ca61518e80b50fd15802757/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9925338f9d74fa99b3485bf87f60241d231c4e82/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">AI’s Frankenstein Moment</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d526aa14617f4e25ca61518e80b50fd15802757/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Russia has accused Estonia of bringing the two countries to the brink of “open war.” The Russian foreign ministry on Monday lodged a formal protest with the Estonia…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9925338f9d74fa99b3485bf87f60241d231c4e82/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">AI’s Frankenstein Moment</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Experts are issuing ominous warnings about the threats of artificial intelligence. Anthropic CEO Dario Amodei described possible scenarios of machine rebellion that seem straight out of science fiction. In his September essay “ We Must Pace the Frontier, ” he offered a plan for the outside monitoring of AI models and industry-wide and global regulation. In a rare display of unity among tech titans, fellow CEOs Elon Musk and Sam Altman agreed on the need to pull in …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1d526aa14617f4e25ca61518e80b50fd15802757/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Russia has accused Estonia of bringing the two countries to the brink of “open war.” The Russian foreign ministry on Monday lodged a formal protest with the Estonian charge d’affaires in Moscow over Estonia’s decision to close its road border crossings with Russia. The ministry said the border closure was among several other “hostile” and “Russophobic” moves taken against Russia in recent years, adding that Russia reserves the right to respond with measures to prot…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">AI’s Frankenstein Moment</text>
+      <text hint-style="caption">Russia Accuses Estonia …</text>
     </binding>
   </visual>
 </tile>
