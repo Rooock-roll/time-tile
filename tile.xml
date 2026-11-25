@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6fa10db697ab3f8fade37042ac2c2ae0992902d0/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The ‘Red Flags’ Behind Nvidia Customer Megaspeed</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd86c5573d3c0bf312f42245e81a09c82a434969/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6fa10db697ab3f8fade37042ac2c2ae0992902d0/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The ‘Red Flags’ Behind Nvidia Customer Megaspeed</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Megaspeed, the Singapore-based company that became one of NVIDIA’s largest clients in Southeast Asia, grew out of a corporate network with links to Chinese state en…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd86c5573d3c0bf312f42245e81a09c82a434969/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">As households across America prepare to gather for their Thanksgiving celebrations , there’s one question at the forefront of hosts’ minds: what time should dinner …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6fa10db697ab3f8fade37042ac2c2ae0992902d0/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The ‘Red Flags’ Behind Nvidia Customer Megaspeed</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Megaspeed, the Singapore-based company that became one of NVIDIA’s largest clients in Southeast Asia, grew out of a corporate network with links to Chinese state entities that should have raised “red flags” for NVIDIA and its partners, according to experts in international finance and Chinese corporate governance. Corporate records and open-source data obtained by TIME reveal that Megaspeed had a complex financial and corporate structure that obscured ties between …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd86c5573d3c0bf312f42245e81a09c82a434969/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">As households across America prepare to gather for their Thanksgiving celebrations , there’s one question at the forefront of hosts’ minds: what time should dinner be served? A quick glance on social media will tell you that it’s a hotly-debated topic, and one that people have firm opinions on. Lifestyle expert Martha Stewart’s online publication conducted a poll in 2024, asking readers what time Thanksgiving dinner should start. More than 34,000 people joined the …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The ‘Red Flags’ Behind …</text>
+      <text hint-style="caption">What Time Should You Ea…</text>
     </binding>
   </visual>
 </tile>
