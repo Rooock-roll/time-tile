@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6734f252a140f3fd73a63af97adec9f3e430d4e4/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">People Are Getting Worse at Handling Uncertainty</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7641fff30bed385dcf6ecd64880f465bcead0ea5/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Holiday Tradition of Pretending Our Families Get Along Perfectly</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6734f252a140f3fd73a63af97adec9f3e430d4e4/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">People Are Getting Worse at Handling Uncertainty</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But wh…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7641fff30bed385dcf6ecd64880f465bcead0ea5/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Holiday Tradition of Pretending Our Families Get Along Perfectly</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Imagine ending a romantic relationship after years of unresolved conflict. The arguments have become familiar, the resentments have accumulated, and conversations t…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6734f252a140f3fd73a63af97adec9f3e430d4e4/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">People Are Getting Worse at Handling Uncertainty</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But when the pressure of the unknown becomes so intense it interferes with daily life, this “intolerance of uncertainty,” as psychologists call it, becomes a risk factor for mental-health disorders, primarily anxiety and depression. Now, in a paper in JAMA Psychiatry , psychologists find that this trait rose i…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7641fff30bed385dcf6ecd64880f465bcead0ea5/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Holiday Tradition of Pretending Our Families Get Along Perfectly</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Imagine ending a romantic relationship after years of unresolved conflict. The arguments have become familiar, the resentments have accumulated, and conversations that once offered the possibility of understanding now go nowhere. Eventually, you accept that the relationship isn't working and decide to go your separate ways. Now imagine being told that you're still expected to spend the holidays together every year: to arrive with a gift, exchange pleasantries over …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">People Are Getting Wors…</text>
+      <text hint-style="caption">The Holiday Tradition o…</text>
     </binding>
   </visual>
 </tile>
