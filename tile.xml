@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4109e0ff794a633803b63bee94cfc2ddc078b8f1/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@22db00ebf63888e67c04e7ac5f3ccd26e977bd04/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">A Guide to the 4 Caucuses That Could Shape the Democratic House</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4109e0ff794a633803b63bee94cfc2ddc078b8f1/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@22db00ebf63888e67c04e7ac5f3ccd26e977bd04/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">A Guide to the 4 Caucuses That Could Shape the Democratic House</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democrats are preparing to take control of the House of Representatives with a substantially larger majority and an influx of new members who cover every corner of …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@4109e0ff794a633803b63bee94cfc2ddc078b8f1/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@22db00ebf63888e67c04e7ac5f3ccd26e977bd04/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">A Guide to the 4 Caucuses That Could Shape the Democratic House</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democrats are preparing to take control of the House of Representatives with a substantially larger majority and an influx of new members who cover every corner of the party’s “big tent. ” Incoming Democratic freshman include several democratic socialists and even more moderates who won in competitive and Republican-leaning districts. Many campaigned on lowering costs, improving health care, and providing a practical alternative to President Donald Trump. Some prom…</text>
     </binding>
