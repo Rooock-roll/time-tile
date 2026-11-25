@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e638cd89aedbafd48cd6aec3871477735129dbb9/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Push to Free a Princeton Scientist From ICE Detention Is Growing</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cda25950e526188a11816361959be1cbf72619a8/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e638cd89aedbafd48cd6aec3871477735129dbb9/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Push to Free a Princeton Scientist From ICE Detention Is Growing</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classm…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cda25950e526188a11816361959be1cbf72619a8/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite g…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e638cd89aedbafd48cd6aec3871477735129dbb9/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Push to Free a Princeton Scientist From ICE Detention Is Growing</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classmates, and lawmakers are calling for her immediate release ahead of Thanksgiving Weekend. Eva Yi Xie, a Chinese national, was detained at the Ronald Reagan Washington National Airport as she departed from an annual conference of the Society for Neuroscience. Xie’s lawyers say that she was not presented wi…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@cda25950e526188a11816361959be1cbf72619a8/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rat…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Push to Free a Prin…</text>
+      <text hint-style="caption">Trump Administration Un…</text>
     </binding>
   </visual>
 </tile>
