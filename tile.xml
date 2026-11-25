@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8ff47dac9d64b1810500c87d279047d75d9bd962/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1a886669a3bbe95fddeba237d746ad733745ff4a/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Habits Food-Waste Experts Recommend This Thanksgiving</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8ff47dac9d64b1810500c87d279047d75d9bd962/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1a886669a3bbe95fddeba237d746ad733745ff4a/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Habits Food-Waste Experts Recommend This Thanksgiving</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. O…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8ff47dac9d64b1810500c87d279047d75d9bd962/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1a886669a3bbe95fddeba237d746ad733745ff4a/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Habits Food-Waste Experts Recommend This Thanksgiving</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. One study found that, in 2025, Americans discarded enough food to fill 40 football fields from their Thanksgiving meals. We spoke with experts about how you can avoid food waste this Thanksgiving. Read more: Will Bad Weather Disrupt Thanksgiving Travel? Avoiding food waste starts long before your meal is …</text>
     </binding>
