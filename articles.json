@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-25T19:45:48.851189+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-25T20:01:14.971254+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "The Push to Free a Princeton Scientist From ICE Detention Is Growing",
     "Trump Administration Unveils New Tariffs for China, the European Union, and More",
     "Breaking Down the Ending of Love in Disguise",
     "The ‘Red Flags’ Behind Nvidia Customer Megaspeed",
-    "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
-    "People Are Getting Worse at Handling Uncertainty"
+    "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say"
   ],
   "articles": [
+    {
+      "title": "The Push to Free a Princeton Scientist From ICE Detention Is Growing",
+      "summary": "Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classmates, and lawmakers are calling for her immediate release ahead of Thanksgiving Weekend. Eva Yi Xie, a Chinese national, was detained at the Ronald Reagan Washington National Airport as she departed from an annual conference of the Society for Neuroscience. Xie’s lawyers say that she was not presented with a warrant. She was later taken to the Caroline D",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2abf12e5ee01a441/6b07121f94c0ac34d64a8325/GettyImages-2274498190.jpg?branch=production"
+    },
     {
       "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More",
       "summary": "The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rate of 15% , accounting for certain existing duties, ",
@@ -29,11 +34,6 @@
       "title": "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
       "summary": "As households across America prepare to gather for their Thanksgiving celebrations , there’s one question at the forefront of hosts’ minds: what time should dinner be served? A quick glance on social media will tell you that it’s a hotly-debated topic, and one that people have firm opinions on. Lifestyle expert Martha Stewart’s online publication conducted a poll in 2024, asking readers what time Thanksgiving dinner should start. More than 34,000 people joined the conversation, with the majority of respondents (13,",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt65005cbf015bd967/6b05b7d4e196fd36ccdc2d90/thanksgiving-timing-dinner-nov24.jpg?branch=production"
-    },
-    {
-      "title": "People Are Getting Worse at Handling Uncertainty",
-      "summary": "Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But when the pressure of the unknown becomes so intense it interferes with daily life, this “intolerance of uncertainty,” as psychologists call it, becomes a risk factor for mental-health disorders, primarily anxiety and depression. Now, in a paper in JAMA Psychiatry , psychologists find that this trait rose in North America from 1992 to 2023. Using data on co",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcd344a665e9b53cf/6b05fa1515881e488e0d4c09/_Intolerance_of_Uncertainty.png?branch=production"
     }
   ]
 }
