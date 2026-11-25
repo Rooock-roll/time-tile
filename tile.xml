@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60a4a443f2450934bc5bc5d7d4d0a95e82fd1b75/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27c139925c6ea67f4ed787af356e36b9f8abd3e5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60a4a443f2450934bc5bc5d7d4d0a95e82fd1b75/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding b…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27c139925c6ea67f4ed787af356e36b9f8abd3e5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and ol…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60a4a443f2450934bc5bc5d7d4d0a95e82fd1b75/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding banks about its business in Iran. Huawei was found guilty on 10 of 12 counts by a jury in Brooklyn on Tuesday. The verdict all but brings to a close an almost eight-year-long criminal case against Huawei and three of its subsidiaries. The sprawling legal case spanned a 12-week trial, dozens of witnesses, …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27c139925c6ea67f4ed787af356e36b9f8abd3e5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and older Fockers to face the same challenge their Forefockers had to tackle the first time around, in 2000’s Meet the Parents. What if you meet your offspring’s new squeeze and find him or her wanting? That’s where Ben Stiller’s Greg Focker finds himself in Focker In-Law, the fourth installment in a series th…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">China’s Huawei Convicte…</text>
+      <text hint-style="caption">Ariana Grande Is the Sa…</text>
     </binding>
   </visual>
 </tile>
