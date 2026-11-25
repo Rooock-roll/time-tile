@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-25T19:01:19.964536+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-25T19:15:43.409662+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Trump Administration Unveils New Tariffs for China, the European Union, and More",
     "Breaking Down the Ending of Love in Disguise",
     "The ‘Red Flags’ Behind Nvidia Customer Megaspeed",
     "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
-    "People Are Getting Worse at Handling Uncertainty",
-    "The Holiday Tradition of Pretending Our Families Get Along Perfectly"
+    "People Are Getting Worse at Handling Uncertainty"
   ],
   "articles": [
+    {
+      "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More",
+      "summary": "The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rate of 15% , accounting for certain existing duties, ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3362388f8385e88c/6b0720111b16e965cb180876/Trump_Tariffs.jpg?branch=production"
+    },
     {
       "title": "Breaking Down the Ending of Love in Disguise",
       "summary": "In an era that’s seen the K-drama industry shift focus toward more stories of suspense, thriller, and crime , the romantic comedy Love in Disguise marks a return to a familiar K-drama trope. The series, streaming on Prime Video stars Squid Game ’ s Yim Si-wan as Yoon Yi-joon, the heir apparent to the powerful Taekang Group. When Yi-joon’s secretary, Han Eun-yeong ( Perfect Marriage Revenge ’s Jung Yoo-min) ends up dead in Yi-joon’s office, the chaebol son becomes a prime suspect in her murder. To investigate, the p",
@@ -29,11 +34,6 @@
       "title": "People Are Getting Worse at Handling Uncertainty",
       "summary": "Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But when the pressure of the unknown becomes so intense it interferes with daily life, this “intolerance of uncertainty,” as psychologists call it, becomes a risk factor for mental-health disorders, primarily anxiety and depression. Now, in a paper in JAMA Psychiatry , psychologists find that this trait rose in North America from 1992 to 2023. Using data on co",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcd344a665e9b53cf/6b05fa1515881e488e0d4c09/_Intolerance_of_Uncertainty.png?branch=production"
-    },
-    {
-      "title": "The Holiday Tradition of Pretending Our Families Get Along Perfectly",
-      "summary": "Imagine ending a romantic relationship after years of unresolved conflict. The arguments have become familiar, the resentments have accumulated, and conversations that once offered the possibility of understanding now go nowhere. Eventually, you accept that the relationship isn't working and decide to go your separate ways. Now imagine being told that you're still expected to spend the holidays together every year: to arrive with a gift, exchange pleasantries over dinner, smile together for photographs, and ask abo",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfba01962e183b97b/6b05e3ad144cf2063464532f/Holiday-Tradition-Pretending.jpg?branch=production"
     }
   ]
 }
