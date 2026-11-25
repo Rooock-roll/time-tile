@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-25T10:31:02.623616+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-25T10:45:45.682942+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law",
     "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
     "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
     "How AI Is Changing What Companies Know About Their Customers",
-    "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
-    "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom"
+    "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare"
   ],
   "articles": [
+    {
+      "title": "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law",
+      "summary": "Tech giants could face penalties of up to 5% of their global revenue if found in violation of new online safety rules in Australia. The country’s Parliament passed the Digital Duty of Care bill Wednesday, Communications Minister Anika Wells said , after the center-left Labor Party government of Prime Minister Anthony Albanese reached a deal with the left-wing Greens party. Australia has been a world pioneer in legislating protections against harms online. Last December, it implemented a global-first social media ba",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5ceed1f3236f95c6/6b06b6ca44ab4e8ee3282c63/australia-social-media.jpg?branch=production"
+    },
     {
       "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
       "summary": "China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding banks about its business in Iran. Huawei was found guilty on 10 of 12 counts by a jury in Brooklyn on Tuesday. The verdict all but brings to a close an almost eight-year-long criminal case against Huawei and three of its subsidiaries. The sprawling legal case spanned a 12-week trial, dozens of witnesses, and hundreds of motions and filings. It’s a rare ca",
@@ -29,11 +34,6 @@
       "title": "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
       "summary": "The legislative office of Puma Shen feels more like a college dorm than a lawmaker’s workplace. Every surface is piled high with anime figurines, camping equipment, and baseball memorabilia. “I don’t have enough space at home, so I have to put it all in my office,” he tells TIME. “Otherwise, my wife will be p—d off!” Read more: How Taiwan Is Turning Tech Supremacy Into a Security Shield Then the décor turns political. A large Ukrainian flag, signed by troops during Shen’s 2023 visit, hangs on one wall. On the door,",
       "image": "https://cdn.jwplayer.com/manifests/gXNQ6TfE.m3u8"
-    },
-    {
-      "title": "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
-      "summary": "President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Medal of Freedom. Appearing on Steve Bannon’s War Room podcast on Monday, Giuliani said that he was “very, very humbled and very honored” by the recognition. Giuliani rose to prominence as a prosecutor in New York and was first elected Mayor of New York City in 1993 as a Republican. For his leadership during 9/11, he was dubbed “America’s Mayor.” In 2007, ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c6f6a672bed9260/6b05c257e196fd3428dc2dd0/GettyImages-2294160246.jpg?branch=production"
     }
   ]
 }
