@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41d64605343a42106bbf1df66807a98327a04b3b/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@84cd26292c7a8b0c8473a87dee56e47dd8967ba5/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How the War Turned Sudan Into a Country Without a Newspaper</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41d64605343a42106bbf1df66807a98327a04b3b/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@84cd26292c7a8b0c8473a87dee56e47dd8967ba5/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How the War Turned Sudan Into a Country Without a Newspaper</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A war of narratives is being waged within the war in Sudan. The warring parties—the official Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), a param…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@41d64605343a42106bbf1df66807a98327a04b3b/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@84cd26292c7a8b0c8473a87dee56e47dd8967ba5/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How the War Turned Sudan Into a Country Without a Newspaper</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A war of narratives is being waged within the war in Sudan. The warring parties—the official Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), a paramilitary force—are fighting an information war through traditional and social media. Misinformation, disinformation, hate speech, and propaganda are routinely deployed, and Sudanese journalists have become targets. Thirty-four journalists have been killed in Sudan in the past three and a half years of war…</text>
     </binding>
