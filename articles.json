@@ -1,15 +1,30 @@
 {
-  "updated": "2026-11-25T12:15:45.417023+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-25T12:31:10.417578+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "People Are Getting Worse at Handling Uncertainty",
+    "The Holiday Tradition of Pretending Our Families Get Along Perfectly",
+    "A Guide to the 4 Caucuses That Could Shape the Democratic House",
     "An Ode to the Endeavour Space Shuttle",
-    "How the War Turned Sudan Into a Country Without a Newspaper",
-    "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law",
-    "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
-    "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law"
+    "How the War Turned Sudan Into a Country Without a Newspaper"
   ],
   "articles": [
+    {
+      "title": "People Are Getting Worse at Handling Uncertainty",
+      "summary": "Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But when the pressure of the unknown becomes so intense it interferes with daily life, this “intolerance of uncertainty,” as psychologists call it, becomes a risk factor for mental-health disorders, primarily anxiety and depression. Now, in a paper in JAMA Psychiatry , psychologists find that this trait rose in North America from 1992 to 2023. Using data on co",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcd344a665e9b53cf/6b05fa1515881e488e0d4c09/_Intolerance_of_Uncertainty.png?branch=production"
+    },
+    {
+      "title": "The Holiday Tradition of Pretending Our Families Get Along Perfectly",
+      "summary": "Imagine ending a romantic relationship after years of unresolved conflict. The arguments have become familiar, the resentments have accumulated, and conversations that once offered the possibility of understanding now go nowhere. Eventually, you accept that the relationship isn't working and decide to go your separate ways. Now imagine being told that you're still expected to spend the holidays together every year: to arrive with a gift, exchange pleasantries over dinner, smile together for photographs, and ask abo",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfba01962e183b97b/6b05e3ad144cf2063464532f/Holiday-Tradition-Pretending.jpg?branch=production"
+    },
+    {
+      "title": "A Guide to the 4 Caucuses That Could Shape the Democratic House",
+      "summary": "Democrats are preparing to take control of the House of Representatives with a substantially larger majority and an influx of new members who cover every corner of the party’s “big tent. ” Incoming Democratic freshman include several democratic socialists and even more moderates who won in competitive and Republican-leaning districts. Many campaigned on lowering costs, improving health care, and providing a practical alternative to President Donald Trump. Some promised to fight for more sweeping changes to the coun",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt18695dcc3ec1d173/6b044fd50378a67d3d270038/GettyImages-2305196250.jpg?branch=production"
+    },
     {
       "title": "An Ode to the Endeavour Space Shuttle",
       "summary": "I’m standing on the floor of the Samuel Oschin Air and Space Center of the California Science Center under the tail of the new exhibit of the Space Shuttle Endeavour and remembering how I felt looking up at that same shuttle on the launch pad at the Kennedy Space Center in Florida. There is no one word to describe that feeling: wonder, awe, amazement, immense pride that we could build and fly such a machine. How was this my job, I think to myself. I’d spent a large part of my NASA career as an astronaut supporting ",
@@ -19,21 +34,6 @@
       "title": "How the War Turned Sudan Into a Country Without a Newspaper",
       "summary": "A war of narratives is being waged within the war in Sudan. The warring parties—the official Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), a paramilitary force—are fighting an information war through traditional and social media. Misinformation, disinformation, hate speech, and propaganda are routinely deployed, and Sudanese journalists have become targets. Thirty-four journalists have been killed in Sudan in the past three and a half years of war. Sixteen of them are believed to have been targete",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7aba9877e8611991/6b05fd497031a7a065ec56ff/GettyImages-2267361002.jpg?branch=production"
-    },
-    {
-      "title": "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law",
-      "summary": "Tech giants could face penalties of up to 5% of their global revenue if found in violation of new online safety rules in Australia. The country’s Parliament passed the Digital Duty of Care bill Wednesday, Communications Minister Anika Wells said , after the center-left Labor Party government of Prime Minister Anthony Albanese reached a deal with the left-wing Greens party. Australia has been a world pioneer in legislating protections against harms online. Last December, it implemented a global-first social media ba",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt5ceed1f3236f95c6/6b06b6ca44ab4e8ee3282c63/australia-social-media.jpg?branch=production"
-    },
-    {
-      "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
-      "summary": "China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding banks about its business in Iran. Huawei was found guilty on 10 of 12 counts by a jury in Brooklyn on Tuesday. The verdict all but brings to a close an almost eight-year-long criminal case against Huawei and three of its subsidiaries. The sprawling legal case spanned a 12-week trial, dozens of witnesses, and hundreds of motions and filings. It’s a rare ca",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc8dc9b9a58ce72ce/6b06a10264655985ef9946b5/Huawei_logo.jpg?branch=production"
-    },
-    {
-      "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
-      "summary": "Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and older Fockers to face the same challenge their Forefockers had to tackle the first time around, in 2000’s Meet the Parents. What if you meet your offspring’s new squeeze and find him or her wanting? That’s where Ben Stiller’s Greg Focker finds himself in Focker In-Law, the fourth installment in a series that seemed to have found its natural end with 2010’s",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf4ef4e1965c8000d/6b0653c27031a77c0fec5b8c/FIL-FF-037R3.jpg?branch=production"
     }
   ]
 }
