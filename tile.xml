@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ca4cbf2ff6734c2c6809fc4d49358178ec4f8580/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e6577dbc25571676ab4ccc53535606920dcf30cf/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How AI Is Changing What Companies Know About Their Customers</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ca4cbf2ff6734c2c6809fc4d49358178ec4f8580/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e6577dbc25571676ab4ccc53535606920dcf30cf/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How AI Is Changing What Companies Know About Their Customers</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Fifteen years ago, when he worked as an adviser to the pharmaceutical industry, Jeff Gaus’ firm bought drugstore cash-register data. From those records, he says, th…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ca4cbf2ff6734c2c6809fc4d49358178ec4f8580/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e6577dbc25571676ab4ccc53535606920dcf30cf/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How AI Is Changing What Companies Know About Their Customers</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Fifteen years ago, when he worked as an adviser to the pharmaceutical industry, Jeff Gaus’ firm bought drugstore cash-register data. From those records, he says, the company could tell pharma reps that, for example, “Dr. Smith has three people with this condition” and instruct them to go pitch their wares to that doctor. That felt cutting edge, but it’s nothing compared to what Gaus has seen recently. What took multiple days and several number-crunching humans to f…</text>
     </binding>
