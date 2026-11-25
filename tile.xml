@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3ee52ed663f73ebcbc65931cf90bfdacf448a813/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@138df420db77af3321049351c2a1d4cf7972a029/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3ee52ed663f73ebcbc65931cf90bfdacf448a813/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Tech giants could face penalties of up to 5% of their global revenue if found in violation of new online safety rules in Australia. The country’s Parliament passed …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@138df420db77af3321049351c2a1d4cf7972a029/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding b…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@3ee52ed663f73ebcbc65931cf90bfdacf448a813/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Tech giants could face penalties of up to 5% of their global revenue if found in violation of new online safety rules in Australia. The country’s Parliament passed the Digital Duty of Care bill Wednesday, Communications Minister Anika Wells said , after the center-left Labor Party government of Prime Minister Anthony Albanese reached a deal with the left-wing Greens party. Australia has been a world pioneer in legislating protections against harms online. Last Dece…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@138df420db77af3321049351c2a1d4cf7972a029/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding banks about its business in Iran. Huawei was found guilty on 10 of 12 counts by a jury in Brooklyn on Tuesday. The verdict all but brings to a close an almost eight-year-long criminal case against Huawei and three of its subsidiaries. The sprawling legal case spanned a 12-week trial, dozens of witnesses, …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Big Tech Companies May …</text>
+      <text hint-style="caption">China’s Huawei Convicte…</text>
     </binding>
   </visual>
 </tile>
