@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7dbab4bc3c118d463a6fcea227e5bfe48896e584/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7cdfc74514d2cc3a13056a90c023bbec89c67f2e/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Love in Disguise</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7dbab4bc3c118d463a6fcea227e5bfe48896e584/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite g…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7cdfc74514d2cc3a13056a90c023bbec89c67f2e/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of Love in Disguise</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">In an era that’s seen the K-drama industry shift focus toward more stories of suspense, thriller, and crime , the romantic comedy Love in Disguise marks a return to…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7dbab4bc3c118d463a6fcea227e5bfe48896e584/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rat…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7cdfc74514d2cc3a13056a90c023bbec89c67f2e/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of Love in Disguise</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">In an era that’s seen the K-drama industry shift focus toward more stories of suspense, thriller, and crime , the romantic comedy Love in Disguise marks a return to a familiar K-drama trope. The series, streaming on Prime Video stars Squid Game ’ s Yim Si-wan as Yoon Yi-joon, the heir apparent to the powerful Taekang Group. When Yi-joon’s secretary, Han Eun-yeong ( Perfect Marriage Revenge ’s Jung Yoo-min) ends up dead in Yi-joon’s office, the chaebol son becomes a…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Trump Administration Un…</text>
+      <text hint-style="caption">Breaking Down the Endin…</text>
     </binding>
   </visual>
 </tile>
