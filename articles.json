@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-25T11:15:44.783427+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-25T11:31:04.321656+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "An Ode to the Endeavour Space Shuttle",
+    "How the War Turned Sudan Into a Country Without a Newspaper",
     "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law",
     "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
-    "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
-    "How AI Is Changing What Companies Know About Their Customers",
-    "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare"
+    "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law"
   ],
   "articles": [
+    {
+      "title": "An Ode to the Endeavour Space Shuttle",
+      "summary": "I’m standing on the floor of the Samuel Oschin Air and Space Center of the California Science Center under the tail of the new exhibit of the Space Shuttle Endeavour and remembering how I felt looking up at that same shuttle on the launch pad at the Kennedy Space Center in Florida. There is no one word to describe that feeling: wonder, awe, amazement, immense pride that we could build and fly such a machine. How was this my job, I think to myself. I’d spent a large part of my NASA career as an astronaut supporting ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt38899e73e623f0d6/6b0636d3bdb22ba7aacb6089/Endeavour-Space-Shuttle.jpg?branch=production"
+    },
+    {
+      "title": "How the War Turned Sudan Into a Country Without a Newspaper",
+      "summary": "A war of narratives is being waged within the war in Sudan. The warring parties—the official Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), a paramilitary force—are fighting an information war through traditional and social media. Misinformation, disinformation, hate speech, and propaganda are routinely deployed, and Sudanese journalists have become targets. Thirty-four journalists have been killed in Sudan in the past three and a half years of war. Sixteen of them are believed to have been targete",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7aba9877e8611991/6b05fd497031a7a065ec56ff/GettyImages-2267361002.jpg?branch=production"
+    },
     {
       "title": "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law",
       "summary": "Tech giants could face penalties of up to 5% of their global revenue if found in violation of new online safety rules in Australia. The country’s Parliament passed the Digital Duty of Care bill Wednesday, Communications Minister Anika Wells said , after the center-left Labor Party government of Prime Minister Anthony Albanese reached a deal with the left-wing Greens party. Australia has been a world pioneer in legislating protections against harms online. Last December, it implemented a global-first social media ba",
@@ -24,16 +34,6 @@
       "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
       "summary": "Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and older Fockers to face the same challenge their Forefockers had to tackle the first time around, in 2000’s Meet the Parents. What if you meet your offspring’s new squeeze and find him or her wanting? That’s where Ben Stiller’s Greg Focker finds himself in Focker In-Law, the fourth installment in a series that seemed to have found its natural end with 2010’s",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf4ef4e1965c8000d/6b0653c27031a77c0fec5b8c/FIL-FF-037R3.jpg?branch=production"
-    },
-    {
-      "title": "How AI Is Changing What Companies Know About Their Customers",
-      "summary": "Fifteen years ago, when he worked as an adviser to the pharmaceutical industry, Jeff Gaus’ firm bought drugstore cash-register data. From those records, he says, the company could tell pharma reps that, for example, “Dr. Smith has three people with this condition” and instruct them to go pitch their wares to that doctor. That felt cutting edge, but it’s nothing compared to what Gaus has seen recently. What took multiple days and several number-crunching humans to figure out back then can be worked out in minutes or",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcd3653d2e5f04091/6b05f4bc144cf25ba9645919/AI-Consumer-Data_(2).png?branch=production"
-    },
-    {
-      "title": "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
-      "summary": "The legislative office of Puma Shen feels more like a college dorm than a lawmaker’s workplace. Every surface is piled high with anime figurines, camping equipment, and baseball memorabilia. “I don’t have enough space at home, so I have to put it all in my office,” he tells TIME. “Otherwise, my wife will be p—d off!” Read more: How Taiwan Is Turning Tech Supremacy Into a Security Shield Then the décor turns political. A large Ukrainian flag, signed by troops during Shen’s 2023 visit, hangs on one wall. On the door,",
-      "image": "https://cdn.jwplayer.com/manifests/gXNQ6TfE.m3u8"
     }
   ]
 }
