@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-25T22:45:45.394926+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-25T23:01:26.876663+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
+    "Breaking Down the Ending of The Remarried Empress",
     "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up",
     "The Push to Free a Princeton Scientist From ICE Detention Is Growing",
-    "Trump Administration Unveils New Tariffs for China, the European Union, and More",
-    "Breaking Down the Ending of Love in Disguise",
-    "The ‘Red Flags’ Behind Nvidia Customer Megaspeed"
+    "Trump Administration Unveils New Tariffs for China, the European Union, and More"
   ],
   "articles": [
+    {
+      "title": "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
+      "summary": "On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was arrested and accused of second-degree murder and manslaughter, with authorities alleging that she ran over O’Keefe in her SUV while driving under the influence, then left him in the snow to die. Read pleaded not guilty, and her defense attorneys made the case that there was reasonable doubt as to whether O’Keefe might have been killed by a fellow police ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt37a31959450be3f4/6b05f6bf144cf278d664591d/The_Trials_of_Karen_Read_n_S1_E1_00_08_29_07_(1).jpg?branch=production"
+    },
+    {
+      "title": "Breaking Down the Ending of The Remarried Empress",
+      "summary": "It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful webcomic and webtoon of the same name, the series stars Hometown Cha Cha Cha ’s Shin Min-a as the empress of a fictional Eastern Empire. As the poised, seemingly perfect Empress Navier, Shin wears over 70 princess-like costumes across the series’ 10 episodes. Her beau—Heinrey ( Romance is a Bonus Book ’s Lee Jong-suk), a playboy prince from the neighbori",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blted5e371f20cceab6/6b076034ca3d8d8505d97c7d/remarried-empress-2.jpg?branch=production"
+    },
     {
       "title": "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up",
       "summary": "The National Weather Service’s Climate Prediction Center sent out an advisory Monday that El Niño continues to strengthen as forecasters record ocean warming and atmospheric disruptions globally. “Chances for a historic event exceeding previous El Niños dating back to 1950 … are now ~60%,” it said. Read more: What An Early Polar Vortex Combined With El Niño Means For Winter Weather In an update on a weekly report from Nov. 12, the advisory showed more than a 79% chance of remaining strong to very strong through Jan",
@@ -24,16 +34,6 @@
       "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More",
       "summary": "The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rate of 15% , accounting for certain existing duties, ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3362388f8385e88c/6b0720111b16e965cb180876/Trump_Tariffs.jpg?branch=production"
-    },
-    {
-      "title": "Breaking Down the Ending of Love in Disguise",
-      "summary": "In an era that’s seen the K-drama industry shift focus toward more stories of suspense, thriller, and crime , the romantic comedy Love in Disguise marks a return to a familiar K-drama trope. The series, streaming on Prime Video stars Squid Game ’ s Yim Si-wan as Yoon Yi-joon, the heir apparent to the powerful Taekang Group. When Yi-joon’s secretary, Han Eun-yeong ( Perfect Marriage Revenge ’s Jung Yoo-min) ends up dead in Yi-joon’s office, the chaebol son becomes a prime suspect in her murder. To investigate, the p",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt051f3e7c653bae7b/6b0719bd7031a74feeec65f2/love-in-disguise-1.jpg?branch=production"
-    },
-    {
-      "title": "The ‘Red Flags’ Behind Nvidia Customer Megaspeed",
-      "summary": "Megaspeed, the Singapore-based company that became one of NVIDIA’s largest clients in Southeast Asia, grew out of a corporate network with links to Chinese state entities that should have raised “red flags” for NVIDIA and its partners, according to experts in international finance and Chinese corporate governance. Corporate records and open-source data obtained by TIME reveal that Megaspeed had a complex financial and corporate structure that obscured ties between three separate Chinese state entities and Megaspeed",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt78660cd0d8e7af42/6b070fb364655955d9994ed1/GettyImages-2303987004.jpg?branch=production"
     }
   ]
 }
