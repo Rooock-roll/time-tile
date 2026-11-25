@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@16d9932143debe1f90277d643a39a0f092f60810/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f80a371ff925fab4bf258222c64d3ca513dacb67/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@16d9932143debe1f90277d643a39a0f092f60810/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f80a371ff925fab4bf258222c64d3ca513dacb67/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite g…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@16d9932143debe1f90277d643a39a0f092f60810/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@f80a371ff925fab4bf258222c64d3ca513dacb67/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Administration Unveils New Tariffs for China, the European Union, and More</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rat…</text>
     </binding>
