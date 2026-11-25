@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a68a31092861517eb4390fbdedffee3a007c13c6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@323a257fa4156880c718bced7838db4e6f9df855/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">People Are Getting Worse at Handling Uncertainty</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a68a31092861517eb4390fbdedffee3a007c13c6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@323a257fa4156880c718bced7838db4e6f9df855/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">People Are Getting Worse at Handling Uncertainty</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But wh…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a68a31092861517eb4390fbdedffee3a007c13c6/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@323a257fa4156880c718bced7838db4e6f9df855/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">People Are Getting Worse at Handling Uncertainty</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But when the pressure of the unknown becomes so intense it interferes with daily life, this “intolerance of uncertainty,” as psychologists call it, becomes a risk factor for mental-health disorders, primarily anxiety and depression. Now, in a paper in JAMA Psychiatry , psychologists find that this trait rose i…</text>
     </binding>
