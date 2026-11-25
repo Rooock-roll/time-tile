@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c49e7c2a81ec4002f79c208bc8baf587d9a01f76/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60a4a443f2450934bc5bc5d7d4d0a95e82fd1b75/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c49e7c2a81ec4002f79c208bc8baf587d9a01f76/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The legislative office of Puma Shen feels more like a college dorm than a lawmaker’s workplace. Every surface is piled high with anime figurines, camping equipment,…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60a4a443f2450934bc5bc5d7d4d0a95e82fd1b75/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding b…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c49e7c2a81ec4002f79c208bc8baf587d9a01f76/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The legislative office of Puma Shen feels more like a college dorm than a lawmaker’s workplace. Every surface is piled high with anime figurines, camping equipment, and baseball memorabilia. “I don’t have enough space at home, so I have to put it all in my office,” he tells TIME. “Otherwise, my wife will be p—d off!” Read more: How Taiwan Is Turning Tech Supremacy Into a Security Shield Then the décor turns political. A large Ukrainian flag, signed by troops during…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@60a4a443f2450934bc5bc5d7d4d0a95e82fd1b75/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding banks about its business in Iran. Huawei was found guilty on 10 of 12 counts by a jury in Brooklyn on Tuesday. The verdict all but brings to a close an almost eight-year-long criminal case against Huawei and three of its subsidiaries. The sprawling legal case spanned a 12-week trial, dozens of witnesses, …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">‘They Never Stop’: Taip…</text>
+      <text hint-style="caption">China’s Huawei Convicte…</text>
     </binding>
   </visual>
 </tile>

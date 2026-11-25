@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-25T09:31:09.427757+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-25T09:45:45.438067+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
     "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
     "How AI Is Changing What Companies Know About Their Customers",
     "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
-    "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
-    "Habits Food-Waste Experts Recommend This Thanksgiving"
+    "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom"
   ],
   "articles": [
+    {
+      "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
+      "summary": "China’s biggest technology firm and the world’s largest telecommunications equipment maker has been convicted in the U.S. of stealing trade secrets and defrauding banks about its business in Iran. Huawei was found guilty on 10 of 12 counts by a jury in Brooklyn on Tuesday. The verdict all but brings to a close an almost eight-year-long criminal case against Huawei and three of its subsidiaries. The sprawling legal case spanned a 12-week trial, dozens of witnesses, and hundreds of motions and filings. It’s a rare ca",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc8dc9b9a58ce72ce/6b06a10264655985ef9946b5/Huawei_logo.jpg?branch=production"
+    },
     {
       "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
       "summary": "Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and older Fockers to face the same challenge their Forefockers had to tackle the first time around, in 2000’s Meet the Parents. What if you meet your offspring’s new squeeze and find him or her wanting? That’s where Ben Stiller’s Greg Focker finds himself in Focker In-Law, the fourth installment in a series that seemed to have found its natural end with 2010’s",
@@ -29,11 +34,6 @@
       "title": "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
       "summary": "President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Medal of Freedom. Appearing on Steve Bannon’s War Room podcast on Monday, Giuliani said that he was “very, very humbled and very honored” by the recognition. Giuliani rose to prominence as a prosecutor in New York and was first elected Mayor of New York City in 1993 as a Republican. For his leadership during 9/11, he was dubbed “America’s Mayor.” In 2007, ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4c6f6a672bed9260/6b05c257e196fd3428dc2dd0/GettyImages-2294160246.jpg?branch=production"
-    },
-    {
-      "title": "Habits Food-Waste Experts Recommend This Thanksgiving",
-      "summary": "For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. One study found that, in 2025, Americans discarded enough food to fill 40 football fields from their Thanksgiving meals. We spoke with experts about how you can avoid food waste this Thanksgiving. Read more: Will Bad Weather Disrupt Thanksgiving Travel? Avoiding food waste starts long before your meal is on the table. Before you go shopping, look through ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltda88ee153d7c8838/6b05dd98ede4c335d26cf5a9/thanksgiving-food-waste-tips.jpg?branch=production"
     }
   ]
 }
