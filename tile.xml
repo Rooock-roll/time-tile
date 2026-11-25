@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c30cdb98b8e8695d68029601505505aa0c93fb91/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@966474bd3af9079525c5336dff796201024a979e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">The ‘Red Flags’ Behind Nvidia Customer Megaspeed</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c30cdb98b8e8695d68029601505505aa0c93fb91/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@966474bd3af9079525c5336dff796201024a979e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The ‘Red Flags’ Behind Nvidia Customer Megaspeed</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Megaspeed, the Singapore-based company that became one of NVIDIA’s largest clients in Southeast Asia, grew out of a corporate network with links to Chinese state en…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c30cdb98b8e8695d68029601505505aa0c93fb91/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@966474bd3af9079525c5336dff796201024a979e/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The ‘Red Flags’ Behind Nvidia Customer Megaspeed</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Megaspeed, the Singapore-based company that became one of NVIDIA’s largest clients in Southeast Asia, grew out of a corporate network with links to Chinese state entities that should have raised “red flags” for NVIDIA and its partners, according to experts in international finance and Chinese corporate governance. Corporate records and open-source data obtained by TIME reveal that Megaspeed had a complex financial and corporate structure that obscured ties between …</text>
     </binding>
