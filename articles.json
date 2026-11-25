@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-25T18:01:18.694133+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-25T18:15:50.270748+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Breaking Down the Ending of Love in Disguise",
+    "The ‘Red Flags’ Behind Nvidia Customer Megaspeed",
     "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
     "People Are Getting Worse at Handling Uncertainty",
-    "The Holiday Tradition of Pretending Our Families Get Along Perfectly",
-    "A Guide to the 4 Caucuses That Could Shape the Democratic House",
-    "An Ode to the Endeavour Space Shuttle"
+    "The Holiday Tradition of Pretending Our Families Get Along Perfectly"
   ],
   "articles": [
+    {
+      "title": "Breaking Down the Ending of Love in Disguise",
+      "summary": "In an era that’s seen the K-drama industry shift focus toward more stories of suspense, thriller, and crime , the romantic comedy Love in Disguise marks a return to a familiar K-drama trope. The series, streaming on Prime Video stars Squid Game ’ s Yim Si-wan as Yoon Yi-joon, the heir apparent to the powerful Taekang Group. When Yi-joon’s secretary, Han Eun-yeong ( Perfect Marriage Revenge ’s Jung Yoo-min) ends up dead in Yi-joon’s office, the chaebol son becomes a prime suspect in her murder. To investigate, the p",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt051f3e7c653bae7b/6b0719bd7031a74feeec65f2/love-in-disguise-1.jpg?branch=production"
+    },
+    {
+      "title": "The ‘Red Flags’ Behind Nvidia Customer Megaspeed",
+      "summary": "Megaspeed, the Singapore-based company that became one of NVIDIA’s largest clients in Southeast Asia, grew out of a corporate network with links to Chinese state entities that should have raised “red flags” for NVIDIA and its partners, according to experts in international finance and Chinese corporate governance. Corporate records and open-source data obtained by TIME reveal that Megaspeed had a complex financial and corporate structure that obscured ties between three separate Chinese state entities and Megaspeed",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt78660cd0d8e7af42/6b070fb364655955d9994ed1/GettyImages-2303987004.jpg?branch=production"
+    },
     {
       "title": "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
       "summary": "As households across America prepare to gather for their Thanksgiving celebrations , there’s one question at the forefront of hosts’ minds: what time should dinner be served? A quick glance on social media will tell you that it’s a hotly-debated topic, and one that people have firm opinions on. Lifestyle expert Martha Stewart’s online publication conducted a poll in 2024, asking readers what time Thanksgiving dinner should start. More than 34,000 people joined the conversation, with the majority of respondents (13,",
@@ -24,16 +34,6 @@
       "title": "The Holiday Tradition of Pretending Our Families Get Along Perfectly",
       "summary": "Imagine ending a romantic relationship after years of unresolved conflict. The arguments have become familiar, the resentments have accumulated, and conversations that once offered the possibility of understanding now go nowhere. Eventually, you accept that the relationship isn't working and decide to go your separate ways. Now imagine being told that you're still expected to spend the holidays together every year: to arrive with a gift, exchange pleasantries over dinner, smile together for photographs, and ask abo",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfba01962e183b97b/6b05e3ad144cf2063464532f/Holiday-Tradition-Pretending.jpg?branch=production"
-    },
-    {
-      "title": "A Guide to the 4 Caucuses That Could Shape the Democratic House",
-      "summary": "Democrats are preparing to take control of the House of Representatives with a substantially larger majority and an influx of new members who cover every corner of the party’s “big tent. ” Incoming Democratic freshman include several democratic socialists and even more moderates who won in competitive and Republican-leaning districts. Many campaigned on lowering costs, improving health care, and providing a practical alternative to President Donald Trump. Some promised to fight for more sweeping changes to the coun",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt18695dcc3ec1d173/6b044fd50378a67d3d270038/GettyImages-2305196250.jpg?branch=production"
-    },
-    {
-      "title": "An Ode to the Endeavour Space Shuttle",
-      "summary": "I’m standing on the floor of the Samuel Oschin Air and Space Center of the California Science Center under the tail of the new exhibit of the Space Shuttle Endeavour and remembering how I felt looking up at that same shuttle on the launch pad at the Kennedy Space Center in Florida. There is no one word to describe that feeling: wonder, awe, amazement, immense pride that we could build and fly such a machine. How was this my job, I think to myself. I’d spent a large part of my NASA career as an astronaut supporting ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt38899e73e623f0d6/6b0636d3bdb22ba7aacb6089/Endeavour-Space-Shuttle.jpg?branch=production"
     }
   ]
 }
