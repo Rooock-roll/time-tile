@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd46dad6f85218cf860d1abb41173ed3b14fee14/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">A Guide to the 4 Caucuses That Could Shape the Democratic House</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a2b68c1eacb3b92abef3c3f923b72aff70a4dbb0/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">An Ode to the Endeavour Space Shuttle</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd46dad6f85218cf860d1abb41173ed3b14fee14/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">A Guide to the 4 Caucuses That Could Shape the Democratic House</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Democrats are preparing to take control of the House of Representatives with a substantially larger majority and an influx of new members who cover every corner of …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a2b68c1eacb3b92abef3c3f923b72aff70a4dbb0/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">An Ode to the Endeavour Space Shuttle</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">I’m standing on the floor of the Samuel Oschin Air and Space Center of the California Science Center under the tail of the new exhibit of the Space Shuttle Endeavou…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fd46dad6f85218cf860d1abb41173ed3b14fee14/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">A Guide to the 4 Caucuses That Could Shape the Democratic House</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Democrats are preparing to take control of the House of Representatives with a substantially larger majority and an influx of new members who cover every corner of the party’s “big tent. ” Incoming Democratic freshman include several democratic socialists and even more moderates who won in competitive and Republican-leaning districts. Many campaigned on lowering costs, improving health care, and providing a practical alternative to President Donald Trump. Some prom…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a2b68c1eacb3b92abef3c3f923b72aff70a4dbb0/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">An Ode to the Endeavour Space Shuttle</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">I’m standing on the floor of the Samuel Oschin Air and Space Center of the California Science Center under the tail of the new exhibit of the Space Shuttle Endeavour and remembering how I felt looking up at that same shuttle on the launch pad at the Kennedy Space Center in Florida. There is no one word to describe that feeling: wonder, awe, amazement, immense pride that we could build and fly such a machine. How was this my job, I think to myself. I’d spent a large…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">A Guide to the 4 Caucus…</text>
+      <text hint-style="caption">An Ode to the Endeavour…</text>
     </binding>
   </visual>
 </tile>
