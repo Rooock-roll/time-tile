@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-25T04:01:09.946659+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-25T04:15:51.082570+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
     "How AI Is Changing What Companies Know About Their Customers",
     "‘They Never Stop’: Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare",
     "Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom",
-    "Habits Food-Waste Experts Recommend This Thanksgiving",
-    "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions"
+    "Habits Food-Waste Experts Recommend This Thanksgiving"
   ],
   "articles": [
+    {
+      "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
+      "summary": "Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and older Fockers to face the same challenge their Forefockers had to tackle the first time around, in 2000’s Meet the Parents. What if you meet your offspring’s new squeeze and find him or her wanting? That’s where Ben Stiller’s Greg Focker finds himself in Focker In-Law, the fourth installment in a series that seemed to have found its natural end with 2010’s",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf4ef4e1965c8000d/6b0653c27031a77c0fec5b8c/FIL-FF-037R3.jpg?branch=production"
+    },
     {
       "title": "How AI Is Changing What Companies Know About Their Customers",
       "summary": "Fifteen years ago, when he worked as an adviser to the pharmaceutical industry, Jeff Gaus’ firm bought drugstore cash-register data. From those records, he says, the company could tell pharma reps that, for example, “Dr. Smith has three people with this condition” and instruct them to go pitch their wares to that doctor. That felt cutting edge, but it’s nothing compared to what Gaus has seen recently. What took multiple days and several number-crunching humans to figure out back then can be worked out in minutes or",
@@ -29,11 +34,6 @@
       "title": "Habits Food-Waste Experts Recommend This Thanksgiving",
       "summary": "For millions around the country, Thanksgiving preparations are in full swing. But after we fill up on turkey and countless sides, what’s left often goes to waste. One study found that, in 2025, Americans discarded enough food to fill 40 football fields from their Thanksgiving meals. We spoke with experts about how you can avoid food waste this Thanksgiving. Read more: Will Bad Weather Disrupt Thanksgiving Travel? Avoiding food waste starts long before your meal is on the table. Before you go shopping, look through ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltda88ee153d7c8838/6b05dd98ede4c335d26cf5a9/thanksgiving-food-waste-tips.jpg?branch=production"
-    },
-    {
-      "title": "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions",
-      "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, escalating tensions between the neighboring countries amid an ongoing trade war . In a two-page fact sheet released Monday, the Pentagon under Defense Secretary Pete Hegseth outlined what it described as Canada's “defense shortfalls,” issuing a sharp rebuke of the country's leadership under Prime Minister Mark Carney . \"Canada must get serious and focused,\" read the fact sheet. The document criticized, what it charact",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3f4a965f01d67380/6b05836be196fd1b24dc2bb0/Meeting_U.S.-Canada.jpg?branch=production"
     }
   ]
 }
