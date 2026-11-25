@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27c139925c6ea67f4ed787af356e36b9f8abd3e5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da11ad258378f3f50046e49333b5391fdb8aef62/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27c139925c6ea67f4ed787af356e36b9f8abd3e5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da11ad258378f3f50046e49333b5391fdb8aef62/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and ol…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@27c139925c6ea67f4ed787af356e36b9f8abd3e5/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@da11ad258378f3f50046e49333b5391fdb8aef62/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Though it may seem like only yesterday, the last Fockers film appeared 16 years ago, which means enough time has passed for little Fockers to become big ones and older Fockers to face the same challenge their Forefockers had to tackle the first time around, in 2000’s Meet the Parents. What if you meet your offspring’s new squeeze and find him or her wanting? That’s where Ben Stiller’s Greg Focker finds himself in Focker In-Law, the fourth installment in a series th…</text>
     </binding>
