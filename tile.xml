@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@57d8f27794649bb79937ed78ea5ddf0fbd1b0f1a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@edc2aed78dcb8ce757c1a2e9e9bc71c00ce9d5de/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@57d8f27794649bb79937ed78ea5ddf0fbd1b0f1a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@edc2aed78dcb8ce757c1a2e9e9bc71c00ce9d5de/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Me…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@57d8f27794649bb79937ed78ea5ddf0fbd1b0f1a/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@edc2aed78dcb8ce757c1a2e9e9bc71c00ce9d5de/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump on Tuesday presented Rudy Giuliani, the former Mayor of New York City who served as Trump’s personal lawyer in 2020, with the Presidential Medal of Freedom. Appearing on Steve Bannon’s War Room podcast on Monday, Giuliani said that he was “very, very humbled and very honored” by the recognition. Giuliani rose to prominence as a prosecutor in New York and was first elected Mayor of New York City in 1993 as a Republican. For his leadership duri…</text>
     </binding>
