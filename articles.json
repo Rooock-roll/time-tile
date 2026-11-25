@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-25T14:15:46.539373+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-25T14:31:05.677707+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
     "People Are Getting Worse at Handling Uncertainty",
     "The Holiday Tradition of Pretending Our Families Get Along Perfectly",
     "A Guide to the 4 Caucuses That Could Shape the Democratic House",
-    "An Ode to the Endeavour Space Shuttle",
-    "How the War Turned Sudan Into a Country Without a Newspaper"
+    "An Ode to the Endeavour Space Shuttle"
   ],
   "articles": [
+    {
+      "title": "What Time Should You Eat Thanksgiving Dinner? Here’s What Etiquette Experts Say",
+      "summary": "As households across America prepare to gather for their Thanksgiving celebrations , there’s one question at the forefront of hosts’ minds: what time should dinner be served? A quick glance on social media will tell you that it’s a hotly-debated topic, and one that people have firm opinions on. Lifestyle expert Martha Stewart’s online publication conducted a poll in 2024, asking readers what time Thanksgiving dinner should start. More than 34,000 people joined the conversation, with the majority of respondents (13,",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt65005cbf015bd967/6b05b7d4e196fd36ccdc2d90/thanksgiving-timing-dinner-nov24.jpg?branch=production"
+    },
     {
       "title": "People Are Getting Worse at Handling Uncertainty",
       "summary": "Living with the unknown isn’t always easy. Not knowing if layoffs are headed your way or whether you’ll be able to afford rent would be difficult for anyone. But when the pressure of the unknown becomes so intense it interferes with daily life, this “intolerance of uncertainty,” as psychologists call it, becomes a risk factor for mental-health disorders, primarily anxiety and depression. Now, in a paper in JAMA Psychiatry , psychologists find that this trait rose in North America from 1992 to 2023. Using data on co",
@@ -29,11 +34,6 @@
       "title": "An Ode to the Endeavour Space Shuttle",
       "summary": "I’m standing on the floor of the Samuel Oschin Air and Space Center of the California Science Center under the tail of the new exhibit of the Space Shuttle Endeavour and remembering how I felt looking up at that same shuttle on the launch pad at the Kennedy Space Center in Florida. There is no one word to describe that feeling: wonder, awe, amazement, immense pride that we could build and fly such a machine. How was this my job, I think to myself. I’d spent a large part of my NASA career as an astronaut supporting ",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt38899e73e623f0d6/6b0636d3bdb22ba7aacb6089/Endeavour-Space-Shuttle.jpg?branch=production"
-    },
-    {
-      "title": "How the War Turned Sudan Into a Country Without a Newspaper",
-      "summary": "A war of narratives is being waged within the war in Sudan. The warring parties—the official Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), a paramilitary force—are fighting an information war through traditional and social media. Misinformation, disinformation, hate speech, and propaganda are routinely deployed, and Sudanese journalists have become targets. Thirty-four journalists have been killed in Sudan in the past three and a half years of war. Sixteen of them are believed to have been targete",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt7aba9877e8611991/6b05fd497031a7a065ec56ff/GettyImages-2267361002.jpg?branch=production"
     }
   ]
 }
