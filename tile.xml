@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7f99a404b0529c3d1995b608211a18eb107c437a/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@553bfa690bbdd24b85cb2a8346974c3003a21411/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7f99a404b0529c3d1995b608211a18eb107c437a/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last y…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@553bfa690bbdd24b85cb2a8346974c3003a21411/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s lice…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@7f99a404b0529c3d1995b608211a18eb107c437a/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last year. The show follows the lives of a group of women in the fictional town of Maple Brook, Texas, a world overflowing with sex, deceit, and—you guessed it— murder . Season 2 of The Hunting Wives delivers a new series of challenges for Sophie ( Brittany Snow ), Margo (Malin Åkerman), and Callie (Jamie Ray …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@553bfa690bbdd24b85cb2a8346974c3003a21411/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s licenses that critics have claimed is part of the Administration’s attacks on the press. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC’s request for a preliminary injunction against the Federal Communications Commission’s review, saying that the network was likely to succeed on its First…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Most Shocking Momen…</text>
+      <text hint-style="caption">‘Not a Close Case’: Jud…</text>
     </binding>
   </visual>
 </tile>
