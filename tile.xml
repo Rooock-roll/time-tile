@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd680c5c96971a71a8f3e5d7f157c3926973aed0/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dd4bf88bde750d4c20e0cc2f9d049065a045d034/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd680c5c96971a71a8f3e5d7f157c3926973aed0/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dd4bf88bde750d4c20e0cc2f9d049065a045d034/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s lice…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bd680c5c96971a71a8f3e5d7f157c3926973aed0/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@dd4bf88bde750d4c20e0cc2f9d049065a045d034/img/art-4.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s licenses that critics have claimed is part of the Administration’s attacks on the press. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC’s request for a preliminary injunction against the Federal Communications Commission’s review, saying that the network was likely to succeed on its First…</text>
     </binding>
