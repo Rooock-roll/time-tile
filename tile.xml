@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1419a1d1c86b5738d40f78680f8d669292eb62bd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">You Can’t Cast Your Family</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e9a3638f9bda0cf73ed0652a65f2e0806e1b42a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1419a1d1c86b5738d40f78680f8d669292eb62bd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">You Can’t Cast Your Family</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">One of the first films I cast was the holiday classic National Lampoon's Christmas Vacation . I was one lucky 27-year-old when my bosses invited me to partner with …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e9a3638f9bda0cf73ed0652a65f2e0806e1b42a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1419a1d1c86b5738d40f78680f8d669292eb62bd/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">You Can’t Cast Your Family</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">One of the first films I cast was the holiday classic National Lampoon's Christmas Vacation . I was one lucky 27-year-old when my bosses invited me to partner with them and help complete casting the Griswold family. In those days, we auditioned scores of actors in person. Almost everyone came through our doors to read for their roles, something now mostly done over Zoom or by offer only. In my humble opinion, casting has taken a nosedive because we've lost that int…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e9a3638f9bda0cf73ed0652a65f2e0806e1b42a5/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal . And someone asking: “How about we go around and say what we’re thankful for?” People share stories, discuss milestones, maybe even acknowledge personal challenges. And before it’s time for pumpkin pie, we’ve learned something new about one another and feel more connected than before. Unfortunately, exp…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">You Can’t Cast Your Fam…</text>
+      <text hint-style="caption">Connection Must Be More…</text>
     </binding>
   </visual>
 </tile>
