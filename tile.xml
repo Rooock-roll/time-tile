@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb9f9bf8d2efa62b335e25bf1f6f13afc53f2c96/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@93c7de42d7687a72455e05d03f1d73ea451853e6/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Push to Free a Princeton Scientist From ICE Detention Is Growing</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb9f9bf8d2efa62b335e25bf1f6f13afc53f2c96/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The National Weather Service’s Climate Prediction Center sent out an advisory Monday that El Niño continues to strengthen as forecasters record ocean warming and at…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@93c7de42d7687a72455e05d03f1d73ea451853e6/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Push to Free a Princeton Scientist From ICE Detention Is Growing</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classm…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@bb9f9bf8d2efa62b335e25bf1f6f13afc53f2c96/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The National Weather Service’s Climate Prediction Center sent out an advisory Monday that El Niño continues to strengthen as forecasters record ocean warming and atmospheric disruptions globally. “Chances for a historic event exceeding previous El Niños dating back to 1950 … are now ~60%,” it said. Read more: What An Early Polar Vortex Combined With El Niño Means For Winter Weather In an update on a weekly report from Nov. 12, the advisory showed more than a 79% ch…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@93c7de42d7687a72455e05d03f1d73ea451853e6/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Push to Free a Princeton Scientist From ICE Detention Is Growing</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classmates, and lawmakers are calling for her immediate release ahead of Thanksgiving Weekend. Eva Yi Xie, a Chinese national, was detained at the Ronald Reagan Washington National Airport as she departed from an annual conference of the Society for Neuroscience. Xie’s lawyers say that she was not presented wi…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">El Niño Is Strengthenin…</text>
+      <text hint-style="caption">The Push to Free a Prin…</text>
     </binding>
   </visual>
 </tile>
