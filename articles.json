@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-26T16:15:47.820442+00:00",
-  "showing": 4,
-  "next": 0,
+  "updated": "2026-11-26T16:31:06.005609+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats",
     "You Can’t Cast Your Family",
     "Connection Must Be More Than a Holiday Tradition",
     "The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked",
-    "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC",
-    "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor"
+    "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC"
   ],
   "articles": [
+    {
+      "title": "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats",
+      "summary": "China warned Thursday that it reserves the right to take “necessary measures” to retaliate against the Trump Administration’s proposed new tariffs , which have reignited global trade tensions. “China urges the U.S. to correct its wrong practices and return to the right track of resolving issues through dialogue and consultation,” said He Yadong, spokesperson for the Ministry of Commerce. He added that Beijing “reserves the right to take necessary measures and will resolutely safeguard its legitimate rights and inte",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt25686f8fe426f64d/6b084ec3e196fd0fc0dc4996/GettyImages-2207581122.jpg?branch=production"
+    },
     {
       "title": "You Can’t Cast Your Family",
       "summary": "One of the first films I cast was the holiday classic National Lampoon's Christmas Vacation . I was one lucky 27-year-old when my bosses invited me to partner with them and help complete casting the Griswold family. In those days, we auditioned scores of actors in person. Almost everyone came through our doors to read for their roles, something now mostly done over Zoom or by offer only. In my humble opinion, casting has taken a nosedive because we've lost that intimate experience of sitting face-to-face, listening",
@@ -29,11 +34,6 @@
       "title": "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC",
       "summary": "A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s licenses that critics have claimed is part of the Administration’s attacks on the press. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC’s request for a preliminary injunction against the Federal Communications Commission’s review, saying that the network was likely to succeed on its First Amendment claim. “This is not a close case,” the j",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte2167f2b9292747e/6b0806697031a707e3ec6b7b/abc-logo.jpg?branch=production"
-    },
-    {
-      "title": "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor",
-      "summary": "Fans and fellow artists are paying tribute to Andy Taylor, the guitarist of Duran Duran and a Rock & Roll Hall of Fame inductee, after his death this week at age 65. Taylor died Monday after a yearslong battle with stage 4 metastatic prostate cancer. In a joint statement on Wednesday, Taylor’s family and the band said he “passed away peacefully at home, surrounded by his family.” “Andy was there at the very beginning of our story,” Duran Duran said. “From the moment he arrived in Birmingham from the North East with",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt894a591979f63c9d/6b07dc00bdb22b71eacb6fe8/Andy_Taylor_1984.jpg?branch=production"
     }
   ]
 }
