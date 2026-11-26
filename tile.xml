@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b2fbaf5aa3060180ae5e58ae96f07322f36551dd/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@de33b35d37a4d44d5e251752f069249f5a02ec41/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b2fbaf5aa3060180ae5e58ae96f07322f36551dd/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans fro…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@de33b35d37a4d44d5e251752f069249f5a02ec41/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b2fbaf5aa3060180ae5e58ae96f07322f36551dd/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans from our feasting families, isn’t so different from TV’s dozens of other soapy thrillers on paper. It’s got sex, murder, secrets, cattiness, betrayal, shameless wealth porn. But so do all the rest. It’s neither the smartest nor the silliest series of its kind. Why, then, is this show about an East Coast mom…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@de33b35d37a4d44d5e251752f069249f5a02ec41/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was arrested and accused of second-degree murder and manslaughter, with authorities alleging that she ran over O’Keefe in her SUV while driving under the influence, then left him in the snow to die. Read pleaded not guilty, and her defense attorneys made the case that there was reasonable doubt as to whether…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What The Hunting Wives—…</text>
+      <text hint-style="caption">What to Know About the …</text>
     </binding>
   </visual>
 </tile>
