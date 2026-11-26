@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1338b1f3da2d3a1b7367ec9874ad4c151e8088ee/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ca6b40ce820bdc305cd55a4176bb2ff54054195/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1338b1f3da2d3a1b7367ec9874ad4c151e8088ee/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last y…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ca6b40ce820bdc305cd55a4176bb2ff54054195/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">President Donald Trump on Thursday said he would like to see Russian President Vladimir Putin “pull back all military aggression against territories throughout Euro…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@1338b1f3da2d3a1b7367ec9874ad4c151e8088ee/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last year. The show follows the lives of a group of women in the fictional town of Maple Brook, Texas, a world overflowing with sex, deceit, and—you guessed it— murder . Season 2 of The Hunting Wives delivers a new series of challenges for Sophie ( Brittany Snow ), Margo (Malin Åkerman), and Callie (Jamie Ray …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9ca6b40ce820bdc305cd55a4176bb2ff54054195/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">President Donald Trump on Thursday said he would like to see Russian President Vladimir Putin “pull back all military aggression against territories throughout Europe” in the hope that a deal can be made to end the Russia-Ukraine war. &quot;During my conversations in ​China with President Vladimir Putin, of Russia, I ⁠spent a lot of time talking about the ​fact that I would like to see President ​Putin pull back all military aggression against territories throughout Eur…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">The Most Shocking Momen…</text>
+      <text hint-style="caption">Trump Urges Putin to ‘P…</text>
     </binding>
   </visual>
 </tile>
