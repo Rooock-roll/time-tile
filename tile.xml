@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@215b6a09a8652a7cb7cc12dfe4dcc57331c6fcc4/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c0fd2ccb25cb7f73c0922df54f0c098265a27f10/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@215b6a09a8652a7cb7cc12dfe4dcc57331c6fcc4/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c0fd2ccb25cb7f73c0922df54f0c098265a27f10/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last y…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@215b6a09a8652a7cb7cc12dfe4dcc57331c6fcc4/img/art-3.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal . And someone asking: “How about we go around and say what we’re thankful for?” People share stories, discuss milestones, maybe even acknowledge personal challenges. And before it’s time for pumpkin pie, we’ve learned something new about one another and feel more connected than before. Unfortunately, exp…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c0fd2ccb25cb7f73c0922df54f0c098265a27f10/img/art-4.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last year. The show follows the lives of a group of women in the fictional town of Maple Brook, Texas, a world overflowing with sex, deceit, and—you guessed it— murder . Season 2 of The Hunting Wives delivers a new series of challenges for Sophie ( Brittany Snow ), Margo (Malin Åkerman), and Callie (Jamie Ray …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Connection Must Be More…</text>
+      <text hint-style="caption">The Most Shocking Momen…</text>
     </binding>
   </visual>
 </tile>
