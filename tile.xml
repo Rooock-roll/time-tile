@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@527363ff9a6dd9ec012f01db2c9dc014a5fcef4a/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5edde5f16a1850415016c1fd82e051040b4a56ac/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">You Can’t Cast Your Family</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@527363ff9a6dd9ec012f01db2c9dc014a5fcef4a/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5edde5f16a1850415016c1fd82e051040b4a56ac/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">You Can’t Cast Your Family</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">One of the first films I cast was the holiday classic National Lampoon's Christmas Vacation . I was one lucky 27-year-old when my bosses invited me to partner with …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@527363ff9a6dd9ec012f01db2c9dc014a5fcef4a/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5edde5f16a1850415016c1fd82e051040b4a56ac/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">You Can’t Cast Your Family</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">One of the first films I cast was the holiday classic National Lampoon's Christmas Vacation . I was one lucky 27-year-old when my bosses invited me to partner with them and help complete casting the Griswold family. In those days, we auditioned scores of actors in person. Almost everyone came through our doors to read for their roles, something now mostly done over Zoom or by offer only. In my humble opinion, casting has taken a nosedive because we've lost that int…</text>
     </binding>
