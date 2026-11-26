@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-26T10:45:44.045407+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-26T11:01:18.699626+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC",
     "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor",
     "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
     "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
-    "Breaking Down the Ending of The Remarried Empress",
-    "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up"
+    "Breaking Down the Ending of The Remarried Empress"
   ],
   "articles": [
+    {
+      "title": "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC",
+      "summary": "A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s licenses that critics have claimed is part of the Administration’s attacks on the press. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC’s request for a preliminary injunction against the Federal Communications Commission’s review, saying that the network was likely to succeed on its First Amendment claim. “This is not a close case,” the j",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte2167f2b9292747e/6b0806697031a707e3ec6b7b/abc-logo.jpg?branch=production"
+    },
     {
       "title": "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor",
       "summary": "Fans and fellow artists are paying tribute to Andy Taylor, the guitarist of Duran Duran and a Rock & Roll Hall of Fame inductee, after his death this week at age 65. Taylor died Monday after a yearslong battle with stage 4 metastatic prostate cancer. In a joint statement on Wednesday, Taylor’s family and the band said he “passed away peacefully at home, surrounded by his family.” “Andy was there at the very beginning of our story,” Duran Duran said. “From the moment he arrived in Birmingham from the North East with",
@@ -29,11 +34,6 @@
       "title": "Breaking Down the Ending of The Remarried Empress",
       "summary": "It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful webcomic and webtoon of the same name, the series stars Hometown Cha Cha Cha ’s Shin Min-a as the empress of a fictional Eastern Empire. As the poised, seemingly perfect Empress Navier, Shin wears over 70 princess-like costumes across the series’ 10 episodes. Her beau—Heinrey ( Romance is a Bonus Book ’s Lee Jong-suk), a playboy prince from the neighbori",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blted5e371f20cceab6/6b076034ca3d8d8505d97c7d/remarried-empress-2.jpg?branch=production"
-    },
-    {
-      "title": "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up",
-      "summary": "The National Weather Service’s Climate Prediction Center sent out an advisory Monday that El Niño continues to strengthen as forecasters record ocean warming and atmospheric disruptions globally. “Chances for a historic event exceeding previous El Niños dating back to 1950 … are now ~60%,” it said. Read more: What An Early Polar Vortex Combined With El Niño Means For Winter Weather In an update on a weekly report from Nov. 12, the advisory showed more than a 79% chance of remaining strong to very strong through Jan",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcc13ea88a64f893a/6b074114ede4c3f1616d0aca/GettyImages-2306206500.jpg?branch=production"
     }
   ]
 }
