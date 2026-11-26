@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d3cdf15646a5d2408b61e72ec8c9e8b0cb819730/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@44f5a604344f8a73376c65851c09899571a42c09/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d3cdf15646a5d2408b61e72ec8c9e8b0cb819730/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@44f5a604344f8a73376c65851c09899571a42c09/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@d3cdf15646a5d2408b61e72ec8c9e8b0cb819730/img/art-1.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was arrested and accused of second-degree murder and manslaughter, with authorities alleging that she ran over O’Keefe in her SUV while driving under the influence, then left him in the snow to die. Read pleaded not guilty, and her defense attorneys made the case that there was reasonable doubt as to whether…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@44f5a604344f8a73376c65851c09899571a42c09/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful webcomic and webtoon of the same name, the series stars Hometown Cha Cha Cha ’s Shin Min-a as the empress of a fictional Eastern Empire. As the poised, seemingly perfect Empress Navier, Shin wears over 70 princess-like costumes across the series’ 10 episodes. Her beau—Heinrey ( Romance is a Bonus Book ’s…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What to Know About the …</text>
+      <text hint-style="caption">Breaking Down the Endin…</text>
     </binding>
   </visual>
 </tile>
