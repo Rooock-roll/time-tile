@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-26T08:01:19.638137+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-26T08:15:42.291350+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
     "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
     "Breaking Down the Ending of The Remarried Empress",
     "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up",
-    "The Push to Free a Princeton Scientist From ICE Detention Is Growing",
-    "Trump Administration Unveils New Tariffs for China, the European Union, and More"
+    "The Push to Free a Princeton Scientist From ICE Detention Is Growing"
   ],
   "articles": [
+    {
+      "title": "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
+      "summary": "This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans from our feasting families, isn’t so different from TV’s dozens of other soapy thrillers on paper. It’s got sex, murder, secrets, cattiness, betrayal, shameless wealth porn. But so do all the rest. It’s neither the smartest nor the silliest series of its kind. Why, then, is this show about an East Coast mom (Brittany Snow’s Sophie) who moves to the fictiona",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2b221df86d94282f/6b006af5bdb22b9e61cb35b2/The_Hunting_Wives_n_S2_E5_00_08_39_10RC_C.jpg?branch=production"
+    },
     {
       "title": "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
       "summary": "On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was arrested and accused of second-degree murder and manslaughter, with authorities alleging that she ran over O’Keefe in her SUV while driving under the influence, then left him in the snow to die. Read pleaded not guilty, and her defense attorneys made the case that there was reasonable doubt as to whether O’Keefe might have been killed by a fellow police ",
@@ -29,11 +34,6 @@
       "title": "The Push to Free a Princeton Scientist From ICE Detention Is Growing",
       "summary": "Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classmates, and lawmakers are calling for her immediate release ahead of Thanksgiving Weekend. Eva Yi Xie, a Chinese national, was detained at the Ronald Reagan Washington National Airport as she departed from an annual conference of the Society for Neuroscience. Xie’s lawyers say that she was not presented with a warrant. She was later taken to the Caroline D",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2abf12e5ee01a441/6b07121f94c0ac34d64a8325/GettyImages-2274498190.jpg?branch=production"
-    },
-    {
-      "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More",
-      "summary": "The Trump Administration on Wednesday proposed sweeping new tariffs on 14 major trading partners, including China and the European Union , threatening to reignite global trade tensions. China is set to be hit with the highest rate, facing tariffs of up to 20% on most covered goods. The rate could potentially rise to 40% if Beijing fails to honor the trade truce agreed upon between Beijing and Washington last year. The European Union also faces a proposed tariff rate of 15% , accounting for certain existing duties, ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt3362388f8385e88c/6b0720111b16e965cb180876/Trump_Tariffs.jpg?branch=production"
     }
   ]
 }
