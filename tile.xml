@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0532d2d8c891716754cac62b5f5f6ab8c453f64c/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e7ff20bd0373c42fb900a092c9156e7457f3063c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0532d2d8c891716754cac62b5f5f6ab8c453f64c/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e7ff20bd0373c42fb900a092c9156e7457f3063c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Fans and fellow artists are paying tribute to Andy Taylor, the guitarist of Duran Duran and a Rock &amp; Roll Hall of Fame inductee, after his death this week at age 65…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@0532d2d8c891716754cac62b5f5f6ab8c453f64c/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful webcomic and webtoon of the same name, the series stars Hometown Cha Cha Cha ’s Shin Min-a as the empress of a fictional Eastern Empire. As the poised, seemingly perfect Empress Navier, Shin wears over 70 princess-like costumes across the series’ 10 episodes. Her beau—Heinrey ( Romance is a Bonus Book ’s…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e7ff20bd0373c42fb900a092c9156e7457f3063c/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Fans and fellow artists are paying tribute to Andy Taylor, the guitarist of Duran Duran and a Rock &amp; Roll Hall of Fame inductee, after his death this week at age 65. Taylor died Monday after a yearslong battle with stage 4 metastatic prostate cancer. In a joint statement on Wednesday, Taylor’s family and the band said he “passed away peacefully at home, surrounded by his family.” “Andy was there at the very beginning of our story,” Duran Duran said. “From the momen…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Breaking Down the Endin…</text>
+      <text hint-style="caption">Artists and Fans Pay Tr…</text>
     </binding>
   </visual>
 </tile>

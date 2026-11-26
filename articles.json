@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-26T09:45:49.224804+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-26T10:01:26.208067+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor",
     "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
     "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
     "Breaking Down the Ending of The Remarried Empress",
-    "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up",
-    "The Push to Free a Princeton Scientist From ICE Detention Is Growing"
+    "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up"
   ],
   "articles": [
+    {
+      "title": "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor",
+      "summary": "Fans and fellow artists are paying tribute to Andy Taylor, the guitarist of Duran Duran and a Rock & Roll Hall of Fame inductee, after his death this week at age 65. Taylor died Monday after a yearslong battle with stage 4 metastatic prostate cancer. In a joint statement on Wednesday, Taylor’s family and the band said he “passed away peacefully at home, surrounded by his family.” “Andy was there at the very beginning of our story,” Duran Duran said. “From the moment he arrived in Birmingham from the North East with",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt894a591979f63c9d/6b07dc00bdb22b71eacb6fe8/Andy_Taylor_1984.jpg?branch=production"
+    },
     {
       "title": "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
       "summary": "This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans from our feasting families, isn’t so different from TV’s dozens of other soapy thrillers on paper. It’s got sex, murder, secrets, cattiness, betrayal, shameless wealth porn. But so do all the rest. It’s neither the smartest nor the silliest series of its kind. Why, then, is this show about an East Coast mom (Brittany Snow’s Sophie) who moves to the fictiona",
@@ -29,11 +34,6 @@
       "title": "El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up",
       "summary": "The National Weather Service’s Climate Prediction Center sent out an advisory Monday that El Niño continues to strengthen as forecasters record ocean warming and atmospheric disruptions globally. “Chances for a historic event exceeding previous El Niños dating back to 1950 … are now ~60%,” it said. Read more: What An Early Polar Vortex Combined With El Niño Means For Winter Weather In an update on a weekly report from Nov. 12, the advisory showed more than a 79% chance of remaining strong to very strong through Jan",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcc13ea88a64f893a/6b074114ede4c3f1616d0aca/GettyImages-2306206500.jpg?branch=production"
-    },
-    {
-      "title": "The Push to Free a Princeton Scientist From ICE Detention Is Growing",
-      "summary": "Immigration and Customs Enforcement (ICE) detained a Princeton University doctoral candidate on Nov. 19 at an airport in Arlington, Virginia. Her colleagues, classmates, and lawmakers are calling for her immediate release ahead of Thanksgiving Weekend. Eva Yi Xie, a Chinese national, was detained at the Ronald Reagan Washington National Airport as she departed from an annual conference of the Society for Neuroscience. Xie’s lawyers say that she was not presented with a warrant. She was later taken to the Caroline D",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2abf12e5ee01a441/6b07121f94c0ac34d64a8325/GettyImages-2274498190.jpg?branch=production"
     }
   ]
 }
