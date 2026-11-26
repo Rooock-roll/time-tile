@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a7b6b9ef3af779aecb48c001c7ebdb0fe2837b88/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@73a0ca9c07840a5bae9b52df85792cab36f5aee8/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a7b6b9ef3af779aecb48c001c7ebdb0fe2837b88/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@73a0ca9c07840a5bae9b52df85792cab36f5aee8/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans fro…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a7b6b9ef3af779aecb48c001c7ebdb0fe2837b88/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@73a0ca9c07840a5bae9b52df85792cab36f5aee8/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans from our feasting families, isn’t so different from TV’s dozens of other soapy thrillers on paper. It’s got sex, murder, secrets, cattiness, betrayal, shameless wealth porn. But so do all the rest. It’s neither the smartest nor the silliest series of its kind. Why, then, is this show about an East Coast mom…</text>
     </binding>
