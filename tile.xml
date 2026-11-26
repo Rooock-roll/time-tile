@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@404523870eca9f9e56639429266c2d722fd71f90/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72752f39a3a06dfac275822b40135233d75a8f29/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@404523870eca9f9e56639429266c2d722fd71f90/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72752f39a3a06dfac275822b40135233d75a8f29/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@404523870eca9f9e56639429266c2d722fd71f90/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@72752f39a3a06dfac275822b40135233d75a8f29/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Breaking Down the Ending of The Remarried Empress</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful webcomic and webtoon of the same name, the series stars Hometown Cha Cha Cha ’s Shin Min-a as the empress of a fictional Eastern Empire. As the poised, seemingly perfect Empress Navier, Shin wears over 70 princess-like costumes across the series’ 10 episodes. Her beau—Heinrey ( Romance is a Bonus Book ’s…</text>
     </binding>
