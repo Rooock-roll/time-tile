@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-26T11:15:45.295457+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-26T11:31:02.787643+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Connection Must Be More Than a Holiday Tradition",
+    "The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked",
     "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC",
     "Artists and Fans Pay Tribute to Duran Duran Guitarist Andy Taylor",
-    "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
-    "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
-    "Breaking Down the Ending of The Remarried Empress"
+    "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV"
   ],
   "articles": [
+    {
+      "title": "Connection Must Be More Than a Holiday Tradition",
+      "summary": "It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal . And someone asking: “How about we go around and say what we’re thankful for?” People share stories, discuss milestones, maybe even acknowledge personal challenges. And before it’s time for pumpkin pie, we’ve learned something new about one another and feel more connected than before. Unfortunately, experiences of connection like this happen too infrequ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt76dfd3e4038237f5/6b0751ef729e011b39ccaa92/Connection-thanksgiving.jpg?branch=production"
+    },
+    {
+      "title": "The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked",
+      "summary": "The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last year. The show follows the lives of a group of women in the fictional town of Maple Brook, Texas, a world overflowing with sex, deceit, and—you guessed it— murder . Season 2 of The Hunting Wives delivers a new series of challenges for Sophie ( Brittany Snow ), Margo (Malin Åkerman), and Callie (Jamie Ray Newman), as the murders from Season 1 continue to h",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt691f5d881d290e74/6b05a12f6465590247993925/The_Hunting_Wives_n_S2_E2_00_33_15_11RC_C.jpg?branch=production"
+    },
     {
       "title": "‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC",
       "summary": "A federal judge has blocked the Trump Administration’s communications regulator from targeting network ABC, ruling against an early review of the broadcaster’s licenses that critics have claimed is part of the Administration’s attacks on the press. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC’s request for a preliminary injunction against the Federal Communications Commission’s review, saying that the network was likely to succeed on its First Amendment claim. “This is not a close case,” the j",
@@ -24,16 +34,6 @@
       "title": "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
       "summary": "This article discusses the full second season of The Hunting Wives. The Hunting Wives , whose second season has arrived on Netflix just in time to distract fans from our feasting families, isn’t so different from TV’s dozens of other soapy thrillers on paper. It’s got sex, murder, secrets, cattiness, betrayal, shameless wealth porn. But so do all the rest. It’s neither the smartest nor the silliest series of its kind. Why, then, is this show about an East Coast mom (Brittany Snow’s Sophie) who moves to the fictiona",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2b221df86d94282f/6b006af5bdb22b9e61cb35b2/The_Hunting_Wives_n_S2_E5_00_08_39_10RC_C.jpg?branch=production"
-    },
-    {
-      "title": "What to Know About the Case Behind Netflix's New True-Crime Docuseries The Trials of Karen Read",
-      "summary": "On Jan. 29, 2022, Boston police officer John O’Keefe, 46, was found dead in the snow outside of his friend’s home in Canton, Mass. His girlfriend, Karen Read , was arrested and accused of second-degree murder and manslaughter, with authorities alleging that she ran over O’Keefe in her SUV while driving under the influence, then left him in the snow to die. Read pleaded not guilty, and her defense attorneys made the case that there was reasonable doubt as to whether O’Keefe might have been killed by a fellow police ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt37a31959450be3f4/6b05f6bf144cf278d664591d/The_Trials_of_Karen_Read_n_S1_E1_00_08_29_07_(1).jpg?branch=production"
-    },
-    {
-      "title": "Breaking Down the Ending of The Remarried Empress",
-      "summary": "It’s hard to imagine The Remarried Empress appearing on a streamer other than Disney+. The K-drama plays out like a fairy tale. Adapted from a massively successful webcomic and webtoon of the same name, the series stars Hometown Cha Cha Cha ’s Shin Min-a as the empress of a fictional Eastern Empire. As the poised, seemingly perfect Empress Navier, Shin wears over 70 princess-like costumes across the series’ 10 episodes. Her beau—Heinrey ( Romance is a Bonus Book ’s Lee Jong-suk), a playboy prince from the neighbori",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blted5e371f20cceab6/6b076034ca3d8d8505d97c7d/remarried-empress-2.jpg?branch=production"
     }
   ]
 }
