@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-27T20:01:17.270289+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-27T20:15:44.883448+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
     "Denis Villeneuve on Drastic Changes in His Dune: Part 3 Movie: ‘When You Adapt, You Kill’",
     "How to Have a More Sustainable Black Friday, According to Experts",
     "Why You Should Train to Be Ethically Fit",
-    "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle",
-    "Trump Accuses His Own Government of Falsifying Economic Data"
+    "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle"
   ],
   "articles": [
+    {
+      "title": "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
+      "summary": "The Russian exclave of Kaliningrad on the Baltic Sea has the potential to become a flashpoint with NATO as recent maritime security incidents between Russia and Ukraine bring renewed attention to the territory nestled between two NATO members. Moscow on Monday announced the allocation of approximately 47 billion rubles (around $572 million) toward the construction of two railway ferries between the Russian mainland and Kaliningrad, which sits between Poland and Lithuania. Prime Minister Mikhail Mishustin said the a",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt64a87eea6c19e8aa/6b09dcda646559471199608f/GettyImages-2302093514.jpg?branch=production"
+    },
     {
       "title": "Denis Villeneuve on Drastic Changes in His Dune: Part 3 Movie: ‘When You Adapt, You Kill’",
       "summary": "Denis Villeneuve is finally done wandering the desert. The writer-director has spent nearly a decade adapting Frank Herbert’s Dune and Dune Messiah, the saga of Paul Atreides ( Timothée Chalamet ), a young duke stranded on the desert planet of Arrakis, the only source of the universe’s most precious commodity, spice. Embraced as a messiah by the native Fremen thanks to the machinations of a religious order called the Bene Gesserit, Paul ends Dune: Part Two by avenging his father, seizing the throne, and launching a",
@@ -29,11 +34,6 @@
       "title": "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle",
       "summary": "Republicans and Democrats in several states engaged in a bitter fight to redraw congressional maps in their parties’ favor leading up to this year’s midterms. But in the aftermath of the blue wave that swept across the country, that conflict may be dying down—at least for now. Typically, maps are redrawn after the results of the U.S. census are released each decade, in order to account for population and demographic changes. Last year, however, President Donald Trump urged members of his party to redistrict mid-cyc",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9fe0fcddc9679b0e/6b0716e44377b57532434748/Midterm-Redistricting.jpg?branch=production"
-    },
-    {
-      "title": "Trump Accuses His Own Government of Falsifying Economic Data",
-      "summary": "President Donald Trump has accused his own government of deliberately falsifying economic data before the midterm elections in which Republicans saw sweeping losses . “I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late,” Trump posted on Truth Social Thursday. “A RECORD SETTING ERROR, and one so grave that it should be immediately investigated.” His holiday post also made jabs at the “Radical Far Left,” ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfbe5e98369a8f1cb/6b0933260378a6aa3b272fe9/Trump_Thanksgiving.jpg?branch=production"
     }
   ]
 }
