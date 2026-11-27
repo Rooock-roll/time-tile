@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@df56f016305edd57ff28fc788e79c5bde158fba9/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@47fa8a7f050a067d39272d64f5fd19412ccc7215/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@df56f016305edd57ff28fc788e79c5bde158fba9/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@47fa8a7f050a067d39272d64f5fd19412ccc7215/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">China warned Thursday that it reserves the right to take “necessary measures” to retaliate against the Trump Administration’s proposed new tariffs , which have reig…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@df56f016305edd57ff28fc788e79c5bde158fba9/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@47fa8a7f050a067d39272d64f5fd19412ccc7215/img/art-1.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">China warned Thursday that it reserves the right to take “necessary measures” to retaliate against the Trump Administration’s proposed new tariffs , which have reignited global trade tensions. “China urges the U.S. to correct its wrong practices and return to the right track of resolving issues through dialogue and consultation,” said He Yadong, spokesperson for the Ministry of Commerce. He added that Beijing “reserves the right to take necessary measures and will …</text>
     </binding>
