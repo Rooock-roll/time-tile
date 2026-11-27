@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-27T11:01:22.682834+00:00",
-  "showing": 3,
-  "next": 4,
+  "updated": "2026-11-27T11:15:44.734405+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle",
+    "Trump Accuses His Own Government of Falsifying Economic Data",
     "Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe",
     "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats",
-    "You Can’t Cast Your Family",
-    "Connection Must Be More Than a Holiday Tradition",
-    "The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked"
+    "You Can’t Cast Your Family"
   ],
   "articles": [
+    {
+      "title": "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle",
+      "summary": "Republicans and Democrats in several states engaged in a bitter fight to redraw congressional maps in their parties’ favor leading up to this year’s midterms. But in the aftermath of the blue wave that swept across the country, that conflict may be dying down—at least for now. Typically, maps are redrawn after the results of the U.S. census are released each decade, in order to account for population and demographic changes. Last year, however, President Donald Trump urged members of his party to redistrict mid-cyc",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9fe0fcddc9679b0e/6b0716e44377b57532434748/Midterm-Redistricting.jpg?branch=production"
+    },
+    {
+      "title": "Trump Accuses His Own Government of Falsifying Economic Data",
+      "summary": "President Donald Trump has accused his own government of deliberately falsifying economic data before the midterm elections in which Republicans saw sweeping losses . “I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late,” Trump posted on Truth Social Thursday. “A RECORD SETTING ERROR, and one so grave that it should be immediately investigated.” His holiday post also made jabs at the “Radical Far Left,” ",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfbe5e98369a8f1cb/6b0933260378a6aa3b272fe9/Trump_Thanksgiving.jpg?branch=production"
+    },
     {
       "title": "Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe",
       "summary": "President Donald Trump on Thursday said he would like to see Russian President Vladimir Putin “pull back all military aggression against territories throughout Europe” in the hope that a deal can be made to end the Russia-Ukraine war. \"During my conversations in ​China with President Vladimir Putin, of Russia, I ⁠spent a lot of time talking about the ​fact that I would like to see President ​Putin pull back all military aggression against territories throughout Europe,” said Trump, referencing the meetings he had w",
@@ -24,16 +34,6 @@
       "title": "You Can’t Cast Your Family",
       "summary": "One of the first films I cast was the holiday classic National Lampoon's Christmas Vacation . I was one lucky 27-year-old when my bosses invited me to partner with them and help complete casting the Griswold family. In those days, we auditioned scores of actors in person. Almost everyone came through our doors to read for their roles, something now mostly done over Zoom or by offer only. In my humble opinion, casting has taken a nosedive because we've lost that intimate experience of sitting face-to-face, listening",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltec0c53bd661d13f0/6b0753354377b56343434913/Christmas-Vacation.jpg?branch=production"
-    },
-    {
-      "title": "Connection Must Be More Than a Holiday Tradition",
-      "summary": "It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal . And someone asking: “How about we go around and say what we’re thankful for?” People share stories, discuss milestones, maybe even acknowledge personal challenges. And before it’s time for pumpkin pie, we’ve learned something new about one another and feel more connected than before. Unfortunately, experiences of connection like this happen too infrequ",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt76dfd3e4038237f5/6b0751ef729e011b39ccaa92/Connection-thanksgiving.jpg?branch=production"
-    },
-    {
-      "title": "The Most Shocking Moments of the Hunting Wives Season 2 Finale, Ranked",
-      "summary": "The Hunting Wives knows how to bring the drama. The series, created by Rebecca Cutter based on the novel by May Cobb, became a surprise smash hit for Netflix last year. The show follows the lives of a group of women in the fictional town of Maple Brook, Texas, a world overflowing with sex, deceit, and—you guessed it— murder . Season 2 of The Hunting Wives delivers a new series of challenges for Sophie ( Brittany Snow ), Margo (Malin Åkerman), and Callie (Jamie Ray Newman), as the murders from Season 1 continue to h",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt691f5d881d290e74/6b05a12f6465590247993925/The_Hunting_Wives_n_S2_E2_00_33_15_11RC_C.jpg?branch=production"
     }
   ]
 }
