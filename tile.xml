@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fbf1e07a91eaf64bbaf4fc85c32abce5a1bdc2ae/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Have a More Sustainable Black Friday, According to Experts</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b589bca3f7d25ab16ce267ddcd5ce77ef2e24c0f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why You Should Train to Be Ethically Fit</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fbf1e07a91eaf64bbaf4fc85c32abce5a1bdc2ae/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Have a More Sustainable Black Friday, According to Experts</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Black Friday is here—holding the promise of good deals and the unofficial start of the holiday shopping season. But if you plan to shop the sales, take the time to …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b589bca3f7d25ab16ce267ddcd5ce77ef2e24c0f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why You Should Train to Be Ethically Fit</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Think of great athletes; they are fit in a way that relies on years of training and practice. An accomplished track star did not suddenly decide to run the four-min…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@fbf1e07a91eaf64bbaf4fc85c32abce5a1bdc2ae/img/art-2.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Have a More Sustainable Black Friday, According to Experts</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Black Friday is here—holding the promise of good deals and the unofficial start of the holiday shopping season. But if you plan to shop the sales, take the time to think about what you really need —and what you plan to give. Americans spent $10 billion dollars on unwanted gifts in 2024. And last year, 65% of consumers reported returning a holiday gift, while 54% admitted to regifting an unwanted item. So, being more intentional about your holiday shopping can benef…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b589bca3f7d25ab16ce267ddcd5ce77ef2e24c0f/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why You Should Train to Be Ethically Fit</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Think of great athletes; they are fit in a way that relies on years of training and practice. An accomplished track star did not suddenly decide to run the four-minute mile one morning and have all the skills, strength, and endurance to do it. Elite tennis players prepare for and anticipate mid-game scenarios and know just what shot to draw on because they’ve practiced it thousands of times. Or think of great musicians who are fit because they’ve practiced scales, …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">How to Have a More Sust…</text>
+      <text hint-style="caption">Why You Should Train to…</text>
     </binding>
   </visual>
 </tile>
