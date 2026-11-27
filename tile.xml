@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a33a18d620fa58e6e74e100073730789bb075729/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c99f73ea335cb5c2d7603cc875c273d7fd53f5f4/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a33a18d620fa58e6e74e100073730789bb075729/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c99f73ea335cb5c2d7603cc875c273d7fd53f5f4/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@a33a18d620fa58e6e74e100073730789bb075729/img/art-3.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@c99f73ea335cb5c2d7603cc875c273d7fd53f5f4/img/art-3.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Connection Must Be More Than a Holiday Tradition</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">It’s Thanksgiving Day. For many of us, this means turkey and stuffing in the oven. Football playing in the background. Family and friends gathering to share a meal . And someone asking: “How about we go around and say what we’re thankful for?” People share stories, discuss milestones, maybe even acknowledge personal challenges. And before it’s time for pumpkin pie, we’ve learned something new about one another and feel more connected than before. Unfortunately, exp…</text>
     </binding>
