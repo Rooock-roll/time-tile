@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-28T11:15:46.042494+00:00",
-  "showing": 2,
-  "next": 3,
+  "updated": "2026-11-28T11:31:10.814351+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay",
     "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
     "Denis Villeneuve on Drastic Changes in His Dune: Part 3 Movie: ‘When You Adapt, You Kill’",
     "How to Have a More Sustainable Black Friday, According to Experts",
-    "Why You Should Train to Be Ethically Fit",
-    "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle"
+    "Why You Should Train to Be Ethically Fit"
   ],
   "articles": [
+    {
+      "title": "I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay",
+      "summary": "Without insurance, emergency department or urgent care visits are completely unaffordable for the average person. In 2021, the Agency for Healthcare Research and Quality (AHRQ) estimated the average cost in the United States for a “treat and release” Emergency Department visit is $750. The bill could be much, much higher, even thousands of dollars, depending on tests performed and treatment administered. Even with insurance, affordability can be a major impediment to care or a financial risk of receiving care. Afte",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt407858886e4acacb/6b00a026bdb22b78f6cb3696/lung-cancer.jpg?branch=production"
+    },
     {
       "title": "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
       "summary": "The Russian exclave of Kaliningrad on the Baltic Sea has the potential to become a flashpoint with NATO as recent maritime security incidents between Russia and Ukraine bring renewed attention to the territory nestled between two NATO members. Moscow on Monday announced the allocation of approximately 47 billion rubles (around $572 million) toward the construction of two railway ferries between the Russian mainland and Kaliningrad, which sits between Poland and Lithuania. Prime Minister Mikhail Mishustin said the a",
@@ -29,11 +34,6 @@
       "title": "Why You Should Train to Be Ethically Fit",
       "summary": "Think of great athletes; they are fit in a way that relies on years of training and practice. An accomplished track star did not suddenly decide to run the four-minute mile one morning and have all the skills, strength, and endurance to do it. Elite tennis players prepare for and anticipate mid-game scenarios and know just what shot to draw on because they’ve practiced it thousands of times. Or think of great musicians who are fit because they’ve practiced scales, arpeggios, and studies for years before they perfor",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt27a1bd4cd6e490ab/6b0853799a20bc754d8fd7f9/ethically-fit.jpg?branch=production"
-    },
-    {
-      "title": "What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle",
-      "summary": "Republicans and Democrats in several states engaged in a bitter fight to redraw congressional maps in their parties’ favor leading up to this year’s midterms. But in the aftermath of the blue wave that swept across the country, that conflict may be dying down—at least for now. Typically, maps are redrawn after the results of the U.S. census are released each decade, in order to account for population and demographic changes. Last year, however, President Donald Trump urged members of his party to redistrict mid-cyc",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9fe0fcddc9679b0e/6b0716e44377b57532434748/Midterm-Redistricting.jpg?branch=production"
     }
   ]
 }
