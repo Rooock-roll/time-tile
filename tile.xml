@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9e8a3e9127eb65ea0edb9bff7d724f7f23aada00/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Thanksgiving in a Cost-of-Living Crisis</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@df8e22f5b79301b156ebd3f7c0a763ae45c13a97/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9e8a3e9127eb65ea0edb9bff7d724f7f23aada00/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Thanksgiving in a Cost-of-Living Crisis</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">This Thanksgiving, Marni Charnow, a 32-year-old tech consultant, drove 21 hours to her family’s home in Southern Florida to celebrate Thanksgiving. She started from…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@df8e22f5b79301b156ebd3f7c0a763ae45c13a97/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Without insurance, emergency department or urgent care visits are completely unaffordable for the average person. In 2021, the Agency for Healthcare Research and Qu…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@9e8a3e9127eb65ea0edb9bff7d724f7f23aada00/img/art-0.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Thanksgiving in a Cost-of-Living Crisis</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">This Thanksgiving, Marni Charnow, a 32-year-old tech consultant, drove 21 hours to her family’s home in Southern Florida to celebrate Thanksgiving. She started from her house in Birmingham, Michigan, with her cats in the back seat, all to save on the now-astronomical cost of airfare for herself and her pets. She’d budgeted for the hotel and gas costs for her travel, yet she still has to work all of next week and the weekends to be able to pay for the voyage back an…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@df8e22f5b79301b156ebd3f7c0a763ae45c13a97/img/art-1.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Without insurance, emergency department or urgent care visits are completely unaffordable for the average person. In 2021, the Agency for Healthcare Research and Quality (AHRQ) estimated the average cost in the United States for a “treat and release” Emergency Department visit is $750. The bill could be much, much higher, even thousands of dollars, depending on tests performed and treatment administered. Even with insurance, affordability can be a major impediment …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Thanksgiving in a Cost-…</text>
+      <text hint-style="caption">I’m a Doctor With Stage…</text>
     </binding>
   </visual>
 </tile>
