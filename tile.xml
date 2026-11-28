@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ac93c3e278085fdfd0d3d92a54a2d4151ccd3834/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b8cf5ac6c126400f9aca3a976d6472a9442a1bd0/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">How to Have a More Sustainable Black Friday, According to Experts</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ac93c3e278085fdfd0d3d92a54a2d4151ccd3834/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b8cf5ac6c126400f9aca3a976d6472a9442a1bd0/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">How to Have a More Sustainable Black Friday, According to Experts</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Black Friday is here—holding the promise of good deals and the unofficial start of the holiday shopping season. But if you plan to shop the sales, take the time to …</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@ac93c3e278085fdfd0d3d92a54a2d4151ccd3834/img/art-2.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@b8cf5ac6c126400f9aca3a976d6472a9442a1bd0/img/art-2.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">How to Have a More Sustainable Black Friday, According to Experts</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Black Friday is here—holding the promise of good deals and the unofficial start of the holiday shopping season. But if you plan to shop the sales, take the time to think about what you really need —and what you plan to give. Americans spent $10 billion dollars on unwanted gifts in 2024. And last year, 65% of consumers reported returning a holiday gift, while 54% admitted to regifting an unwanted item. So, being more intentional about your holiday shopping can benef…</text>
     </binding>
