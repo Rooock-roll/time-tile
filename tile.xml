@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8b998e27c506c5a65b297eee5b0bb984a2572f4a/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6154d63c9a90991082534523238ae4cf695e8548/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8b998e27c506c5a65b297eee5b0bb984a2572f4a/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Republicans and Democrats in several states engaged in a bitter fight to redraw congressional maps in their parties’ favor leading up to this year’s midterms. But i…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6154d63c9a90991082534523238ae4cf695e8548/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">The Russian exclave of Kaliningrad on the Baltic Sea has the potential to become a flashpoint with NATO as recent maritime security incidents between Russia and Ukr…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@8b998e27c506c5a65b297eee5b0bb984a2572f4a/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Republicans and Democrats in several states engaged in a bitter fight to redraw congressional maps in their parties’ favor leading up to this year’s midterms. But in the aftermath of the blue wave that swept across the country, that conflict may be dying down—at least for now. Typically, maps are redrawn after the results of the U.S. census are released each decade, in order to account for population and demographic changes. Last year, however, President Donald Tru…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@6154d63c9a90991082534523238ae4cf695e8548/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">The Russian exclave of Kaliningrad on the Baltic Sea has the potential to become a flashpoint with NATO as recent maritime security incidents between Russia and Ukraine bring renewed attention to the territory nestled between two NATO members. Moscow on Monday announced the allocation of approximately 47 billion rubles (around $572 million) toward the construction of two railway ferries between the Russian mainland and Kaliningrad, which sits between Poland and Lit…</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">What Democrats’ Sweepin…</text>
+      <text hint-style="caption">Why the Russian Exclave…</text>
     </binding>
   </visual>
 </tile>
