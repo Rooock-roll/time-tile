@@ -2,16 +2,16 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@58ea9a0c36f5ab0694f8d5ad1d95c117dd416c9f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eaa82b243fbc239829e224d119f7745a281573bd/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="base" hint-maxlines="2" hint-wrap="true">Thanksgiving in a Cost-of-Living Crisis</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@58ea9a0c36f5ab0694f8d5ad1d95c117dd416c9f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eaa82b243fbc239829e224d119f7745a281573bd/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Thanksgiving in a Cost-of-Living Crisis</text>
       <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">This Thanksgiving, Marni Charnow, a 32-year-old tech consultant, drove 21 hours to her family’s home in Southern Florida to celebrate Thanksgiving. She started from…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@58ea9a0c36f5ab0694f8d5ad1d95c117dd416c9f/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@eaa82b243fbc239829e224d119f7745a281573bd/img/art-0.jpg" placement="background" hint-crop="none"/>
       <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Thanksgiving in a Cost-of-Living Crisis</text>
       <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">This Thanksgiving, Marni Charnow, a 32-year-old tech consultant, drove 21 hours to her family’s home in Southern Florida to celebrate Thanksgiving. She started from her house in Birmingham, Michigan, with her cats in the back seat, all to save on the now-astronomical cost of airfare for herself and her pets. She’d budgeted for the hotel and gas costs for her travel, yet she still has to work all of next week and the weekends to be able to pay for the voyage back an…</text>
     </binding>
