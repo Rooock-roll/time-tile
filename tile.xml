@@ -2,21 +2,21 @@
 <tile>
   <visual branding="logo">
     <binding template="TileMedium">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5dbc0c7409185f55ff8776e1fe636ba0abb0f838/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="base" hint-maxlines="2" hint-wrap="true">Why You Should Train to Be Ethically Fit</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e4a9b0caee9fd0a8c7a90e701fc3f98b895f4247/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="base" hint-maxlines="2" hint-wrap="true">I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay</text>
     </binding>
     <binding template="TileWide">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5dbc0c7409185f55ff8776e1fe636ba0abb0f838/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">Why You Should Train to Be Ethically Fit</text>
-      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Think of great athletes; they are fit in a way that relies on years of training and practice. An accomplished track star did not suddenly decide to run the four-min…</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e4a9b0caee9fd0a8c7a90e701fc3f98b895f4247/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="caption" hint-maxlines="2" hint-wrap="true">I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay</text>
+      <text hint-style="captionSubtle" hint-maxlines="4" hint-wrap="true">Without insurance, emergency department or urgent care visits are completely unaffordable for the average person. In 2021, the Agency for Healthcare Research and Qu…</text>
     </binding>
     <binding template="TileLarge">
-      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@5dbc0c7409185f55ff8776e1fe636ba0abb0f838/img/art-4.jpg" placement="background" hint-crop="none"/>
-      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">Why You Should Train to Be Ethically Fit</text>
-      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Think of great athletes; they are fit in a way that relies on years of training and practice. An accomplished track star did not suddenly decide to run the four-minute mile one morning and have all the skills, strength, and endurance to do it. Elite tennis players prepare for and anticipate mid-game scenarios and know just what shot to draw on because they’ve practiced it thousands of times. Or think of great musicians who are fit because they’ve practiced scales, …</text>
+      <image src="https://fastly.jsdelivr.net/gh/Rooock-roll/time-tile@e4a9b0caee9fd0a8c7a90e701fc3f98b895f4247/img/art-0.jpg" placement="background" hint-crop="none"/>
+      <text hint-style="subtitle" hint-maxlines="3" hint-wrap="true">I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay</text>
+      <text hint-style="captionSubtle" hint-maxlines="8" hint-wrap="true">Without insurance, emergency department or urgent care visits are completely unaffordable for the average person. In 2021, the Agency for Healthcare Research and Quality (AHRQ) estimated the average cost in the United States for a “treat and release” Emergency Department visit is $750. The bill could be much, much higher, even thousands of dollars, depending on tests performed and treatment administered. Even with insurance, affordability can be a major impediment …</text>
     </binding>
     <binding template="TileSmall">
-      <text hint-style="caption">Why You Should Train to…</text>
+      <text hint-style="caption">I’m a Doctor With Stage…</text>
     </binding>
   </visual>
 </tile>
