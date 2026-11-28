@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-28T12:46:46.324353+00:00",
-  "showing": 1,
-  "next": 2,
+  "updated": "2026-11-28T13:01:25.672907+00:00",
+  "showing": 0,
+  "next": 1,
   "titles": [
+    "Thanksgiving in a Cost of Living Crisis",
     "I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay",
     "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
     "Denis Villeneuve on Drastic Changes in His Dune: Part 3 Movie: ‘When You Adapt, You Kill’",
-    "How to Have a More Sustainable Black Friday, According to Experts",
-    "Why You Should Train to Be Ethically Fit"
+    "How to Have a More Sustainable Black Friday, According to Experts"
   ],
   "articles": [
+    {
+      "title": "Thanksgiving in a Cost of Living Crisis",
+      "summary": "This Thanksgiving, Marni Charnow, a 32-year-old tech consultant, drove 21 hours to her family’s home in Southern Florida to celebrate Thanksgiving. She started from her house in Birmingham, Michigan, with her cats in the back seat, all to save on the now-astronomical cost of airfare for herself and her pets. She’d budgeted for the hotel and gas costs for her travel, yet she still has to work all of next week and the weekends to be able to pay for the voyage back and other expenses. If only she could host Thanksgivi",
+      "image": ""
+    },
     {
       "title": "I’m a Doctor With Stage 4 Cancer. Even I Struggled to Get My Insurance to Pay",
       "summary": "Without insurance, emergency department or urgent care visits are completely unaffordable for the average person. In 2021, the Agency for Healthcare Research and Quality (AHRQ) estimated the average cost in the United States for a “treat and release” Emergency Department visit is $750. The bill could be much, much higher, even thousands of dollars, depending on tests performed and treatment administered. Even with insurance, affordability can be a major impediment to care or a financial risk of receiving care. Afte",
@@ -29,11 +34,6 @@
       "title": "How to Have a More Sustainable Black Friday, According to Experts",
       "summary": "Black Friday is here—holding the promise of good deals and the unofficial start of the holiday shopping season. But if you plan to shop the sales, take the time to think about what you really need —and what you plan to give. Americans spent $10 billion dollars on unwanted gifts in 2024. And last year, 65% of consumers reported returning a holiday gift, while 54% admitted to regifting an unwanted item. So, being more intentional about your holiday shopping can benefit both your wallet and the planet. “We are in an e",
       "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt14a2a58334f1e57b/6b0735c1bdb22beec2cb6d2c/black-friday-sustainable.jpg?branch=production"
-    },
-    {
-      "title": "Why You Should Train to Be Ethically Fit",
-      "summary": "Think of great athletes; they are fit in a way that relies on years of training and practice. An accomplished track star did not suddenly decide to run the four-minute mile one morning and have all the skills, strength, and endurance to do it. Elite tennis players prepare for and anticipate mid-game scenarios and know just what shot to draw on because they’ve practiced it thousands of times. Or think of great musicians who are fit because they’ve practiced scales, arpeggios, and studies for years before they perfor",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt27a1bd4cd6e490ab/6b0853799a20bc754d8fd7f9/ethically-fit.jpg?branch=production"
     }
   ]
 }
